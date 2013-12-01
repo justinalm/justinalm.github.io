@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: work
 title: "2012 ECUAD Catalog Website"
 date: 2013-04-17 16:19:44
