@@ -1,0 +1,20 @@
+---
+layout: default
+title: Work
+description: My most recent portfolio pieces.
+---
+
+<div id="work">
+	<div class="animated fadeIn container">
+		<h1 class="fadeIn">Projects I’ve Worked On</h1>
+		<ul class="animated fadeIn work-posts">
+		{% for post in site.categories.work %}
+		  <li>
+		  	<a href="{{ post.url }}">
+		  	<img src="{{ post.thumbnail }}"/>
+		  	<h2 class="list-post">{{ post.title }}</h2> </a>
+		  </li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>

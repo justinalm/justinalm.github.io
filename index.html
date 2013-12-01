@@ -1,0 +1,38 @@
+---
+layout: default
+title: Home
+description: This is the personal webspace of user experience and user interface designer Justin Alm.
+---
+
+<div id="home">
+  <div class="animated fadeIn container">
+    <h1>Recent Posts</h1>
+    <ul class="animated fadeIn posts">
+      {% for post in paginator.posts %}
+        <li>
+        	<span>{{ post.date | date_to_string }}</span>
+        	<a href="{{ post.url }}"><h2 class="list-post">{{ post.title }}</h2></a>
+
+        	{{ post.content }}
+
+        </li>
+      {% endfor %}
+    </ul>
+
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+      {% else %}
+        <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+      {% else %}
+        <span class="next ">Next</span>
+      {% endif %}
+    </div><!-- End of the Paginator -->
+
+  </div><!-- End of the Narrow Container -->
+</div>

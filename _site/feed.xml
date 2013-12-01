@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Justin Alm</title>
+		<description>This is the personal webspace of user experience and user interface designer Justin Alm.</description>
+		<link>http://justinalm.com</link>
+		<atom:link href="http://justinalm.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Snapchat’s $800 Million Dollar UI</title>
+				<description>&lt;p&gt;I’m not sure what to make of Snapchat’s recent rejection of Facebook’s $3 billion dollar offer. What kind of a company turns down an offer for 3 billion? This news sparked some discussion amongst the team at Steamclock Software. You have to respect a company that isn’t interested in selling and I’m assuming &lt;em&gt;pride in product&lt;/em&gt; is what motivated Snapchat to look at all of those zeros and say, “no”. On the otherhand, I feel like if you had one good idea for an app there must be other apps you’d like to work on. It’s not like $3 billion wouldn’t give you and everyone in the company the money to get another product up and running – with the most badass design, development, and marketing campaign. Is time-limited photo sharing that important for the world? Maybe the thought of all that money made the Snapchat team feel a tinge of depression. There would be no more struggle. No more worry about success. No more tension of building and maintaining a product. We can all do the math and see the interest on that cake would print money.&lt;/p&gt;
+
+&lt;p&gt;A few months ago, I gave Snapchat a test ride but eventually lost interest. My first impression was that the UI was goofy and bad (in a good way). It’s refreshing to use a piece of software that doesn’t take itself seriously. Everything about the company seems &lt;em&gt;bad to be good&lt;/em&gt;. What’s with the clown colours, the fat ghost icon, wrapping paper background patterns, the cartoon camera button, the gridless time picker? I’m not saying I don’t like it but I feel like this is definitely &lt;em&gt;design for delight&lt;/em&gt;. Wacky, sarcastic, hipster, teen dazed delight.&lt;/p&gt;
+
+&lt;p&gt;In the end, I felt like it was another social network I had to invest in to get value out of. How do I invest with fleeting moments? After loosing my spark to snap and chat, I eventually stopped opening the app, it was dumped it in my collection of apps I never used, and then deleted during a purge. After Facebook’s offer, I felt like I had to go back and see what makes this product worth a $3 billion offer. I’m still wondering…&lt;/p&gt;
+&lt;img alt='An overview of Snapchat’s $800 UI' src='/images/snapchat.jpg' /&gt;&lt;p class='image-caption'&gt;An overview of &lt;a title='Snapchat website' target='_blank' href='http://www.snapchat.com'&gt;Snapchat’s&lt;/a&gt; user interface valued at $800,000,000.&lt;/p&gt;</description>
+				<pubDate>Tue, 26 Nov 2013 00:00:00 -0800</pubDate>
+				<link>http://justinalm.com/blog/touring-snap-chat-800-million-dollar-ui.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/touring-snap-chat-800-million-dollar-ui.html</guid>
+			</item>
+		
+			<item>
+				<title>CleanMyMac Killed My Mavericks</title>
+				<description>&lt;img alt='an image of the Lynn Valley Canyon bridge' src='/images/lynnvalleycanyon.jpg' /&gt;&lt;p class='image-caption'&gt;An image of the &lt;a href='http://lynncanyon.ca/'&gt;Lynn Valley Canyon&lt;/a&gt; Suspension Bridge from the Lynn Valley Canyon Park website.&lt;/p&gt;
+&lt;p&gt;During my vacation, I built a fitting room at the &lt;a href='http://www.wootoseeyou.com'&gt;Woo To See You Boutique&lt;/a&gt;, went for a hike up the &lt;a href='http://lynncanyon.ca/'&gt;Lynn Valley Canyon&lt;/a&gt;, drove a &lt;a href='http://www.zipcar.com/'&gt;ZipCar&lt;/a&gt; for the first time(Mini), and made almost daily trips to &lt;a href='http://www.jjbeancoffee.com/our-locations/yaletown/'&gt;JJ Bean Yaletown&lt;/a&gt; for cappucinos, coding, and design. I’m the type of person that likes to use holidays for personal work.&lt;/p&gt;
+
+&lt;p&gt;On Thursday, I sat down to work on this website and &lt;a href='http://macpaw.com/cleanmymac'&gt;CleanMyMac&lt;/a&gt; popped up on my screen. I had free time to run a scan and delete the cruft from &lt;a href='http://www.apple.com/ca/osx/'&gt;Mavericks&lt;/a&gt;. This was a bad idea. Application and document icons disappeared from Finder. App Store, Contacts, Calendar, and Messages ceased to open. They would bounce once or twice, the highlight would appear in the Dock, but the application frame wouldn’t open. Interestingly, the Chrome icon was the only icon to disappeared from the Dock. After digging around on Google, I learned my old version of CleanMyMac was the culprit and &lt;a href='http://macpaw.com/cleanmymac'&gt;CleanMyMac 2&lt;/a&gt; won’t criple your Mavericks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t run an old version of CleanMyMac on Mavericks!&lt;/strong&gt; Get &lt;a href='http://macpaw.com/cleanmymac'&gt;CleanMyMac 2&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Sun, 03 Nov 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/cleanmymac-killed-my-mavericks.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/cleanmymac-killed-my-mavericks.html</guid>
+			</item>
+		
+			<item>
+				<title>Martin Majoor’s My Typeface Design Philosophy</title>
+				<description>&lt;p&gt;I just finished reading &lt;a href='http://martinmajoor.com/6_my_philosophy.html'&gt;Martin Majoor’s philosophy of typeface design&lt;/a&gt;. Woven into the philosophical basis for his work is an in-depth explanation of serif and sans-serif typeface design. This is a great read for anyone interested in why sans-serif type looks the way it does. Majoor reminded me about the benefits of working in a &lt;em&gt;free&lt;/em&gt; environment:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;…since I did not work for a typefoundry, there was no time pressure and the music centre trusted me completely. Under these circumstances I was able to think very freely about the concept of serif and sans. Many of the generally accepted ideas did not seem logical to me; as an independent designer I was luckily not obliged to follow them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img alt='An image from Martin Majoor’s My Typeface Design Philosophy' src='/images/philosophy_00_serre_hamburg2.gif' /&gt;&lt;p class='image-caption'&gt;“Left: gouache drawings for Serré (1983).   Right: me digitizing Serré at URW in Hamburg (1984)” – from Martin Majoor’s &lt;strong&gt;My Typeface Design Philosophy&lt;/strong&gt;&lt;/p&gt;</description>
+				<pubDate>Sun, 27 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/martin-majoor-my-type-design-philosophy.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/martin-majoor-my-type-design-philosophy.html</guid>
+			</item>
+		
+			<item>
+				<title>Flexible Email Invoice</title>
+				<description>&lt;p&gt;I spent some time today designing an invoice for Woo To See You. We wanted a receipt that we can easily add products to, recalculates the subtotal, taxes(PST and GST), and grand total of the bill. Also, Pages enables us to easily share a PDF copy to our customer via the Mac Mail client. Finally, no more fumbling around with a calculator, pen, and carbon copy receipt booklet.&lt;/p&gt;
+&lt;img alt='Example of the new Woo To See You receipt' src='/images/wootoseeyou-invoice.jpg' /&gt;&lt;p class='image-caption'&gt;Example of the new Woo To See You receipt&lt;/p&gt;</description>
+				<pubDate>Sat, 26 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/a-flexible-email-invoice.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/a-flexible-email-invoice.html</guid>
+			</item>
+		
+			<item>
+				<title>Pixel Canvas</title>
+				<description>&lt;img alt='Working at the pixel level in Sketch App' src='/images/pixel-canvas.jpg' /&gt;&lt;p class='image-caption'&gt;Working at the pixel level in &lt;a title='Sketch for Mac' target='_blank' href='http://www.bohemiancoding.com/sketch/'&gt;Sketch&lt;/a&gt; App.&lt;/p&gt;
+&lt;p&gt;For my latest work on WeddingDJ, I’ve been designing in &lt;a title='Sketch for Mac' target='_blank' href='http://www.bohemiancoding.com/sketch/'&gt;Sketch&lt;/a&gt;. One of my favourite features of Sketch is to go back on work and aligned it to the pixel grid. This feature, combined with &lt;a title='Sketch Mirror for iOS' target='_blank' href='https://itunes.apple.com/us/app/sketch-mirror/id677296955?ls=1&amp;mt=8'&gt;Sketch Mirror&lt;/a&gt;, gives me assurance that my UI will not look fuzzy.&lt;/p&gt;
+
+&lt;p&gt;If you’re using Sketch and you want to get your pixels back on the grid, use “Round to Nearest Pixel Edge” in the Edit menu.&lt;/p&gt;
+&lt;img alt='The location of round to nearest pixel edge in the Edit menu' src='/images/round-to-nearest-pixel-edge.jpg' /&gt;&lt;p class='image-caption'&gt;The location of “Round to Nearest Pixel Edge” in the Edit menu.&lt;/p&gt;</description>
+				<pubDate>Tue, 22 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/pixel-canvas.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/pixel-canvas.html</guid>
+			</item>
+		
+			<item>
+				<title>Keeping My Mac Windows In Place With Stay</title>
+				<description>&lt;img alt='Stay for Mac' src='/images/stay-for-mac.png' /&gt;&lt;p class='image-caption'&gt;&lt;a title='Stay for Mac' target='_blank' href='http://cordlessdog.com/stay/'&gt;Stay&lt;/a&gt; for Mac.&lt;/p&gt;
+&lt;p&gt;Everyday I show up for work and open Harvest, HipChat, Messages, Twitter, Reminders, Mail, Sketch, various Adobe products, Rdio, and GitHub. After each application loads, I spend several minutes aligning all the windows into place. I like having Messages, HipChat, Twitter, Harvest, and Terminal windows stacked on top of each other and aligned to the right edge of my screen. My browser windows, iA Writer, GitHub client, and Sublime Text 2 get aligned to the left. I maximize all of my asset making tools like Sketch and Adobe products. Xcode gets maximized as well. As I’m using so many applications throughout my day, I like knowing where the windows will be when I tab between them. It is extremely frustrating when I switch to a program and I don’t find things where I left them. My tedious window aligning days are over thanks to Cordless Dog’s product &lt;a href='http://cordlessdog.com/stay/'&gt;Stay&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Tue, 15 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/keeping-my-mac-windows-in-place-with-stay.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/keeping-my-mac-windows-in-place-with-stay.html</guid>
+			</item>
+		
+			<item>
+				<title>Styles of iOS 6 and iOS 7</title>
+				<description>&lt;p&gt;I did these illustrations to explore the visual shift from iOS 6 to 7. The styles applied to the elements are what make the difference but the grand scheme of things hasn’t changed much. It’s not like Apple did away with the app icon or rounded corners. They just gave the OS some electro-shock therapy and removed some of its personality. You can save these images to yo’ phone and use them for wallpaper if you like.&lt;/p&gt;
+&lt;img alt='A comparison of iOS 6 and 7 styles' src='/images/iOS2up-crushed.png' /&gt;&lt;p class='image-caption'&gt;Side-by-side comparison of iOS 6 and 7 styles.&lt;/p&gt;&lt;img alt='The style of iOS 6 for your iPhone 4 and 4s screen' src='/images/iOS6-35portrait.png' /&gt;&lt;p class='image-caption'&gt;The style of iOS 6 for your iPhone 4 and 4s screen.&lt;/p&gt;&lt;img alt='The style of iOS 6 for your iPhone 5 screen' src='/images/iOS6-4portrait.png' /&gt;&lt;p class='image-caption'&gt;The style of iOS 6 for your iPhone 5 screen.&lt;/p&gt;&lt;img alt='The style of iOS 7 for your iPhone 4 and 4s screen' src='/images/iOS7-35portrait.png' /&gt;&lt;p class='image-caption'&gt;The style of iOS 7 for your iPhone 4 and 4s screen.&lt;/p&gt;&lt;img alt='The style of iOS 7 for your iPhone 5 screen' src='/images/iOS7-4portrait.png' /&gt;&lt;p class='image-caption'&gt;The style of iOS 7 for your iPhone 5 screen.&lt;/p&gt;</description>
+				<pubDate>Sat, 12 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/styles-of-ios6-and-ios7.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/styles-of-ios6-and-ios7.html</guid>
+			</item>
+		
+			<item>
+				<title>Apple Features PartyMonster</title>
+				<description>&lt;img alt='A screenshot of Apple feature of PartyMonster for iOS 7 in the App Store' src='/images/apple-features-party-monster2-ios7.jpg' /&gt;
+&lt;p&gt;Apple’s featuring Steamclock Software’s &lt;a href='https://itunes.apple.com/ca/app/party-monster-queueing-dj/id580764974?mt=8'&gt;PartyMonster&lt;/a&gt; for iOS 7. Stoked to see our product in the App Store feature carousel again.&lt;/p&gt;</description>
+				<pubDate>Thu, 10 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/apple-is-featuring-party-monster-for-iOS7.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/apple-is-featuring-party-monster-for-iOS7.html</guid>
+			</item>
+		
+			<item>
+				<title>LinkedIn And The Rams Approach</title>
+				<description>&lt;img alt='My LinkedIn skills and expertise as of October 9 2013' src='/images/justinalm-linkedin-skills-and-expertise.png' /&gt;&lt;p class='image-caption'&gt;My list of Skills &amp;amp; Expertise on &lt;a title='My LinkedIn profile' target='_blank' href='http://www.linkedin.com/profile/view?id=42288841&amp;trk=nav_responsive_tab_profile'&gt;my LinkedIn profile&lt;/a&gt;, October 9, 2013.&lt;/p&gt;
+&lt;p&gt;I’m taking the &lt;a href='http://www.gestalten.tv/motion/dieter-rams'&gt;Rams&lt;/a&gt; approach on &lt;a href='http://www.linkedin.com/profile/view?id=42288841&amp;amp;trk=nav_responsive_tab_profile'&gt;my LinkedIn profile&lt;/a&gt; by deleting items from my skills and expertise. I feel like the words I’ve used to describe my work were not as relevant and I’d like them to be. I think “Experience Design” and “User Experience” are essentially the same thing. I’m considering another round of deletions to my LinkedIn skills because I don’t know how I feel about terms like “User-centred Design”. Aren’t all designs ‘user-centred’? The products I work on have been designed for people to use.&lt;/p&gt;
+
+&lt;p&gt;Maybe I should host a small web-based funneral for each debunked adjective I’ve used to describe my career. I’m still hanging on to my unendorsed “Branding &amp;amp; Identity”. I’ve developed several identities and pulled the iron out of the fire to brand the shit out of correspondence tools and marketing material.&lt;/p&gt;
+
+&lt;p&gt;People can endorse you with skills and expertise you did not claim on you profile. You can read pages of complaints on &lt;a href='http://community.linkedin.com/questions/16624/why-am-i-being-endorsed-for-skills-and-expertise-i.html'&gt;this LinkedIn community thread&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Wed, 09 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/linkedin-and-the-rams-approach.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/linkedin-and-the-rams-approach.html</guid>
+			</item>
+		
+			<item>
+				<title>Transparent Thought</title>
+				<description>&lt;img alt='Thinking Clearly Is The Most Difficult Part Of My Day' src='/images/thinking-clearly-is-the-most-difficult-part-of-my-day.png' width='1024' /&gt;</description>
+				<pubDate>Tue, 08 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/thinking-clearly-is-the-most-difficult-part-of-my-day.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/thinking-clearly-is-the-most-difficult-part-of-my-day.html</guid>
+			</item>
+		
+			<item>
+				<title>Burberry Shoots Fall/Winter On The iPhone 5s</title>
+				<description>&lt;p&gt;If Burberry, one of the biggest fashion brands in the world, can shoot their Fall/Winter 2013 on the iPhone 5s, I would say this phone has a pretty good camera.&lt;/p&gt;
+&lt;div class='vendor'&gt;
+&lt;iframe src='//www.youtube.com/embed/akS3iFt9VvA?feature=player_embedded' width='640' height='360' frameborder='0'&gt;&amp;nbsp;&lt;/iframe&gt;
+&lt;/div&gt;&lt;img alt='The Burberry camera rig for the show' src='/images/burberry-camera-rig.jpg' width='728' /&gt;&lt;p class='image-caption'&gt;The rail mount used for aerial shots. Image credit: &lt;a taget='_blank' href='http://www.pocket-lint.com/news/123689-burberry-s-christopher-bailey-talks-iphone-5s-being-mates-with-jony-and-the-new-spring-summer-2014-collection'&gt;Pocket-lint&lt;/a&gt;.&lt;/p&gt;&lt;img alt='An image from the show' src='/images/burberry-show2.jpg' width='728' /&gt;&lt;p class='image-caption'&gt;An image from the show. Image credit: &lt;a taget='_blank' href='http://www.pocket-lint.com/news/123689-burberry-s-christopher-bailey-talks-iphone-5s-being-mates-with-jony-and-the-new-spring-summer-2014-collection'&gt;Pocket-lint&lt;/a&gt;.&lt;/p&gt;&lt;img alt='An image from the show' src='/images/burberry-show.jpg' width='727' /&gt;&lt;p class='image-caption'&gt;An image from the show. Image credit: &lt;a taget='_blank' href='http://www.pocket-lint.com/news/123689-burberry-s-christopher-bailey-talks-iphone-5s-being-mates-with-jony-and-the-new-spring-summer-2014-collection'&gt;Pocket-lint&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Thu, 03 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/burberry-shoots-fallwinter-on-iphone5s.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/burberry-shoots-fallwinter-on-iphone5s.html</guid>
+			</item>
+		
+			<item>
+				<title>Amazing Google Translate</title>
+				<description>&lt;p&gt;I use &lt;a href='https://itunes.apple.com/ca/app/google-translate/id414706506?mt=8'&gt;Google Translate&lt;/a&gt; for iOS periodically to translate from English to Korean. This is just one tool in by belt for trying to cross the communication barrier with my in-laws. Hans doesn’t see any use for the app because the English to Korean translation is so bad. I’d probably get laughed out of a room if I used the Korean it suggests for me. I’ve grown skeptical of Google’s accuracy translating my English to Korean. I’m curious to know if the same problems exist translating other languages.&lt;/p&gt;
+&lt;img alt='Google Maps is possibly misinforming people the pronunciation of places' src='/images/google-maps-korean.png' /&gt;
+&lt;p&gt;Google’s got it wrong on Maps as well. To promote &lt;a href='http://wootoseeyou.com'&gt;Woo To See You&lt;/a&gt;, we put an ad in a tourist map for Koreans new to Vancouver. When we got the final product, we noticed most of the street names and neighbourhoods were poorly translated from Korean to English. Surrey is phonetically spelled in Hangul to sound like “Ssu-le-i”(써레이). Of course I couldn’t help but feel the people who made the newcomer map got it wrong. The truth is, I was wrong and got taken to school about the Korean version of Google Maps. Almost all of the street names are spelled with incorrect phonetics. The next time you can’t understand a Korean person asking you for directions, don’t judge them by their English skills. Most likely he or she has read Google Maps and has been misinformed.&lt;/p&gt;
+
+&lt;p&gt;The most amazing feature of Google Translate is how it can interpret horrible handwriting. I pushed the handwriting interpreter as far as I could by writing as sloppy as possible. Most of the time, the Translator output the word correctly. I think this feature of Google translate is &amp;#8230;&lt;/p&gt;
+&lt;img alt='Google Translate amazing ability to understand my horrible handwriting on iOS 7' src='/images/google-translate.png' /&gt;&lt;p class='image-caption'&gt;You understand my horrible handwriting but my voice is lost in translation?&lt;/p&gt;</description>
+				<pubDate>Tue, 01 Oct 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/amazing-google-translate.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/amazing-google-translate.html</guid>
+			</item>
+		
+			<item>
+				<title>iOS 7 – Scott Forstall to Jony Ive</title>
+				<description>&lt;p&gt;&lt;a href='http://gadgetlove.com/blog/the-only-ios-comparison-you-need'&gt;This image is a still from a GIF by Gadgetlove.com&lt;/a&gt;. It’s an interesting representation of the shift in visual language from Scott Forestall’s iOS 6 to Jony Ive’s iOS 7. Funny how one person represents the work of a team of designers. In line with Morgan Knuston’s &lt;a href='http://articles.morganallanknutson.com/its-a-matter-of-taste'&gt;Three Bears&lt;/a&gt; philosophy, I’ve posted this still; the middle path between flat and skeuomorphic. &lt;img alt='Gagetlove animation representing the shift in visual language from iOS 6 to iOS 7' src='/images/gadgetlove-morph.png' /&gt; &lt;p class='image-caption'&gt;Pause in the middle path via &lt;a target='_blank' href='http://gadgetlove.com/blog/the-only-ios-comparison-you-need'&gt;Gagetlove.com&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</description>
+				<pubDate>Wed, 18 Sep 2013 12:43:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/iOS7-Scott-Forstall-to-Jony-Ive.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/iOS7-Scott-Forstall-to-Jony-Ive.html</guid>
+			</item>
+		
+			<item>
+				<title>iOS 7 – Orientation</title>
+				<description>&lt;img alt='The iOS 7 Compass and level for 3 dimensional plain' src='/images/ios7-compass2.png' /&gt;
+&lt;p&gt;I rarely feel lost because I have a fairly good sense of direction. I’m one of those people who likes to know which direction is North. Once I know, I don’t forget. This said, Compass of &lt;a href='http://www.apple.com/ios'&gt;iOS 7&lt;/a&gt; is one of the most visually interesting orientation tools I’ve ever used. The buttonless UI feels like a liquid pool inside my black iPhone 4s. A nice addition to the new Compass is a level. I highly enjoyed using the level on our shop tables at &lt;a href='http://wootoseeyou.com'&gt;Woo To See You&lt;/a&gt;. I’ve caught myself levelling things around me just to see if what &lt;em&gt;looks straight&lt;/em&gt; is actually straight. Surprisingly, most surfaces are out by 1 degree. If you put your iPhone on its side, the app is great for levelling pictures. Getting the green light is satisfying.&lt;/p&gt;
+&lt;img alt='Using the x-axis level in the iOS 7 Compass' src='/images/ios7-compass3.png' /&gt;</description>
+				<pubDate>Tue, 17 Sep 2013 17:38:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/ios-7-orientation.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/ios-7-orientation.html</guid>
+			</item>
+		
+			<item>
+				<title>Pictures Tell Short Stories</title>
+				<description>&lt;p&gt;Haru and Mina by &lt;a taget='_blank' href='http://www.hideakihamada.com/'&gt;Hideaki Hamada&lt;/a&gt; reminds me that the complex story of life is composed of a series of simple moments. These kind of images are not carelessly captured on a mobile phone.&lt;/p&gt;
+&lt;img alt='An image from Haru and Mina by Hideaki Hamada' src='/images/Haru-and-Mina-by-Hideaki-Hamada.jpg' /&gt;&lt;p class='image-caption'&gt;An image from Haru and Mina by &lt;a taget='_blank' href='http://www.hideakihamada.com/'&gt;Hideaki Hamada&lt;/a&gt; via &lt;a href='http://thisispaper.com/Hideaki-Hamada-Haru-and-Mina' traget='_blank'&gt;This Is Paper&lt;/a&gt;&lt;/p&gt;</description>
+				<pubDate>Sun, 15 Sep 2013 23:09:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/pictures-tell-short-stories-Hideaki-Hamada.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/pictures-tell-short-stories-Hideaki-Hamada.html</guid>
+			</item>
+		
+			<item>
+				<title>Garment Agency</title>
+				<description>&lt;p&gt;I designed an identity, stationery, and website for the international fashion agency &lt;a href='http://www.garmentagency.ca'&gt;Garment Agency&lt;/a&gt;. Headquartered in Vancouver, Canada Garment Agency represents fashion and fashion related product designers to the Canadian marketplace.&lt;/p&gt;
+&lt;img alt='Garment Agency Wordmark' src='/images/01-garment-agency-wordmark.jpg' /&gt;&lt;img alt='Garment Agency Monogram' src='/images/02-garment-agency-monogram.jpg' /&gt;&lt;img alt='Garment Agency Business Cards' src='/images/03-garment-agency-cards-photo.jpg' /&gt;&lt;img alt='Garment Agency Responsive Web Page.' src='/images/04-garment-agency-chromeipadiphone.jpg' /&gt;&lt;img alt='A lateral view of the identity and branding for Garment Agency.' src='/images/05-garment-agency-lateralbrand.jpg' /&gt;</description>
+				<pubDate>Sun, 08 Sep 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/work/garment-agency.html</link>
+				<guid isPermaLink="true">http://justinalm.com/work/garment-agency.html</guid>
+			</item>
+		
+			<item>
+				<title>Reflecting On Design Is A Job</title>
+				<description>&lt;p&gt;Last night, I finished Mike Monteiro’s book, &lt;em&gt;Design Is A Job&lt;/em&gt;. The book ends with a tough discussion about “Working With Others”. As I read, I realized I can be difficult to work with(Not all the time but sometimes). Being a designer is about wrestling with material and wrestling with your character. How I work with people is part of perfecting my craft. It’s part of making great products.&lt;/p&gt;
+&lt;img alt='The Working Mike Monteiro' src='/images/mike-monteiro-design-is-a-job2.jpg' width='480' /&gt;&lt;p class='image-caption'&gt;Image by &lt;a taget='_blank' href='https://twitter.com/darth/status/189372215534436352'&gt;Darth&lt;/a&gt; via &lt;a href='http://www.swiss-miss.com/2012/04/design-is-a-job.html' traget='_blank'&gt;SwissMiss&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Designers are similar to lawyers. We string together pieces of a story, with enough believability, rationale, and charisma, to convince people we are right. If we practice well, our language is accepted. Just as young lawyers struggle to make an impression on their bosses, designers work to be known as an indispensable assets of the studio. For keen junior professionals, the smaller the company, the greater the pressure to become indispensable. This drive for perfection is a road of pain because faults lead to insecurities, which encourage a defensive attitude about work. If all work is a measurement of someone’s value to the team, the impulse when making is to hide until something has been created to wow the director. By this point, the designer may have painted him/herself into a corner with technical assumptions. There are a lot of beautiful paintings in Musée du Louvre but none of them were created in a collaborative process like building software, websites, or complicated printed materials.&lt;/p&gt;
+
+&lt;p&gt;Great design is not made by one person. It is a collaborative effort and the people involved need to be confident enough in their abilities to know the vision for a project and how each member of the team will work to accomplish the goal of making great design. Monteiro writes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Working with designers that disagree with you is better than those who agree. They will make you fight over every decision you make! Which means you’ll learn to come up with some really tight rationales and really good work. If you can’t get your work past another designer sitting right next to you &amp;#8230; you’re not going to get it past a demanding client.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Over time, we become less willing to take critique. When in an academic environment, with a hunger to learn, there is less pressure to &lt;em&gt;make&lt;/em&gt; things work. What do I loose if I don’t finish my homework? If I don’t do my job, I will loose my job, and possibly my career(Depending on how far the word travels about my shitty performance). Monteiro reminds us that if we remain in a critical environment, our critical thinking skills will become sharp like knifes. If we shut down the collective thought process, our skills will slide. How do we keep our minds open and the studio in a healthy state of dialogue? Monteiro compiled a few lists for us to keep in mind.&lt;/p&gt;
+
+&lt;h2 id='mikes_ground_rules_for_critique'&gt;Mike’s Ground Rules For Critique&lt;/h2&gt;
+&lt;ul class='list'&gt;
+&lt;li&gt;Everyone must have the best interests of the project and the designer in mind.&lt;/li&gt;
+&lt;li&gt;Clearly define goals. The goal is to get it right.&lt;/li&gt;
+&lt;li&gt;The designer needs to realize the feedback is not personal, it’s about the work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id='mikes_rules_for_working_with_other_designers'&gt;Mike’s Rules For Working With Other Designers&lt;/h2&gt;
+&lt;ol class='numbered-list'&gt;
+&lt;li&gt;Getting good at doing what you love means having the confidence to recognize what you know, the humility to recognize what you don’t, and the courage to extend our respect to those who make our faults more visible.&lt;/li&gt;
+&lt;li&gt;Establish clear roles and decide who owns what. Help each other get the work done.&lt;/li&gt;
+&lt;li&gt;“Who’s idea was it? Who cares, if it’s a good idea.&lt;/li&gt;
+&lt;li&gt;Never step on another designer’s work. Anything you say about that firm’s work will be used against them.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;One of the sharpest truths in &lt;em&gt;Design Is A Job&lt;/em&gt; is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A young designer who believes they’re better than they actually are won’t be as open to your direction. They’ll fight you and get defensive. Rather than being open-minded about the problem you’re currently pointing out, they’ll be wondering why you see a problem at all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When we screw up and don’t manage critique gracefully, it’s best to put our pride aside and admit we don’t know it all. Who wants to work with a ‘know it all’? The work isn’t being made in a vacuum. We need the help of our colleagues to make things great. When you step on someone’s toes, say you’re sorry. At that point, this is the only remedy to make the situation better. Good communication needs to go both ways. Art directors need to know how to approach their designers so things don’t come out of left field and someone feels taken for-granted.&lt;/p&gt;
+
+&lt;p&gt;As I was finishing Monteiro’s book, Hans was watching &lt;em&gt;Jerry Maguire&lt;/em&gt; on TV. The themes in the movie were aligned with the themes in the book. I couldn’t help but think of why I went to Emily Carr, stuck my toe in the pool of Fine Art Photography, and ended up in Design, then Interaction Design — a career path that mixes art and science. I’m a fairly pragmatic person but I commit to things because of my passion. Vision leads people forward. I’m reminded to play with heart because if my heart isn’t in what I do, my lack of passion will eventually show in my work. This sounds like the start of another blog post but for now, watch Cuba Gooding Jr. get critiqued by Tom Cruise:&lt;/p&gt;
+&lt;div class='vendor'&gt;
+&lt;iframe src='http://www.youtube.com/embed/ASVUj89hyg0?feature=player_detailpage' width='640' height='360' frameborder='0'&gt;&amp;nbps;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+				<pubDate>Tue, 03 Sep 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/reflecting-on-design-is-a-job.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/reflecting-on-design-is-a-job.html</guid>
+			</item>
+		
+			<item>
+				<title>Connected To The Alma Mater</title>
+				<description>&lt;p&gt;We added Emily Carr University&amp;#8217;s &lt;a href='http://theshow2013.ecuad.ca/'&gt;The Show 2013&lt;/a&gt; app and site to &lt;a href='http://www.steamclock.com/portfolio'&gt;Steamclock’s portfolio page&lt;/a&gt;. We worked with &lt;a href='http://seven25.com/'&gt;Seven25 Typography &amp;amp; Design&lt;/a&gt; and &lt;a href='http://www.ecuad.ca'&gt;Emily Carr&lt;/a&gt; to design and develop an app to streamline the submission process, make curation easy, and deliver content in beautiful layouts accessible through desktops, tablets, and phones. It feels great to stay connected to the alma mater.&lt;/p&gt;
+&lt;img alt='The Responsive Emily Carr University The Show 2013 app.' src='/images/ECUAD-Responsive.jpg' width='788' /&gt;</description>
+				<pubDate>Mon, 19 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/connected-to-the-alma-mater.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/connected-to-the-alma-mater.html</guid>
+			</item>
+		
+			<item>
+				<title>Why I Closed My Windows</title>
+				<description>&lt;p&gt;I did some bug fixing for the &lt;a href='http://www.vancocoa.com'&gt;VanCocoa&lt;/a&gt; site today. We were having some rendering issues in Internet Exploder 9 (cough) – our targeted browser. It’s kinda odd we’re accommodating this technology for a &lt;a href='https://developer.apple.com/technologies/mac/cocoa.html'&gt;Cocoa&lt;/a&gt; meet up because most attendees use good browsers. We got some support emails about the site not rendering on IE so we decided to meet the need.&lt;/p&gt;
+
+&lt;p&gt;I prowled around on the Internet in pursuit of an IE browser for Mac OSX Mountain Lion. There were many download sites that directed me to adds that preceeded download links. I stumbled across &lt;a href='http://wiki.winehq.org/MacOSX'&gt;Wine&lt;/a&gt; and &lt;a href='http://winebottler.kronenberg.org/'&gt;Wine Bottler&lt;/a&gt;. Both of these solutions didn’t work out for me because IE crashed upon opening. Sigh, FML, etc.. I wasn’t particularly excited to have this messy software ecosystem on my computer so I deleted my installs and ran &lt;a href='http://macpaw.com/cleanmymac'&gt;Clean My Mac&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today, I was reminded of how I like performance everything: cars, bicycles, phones, rice cookers – the list goes on. Shitty software doesn’t line up with my values. If you’re going to convert your bike to a single speed or fixed gear, the parts need to work with the frame. If they are not a good match, your ride is gonna suffer and you’re going to be disappointed.&lt;/p&gt;
+
+&lt;p&gt;Wine Bottler is a glimpse into a broken world.&lt;/p&gt;
+&lt;img alt='A screenshot of the Wine Bottler interface.' src='/images/wine-bottler.jpg' width='1024' /&gt;
+&lt;p&gt;I encourage anyone using a dated browser, to take that browser into a field and shoot it in the head. Uninstall and select one of these options:&lt;/p&gt;
+&lt;ul class='list'&gt;
+&lt;li&gt;&lt;a target='_blank' href='https://www.google.com/intl/en/chrome/browser/'&gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target='_blank' href='http://www.mozilla.org/en-US/firefox/new/'&gt;FireFox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a taget='_blank' href='http://support.apple.com/kb/dl1531'&gt;Safari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target='_blank' href='http://www.opera.com/computer/mac'&gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you don’t have access, petition your administrator. If your site is buggy on IE9, Nettuts+ has published a good article &lt;a href='http://net.tutsplus.com/tutorials/html-css-techniques/9-most-common-ie-bugs-and-how-to-fix-them/'&gt;9 Most Common IE Bugs and How to Fix Them&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Thu, 15 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/why-i-closed-my-windows.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/why-i-closed-my-windows.html</guid>
+			</item>
+		
+			<item>
+				<title>Mike Monteiro’s Design Is A Job</title>
+				<description>&lt;p&gt;I was pleased to find a copy of &lt;a href='https://twitter.com/Mike_FTW'&gt;Mike Monteiro’s&lt;/a&gt; &lt;a href='http://www.abookapart.com/products/design-is-a-job'&gt;Design Is A Job&lt;/a&gt; on my desk after returning from our 4 day vacation in the &lt;a href='http://en.wikipedia.org/wiki/Okanagan'&gt;Okanagan&lt;/a&gt;. If this book is anything like Mike’s Creative Mornings talk &lt;em&gt;&lt;a href='https://vimeo.com/22053820'&gt;Fuck You. Pay Me&lt;/a&gt;&lt;/em&gt;, I am going to enjoy reading this. Working at &lt;a href='http://www.steamclock.com'&gt;Steamclock Software&lt;/a&gt; is awesome!&lt;/p&gt;
+&lt;img alt='Mike Monteiro’s Design Is A Job lands in the Steamclock Office.' src='/images/mike-monteiro-design-is-a-job.jpg' width='450' /&gt;</description>
+				<pubDate>Wed, 14 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/mike-monteiro-design-is-a-job.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/mike-monteiro-design-is-a-job.html</guid>
+			</item>
+		
+			<item>
+				<title>Reflecting On Burrard</title>
+				<description>&lt;p&gt;On warm Summer evenings, Hans and I like strolling down Burrard toward the Vancouver Convention Centre. Tonight we realized, “This is our neighbourhood.” We chat about our day and enjoy reflections of architecture on architecture. The view of a warm sunset through cool Vancouver glass was particularly inspiring. The Northern &lt;a href='http://www.randomaccessmemories.com/'&gt;Random Access Memories&lt;/a&gt; vibe.&lt;/p&gt;
+&lt;img alt='4-up of photographs capturing reflections on Burrard Street' src='/images/quadtic-web.jpg' width='1220' /&gt;</description>
+				<pubDate>Fri, 09 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/reflecting-on-burrard.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/reflecting-on-burrard.html</guid>
+			</item>
+		
+			<item>
+				<title>Interactive Forms With jQuery</title>
+				<description>&lt;p&gt;I did some work today building a settings view for an admin site. This view will control the settings of an iOS app we’re building for a client at Steamclock. I was able to get the fieldsets cloning on the click of the “+ Add New Rate” button and removing from the page on the click of each clone’s “Delete” button. Seeing a page come alive with javascript is addictive. Check out the video below.&lt;/p&gt;
+&lt;div class='container'&gt;
+    &lt;div class='vendor'&gt;
+		&lt;iframe src='http://player.vimeo.com/video/72017796?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff' width='600' height='392' frameborder='0'&gt; &lt;/iframe&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description>
+				<pubDate>Thu, 08 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/building-forms-with-jquery.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/building-forms-with-jquery.html</guid>
+			</item>
+		
+			<item>
+				<title>As Promised, Perpetual Beta</title>
+				<description>&lt;p&gt;&lt;img alt='The Jekyll Logo' src='/images/jekyll-logo@2x.png' /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve made a few aesthetic and stuctural changes to this website. The biggest decision I made was to ditch Wordpress and use Jekyll to compile the site. I realize when I released my last update, building on Wordpress was a documented and intentional decision. Most of the motivation behind that decision was choosing a development path I have experience with.&lt;/p&gt;
+
+&lt;p&gt;As a designer, I wrestle with learning technology and executing presentation. For this reason, I moved off Wordpress. Managing a local install of Wordpress and keeping things consistent with the copy on the production server was getting in the way of making design decisions. I know there are methods to deal with this problem but I feel like the scale of my website is too small to ‘go there’. Wordpress has too many files related to each other; too many moving parts that need consideration when making simple design decisions. You can read more about tech vs design on &lt;a href='http://www.fastcodesign.com'&gt;Fast Company – Design&lt;/a&gt;. Search down the article &lt;a href='http://www.fastcodesign.com/1671397/20-tech-trends-that-will-define-2013-selected-by-frog#1'&gt;20 Tech Trends That Will Define 2013&lt;/a&gt; for the header &lt;em&gt;The Art Of Innovation Gets Even More Artful&lt;/em&gt; by Reena Jana.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Website Model' src='/images/website-model.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;I know there are good use cases for Wordpress. I’m glad I know how to work with it. Wrangling content with PHP has given me a mental model for complex dynamic web environments. On Wordpress, I can confidently translate any design into a Wordpress theme. There’s no level of graphic complexity, no worry of understanding dynamic content or confusion in delivering this content in a flexible and scalable layout. Most of my work as a designer involves tweaking CSS values and getting my markup as clean and flexible as possible so adding more content to the stream is easy. The formula is: content is entered with ease &amp;amp; presented in a striking way = motivated content creators &amp;amp; happy content consumers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Transmit Logo' src='/images/bigtruckins.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a way, I am the creator and consumer(I know my analytics).The Jekyll framework gives me motivation, makes me happy, enables me to make bolder decision with layouts, and worry less about the backbone of how things function. I can work in a local environment and mirror my changes to my webhost using &lt;a href='http://panic.com/transmit/'&gt;Transmit&lt;/a&gt; — easy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Salome' src='/images/salome.png' /&gt;&lt;/p&gt;
+
+&lt;p&gt;As for the changes I’ve made to my presentation of content, I’ve included the new &lt;a href='http://www.salomefont.com/'&gt;Salome Display&lt;/a&gt; for my h1.logo treatment and all the h2’s throughout the site. Salome was designed by the Spanish multidiscipliary design studio, &lt;a href='http://www.atipo.es/'&gt;Atipo&lt;/a&gt;. I centred my nav, made the text-content a comfortable max-width: 600px at desktop and tablet for a comfortable line-length, and allowed images to go to a width: 100% to a max-height: 600px. I think these layout choices make for a good experience when viewing images. They can go wide when they need to and scale down for the phone. I also ditched FitVids.js for a CSS solution for responsive video. You can get the markup and CSS for this this trick in &lt;a href='http://avexdesigns.com/responsive-youtube-embed/'&gt;John Surdakowski’s blog post&lt;/a&gt; on the &lt;strong&gt;Avex Web Development and Design&lt;/strong&gt; site. There is no more need for a javascript plugin but I’m currently seeking an easy solution for including videos in my markdown. There’s something funny about how the iframe embed is converted from markdown to HTML that is giving Jekyll a stroke.&lt;/p&gt;
+
+&lt;p&gt;Welcome to my new, flat, static, responsive, and performant website.&lt;/p&gt;</description>
+				<pubDate>Sat, 03 Aug 2013 00:00:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/as-promised-perpetual-beta.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/as-promised-perpetual-beta.html</guid>
+			</item>
+		
+			<item>
+				<title>Sleepwalkers by Harm Van Den Dorpel</title>
+				<description>&lt;a href='http://www.manetas.com/neen/dendorpel/bencher.swf'&gt;&lt;img alt='Sleepwalkers by Harm van den Dorpel' src='/images/Harm-van-den-Dorpel.jpg' /&gt;&lt;/a&gt;
+&lt;p&gt;I’m feeling the need to make art. I did a search on Google for “websites as art” and found www.superneen.com. Harm van den Dorpel’s Sleepwalkers is worth watching.&lt;/p&gt;</description>
+				<pubDate>Sun, 09 Jun 2013 13:37:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/sleepwalkers-by-harm-van-den-dorpel.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/sleepwalkers-by-harm-van-den-dorpel.html</guid>
+			</item>
+		
+			<item>
+				<title>Blurry UI</title>
+				<description>&lt;img alt='Example of blurry UI from Rdio/' src='/images/Screen-Shot-2013-05-30-at-4.15.36-PM.png' /&gt;
+&lt;p&gt;Lovin’ blurry UI. Reminds me of impressionism. Conventions are established opening the door for more artistic expressions of interface.&lt;/p&gt;</description>
+				<pubDate>Thu, 30 May 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/blurry-ui.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/blurry-ui.html</guid>
+			</item>
+		
+			<item>
+				<title>Random Access Memories</title>
+				<description>&lt;p&gt;Over the past month, Daft Punk’s Random Access Memories has been an inspiration for me. We are in an age when the visuals for a record are crossing paths with visuals to sell applications. These photos take me to a dream-space; this is something I look for in every record. These /images help me connect with the soundscape.&lt;/p&gt;
+&lt;img alt='Random Access Memories' src='/images/daft-punk-random-access-memories.jpg' /&gt;&lt;img alt='Daft Punk Random Access Memories iTunes Art' src='/images/daft-punk-review-random-access-memories.jpg' /&gt;&lt;img alt='Daft Punk Random Access Memories video capture' src='/images/Screen-Shot-2013-05-24-at-10.17.38-AM.jpg' /&gt;&lt;img alt='Daft Punk Random Access Memories video capture' src='/images/Screen-Shot-2013-05-24-at-10.16.48-AM.jpg' /&gt;&lt;img alt='Daft Punk Random Access Memories video capture' src='/images/Screen-Shot-2013-05-24-at-10.17.26-AM.jpg' /&gt;&lt;img alt='Daft Punk Random Access Memories video capture' src='/images/Screen-Shot-2013-05-24-at-10.20.29-AM.jpg' /&gt;&lt;img alt='&amp;lt;img src=&amp;quot;/images/Screen-Shot-2013-05-24-at-10.16.48-AM.jpg&amp;quot; alt=&amp;quot;Daft Punk Random Access Memories video capture&amp;quot; width=&amp;quot;690&amp;quot; height=&amp;quot;360&amp;quot; class=&amp;quot;alignnone size-full wp-image-309&amp;quot; /&amp;gt;' src='/images/Screen-Shot-2013-05-24-at-10.19.30-AM.jpg' /&gt;</description>
+				<pubDate>Fri, 24 May 2013 12:06:00 -0700</pubDate>
+				<link>http://justinalm.com/blog/random-access-memories.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/random-access-memories.html</guid>
+			</item>
+		
+			<item>
+				<title>App Design Is Not Free Of Politics</title>
+				<description>&lt;p&gt;&lt;img alt='Link to Rando Diplomacy App' src='/images/StaticMapMask@2x-555x343.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an interesting post by &lt;a title='ustwo' target='_blank' href='http://www.ustwo.co.uk/'&gt;ustwo&lt;/a&gt; about the “Sea of Japan” label on the &lt;a title='Google Static Maps API' target='_blank' href='https://developers.google.com/maps/documentation/staticmaps/?hl=tr'&gt;Google Static Maps API&lt;/a&gt;. Apparently, this label frustrated South Korea users of their &lt;a title='Rando Diplomacy App' target='_blank' href='http://www.ustwo.co.uk/blog/introducing-rando/'&gt;Rando Diplomacy App&lt;/a&gt;. I love how politics and technology collide. South Koreans have all the right to find that label annoying. Take a look at &lt;a title='Disputes between South Korea and Japan' target='_blank' href='http://en.wikipedia.org/wiki/Japan%E2%80%93Korea_disputes'&gt;the history&lt;/a&gt; of disputes between these two nations of the Orient.&lt;/p&gt;</description>
+				<pubDate>Wed, 15 May 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/app-design-is-not-free-of-politics.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/app-design-is-not-free-of-politics.html</guid>
+			</item>
+		
+			<item>
+				<title>Fake Shark Real Zombie</title>
+				<description>&lt;p&gt;I was approached to design and develop the website for freak-pop, post-hardcore, dance-punk, art punk, experimental rock, progressive band &lt;a title='Link to Fake Shark Real Zombie&amp;apos;s website' target='_blank' href='http://www.fakesharkrealzombie.com/'&gt;Fake Shark Real Zombie&lt;/a&gt;’s release of &lt;a title='Link to Fake Shark Real Zombie record Liars on iTunes' target='_blank' href='https://itunes.apple.com/ca/album/liar/id599166015'&gt;Liar&lt;/a&gt;. This WordPress website enabled the group to embed their latest video, promote social media pages, drive traffic to their record on &lt;a title='Fake Shark Real Zombie on iTunes' target='_blank' href='https://itunes.apple.com/ca/album/girls-featuring-steve-bays/id561288437?i=561288555'&gt;iTunes&lt;/a&gt; and merchandise on &lt;a title='Link to Simkin Artist Management' target='_blank' href='http://www.simkinartistmanagement.com/artists/'&gt;Simkin Artist Management&lt;/a&gt;, and maintain a tour schedule. All of this content was choreographed to respond to any device for the end-user. The people at &lt;a title='Link to Light Organ Records' target='_blank' href='http://lightorganrecords.com/'&gt;Light Organ Records&lt;/a&gt; were a pleasure to work with. Artwork used in the project was provided by &lt;a title='Mike Shantz website' target='_blank' href='http://gnargrim.tumblr.com/'&gt;Mike Shantz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Checkout &lt;a title='Link to Fake Shark Real Zombie&amp;apos;s website' target='_blank' href='http://www.fakesharkrealzombie.com'&gt;fakesharkrealzombie.com&lt;/a&gt;&lt;/p&gt;
+&lt;img alt='The Fake Shark Real Zombie website is a responsive design' src='/images/FSRZ-Responsive.jpg' /&gt;&lt;img alt='The site goes super wide for desktop computers' src='/images/FSRZ-iMac1.jpg' /&gt;&lt;img alt='The website is tablet friendly' src='/images/FSRZ-iPad-MockUp.jpg' /&gt;&lt;img alt='The website is tablet friendly' src='/images/FSRZ-iPad-MockUp2.jpg' /&gt;&lt;img alt='The website is mobile phone friendly' src='/images/FSRZ-iPhone.jpg' /&gt;&lt;img alt='The website is mobile phone friendly' src='/images/FSRZ-iPhone2.jpg' /&gt;&lt;img alt='iOS users can add their website to their home screen for easy access to tour dates' src='/images/FSRZ-Icon-MockUp1.jpg' /&gt;</description>
+				<pubDate>Sun, 12 May 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/work/fake-shark-real-zombie.html</link>
+				<guid isPermaLink="true">http://justinalm.com/work/fake-shark-real-zombie.html</guid>
+			</item>
+		
+			<item>
+				<title>Liquid Layouts In InDesign CS6</title>
+				<description>&lt;p&gt;Wireframing in InDesign is far less painful than using any other software because it&amp;#8217;s easy to maintain styles on objects and typography. I just started using the Liquid Layout feature in InDesign CS6. One more reason to use InDesign for wireframing over any other program.&lt;/p&gt;
+
+&lt;p&gt;This is a &lt;a title='Adobe InDesign CS6 Liquid Layouts' target='_blank' href='http://helpx.adobe.com/indesign/using/alternate-layouts-liquid-layouts.html'&gt;helpful walk-through&lt;/a&gt;.&lt;/p&gt;</description>
+				<pubDate>Fri, 10 May 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/liquid-layouts-in-indesign-cs6.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/liquid-layouts-in-indesign-cs6.html</guid>
+			</item>
+		
+			<item>
+				<title>QWERTY Keyboard Gripe</title>
+				<description>&lt;p&gt;It is a usability issue of the QWERTY keyboard that I have to press 3 buttons to get a right-single-quote.&lt;/p&gt;
+&lt;img alt='qwerty-rsquo' src='/images/qwrty-rsquo.jpg' /&gt;</description>
+				<pubDate>Thu, 09 May 2013 16:19:44 -0700</pubDate>
+				<link>http://justinalm.com/blog/qwerty-keyboard-gripe.html</link>
+				<guid isPermaLink="true">http://justinalm.com/blog/qwerty-keyboard-gripe.html</guid>
+			</item>
+		
+	</channel>
+</rss>

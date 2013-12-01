@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="animated fadeIn container">
+        <p class="meta">{{ page.date | date_to_string }}</p>
+        <h1>{{ page.title }}</h2>
+
+        <div class="post">
+
+        {{ content }}
+
+        </div>
+
+        <hr class="rule"/>
+
+        <h1 class="more-projects fadeIn">Projects I’ve Worked On</h1>
+
+        <ul class="animated fadeIn work-posts">
+        {% for post in site.categories.work %}
+          <li>
+                <a href="{{ post.url }}">
+
+                <img src="{{ post.thumbnail }}"/>
+
+                <h2 class="list-post">{{ post.title }}</h2> </a>
+
+          </li>
+        {% endfor %}
+        </ul>
+        
+</div><!-- End of the Narrow Container -->
