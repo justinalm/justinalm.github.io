@@ -1,7 +1,7 @@
 # justinalm.com
 
 ## Jekyll
-This site runs on [Jekyll](http://jekyllrb.com), that helps:
+This site runs on [Jekyll](http://jekyllrb.com), which helps:
 
 > Transform your plain text into static websites and blogs.
 
