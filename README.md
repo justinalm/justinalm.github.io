@@ -28,4 +28,4 @@ To generate my RSS feed, I use a [Sitemap Generator](https://github.com/kinnetic
 ## Deploying
 To deploy the site, I have setup SSH and a `rake:deploy` task to Rsync my `_site` directory to my hosting.
 
-Thanks to [Nathan Grigg](http://nathangrigg.net/2012/04/rsyncing-jekyll/) for sharing the script to [Rsync](http://rsync.samba.org) only changed files. After my blog started to grow, syncing directories with [Transmit](http://panic.com/transmit/) was starting to take a long time. Huge hi-five!
+Thanks to [Nathan Grigg](http://nathangrigg.net/2012/04/rsyncing-jekyll/) for sharing the script to [Rsync](http://rsync.samba.org) only changed files. Instead of writing that script in Terminal every time I wanted to push changes to my hosting, I created a simple rake task for staging and production. After my blog started to grow, syncing directories with [Transmit](http://panic.com/transmit/) was starting to take a long time. Syncing only changed files brought back the fluidity I enjoy about Jekyll. Huge hi-five to Mr.Grigg!
