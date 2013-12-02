@@ -186,10 +186,10 @@ end
 namespace :deploy do
   desc "rsync to stage"
     task :stage do
-      system('rsync --compress --recursive --checksum --delete _site/ justinal@justinalm.com:~/public_html/stage/')
+      system('rsync --compress --recursive --checksum --progress --delete _site/ justinal@justinalm.com:~/public_html/stage/')
     end
   desc "rsync to production"
     task :production do
-      system('rsync --compress --recursive --checksum --delete _site/ justinal@justinalm.com:~/public_html/')
+      system('rsync --compress --recursive --checksum --progress --delete _site/ justinal@justinalm.com:~/public_html/')
     end
 end
