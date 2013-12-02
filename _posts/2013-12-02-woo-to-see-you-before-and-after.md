@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Woo To See You Boutique – Before And After"
-description: "It’s been 5 months since we opened our shop. I stumbled across these photos on my DropBox was stunned by the transformation our space."
+description: "I stumbled across these photos in my DropBox and now they live on my blog."
 category: "blog"
 thumbnail: "/images/cleared-out.jpg"
 ---
