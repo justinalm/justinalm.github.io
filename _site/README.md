@@ -1,8 +1,31 @@
-jekyll-portfolio
-================
+# justinalm.com
 
-I’ve made a few aesthetic and stuctural changes to this website. The biggest decision I made was to ditch Wordpress and use Jekyll to compile the site. I realize when I released my last update, building on Wordpress was a documented and intentional decision. Most of the motivation behind that decision was choosing a development path I have experience with.
+## Jekyll
+This site runs on [Jekyll](http://jekyllrb.com), which helps:
 
-As for the changes I’ve made to my presentation of content, I’ve included the new [Salome Display](http://www.salomefont.com/) for my h1.logo treatment and all the h2’s throughout the site. Salome was designed by the Spanish multidiscipliary design studio, [Atipo](http://www.atipo.es/). I centred my nav, made the text-content a comfortable max-width: 600px at desktop and tablet for a comfortable line-length, and allowed images to go to a width: 100% to a max-height: 600px. I think these layout choices make for a good experience when viewing images. They can go wide when they need to and scale down for the phone. I also ditched FitVids.js for a CSS solution for responsive video. You can get the markup and CSS for this this trick in [John Surdakowski’s blog post](http://avexdesigns.com/responsive-youtube-embed/) on the __Avex Web Development and Design__ site. There is no more need for a javascript plugin but I’m currently seeking an easy solution for including videos in my markdown. There’s something funny about how the iframe embed is converted from markdown to HTML that is giving Jekyll a stroke.
+> Transform your plain text into static websites and blogs.
 
-Welcome to my new, flat, static, responsive, and performant website.
+## CSS
+For CSS, I’ve used [Nicolas Gallagher’s](http://nicolasgallagher.com) normalize.css to standardize web elements across browsers. You can read about Normalize.css on his [website](http://nicolasgallagher.com/about-normalize-css/) and clone his [github repo](https://github.com/necolas/normalize.css) for use on your own projects. It’s pretty amazing.
+
+### CSS From Scratch
+All the other mobile-first-responsive CSS I written from scratch. I was using grids from other CSS frameworks for previous iterations of my site but I got tired of combing through thousands of lines of CSS to make changes. Generally, I feel like those frameworks are overkill for a simple site like this. Writing from scratch forces me to focus on the essentials and keeps code elegant.
+
+### SASS
+I’m considering buttoning in a grid to layout portfolio entries in more interesting ways. When that happens, I’ll be chunking CSS into [SASS](http://sass-lang.com) files for concatenation.
+
+## Typography
+I use the web font service [Typekit](https://typekit.com).
+
+The two fonts I use throughout the site are:
+
+1. [Futura PT](https://typekit.com/fonts/futura-pt) by [ParaType](http://www.paratype.com) for headers.
+2. [JAF Facit](https://typekit.com/fonts/jaf-facitweb) by [Just Another Foundry](http://justanotherfoundry.com) for body text.
+
+## RSS
+To generate my RSS feed, I use a [Sitemap Generator](https://github.com/kinnetica/jekyll-plugins) plugin by [Michael Levin](http://www.kinnetica.com).
+
+## Deploying
+To deploy the site, I have setup SSH and a `rake:deploy` task to Rsync my `_site` directory to my hosting.
+
+Thanks to [Nathan Grigg](http://nathangrigg.net/2012/04/rsyncing-jekyll/) for sharing the script to [Rsync](http://rsync.samba.org) only changed files. Instead of writing that script in Terminal every time I wanted to push changes to my hosting, I created a simple rake task for staging and production. After my blog started to grow, syncing directories with [Transmit](http://panic.com/transmit/) was starting to take a long time. Syncing only changed files brought back the fluidity I enjoy about Jekyll. Huge hi-five to Mr.Grigg!

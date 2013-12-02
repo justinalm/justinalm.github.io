@@ -182,7 +182,7 @@ task :preview do
   Rake::Task[:watch].invoke
 end
 
-# Rsync To Server Space
+# Rsync To Hosting
 namespace :deploy do
   desc "rsync to stage"
     task :stage do
