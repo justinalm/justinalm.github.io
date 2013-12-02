@@ -28,6 +28,9 @@ The most painful part of the project was inputting the 250 projects into a Wordp
 
 Looking back on this project, I see a problems with the design. Students didn’t submit large enough images to have content expand 100% of the container element, navigation is abstract, and fonts are small for larger screen sizes. The responsive breakpoints don’t force elements to adapt for different screen sizes soon enough and the lack of thumbnails on home page or degree index pages don’t provide the visual preview the student work deserves. As the university administration published the site to the school’s servers, I didn’t have access to the site to make changes and wrangle the navigation and content into a more usable state.
 
+<div class="vendor">
+	<iframe src="//player.vimeo.com/video/80751603?title=0&amp;byline=0&amp;portrait=0" width="500" height="300" frameborder="0"> </iframe>
+</div>
 Unfortunately, [Grey Vaisius](http://greyvy.com/) and I were so busy inputting content into the site, we weren’t able to submit our own project, [Know Ideas](http://www.justinalm.com/work/know-ideas.html) to the catalog.
 
 Checkout the <a href="http://grad2012.ecuad.ca" title="Emily Carr University 2012 Grad Catalogue Website" target="_blank">2012 Emily Carr University Grad Catalog Website</a>.
