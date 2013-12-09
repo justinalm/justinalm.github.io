@@ -25,6 +25,11 @@ The two fonts I use throughout the site are:
 ## RSS
 To generate my RSS feed, I use a [Sitemap Generator](https://github.com/kinnetica/jekyll-plugins) plugin by [Michael Levin](http://www.kinnetica.com).
 
+## Rake New Post
+Creating a new post, with title, and YAML boilerplate is super easy. Just run:
+
+`rake np -- The Post Title`
+
 ## Deploying
 To deploy the site, I have setup SSH and a `rake:deploy` task to Rsync my `_site` directory to my hosting.
 
