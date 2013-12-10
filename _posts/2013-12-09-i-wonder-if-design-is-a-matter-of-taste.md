@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: I Wonder If Design Is A Matter Of Taste
-description: Update this description.
+description: Things have definitely changed and I would say this is not the soft, heart-warming, ‘juuust right’ approach Morgan stood up for.
 category: blog
 thumbnail: /images/dropbox-icon-update.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: PartyMoster Is Featured On Entrepreneur
-description: Update this description.
+description: Steer clear of awkward playlist pauses and shuffle shame-inspiring songs with an array of customizable options. Then set it and forget it while you mingle. Bonus: The app refuses to play Nickelback.
 category: blog
 thumbnail: /images/partymonster-imore-shot.jpg
 ---
