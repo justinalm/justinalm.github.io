@@ -4,6 +4,12 @@
         <script type="text/javascript" src="//use.typekit.net/oms6zfq.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         <meta charset="utf-8">
+
+        <!-- 404 Page Meta Tag -->
+        {% if page.url == "/404.html" %}
+            <meta http-equiv="refresh" content="5; url=/">
+        {% endif %}
+        
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Justin Alm – {{ page.title }}</title>
         <meta name="keywords" content="designer, portfolio, user experience, user interface, iOS apps, usability, information architecture, discourse"> <!--no longer used by Google-->
