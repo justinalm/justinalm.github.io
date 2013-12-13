@@ -2,7 +2,6 @@
 layout: post
 title: "Martin Majoor’s My Typeface Design Philosophy"
 date: 2013-10-27 12:43:44
-categories: blog
 thumbnail: "/images/philosophy_00_serre_hamburg2.gif"
 description: "I read Martin Majoor’s Typeface Design Philosophy."
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Amazing Google Translate"
 date: 2013-10-01 12:43:44
-categories: blog
 thumbnail: "/images/google-translate.png"
 description: "How I have grown skeptical of Google Translate’s accuracy translating my English to Korean and the misinformation of Google Maps."
 ---

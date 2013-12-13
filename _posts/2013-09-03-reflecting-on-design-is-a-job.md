@@ -2,7 +2,6 @@
 published: true
 title: Reflecting On Design Is A Job
 layout: post
-categories: blog
 thumbnail: "images/mike-monteiro-design-is-a-job2.jpg"
 description: Last night, I finished Mike Monteiro’s book, Design Is A Job. The 10th Chapter is about Working With Others. I feel like Mike called me out on my bad attitude.
 ---

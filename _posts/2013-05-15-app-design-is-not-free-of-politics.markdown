@@ -2,7 +2,6 @@
 layout: post
 title: "App Design Is Not Free Of Politics"
 date: 2013-05-15 16:19:44
-categories: blog
 thumbnail: "/images/StaticMapMask@2x-555x343.jpg"
 description: "This is an interesting post by ustwo about the “Sea of Japan” label on the Google Static Maps API."
 ---

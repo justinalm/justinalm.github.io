@@ -2,7 +2,6 @@
 layout: post
 title: "Styles of iOS 6 and iOS 7"
 date: 2013-10-12 12:43:44
-categories: blog
 thumbnail: "/images/iOS2up-crushed.png"
 description: "I did these illustrations to explore the visual shift from iOS 6 to 7. The styles applied to the elements are what make the difference but the grand scheme of things hasn’t changed much. It’s not like Apple did away with the app icon or rounded corners. They just gave the OS some electro-shock therapy and removed some of its personality."
 ---

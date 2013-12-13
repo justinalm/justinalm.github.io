@@ -2,7 +2,6 @@
 published: true
 title: Interactive Forms With jQuery
 layout: post
-categories: blog
 thumbnail: "images/jquery-vimeo-ss.png"
 description: ""
 ---

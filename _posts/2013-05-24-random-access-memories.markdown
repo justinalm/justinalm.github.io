@@ -2,7 +2,6 @@
 layout: post
 title:  "Random Access Memories"
 date:   2013-05-24 12:06:00
-categories: blog
 thumbnail: "/images/daft-punk-random-access-memories.jpg"
 description: "Over the past month, Daft Punk’s Random Access Memories has been an inspiration for me."
 ---

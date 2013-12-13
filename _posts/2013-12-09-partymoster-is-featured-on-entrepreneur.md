@@ -3,7 +3,6 @@ layout: post
 published: true
 title: PartyMoster Is Featured On Entrepreneur
 description: Steer clear of awkward playlist pauses and shuffle shame-inspiring songs with an array of customizable options. Then set it and forget it while you mingle.
-category: blog
 thumbnail: /images/partymonster-imore-shot.jpg
 ---
 <img src="/images/partymonster-imore-shot.jpg" alt="PartyMoster image by iMore.com" />

@@ -2,7 +2,6 @@
 layout: post
 title: "LinkedIn And The Rams Approach"
 date: 2013-10-09 12:43:44
-categories: blog
 thumbnail: "/images/justinalm-linkedin-skills-and-expertise.png"
 description: "I just deleted more skills and expertise from my LinkedIn profile."
 ---

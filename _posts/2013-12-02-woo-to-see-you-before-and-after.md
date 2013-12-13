@@ -3,7 +3,6 @@ published: true
 layout: post
 title: "Woo To See You Boutique – Before And After"
 description: "I stumbled across these photos in my DropBox and now they live on my blog."
-category: "blog"
 thumbnail: "/images/cleared-out.jpg"
 ---
 <img src="/images/tm-events.jpg" alt="TM Events was in the space before us." />

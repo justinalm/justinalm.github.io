@@ -2,7 +2,6 @@
 published: true
 title: Why I Closed My Windows
 layout: post
-categories: blog
 thumbnail: "images/wine-bottler.jpg"
 description: "I like performance everything: cars, bicycles, phones, rice cookers, etc.. Wine and Wine Bottler don’t line up with my values."
 ---

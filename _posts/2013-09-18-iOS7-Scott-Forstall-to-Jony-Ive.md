@@ -2,7 +2,6 @@
 layout: post
 title: "iOS 7 – Scott Forstall to Jony Ive"
 date: 2013-09-18 12:43:44
-categories: blog
 thumbnail: "/images/gadgetlove-morph.png"
 description: "This animation by Gadgetlove.com is an interesting representation of the shift in visual language from Scott Forestall’s iOS 6 to Jony Ive’s iOS 7."
 ---

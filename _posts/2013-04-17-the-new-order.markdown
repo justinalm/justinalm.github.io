@@ -2,7 +2,6 @@
 layout: post
 title: "The New Order"
 date: 2013-04-17 16:19:44
-categories: blog
 thumbnail: "/images/porto-ipad-crushed.png"
 description: "I’ve been in a design sprint since Friday evening. Websites take a lot of time dressing before meeting the public. This site is in perpetual beta."
 ---

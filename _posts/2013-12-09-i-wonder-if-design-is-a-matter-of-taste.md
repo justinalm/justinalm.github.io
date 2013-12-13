@@ -3,7 +3,6 @@ layout: post
 published: true
 title: I Wonder If Design Is A Matter Of Taste
 description: Things have definitely changed and I would say this is not the soft, heart-warming, ‘juuust right’ approach Morgan stood up for.
-category: blog
 thumbnail: /images/dropbox-icon-update.png
 ---
 Morgan Knutson wrote one of my favorite article’s [It’s A Matter of Taste](http://articles.morganallanknutson.com/its-a-matter-of-taste) on the [Svbtle Network](https://svbtle.com). In the article, he explains his thoughts about the flat versus depth debate in design. I really appreciated Morgan’s article and now I’m wondering what happened with the roll-out of the new UI for DropBox on iOS 7. Things have definitely changed and I would say this is not the soft, heart-warming, ‘juuust right’ approach Morgan stood up for.

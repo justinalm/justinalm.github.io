@@ -2,7 +2,6 @@
 layout: post
 title: "Apple Features PartyMonster"
 date: 2013-10-10 12:43:44
-categories: blog
 thumbnail: "/images/apple-features-party-monster2-ios7.jpg"
 description: "Apple’s featuring Steamclock Software’s PartyMonster for iOS 7. Stoked to see our product in the App Store feature carousel again."
 ---

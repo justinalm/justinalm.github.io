@@ -2,7 +2,6 @@
 published: true
 title: Mike Monteiro’s Design Is A Job
 layout: post
-categories: blog
 thumbnail: "images/quatic-web-thumbnail.jpg"
 description: "I was pleased to find a copy of Mike Monteiro’s Design Is A Job on my desk after returning from our 4 day vacation in the Okanagan."
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "CleanMyMac Killed My Mavericks"
 description: "How CleanMyMac killed my Mavericks."
-category: "blog"
 thumbnail: "/images/lynnvalleycanyon.jpg"
 ---
 

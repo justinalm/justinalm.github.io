@@ -2,7 +2,6 @@
 layout: post
 title: "Keeping My Mac Windows In Place With Stay"
 date: 2013-10-15 12:43:44
-categories: blog
 thumbnail: "/images/stay-for-mac.png"
 description: "My OCD over my application window positions has settled down with Stay for Mac."
 ---

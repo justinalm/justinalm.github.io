@@ -2,7 +2,6 @@
 layout: post
 title: "Transparent Thought"
 date: 2013-10-08 12:43:44
-categories: blog
 thumbnail: "/images/thinking-clearly-is-the-most-difficult-part-of-my-day.png"
 description: "Thinking clearly is the most difficult part of my day."
 ---

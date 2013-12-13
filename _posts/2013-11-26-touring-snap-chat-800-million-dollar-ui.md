@@ -3,7 +3,6 @@ published: true
 layout: post
 title: "Snapchat’s $800 Million Dollar UI"
 description: "Touring Snapchat’s $800 million dollar UI."
-category: "blog"
 thumbnail: "/images/snapchap.jpg"
 ---
 

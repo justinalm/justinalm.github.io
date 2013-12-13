@@ -2,7 +2,6 @@
 layout: post
 title: "Pixel Canvas"
 date: 2013-10-22 12:43:44
-categories: blog
 thumbnail: "/images/pixel-canvas.jpg"
 description: "Sketch is great for working at the pixel level when designing icons. The "
 ---

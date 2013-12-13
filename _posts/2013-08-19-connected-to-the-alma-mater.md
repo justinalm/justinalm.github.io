@@ -2,7 +2,6 @@
 published: true
 title: Connected To The Alma Mater
 layout: post
-categories: blog
 thumbnail: "images/steamclock-emilycarr.jpg"
 description: "ECUAD needed to streamline the submission process, make curation easy, and deliver content in beautiful layouts accessible through desktops, tablets, and phones."
 ---

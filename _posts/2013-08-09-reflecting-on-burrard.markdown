@@ -2,7 +2,6 @@
 published: true
 title: Reflecting On Burrard
 layout: post
-categories: blog
 thumbnail: "images/quatic-web-thumbnail.jpg"
 description: "On warm Summer evenings, Hans and I like strolling down Burrard toward the Vancouver Convention Centre."
 ---

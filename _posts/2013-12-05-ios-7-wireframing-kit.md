@@ -3,7 +3,6 @@ layout: post
 published: true
 title: iOS 7 Wireframing Kit
 description: I’m always looking for more efficient way to wireframe applications.
-category: blog
 thumbnail: /images/ios7-wireframe-kit.jpg
 ---
 <img src="/images/ios7-wireframe-kit.jpg" alt="iOS 7 Wireframe Kit" />

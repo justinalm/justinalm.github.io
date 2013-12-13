@@ -2,7 +2,6 @@
 published: true
 title: As Promised, Perpetual Beta
 layout: post
-categories: blog
 thumbnail: "images/jekyll-logo@2x.jpg"
 description: "I’ve made a few aesthetic and stuctural changes to this website. The biggest decision I made was to ditch Wordpress and use Jekyll to compile the site."
 ---

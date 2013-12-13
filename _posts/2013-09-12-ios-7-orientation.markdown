@@ -3,7 +3,6 @@ published: true
 layout: post
 title: "iOS 7 – Orientation"
 date: 2013-09-17 17:38:00
-categories: blog
 thumbnail: "/images/ios7-compass2.png"
 description: "Compass of iOS 7 is one of the most visually interesting orientation tools. The buttonless UI feels like a liquid pool inside my black iPhone 4s."
 ---

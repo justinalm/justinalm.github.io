@@ -2,7 +2,6 @@
 layout: post
 title: "Flexible Email Invoice"
 date: 2013-10-26 12:43:44
-categories: blog
 thumbnail: "/images/wootoseeyou-invoice.jpg"
 description: "I spent some time today designing an invoice Hans can use for paperless Woo To See You receipts."
 ---

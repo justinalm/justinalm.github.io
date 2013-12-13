@@ -2,7 +2,6 @@
 layout: post
 title: "Pictures Tell Short Stories"
 date: 2013-09-15 23:09:44
-categories: blog
 thumbnail: "/images/Haru-and-Mina-by-Hideaki-Hamada.jpg"
 description: "Haru and Mina by Hideaki Hamada reminds me that the complex story of life is composed of a series of simple moments."
 ---

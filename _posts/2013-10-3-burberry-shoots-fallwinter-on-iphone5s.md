@@ -2,7 +2,6 @@
 layout: post
 title: "Burberry Shoots Fall/Winter On The iPhone 5s"
 date: 2013-10-03 12:43:44
-categories: blog
 thumbnail: "/images/google-translate.png"
 description: "If Burberry, one of the biggest fashion brands in the world, can shoot their Fall/Winter 2013 on the iPhone 5s, I would say this phone has a pretty good camera."
 ---

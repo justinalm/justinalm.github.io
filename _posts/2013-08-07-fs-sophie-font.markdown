@@ -2,7 +2,6 @@
 published: false
 title: FS Sophie Font
 layout: post
-categories: blog
 thumbnail: "images/jekyll-logo@2x.jpg"
 description: ""
 ---
