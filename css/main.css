@@ -691,14 +691,14 @@ h1.more-projects {
 h2 { 
   font-family: 'futura-pt', sans-serif;
   margin-bottom: 0.5em;
-  font-size: 1.5em;
+  font-size: 1.4em;
   line-height: 1.2;
 }
 
 h2.list-post { 
   font-family: 'futura-pt', sans-serif;
   margin-bottom: 0.5em;
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 h3 { 
@@ -897,6 +897,11 @@ ul.work-posts > li > a:hover {
   margin: 0;
 }
 
+#disqus_thread {
+  border-top: 1px solid rgb(236, 236, 236);
+  padding: 20px 0 0 0;
+}
+
 @media only screen and (min-width:700px) {
   h1.logo {
     margin: 0;
@@ -951,6 +956,10 @@ ul.work-posts > li > a:hover {
     width: 100%;
     margin: 0 auto 20px auto;
     text-align: left; 
+  }
+
+  #disqus_thread {
+    margin: 40px 0 0 0;
   }
 
   .left {

@@ -1,8 +1,8 @@
 ---
 published: true
-title: Why I Closed My Windows
+title: "Why I Closed My Windows"
 layout: post
-thumbnail: "images/wine-bottler.jpg"
+thumbnail: "{{ site.url }}/images/wine-bottler.jpg"
 description: "I like performance everything: cars, bicycles, phones, rice cookers, etc.. Wine and Wine Bottler don’t line up with my values."
 ---
 I did some bug fixing for the [VanCocoa](http://www.vancocoa.com) site today. We were having some rendering issues in Internet Exploder 9 (cough) – our targeted browser. It’s kinda odd we’re accommodating this technology for a [Cocoa](https://developer.apple.com/technologies/mac/cocoa.html) meet up because most attendees use good browsers. We got some support emails about the site not rendering on IE so we decided to meet the need.
@@ -13,7 +13,7 @@ Today, I was reminded of how I like performance everything: cars, bicycles, phon
 
 Wine Bottler is a glimpse into a broken world.
 
-<img src="/images/wine-bottler.jpg" alt="A screenshot of the Wine Bottler interface." width="1024"/>
+<img src="{{ site.url }}/images/wine-bottler.jpg" alt="A screenshot of the Wine Bottler interface." width="1024"/>
 
 I encourage anyone using a dated browser, to take that browser into a field and shoot it in the head. Uninstall and select one of these options:
 

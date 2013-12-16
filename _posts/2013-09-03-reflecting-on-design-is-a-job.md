@@ -1,14 +1,14 @@
 ---
 published: true
-title: Reflecting On Design Is A Job
+title: "Reflecting On Design Is A Job"
 layout: post
-thumbnail: "images/mike-monteiro-design-is-a-job2.jpg"
-description: Last night, I finished Mike Monteiro’s book, Design Is A Job. The 10th Chapter is about Working With Others. I feel like Mike called me out on my bad attitude.
+thumbnail: "{{ site.url }}/images/mike-monteiro-design-is-a-job2.jpg"
+description: "Last night, I finished Mike Monteiro’s book, Design Is A Job. The 10th Chapter is about Working With Others. I feel like Mike called me out on my bad attitude."
 ---
 
 Last night, I finished Mike Monteiro’s book, *Design Is A Job*. The book ends with a tough discussion about “Working With Others”. As I read, I realized I can be difficult to work with(Not all the time but sometimes). Being a designer is about wrestling with material and wrestling with your character. How I work with people is part of perfecting my craft. It’s part of making great products.
 
-<img src="/images/mike-monteiro-design-is-a-job2.jpg" alt="The Working Mike Monteiro" width="480" />
+<img src="{{ site.url }}/images/mike-monteiro-design-is-a-job2.jpg" alt="The Working Mike Monteiro" width="480" />
 <p class="image-caption">Image by <a href="https://twitter.com/darth/status/189372215534436352" taget="_blank">Darth</a> via <a href="http://www.swiss-miss.com/2012/04/design-is-a-job.html" traget="_blank">SwissMiss</a></p>
 
 Designers are similar to lawyers. We string together pieces of a story, with enough believability, rationale, and charisma, to convince people we are right. If we practice well, our language is accepted. Just as young lawyers struggle to make an impression on their bosses, designers work to be known as an indispensable assets of the studio. For keen junior professionals, the smaller the company, the greater the pressure to become indispensable. This drive for perfection is a road of pain because faults lead to insecurities, which encourage a defensive attitude about work. If all work is a measurement of someone’s value to the team, the impulse when making is to hide until something has been created to wow the director. By this point, the designer may have painted him/herself into a corner with technical assumptions. There are a lot of beautiful paintings in Musée du Louvre but none of them were created in a collaborative process like building software, websites, or complicated printed materials.

@@ -2,10 +2,10 @@
 layout: post
 title: "CleanMyMac Killed My Mavericks"
 description: "How CleanMyMac killed my Mavericks."
-thumbnail: "/images/lynnvalleycanyon.jpg"
+thumbnail: "{{ site.url }}/images/lynnvalleycanyon.jpg"
 ---
 
-<img src="/images/lynnvalleycanyon.jpg" alt="an image of the Lynn Valley Canyon bridge" />
+<img src="{{ site.url }}/images/lynnvalleycanyon.jpg" alt="an image of the Lynn Valley Canyon bridge" />
 <p class="image-caption">An image of the <a href="http://lynncanyon.ca/">Lynn Valley Canyon</a> Suspension Bridge from the Lynn Valley Canyon Park website.</p>
 
 During my vacation, I built a fitting room at the [Woo To See You Boutique](http://www.wootoseeyou.com), went for a hike up the [Lynn Valley Canyon](http://lynncanyon.ca/), drove a [ZipCar](http://www.zipcar.com/) for the first time(Mini), and made almost daily trips to [JJ Bean Yaletown](http://www.jjbeancoffee.com/our-locations/yaletown/) for cappucinos, coding, and design. I’m the type of person that likes to use holidays for personal work.

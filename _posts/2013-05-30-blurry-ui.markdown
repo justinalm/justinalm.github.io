@@ -2,10 +2,10 @@
 layout: post
 title: "Blurry UI"
 date: 2013-05-30 16:19:44
-thumbnail: "images/Screen-Shot-2013-05-30-at-4.15.36-PM.png"
+thumbnail: "{{ site.url }}/images/Screen-Shot-2013-05-30-at-4.15.36-PM.png"
 description: "Lovin’ blurry UI. Reminds me of impressionism. Conventions are established opening the door for more artistic expressions of interface."
 ---
 
-<img src="/images/Screen-Shot-2013-05-30-at-4.15.36-PM.png" alt="Example of blurry UI from Rdio/">
+<img src="{{ site.url }}/images/Screen-Shot-2013-05-30-at-4.15.36-PM.png" alt="Example of blurry UI from Rdio/">
 
 Lovin’ blurry UI. Reminds me of impressionism. Conventions are established opening the door for more artistic expressions of interface.
