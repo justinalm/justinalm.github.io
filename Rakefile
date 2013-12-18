@@ -16,6 +16,7 @@ task :post do
   else
     File.open(path, "w") do |file|
       file.puts YAML.dump({'layout' => 'post', 'published' => false, 'title' => title, 'description' => 'Update this description.', 'thumbnail' => "{{ site.url }}/images/#.jpg"})
+      file.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
       file.puts "---"
     end
   end

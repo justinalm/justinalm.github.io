@@ -2,7 +2,8 @@
 layout: post
 published: true
 title: "Handbags Win Over The Internet"
-description: "Update this description."
+description: "I stumbled on the Wikipedia page List of websites blocked in China."
+date: 2013-12-16 12:57:00
 thumbnail: "{{ site.url }}/images/chinese-youth-internet-cafe-addiction.jpg"
 ---
 <img src="{{ site.url }}/images/chinese-youth-internet-cafe-addiction.jpg" alt="Chinese Internet Cafe" />
