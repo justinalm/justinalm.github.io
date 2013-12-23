@@ -1,4 +1,4 @@
-/*! normalize.css v2.1.2 | MIT License | git.io/normalize */
+*! normalize.css v2.1.2 | MIT License | git.io/normalize */
 
 /* ==========================================================================
    HTML5 display definitions
@@ -778,7 +778,7 @@ ul.list {
   max-width: 600px;
   margin: 0 0 20px 0;
   padding: 0 0 0 20px;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 ul.list > li {
@@ -792,7 +792,7 @@ ol.numbered-list {
   max-width: 600px;
   margin: 0 0 20px 0;
   padding: 0 0 0 20px;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 ol.numbered-list > li {
@@ -886,15 +886,18 @@ ul.work-posts > li > a:hover {
 }
 
 .left {
+  float: left;
   display: inline-block;
   padding: 0em;
   margin: 1em 0;
 }
 
 .right {
+  float: right;
   display: inline-block;
   padding: 0em;
-  margin: 0;
+  margin: 1em 0;
+  overflow: hidden;
 }
 
 #disqus_thread {
@@ -902,7 +905,7 @@ ul.work-posts > li > a:hover {
   padding: 20px 0 0 0;
 }
 
-@media only screen and (min-width:700px) {
+@media only screen and (min-width:770px) {
   h1.logo {
     margin: 0;
     float: left;
@@ -925,6 +928,10 @@ ul.work-posts > li > a:hover {
     margin: 1em 0 1.75em 0;
   }
 
+  ul.posts {
+    width: 60%;
+  }
+
   ul.work-posts > li {
     width: 31.1%;
     padding: 0 3.333% 0 0;
@@ -934,12 +941,16 @@ ul.work-posts > li > a:hover {
     padding: 0;
   }
 
+  .post {
+    width: 60%;
+  }
+
   ul.list {
-    padding: 0 0 0 45px;
+    padding: 0 0 0 35px;
   }
 
   ol.numbered-list {
-    padding: 0 0 0 45px;
+    padding: 0 0 0 35px;
   }
 
   .profile-pic {
@@ -959,16 +970,7 @@ ul.work-posts > li > a:hover {
   }
 
   #disqus_thread {
-    margin: 40px 0 0 0;
-  }
-
-  .left {
-    float: left;
-  }
-
-  .right {
-    float: right;
-    margin: 1em 0 0 0;
+    margin: 10px 0 0 0;
   }
 
   footer p {

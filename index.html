@@ -24,18 +24,18 @@ description: This is the personal webspace of user experience and user interface
     <div class="pagination">
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <a class="previous" href="/" title="Previous Page">&laquo; Previous</a>
+        <a class="previous" href="/" title="Previous Page">&laquo; Newer</a>
         {% else %}
-        <a class="previous" href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
+        <a class="previous" href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Newer</a>
         {% endif %}
       {% endif %}
 
       <span class="page_number">–&nbsp;&nbsp;{{ paginator.page }} of {{ paginator.total_pages }}&nbsp;&nbsp;–</span>
 
       {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="next">Next &raquo;</a>
+        <a href="/page{{ paginator.next_page }}" class="next">Older &raquo;</a>
       {% else %}
-        <span class="next">Next</span>
+        <span class="next">Older</span>
       {% endif %}
     </div><!-- End of the Paginator -->
 
