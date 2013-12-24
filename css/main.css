@@ -814,7 +814,7 @@ ul.posts > li {
 
 ul.posts > li:first-child {
   border-top: 0px solid rgb(236, 236, 236);
-  padding-top: 1em;
+  padding-top: 0;
 }
 
 ul.posts > li:last-child {
