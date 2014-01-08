@@ -4,10 +4,10 @@ layout: work
 title: "2012 ECUAD Catalog Website"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/2012-emilycarr-catalogue-thumb.jpg"
-description: ""
+description: "I designed and developed the _2012 Emily Carr Graduation Exhibition website."
 ---
 
-I designed and developed the _2012 Emily Carr Graduation Exhibition website_.
+I designed and developed the 2012 Emily Carr Graduation Exhibition website.
 
 Bernie Yao shot footage of students working on their pieces for the exhibition. I edited that footage together and embedded it full-width on the front page of the site.
 
