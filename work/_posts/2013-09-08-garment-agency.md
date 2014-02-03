@@ -4,10 +4,9 @@ title: "Garment Agency"
 date: 2013-09-08 16:19:44
 thumbnail: "/images/garmentagency-thumb.jpg"
 description: "I design the identity for the international fashion company Garment Agency."
+cats: "Identity, Branding, Web"
 ---
-
-I designed an identity, stationery, and website for the international fashion agency [Garment Agency](http://www.garmentagency.ca). Headquartered in Vancouver, Canada Garment Agency represents fashion and fashion related product designers to the Canadian marketplace.
-
+<p class="work-content">I designed an identity, stationery, and website for the international fashion agency <a href="http://www.garmentagency.ca" title="Garment Agency">Garment Agency</a>. Headquartered in Vancouver, Canada Garment Agency represents fashion and fashion related product designers to the Canadian marketplace.</p>
 <img src="/images/01-garment-agency-wordmark.jpg" alt="Garment Agency Wordmark" />
 <img src="/images/02-garment-agency-monogram.jpg" alt="Garment Agency Monogram" />
 <img src="/images/03-garment-agency-cards-photo.jpg" alt="Garment Agency Business Cards" />

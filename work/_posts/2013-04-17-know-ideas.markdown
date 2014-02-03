@@ -4,9 +4,9 @@ title: "Know Ideas"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/ki2-1024x682-thumb.jpg"
 description: "I am excited for opportunities to contribute to the culture of the Internet. Grey Vaisius and I wrote a 130 page book about digital and analogue life."
+cats: "Book Design, Print Production"
 ---
-
-[Grey Vaisius](http://greyvy.com/) and I wrote a 130 page book about digital and analogue life. We called it <em>Know Ideas</em>. This project didn’t burnout our friendship. In fact, it proved to me <em>working with others is more fun than working alone</em>. If it wasn’t so expensive to produce, I’d offer a link for you to buy. The book is trade size(<em>9&#8243;x6&#8243;</em>); a comfortable size to casually read. The book features interactive spreads that depict concepts of web interactions through the printed page. Some of these interactive features include: a page fold to hide/show information, French folds that hide the backend from the frontend, layers of acetate for the reader to visually experience layers of meaning, and mirror paper — a poetic link to the screen.
+<p class="work-content"><a href="http://greyvy.com/" title="Grey Vaisius">Grey Vaisius</a> and I wrote a 130 page book about digital and analogue life. We called it <em>Know Ideas</em>. This project is a testimony that <em>working with others is more fun than working alone</em>. The book is trade size(9"x6"), which is a comfortable size to casually read. It features interactive spreads that depict web concepts. Some of these interactive features include: a page fold to hide/show information, French folds to illustrate back-end from front-end, layers of acetate that represent layers of web elements, and mirror paper — a poetic representation of the screen.</p>
 
 <img src="/images/ki2-1024x682.jpg" alt="Know Ideas the book"/>
 <img src="/images/ki4-1024x682.jpg" alt="Hand-held Trade sized book"/>

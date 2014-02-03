@@ -3,27 +3,23 @@ layout: default
 ---
 
 <div class="animated fadeIn container">
-        <h1>{{ page.title }}</h1>
+        <h1 class="post-title">{{ page.title }}</h1>
 
         <div class="work-post">
-
-        {{ content }}
-
+            <p class="post-categories">{{ page.cats }}</p>
+            {{ content }}
         </div>
 
         <hr class="rule"/>
 
-        <h1 class="more-projects fadeIn">Projects I’ve Worked On</h1>
-
+        <h1 class="fadeIn">Projects I’ve Worked On</h1>
         <ul class="animated fadeIn work-posts">
         {% for post in site.categories.work %}
           <li>
-                <a href="{{ post.url }}">
-
-                <img src="{{ post.thumbnail }}"/>
-
-                <h2 class="list-post">{{ post.title }}</h2> </a>
-
+            <a href="{{ post.url }}">
+            <img src="{{ post.thumbnail }}"/>
+            <h2 class="list-post">{{ post.title }}</h2></a>
+            <p class="categories">{{ post.cats }}</p>
           </li>
         {% endfor %}
         </ul>

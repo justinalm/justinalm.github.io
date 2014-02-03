@@ -4,10 +4,11 @@ title: "Bravado Magazine"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/bravado2-thumb.jpg"
 description: "I redesigned Bravado Magazine for Evan Goodfellow and his staff. The design of the website involved concept development, paper-prototyping, development of HTML, CSS, jQuery, and PHP."
+cats: "UI/UX, Front-end, Custom Wordpress"
 ---
-I redesigned <a href="http://www.bravadomagazine.com" title="Bravado Magazine" target="_blank">Bravado Magazine</a> for Evan Goodfellow and his staff. The design of the website involved concept development, paper-prototyping, development of HTML, CSS, jQuery, and PHP. The final site was converted into a WordPress theme for easy publishing to the web. This website pushes the boundary between image and text on the Internet. Unfortunately, it doesn’t do the best job reaching our South Korea audience enslaved to Internet Explorer.
+<p class="work-content">I redesigned <a href="http://www.bravadomagazine.com" title="Bravado Magazine" target="_blank">Bravado Magazine</a> for Evan Goodfellow and his staff. The design of the website involved concept development, paper-prototyping, front-end development, and migration of content to Wordpress. We strove to push the boundary between image and text on the Internet.</p>
 
-Checkout <a href="http://www.bravadomagazine.com/" title="Bravado Magazine." target="_blank">Bravado Magazine</a>.
+<p class="work-content"><a href="http://www.bravadomagazine.com/" title="Bravado Magazine." target="_blank">Bravado Magazine</a> is “high gloss pixels”.</p>
 
 <img src="/images/bravado2.jpg" alt="Design With Bravado is High Gloss Pixels." />
 <img src="/images/bravado3.jpg" alt="bravado3" />

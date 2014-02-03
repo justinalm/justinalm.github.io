@@ -665,6 +665,15 @@ h1 {
   line-height: 1.2;
 }
 
+h1.post-title {
+  max-width: 100%;
+  font-size: 2.25em;
+  font-weight: normal;
+  text-align: left;
+  margin: 0 auto 0.5em auto;
+  line-height: 1.2;
+}
+
 h1.logo {
   display: inline-block;
   font-size: 3em;
@@ -701,6 +710,12 @@ h2.list-post {
   font-size: 1.5em;
 }
 
+h2.work-list-post { 
+  font-family: 'futura-pt', sans-serif;
+  margin-bottom: 0em;
+  font-size: 1.5em;
+}
+
 h3 { 
   font-family: 'futura-pt', sans-serif;
   margin: 1em 0 0.35em 0; 
@@ -727,6 +742,30 @@ p.meta {
 p.image-caption {
   font-size: 0.75em;
   font-style: italic;
+}
+
+p.categories {
+  font-size: 0.8em;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+p.post-categories {
+  max-width: 100%;
+  text-align: left;
+  font-style: italic;
+  line-height: 1.4;
+  padding: 0 0 1em 0px;
+  margin: 0 auto 1em auto;
+  border-bottom: 1px solid rgb(242,242,242);
+}
+
+p.work-content {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 0 1em 0;
+  font-size: 1em; 
+  line-height: 2; 
 }
 
 footer p {
@@ -840,7 +879,7 @@ ul.work-posts > li {
   display: block;
   float: left;
   width: 100%;
-  margin: 0 0 1em 0;
+  margin: 0 0 0.5em 0;
 }
 
 ul.work-posts > li:nth-child(3n+3) {
@@ -920,6 +959,7 @@ ul.work-posts > li > a:hover {
     float: right;
     width: auto;
     padding: 15px 0 0 0;
+    margin: 0 15px 0 0;
   }
 
   blockquote {
@@ -972,6 +1012,26 @@ ul.work-posts > li > a:hover {
   #disqus_thread {
     margin: 10px 0 0 0;
   }
+
+  h1.post-title {
+    text-align: center;
+    margin: 0 auto 0.25em auto;
+  }
+
+  p.post-categories {
+    max-width: 600px;
+    text-align: center;
+  }
+
+  p.work-content {
+    text-align: center;
+    margin: 0 auto 1em auto;
+  }
+
+  p.work-content:last-of-type {
+    margin: 0 auto 1.75em auto;
+  }
+
 
   footer p {
     text-align: left;

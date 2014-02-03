@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work
-description: My most recent portfolio pieces.
+description: A list of projects I’ve worked on. My work involves product strategy, information architecture, wire-framing, user interface design, corporate identity, business identity, and visual design.
 ---
 
 <div id="work">
@@ -12,7 +12,8 @@ description: My most recent portfolio pieces.
 		  <li>
 		  	<a href="{{ post.url }}">
 		  	<img src="{{ post.thumbnail }}"/>
-		  	<h2 class="list-post">{{ post.title }}</h2> </a>
+		  	<h2 class="work-list-post">{{ post.title }}</h2></a>
+		  	<p class="categories">{{ post.cats }}</p>
 		  </li>
 		{% endfor %}
 		</ul>

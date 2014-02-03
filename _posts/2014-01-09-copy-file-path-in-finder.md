@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Copy File Path In Finder
-description: Update this description.
+description: I often prep assets and leave them on DropBox for the engineer to implement later. Sharing the location of assets is annoying.
 thumbnail: '{{ site.url }}/images/finder-automator.png'
 date: 2014-01-09 12:56
 ---
