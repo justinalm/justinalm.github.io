@@ -1,0 +1,100 @@
+nav {
+  display: block;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+}
+
+nav > li {
+  display: inline-block;
+  margin: 0;
+}
+
+nav > li > a {
+  display: block;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  line-height: 2;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+ul.list {
+  max-width: 600px;
+  margin: 0 0 20px 0;
+  padding: 0 0 0 20px;
+  line-height: 1.5;
+}
+
+ul.list > li {
+  border-top: none;
+  list-style-type: disc;
+  padding: 0;
+  margin: 0 0 5px 0;
+}
+
+ol.numbered-list {
+  max-width: 600px;
+  margin: 0 0 20px 0;
+  padding: 0 0 0 20px;
+  line-height: 1.5;
+}
+
+ol.numbered-list > li {
+  border-top: none;
+  padding: 0;
+  margin: 0 0 5px 0;
+}
+
+ul.posts {
+  width: 100%;
+}
+
+ul.posts > li {
+  list-style-type: none;
+  border-top: 1px solid rgb(236, 236, 236);
+  line-height: 1.75em;
+  padding: 2em 0 1em 0;
+}
+
+ul.posts > li:first-child {
+  border-top: 0px solid rgb(236, 236, 236);
+  padding-top: 0;
+}
+
+ul.posts > li:last-child {
+  padding-bottom: 0.5em;
+}
+
+ul.posts span {
+  margin: 0;
+  display: block;
+  color: #aaa;
+  font-family: 'futura-pt', sans-serif;
+  font-size: 80%;
+}
+
+ul.work-posts {
+  width: 100%;
+  margin: 0 0 -20px 0;
+  text-align: left;
+  overflow: hidden;
+}
+
+ul.work-posts > li {
+  display: block;
+  float: left;
+  width: 100%;
+  margin: 0 0 0.5em 0;
+}
+
+ul.work-posts > li:nth-child(3n+3) {
+  display: block;
+  margin-right: 0;
+}
+
+ul.work-posts > li > a {
+  font-size: 0.75em;
+  text-decoration: none;
+}

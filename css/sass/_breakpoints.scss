@@ -1,0 +1,95 @@
+@media only screen and (min-width:770px) {
+  h1.logo {
+    margin: 0;
+    float: left;
+  }
+
+  header {
+    padding: 0 0 20px 0;
+  }
+
+  nav {
+    display: block;
+    float: right;
+    width: auto;
+    padding: 15px 0 0 0;
+    margin: 0 15px 0 0;
+  }
+
+  blockquote {
+    border-left: 15px solid #5790E5;
+    padding: 0 0 0 2em;
+    margin: 1em 0 1.75em 0;
+  }
+
+  ul.posts {
+    width: 60%;
+  }
+
+  ul.work-posts > li {
+    width: 31.1%;
+    padding: 0 3.333% 0 0;
+  }
+
+  ul.work-posts > li:nth-child(3n+3) {
+    padding: 0;
+  }
+
+  .post {
+    width: 60%;
+  }
+
+  ul.list {
+    padding: 0 0 0 35px;
+  }
+
+  ol.numbered-list {
+    padding: 0 0 0 35px;
+  }
+
+  .profile-pic {
+    float: right;
+    margin-left: 20px;
+    border-radius: 5000px;
+  }
+
+  .centered {
+    text-align: center;
+  }
+
+  .page-navigation {
+    width: 100%;
+    margin: 0 auto 20px auto;
+    text-align: left; 
+  }
+
+  #disqus_thread {
+    margin: 10px 0 0 0;
+  }
+
+  h1.post-title {
+    text-align: center;
+    margin: 0 auto 0.25em auto;
+  }
+
+  p.post-categories {
+    max-width: 600px;
+    text-align: center;
+  }
+
+  p.work-content {
+    text-align: center;
+    margin: 0 auto 1em auto;
+  }
+
+  p.work-content:last-of-type {
+    margin: 0 auto 1.75em auto;
+  }
+
+
+  footer p {
+    text-align: left;
+    margin: 1.3em 0 0 0;
+  }
+
+}
