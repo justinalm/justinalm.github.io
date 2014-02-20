@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Fake Shark Real Zombie"
 date: 2013-05-12 16:19:44
 thumbnail: "/images/FSRZ-iPhone-thumb.jpg"

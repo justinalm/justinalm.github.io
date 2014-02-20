@@ -140,7 +140,7 @@ p.post-categories {
   border-bottom: 1px solid rgb(242,242,242);
 }
 
-p.work-content {
+.work-content p {
   text-align: left;
   max-width: 600px;
   margin: 0 0 1em 0;
@@ -160,4 +160,10 @@ blockquote {
   font-size: 1em;
   line-height: 1.8;
   font-weight: 700;
+}
+
+pre {
+  padding: 5px 10px;
+  background: #F2F2F2;
+  border-radius: 4px;
 }

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Garment Agency"
 date: 2013-09-08 16:19:44
 thumbnail: "/images/garmentagency-thumb.jpg"

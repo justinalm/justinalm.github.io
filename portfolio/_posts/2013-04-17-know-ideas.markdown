@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Know Ideas"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/ki2-1024x682-thumb.jpg"

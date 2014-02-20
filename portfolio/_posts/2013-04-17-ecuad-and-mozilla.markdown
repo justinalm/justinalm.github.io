@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "ECUAD and Mozilla"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/lfw2-1024x604.jpg"

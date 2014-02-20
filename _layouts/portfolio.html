@@ -7,14 +7,16 @@ layout: default
 
         <div class="work-post">
             <p class="post-categories">{{ page.cats }}</p>
-            {{ content }}
+                <div class="work-content">
+                    {{ content }}
+                </div>
         </div>
 
         <hr class="rule"/>
 
         <h1 class="fadeIn">Projects I’ve Worked On</h1>
         <ul class="animated fadeIn work-posts">
-        {% for post in site.categories.work %}
+        {% for post in site.categories.portfolio %}
           <li>
             <a href="{{ post.url }}">
             <img src="{{ post.thumbnail }}"/>

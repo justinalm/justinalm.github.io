@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Work Life
+title: My Portfolio
 description: A sampling of work involving product strategy, information architecture, wire-framing, user interface design, visual identity, and visual design.
 ---
 
 <div id="work">
 	<div class="animated fadeIn container">
-		<h1 class="page-title">Work Life</h1>
-		<p class="page-description">Samples of work involving product strategy, information architecture (IA), wireframing, UI design, identity, and visual design.</p>
+		<h1 class="page-title">My Portfolio</h1>
+		<p><em>Samples of work involving product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and visual design.</em></p>
 
 		<hr class="page-top">
 
 		<ul class="animated fadeIn work-posts">
-		{% for post in site.categories.work %}
+		{% for post in site.categories.portfolio %}
 		  <li>
 		  	<a href="{{ post.url }}">
 		  	<img src="{{ post.thumbnail }}"/>

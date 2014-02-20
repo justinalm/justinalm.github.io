@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Bravado Magazine"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/bravado2-thumb.jpg"

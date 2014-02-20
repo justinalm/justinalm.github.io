@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Access Conference"
 date: 2011-05-30 16:33
 thumbnail: "/images/access-conference-thumbnail.jpg"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: "Woo To See You Website"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/wootoseeyou-thumbnail.jpg"
