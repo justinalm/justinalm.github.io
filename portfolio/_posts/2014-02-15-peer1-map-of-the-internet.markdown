@@ -9,9 +9,9 @@ cats: "UI/UX, iOS, Android, Visual Design"
 ---
 <p>At <a href="http://www.steamclock.com/" title="Steamclock Software" target="_blank">Steamclock Software</a>, I had the privilege to design the user interface, app icons, and App Store and Play Store assets for Peer 1’s <em>Map of the Internet</em>.</p>
 
-<p>Concept for the app was by the team at Peer 1. Initial design of the UI and 3D visualizations were created by Steamclock’s Nigel Brooke, Allen Pike, and Angelina Fabbro. iOS and Android development was handled by Steamclock’s engineers. Along side Allen Pike at Steamclock and the Kyle Dickau at Peer 1, I refined UI patterns, converted graphics to assets for UI elements, and designed the App/Play Store submissions.</p>
+<p>Concept for the app was by the team at Peer 1. Initial design of the UI and 3D visualizations were created by Steamclock’s Nigel Brooke, Allen Pike, and Angelina Fabbro. iOS and Android development was handled by Steamclock’s engineers. Working with Allen Pike and the Kyle Dickau, I refined UI patterns, optimized assets for UI elements, and designed the App/Play Store submissions.</p>
 
-<p>Tens of thousands of downloads, press coverage from CNN, Popular Science, and Fast Company, and 5 star reviews by thousands of users confirm that <em>Map of the Internet</em> is a huge success.</p>
+<p>Tens of thousands of downloads, press coverage from CNN, Popular Science, and Fast Company, and 5 star reviews affirm <em>Map of the Internet</em> as a huge success.</p>
 
 <p>Download on the <a title="Download the Map of the Internet on the App Store." href="https://itunes.apple.com/ca/app/map-internet-by-peer-1-hosting/id605924222?mt=8&amp;at=11l4FP&amp;ct=steamclockcom" target="_blank">App Store</a> or the <a title="Download the Map of the Internet on the Play Store." href="https://play.google.com/store/apps/details?id=com.peer1.internetmap&amp;feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5wZWVyMS5pbnRlcm5ldG1hcCJd" target="_blank">Play Store</a> for free.</p>
 

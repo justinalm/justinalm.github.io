@@ -1,13 +1,13 @@
 ---
 published: true
 layout: portfolio
-title: "2012 ECUAD Catalog Website"
+title: "ECUAD Catalog Website"
 date: 2013-04-17 16:19:44
 thumbnail: "/images/2012-emilycarr-catalogue-thumb.jpg"
 description: "I designed and developed the _2012 Emily Carr Graduation Exhibition website."
 cats: "UI/UX, Web, Front-end, Wordpress"
 ---
-<p class="work-content">I designed and developed the 2012 Emily Carr Graduation Exhibition Catalog Website. It was important to showcase the process of working on art &amp; design. Encorporating footage of students working on pieces for the exhibition by <a href="http://bernieyao.com/" title="Bernie Yao" target="_blank">Bernie Yao</a>. Within each degree track, student work is organized alphabetically by first name in a 3-up grid. I handled design, front-end development, content acquisition, and content management.</p>
+<p class="work-content">I designed and developed the 2012 Emily Carr Graduation Exhibition Catalog Website. This showcases works of art &amp; design by students and features footage of students working on pieces for the exhibition by <a href="http://bernieyao.com/" title="Bernie Yao" target="_blank">Bernie Yao</a>. I handled design, front-end development, content acquisition, and content management.</p>
 
 <p class="work-content">Checkout the <a href="http://grad2012.ecuad.ca" title="Emily Carr University 2012 Grad Catalogue Website" target="_blank">2012 Emily Carr University Grad Catalog Website</a>.</p>
 

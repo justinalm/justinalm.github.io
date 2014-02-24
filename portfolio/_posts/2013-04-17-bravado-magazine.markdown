@@ -10,14 +10,11 @@ cats: "UI/UX, Front-end, Custom Wordpress"
 
 <p class="work-content"><a href="http://www.bravadomagazine.com/" title="Bravado Magazine." target="_blank">Bravado Magazine</a> is “high gloss pixels”.</p>
 
+<img src="/images/bravado1.jpg" alt="Design With Bravado is High Gloss Pixels." />
 <img src="/images/bravado2.jpg" alt="Design With Bravado is High Gloss Pixels." />
 <img src="/images/bravado3.jpg" alt="bravado3" />
 <img src="/images/brav1-1024x604.jpg" alt="brav1-1024x604" />
-<img src="/images/brav3-1024x604.jpg" alt="Fashion Page." />
-<img src="/images/brav4-1024x604.jpg" alt="Art Category Page." />
-<img src="/images/brav5-1024x604.jpg" alt="Music Category Page" />
-<img src="/images/brav6-1024x604.jpg" alt="Culture Category Page" />
-<img src="/images/brav7-1024x604.jpg" alt="Styling of lead paragraphs" />
-<img src="/images/brav8-1024x604.jpg" alt="Galleries in articles." />
-<img src="/images/brav9-1024x604.jpg" alt="brav9-1024x604" />
-<img src="/images/bravado10.jpg" alt="Bravado Magazine." />
+<img src="/images/brav3-1024x604.jpg" alt="Fashion Page" />
+<img src="/images/brav4-1024x604.jpg" alt="Art Category Page" />
+<img src="/images/bravado-search.jpg" alt="Serach Results Page" />
+<img src="/images/bravado-about.jpg" alt="Info Page" />

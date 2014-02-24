@@ -3,10 +3,10 @@ html, body { height: 100%; }
 body {
   background-color: rgb(245,245,245);
   color: rgb(100,100,100);
-  font: 13.34px "jaf-facitweb", Helvetica, Arial, sans-serif;
+  font: 13.34px $body-fontfamily;
   font-size: 100%;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 500;
   padding: 20px 0;
 }
 
@@ -18,15 +18,14 @@ h1.title {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "futura-pt",sans-serif;
+  font-family: $headline-fontfamily;
   font-style: normal;
-  font-weight: 900;
+  font-weight: 700;
   max-width: 600px;
 }
 
 h1 {
   font-size: 2.25em;
-  font-weight: normal;
   margin: 0 0 0.5em 0;
   line-height: 1.2;
 }
@@ -38,7 +37,6 @@ h1.page-title {
 h1.post-title {
   max-width: 100%;
   font-size: 2.25em;
-  font-weight: normal;
   text-align: left;
   margin: 0 auto 0.5em auto;
   line-height: 1.2;
@@ -53,6 +51,7 @@ h1.logo {
 h1.logo a {
   padding: 10px 20px;
   margin: 0;
+  font-weight: 700;
 }
 
 h1.logo a:hover {
@@ -62,32 +61,27 @@ h1.logo a:hover {
 
 h1.more-projects {
   font-size: 2.25em;
-  font-weight: normal;
   margin: 1em 0;
   line-height: 1.2;
 }
 
 h2 { 
-  font-family: 'futura-pt', sans-serif;
   margin-bottom: 0.5em;
   font-size: 1.4em;
   line-height: 1.2;
 }
 
-h2.list-post { 
-  font-family: 'futura-pt', sans-serif;
-  margin-bottom: 0.5em;
+h2.list-post {
+  margin-bottom: 0.75em;
   font-size: 1.5em;
 }
 
-h2.work-list-post { 
-  font-family: 'futura-pt', sans-serif;
+h2.work-list-post {
   margin-bottom: 0em;
   font-size: 1.5em;
 }
 
-h3 { 
-  font-family: 'futura-pt', sans-serif;
+h3 {
   margin: 1em 0 0.35em 0; 
   font-size: 1.167em;
   line-height: 1.2;
@@ -98,7 +92,7 @@ p {
   margin: 0;
   font-size: 1em; 
   line-height: 2; 
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 }
 
 p.page-description {
@@ -112,16 +106,17 @@ p.page-description {
 }
 
 p.meta {
-  margin: 0;
   display: block;
   color: #aaa;
-  font-family: 'futura-pt', sans-serif;
+  font-family: $headline-fontfamily;
   font-size: 80%;
+  margin: 0;
 }
 
 p.image-caption {
   font-size: 0.75em;
   font-style: italic;
+  margin: 0 0 1.5em 0;
 }
 
 p.categories {
@@ -143,8 +138,7 @@ p.post-categories {
 .work-content p {
   text-align: left;
   max-width: 600px;
-  margin: 0 0 1em 0;
-  font-size: 1em; 
+  margin: 0 0 1em 0; 
   line-height: 2; 
 }
 
