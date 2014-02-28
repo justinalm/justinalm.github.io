@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: "Errant Magazine Website"
-date: 2014-02-26 16:19:44
+date: 2014-02-25 18:19:44
 thumbnail: "/images/errant-magazine-thumb.jpg"
 description: "Grey Vaisius and I designed the responsive website for Errant Magazine. Mobile first was the most appropriate design strategy for a literary travel publication."
 cats: "UX/UI, Front-end, WordPress"

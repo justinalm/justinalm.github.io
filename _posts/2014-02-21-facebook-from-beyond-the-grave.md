@@ -12,4 +12,4 @@ Not sure how I feel about this. I guess what you put on the Internet does last f
 
 > We are respecting the choices a person made in life while giving their extended community of family and friends ongoing visibility to the same content they could always see.
 
-By <a href="http://newsroom.fb.com/News/806/Remembering-Our-Loved-Ones" title="Facebook blog post">Chris Price and Alex DiSclafani</a>, Facebook Community Operations, February 21, 2014.
+_– By <a href="http://newsroom.fb.com/News/806/Remembering-Our-Loved-Ones" title="Facebook blog post">Chris Price and Alex DiSclafani</a>, Facebook Community Operations, February 21, 2014._

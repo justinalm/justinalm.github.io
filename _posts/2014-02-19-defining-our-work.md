@@ -12,15 +12,15 @@ I enjoyed the [Unfinished Business](http://unfinished.bz/) episode [Michael Park
 
 > We are programming the computer using a programming language, which is different from web development, with HTML and CSS. Those two things are different. We are not conflating the two things together and saying _code_. That’s what irks me and I think irks a lot of other people. It makes it sound as if coding is one homogeneous thing. I know it’s the same thing(homogeneous) when you’re sitting there and literally writing in a text editor … Writing HTML requires a different set of skills to writing … Javascipt.
 
-Andrew Clarke, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 45:20
+_– Andrew Clarke, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 45:20_
 
 > It doesn’t matter! These are the things you discover as you’re doing it … You get there through lots of time – _doing it_ … I’m the biggest language pedant in the world. I’m the semicolon guy. I know when to use them but … when it comes to the meaning and difference of two words, which are both very new … it’s immaterial. The words are still gaining their meaning. I think it detracts from the whole point of teaching more people how to do this important fourth skill …
 
-Elliott Kember, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 46:00
+_– Elliott Kember, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 46:00_
 
 > What if … what they’re actually teaching these kids is not the _code_ itself. Not the HTML, Javascript, and Python but the actual mentality that you sit down and _code_ at the computer – the methodology of the physical act of doing it. If that’s the case, then _programming_ isn’t the right word to use … I don’t even think software development is the right word to use. The actual process of sitting down and using the computer to build something; we don’t have a word for that, that accurately fits all web design, design, and programming … we don’t have a word that’s right … Call it whatever you want. The message gets across that these kids are going to use the computer to create things.
 
-Elliott Kember, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 47:38
+_– Elliott Kember, **Unfinished Business**, [Episode 57](http://unfinished.bz/57) – 47:38_
 
 As a user experience and user interface designer at Steamclock, I wear a lot of hats. I cross the lines of creative direction, user experience, user interface, visual design, and front-end development. My line of work is interdisciplinary. When thinking about what _I do_, I understand it as a series of tests to find the best solution for a visual problem. These tests involve shaping content. I test visual possibilities to find a pleasing way to interact with content on screens.
 
