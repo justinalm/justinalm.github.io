@@ -67,9 +67,8 @@
     margin: 10px 0 0 0;
   }
 
-  h1.post-title {
-    text-align: center;
-    margin: 0 auto 0.25em auto;
+  h1 {
+    margin: 0.5em auto 0.75em auto;
   }
 
   p.post-categories {
@@ -82,7 +81,7 @@
     margin: 0 auto 1em auto;
   }
 
-  p.work-content:last-of-type {
+  .work-content p:last-of-type {
     margin: 0 auto 1.75em auto;
   }
 
