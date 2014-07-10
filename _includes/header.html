@@ -15,11 +15,9 @@
         <title>Justin Alm – {{ page.title }}</title>
         
         {% if page.description %}
-        <meta name="description" content="{{ site.description }}" />
+        <meta name="description" content="{{page.description }}" />
         {% else %}
-        <meta name="description" content="{{ page.description }}" />
-        {% else %}
-        <meta name="description" content="{{ post.description }}" />
+        <meta name="description" content="{{site.description }}" />
         {% endif %}
 
         <!-- OpenGraph Meta Tags -->
@@ -42,7 +40,7 @@
                 <h1 class="logo animated fadeIn"><a href="/" title="The Front Page of justinalm.com">Justin Alm</a></h1>
                 <nav class="animated fadeIn">
                   <li><a href="/" title="My portfolio."/>Portfolio</a></li>
-                  <li><a href="/about" title="Information about me including my resume."/>About</a></li>
+                  <li><a href="/experience" title="About my experience in design."/>Experience</a></li>
                 </nav>
                 <div style="clear: both;"></div>
             </header>
