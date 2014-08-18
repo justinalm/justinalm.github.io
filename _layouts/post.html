@@ -9,23 +9,18 @@ layout: default
             
             {{ content }}
 
-            <div class="page-navigation">
-                    <div class="left"> 
-                            {% if page.next.url %} 
-                            <a href="{{page.next.url}}" title="Previous Post: 
-                            {{page.next.title}}">&laquo; Newer</a> 
-                            {% endif %}
-                    </div> 
+            <hr>
 
-                    <div class="right"> 
-                            {% if page.previous.url %} 
-                            <a href="{{page.previous.url}}" title="next Post: 
-                            {{page.previous.title}}">Older &raquo; </a> 
-                            {% endif %} 
-                    </div> 
-            </div>
-
-            <div class="clearfix">&nbsp;</div>
+            <ul class="animated fadeIn work-posts">
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">
+                <img src="{{ post.thumbnail }}"/>
+                <h2 class="work-list-post">{{ post.title }}</h2></a>
+                <p class="categories">{{ post.cats }}</p>
+              </li>
+            {% endfor %}
+            </ul>
 
     </div><!-- The Post Container --> 
         
