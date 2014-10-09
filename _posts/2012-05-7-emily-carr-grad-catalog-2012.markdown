@@ -7,9 +7,7 @@ thumbnail: "/images/2012-emilycarr-catalogue-thumb.jpg"
 description: "I designed and developed the 2012 Emily Carr Graduation Exhibition website."
 cats: "UI/UX, Web, Front-end, Wordpress"
 ---
-<p>I designed and developed the 2012 Emily Carr Graduation Exhibition Catalog Website. This showcases works of art &amp; design by students and features footage of students working on pieces for the exhibition by <a href="http://bernieyao.com/" title="Bernie Yao" target="_blank">Bernie Yao</a>. I handled design, front-end development, content acquisition, and content management.</p>
-
-<p>Checkout the <a href="http://grad2012.ecuad.ca" title="Emily Carr University 2012 Grad Catalogue Website" target="_blank">2012 Emily Carr University Grad Catalog Website</a>.</p>
+<p class="work-content">I designed and developed the <a href="http://grad2012.ecuad.ca" title="Emily Carr University 2012 Grad Catalogue Website" target="_blank">2012 Emily Carr Graduation Exhibition Catalog Website</a>. The site showcases works of art &amp; design by students. I handled design, front-end development, content acquisition, and content management.</p>
 
 <img src="/images/2012-emilycarr-catalogue-home.jpg" alt="Emily Carr University 2012 Grad Catalogue Home Page" />
 

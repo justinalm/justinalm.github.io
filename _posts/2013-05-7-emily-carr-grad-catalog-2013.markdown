@@ -7,11 +7,7 @@ description: "I worked with the team at Steamclock Software to design and build 
 cats: "UI/UX, Web, Front-end, iPad"
 ---
 
-<p class="work-content">With the crew at Steamclock Software, I work on information architecture, wireframing, front-end development (web only), and visual design for the 2013 Emily Carr Graduation Exhibition website and iPad app. For students, the site includes a submission form to walk through the process of submitting a project to the catalog. For curators, the site includes an admin panel to review submissions, approve projects to “go live”, or request revisions to a project so it can be resubmitted.</p>
-
-<p class="work-content">The Node.js back end was engineered by Angelina Fabbro, the front-end for the iPad app was engineered by Nigel Brooke, and the project was managed by Allen Pike. Artwork included in the app icon and user interface was sourced from <em>The Show</em> brand by <a href="http://www.seven25.com/" title="Seven25 Design" target="_blank">Seven25 Design</a>.</p>
-
-<p class="work-content">Checkout the <a href="http://theshow2013.ecuad.ca" title="Emily Carr University 2013 Grad Catalogue Website" target="_blank">2013 Emily Carr University Grad Catalog Website</a> and <a href="https://itunes.apple.com/ca/app/ecuad-grad-catalog/id640841713?mt=8" title="Emily Carr University 2013 Grad Catalogue iPad application" target="_blank">iPad app</a>.</p>
+<p>At Steamclock, I worked on the 2013 <a href="http://theshow2013.ecuad.ca/">Emily Carr Graduation Exhibition website</a> and <a href="http://theshow2013.ecuad.ca" title="Emily Carr University 2013 Grad Catalogue Website" target="_blank">iPad app</a>. Students can submit via a web form. Curators can review submissions and approve projects or request resubmission. <em>The Show</em> brand was by <a href="http://www.seven25.com/" title="Seven25 Design" target="_blank">Seven25 Design</a>.</p>
 
 <img src="/images/ecuad2013-desktop-1.jpg" alt="Emily Carr University 2013 Grad Catalogue Home and Design Pages" />
 

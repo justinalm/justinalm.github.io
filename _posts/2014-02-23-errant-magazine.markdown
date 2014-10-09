@@ -6,9 +6,7 @@ thumbnail: "/images/errant-magazine-thumb.jpg"
 description: "Grey Vaisius and I designed the responsive website for Errant Magazine. Mobile first was the most appropriate design strategy for a literary travel publication."
 cats: "UX/UI, Front-end, WordPress"
 ---
-<p>Grey Vaisius and I designed the responsive website for <a href="http://www.errantmagazine.ca" title="Steamclock Software" target="_blank">Errant Magazine</a>. Mobile first was the most appropriate design strategy for a literary travel publication. We planned the information architecture, sketched wireframes, visual designs, static prototypes for testing layouts in HTML and CSS, and built a Wordpress theme for the staff at Errant to publish long-form articles, photo essays, and poetry. Included in the project was a user manual for their website. As a parting gift, we diagrammed everything they needed to know to confidently publish content through the admin interface.</p>
-
-<p>Checkout <a href="http://www.errantmagazine.ca/" title="Errant Magazine" target="_blank">Errant Magazine</a>.</p>
+<p><a href="http://greyvy.com">Grey Vaisius</a> and I designed and developed the website for <a href="http://www.errantmagazine.ca" title="Steamclock Software" target="_blank">Errant Magazine</a>. We made wireframes, visual designs, prototypes, and built a Wordpress theme for publishing long-form articles, photo essays, and poetry. We included a refernce manual.</p>
 
 <img src="/images/errant-responsive1.jpg" alt="Errant Magazine 
 Responsive" />

@@ -6,9 +6,7 @@ thumbnail: "/images/steamclock-thumb.jpg"
 description: "I designed and built a responsive website for Steamclock Softare using Ruby, Sass, and nanoc."
 cats: "UI/UX, Front-end, Ruby, nanoc"
 ---
-<p class="work-content">I designed a responsive website for <a href="http://www.steamclock.com" title="Steamclock Software" target="_blank">Steamclock Softare</a>. I walked the team at Steamclock through a process of wireframes, 3 rounds of visual ideation, static prototypes for testing responsive layouts in HTML and CSS, and a the built a production site build using Sass and nanoc. No need for WordPress or Drupal. Everyone on the team is comfortable working on content in Markdown and HTML and deploying from the command line. The build includes a blog programmed by Angelina Fabbro. Copywriting by Allen Pike with help by Nigel Brooke.</p>
-
-<p class="work-content">Checkout <a href="http://www.steamclock.com/" title="Steamclock Software" target="_blank">Steamclock.com</a>.</p>
+<p class="work-content">I designed a responsive website for <a href="http://www.steamclock.com" title="Steamclock Software" target="_blank">Steamclock Softare</a>. I walked Steamclock through a process of wireframing, visual ideation, and static prototypes for testing responsive layouts. Copywriting by <a href="http://www.allenpike.com/">Allen Pike</a> with help by <a href="https://twitter.com/nigelbrooke">Nigel Brooke</a>.</p>
 
 <img src="/images/steamclock-software-1.jpg" alt="Steamclock Software Home" />
 <img src="/images/steamclock-software-2.jpg" alt="Steamclock Software Portfolio" />

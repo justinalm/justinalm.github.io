@@ -39,6 +39,7 @@ hr.portfolio-top {
 header {
   text-align: center;
   display: block;
+  max-width: 1064px;
   margin: 0 auto;
   padding: 0 0 20px 0;
   border-bottom: 1px solid rgb(236, 236, 236);
@@ -47,8 +48,9 @@ header {
 footer {
   display: block;
   text-align: center;
+  max-width: 1064px;
   margin: 0 auto;
-  padding: 20px 20px 40px 20px;
+  padding: 20px 0px 40px 0px;
   border-top: 1px solid rgb(236, 236, 236);
   font-size: 0.7em;
 }
@@ -62,6 +64,7 @@ footer {
 }
 
 .container {
+  max-width: 1024px;
   margin: 0 auto;
   background-color: rgb(255,255,255);
   padding: 20px;
@@ -122,4 +125,5 @@ footer {
 
 .post-content {
   margin: 0 auto;
+  text-align: center;
 }

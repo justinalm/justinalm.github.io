@@ -7,7 +7,7 @@ description: "Branding proposal for the 2011 Access Library Conference in Vancou
 cats: "Identity, Branding, Motion Graphics"
 ---
 
-<p class="work-content">Branding proposal for the 2011 Access Library Conference in Vancouver, British Columbia. Developed in collaboration with <a href="http://maxolson.ca/?portfolio=access" title="Max Olson">Max Olson</a>.</p>
+<p>A branding proposal for the 2011 Access Library Conference in Vancouver, British Columbia. Access is a conference about gathering together to expand our vision for the library. Developed in collaboration with <a href="http://maxolson.ca/?portfolio=access" title="Max Olson">Max Olson</a>.</p>
 
 <img src="/images/01-access-conference.jpg" alt="Access Conference Wordmark" />
 <img src="/images/02-access-conference.jpg" alt="Access Conference 3D mark" />

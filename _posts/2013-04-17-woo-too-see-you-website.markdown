@@ -6,9 +6,7 @@ thumbnail: "/images/wootoseeyou-thumbnail.jpg"
 description: "Woo To See You needed a great online shopping experience."
 cats: "Web, eCommerce, Responsive"
 ---
-<p class="work-content"><a href="http://www.woo2cu.com" title="Link to woo2cu website" target="_blank">Woo To See You</a> needed a great online shopping experience that doubled as a platform to educate their customers about the brands they carry. Heirarchy of typogrpahy, scale of images, and layout of navigation were tested at various screen sizes during the design of the website. The constraints on this project were cost, pageload, and a minimalist shopping experience.</p>
-
-<p class="work-content">Checkout <a href="http://wootoseeyou.com/" title="The website for Vancouver based womens fashion retailer Woo To See You" target="_blank">wootoseeyou.com</a>.</p>
+<p class="work-content"><a href="http://www.woo2cu.com" title="Link to woo2cu website" target="_blank">Woo To See You</a> needed an online shopping experience that doubled as a platform to promote new brands to their customers. I used Squarespace so they could quickly upload new products and offer secure online sales to their customers.</p>
 
 <img src="/images/wootoseeyou-desktop.jpg" alt="wootoseeyou.com circa September 2013"/>
 <img src="/images/wootoseeyou-desktop2.jpg" alt="wootoseeyou.com circa September 2013"/>
