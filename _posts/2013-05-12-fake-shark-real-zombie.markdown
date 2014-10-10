@@ -7,11 +7,13 @@ description: "I was approached to design and develop the website for freak-pop, 
 cats: "Mobile First, Responsive, Campaign Site"
 ---
 
-<p class="work-content">I designed and developed a campaign site for <a href="http://www.fakesharkrealzombie.com/" title="Link to Fake Shark Real Zombie's website" target="_blank">Fake Shark Real Zombie</a>’s release of <a href="https://itunes.apple.com/ca/album/liar/id599166015" title="Link to Fake Shark Real Zombie record Liars on iTunes" target="_blank">Liar</a>. The site features an updatable video embed, links fans to their <a href="https://itunes.apple.com/ca/album/girls-featuring-steve-bays/id561288437?i=561288555" title="Fake Shark Real Zombie on iTunes" target="_blank">iTunes</a>, and enables the band to maintain a tour schedule. Artwork by <a href="http://gnargrim.tumblr.com/" title="Mike Shantz website" target="_blank">Mike Shantz</a>.</p>
+I designed and developed a campaign site for [Fake Shark Real Zombie](http://www.fakesharkrealzombie.com/)’s release of [Liar](https://itunes.apple.com/ca/album/liar/id599166015). The site features an updatable video embed, links fans to their [iTunes](https://itunes.apple.com/ca/album/girls-featuring-steve-bays/id561288437?i=561288555), and enables the band to maintain a tour schedule. Artwork by [Mike Shantz](http://gnargrim.tumblr.com/).
 
-<img src="/images/FSRZ-Responsive.jpg" alt="The Fake Shark Real Zombie website is a responsive design" />
-<img src="/images/FSRZ-iPad-MockUp.jpg" alt="The website is tablet friendly" />
-<img src="/images/FSRZ-iPad-MockUp2.jpg" alt="The website is tablet friendly" />
-<img src="/images/FSRZ-iPhone.jpg" alt="The website is mobile phone friendly" />
-<img src="/images/FSRZ-iPhone2.jpg" alt="The website is mobile phone friendly" />
-<img src="/images/FSRZ-Icon-MockUp.jpg" alt="iOS users can add their website to their home screen for easy access to tour dates" />
+<div>
+	<img src="/images/FSRZ-Responsive.jpg" alt="The Fake Shark Real Zombie website is a responsive design" />
+	<img src="/images/FSRZ-iPad-MockUp.jpg" alt="The website is tablet friendly" />
+	<img src="/images/FSRZ-iPad-MockUp2.jpg" alt="The website is tablet friendly" />
+	<img src="/images/FSRZ-iPhone.jpg" alt="The website is mobile phone friendly" />
+	<img src="/images/FSRZ-iPhone2.jpg" alt="The website is mobile phone friendly" />
+	<img src="/images/FSRZ-Icon-MockUp.jpg" alt="iOS users can add their website to their home screen for easy access to tour dates" />
+</div>

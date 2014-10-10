@@ -1,5 +1,12 @@
-name: Justin Alm
+# Site settings
+title: Justin Alm
+email: almjustin@gmail.com
 description: I’m a interaction designer from Vancouver, Canada.
-url: http://justinalm.com
-pygments: true
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://justinalm.com" # the base hostname & protocol for your site
+twitter_username: justinalm
+github_username:  justinalm
 permalink: none
+
+# Build settings
+markdown: kramdown
