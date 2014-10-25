@@ -276,7 +276,7 @@ h1.logo a:hover { color: #505050; text-decoration: none; }
 h1.more-projects { font-size: 2.25em; margin: 1em 0; line-height: 1.2; }
 
 /* line 70, ../_sass/_type.scss */
-h2 { margin-bottom: 0; font-size: 1.4em; line-height: 1.2; }
+h2 { margin-bottom: 0.3em; font-size: 1.4em; line-height: 1.2; }
 
 /* line 76, ../_sass/_type.scss */
 h2.list-post { margin-bottom: 0.75em; font-size: 1.5em; }
@@ -478,7 +478,7 @@ ul.work-posts > li > a { font-size: 0.75em; text-decoration: none; }
   /* line 66, ../_sass/_breakpoints.scss */
   #disqus_thread { margin: 10px 0 0 0; }
   /* line 70, ../_sass/_breakpoints.scss */
-  h1 { margin: 0.5em auto 0.75em auto; }
+  h1 { margin: 0.5em auto; }
   /* line 74, ../_sass/_breakpoints.scss */
   p.post-categories { text-align: center; }
   /* line 78, ../_sass/_breakpoints.scss */
