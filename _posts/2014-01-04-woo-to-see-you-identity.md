@@ -2,7 +2,7 @@
 layout: post
 title: "Woo To See You Identity"
 date: 2014-01-04 16:33
-thumbnail: "/images/wootoseeyoubrand-thumbnail.jpg"
+thumbnail: "/images/woo2cuIdentityThumb.jpg"
 description: "I worked with Hans Woo to define an identity for her Vancouver based fashion company Woo To See You."
 cats: "Identity & Branding"
 ---

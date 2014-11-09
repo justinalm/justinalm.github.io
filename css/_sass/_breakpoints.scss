@@ -1,26 +1,7 @@
 @media only screen and (min-width:770px) {
-  h1.logo {
-    margin: 0;
-    float: left;
-  }
 
   header {
-    padding: 0 0 20px 0;
-  }
-
-  nav {
-    display: block;
-    float: right;
-    width: auto;
-    padding: 15px 0 0 0;
-    margin: 0 15px 0 0;
-  }
-
-
-  blockquote {
-    border-left: 15px solid #5790E5;
-    padding: 0 0 0 2em;
-    margin: 1em 0 1.2em 0;
+    padding: 0 20px 20px 20px;
   }
 
   ul.posts {
@@ -28,12 +9,24 @@
   }
 
   ul.work-posts > li {
-    width: 31.1%;
-    padding: 0 3.333% 0 0;
+    width: 32%;
+    margin: 0 1% 0 0;
   }
 
-  ul.work-posts > li:nth-child(3n+3) {
-    padding: 0;
+  ul.work-posts > li:nth-child(2n) {
+    width: 32%;
+    margin: 0 1% 0 0;
+    overflow: hidden;
+  }
+
+  ul.work-posts > li:nth-child(3n) {
+    display: inline-block;
+    text-align: center;
+    width: 32%;
+    margin: 0 0 0 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    vertical-align: top;
   }
 
   .post {
@@ -71,8 +64,18 @@
     margin: 0.5em auto;
   }
 
-  p.post-categories {
-    text-align: center;
+  h2.work-list-post {
+    margin: 0 0 0.5em 0;
+    font-size: 1.6em;
+  }
+
+  p.categories {
+    font-size: 0.8em;
+    margin: 0 0 1.5em 0;
+  }
+
+  p:last-of-type {
+    margin-bottom: 2.5em;
   }
 
   .work-content p:last-of-type {
@@ -85,8 +88,8 @@
 
 
   footer p {
-    text-align: left;
-    margin: 1.3em 0 0 20px !important;
+    text-align: center;
+    margin: 1.3em auto 0 auto;
   }
 
 }

@@ -1,11 +1,18 @@
 nav {
-  display: block;
-  float: left;
-  width: 100%;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  width: 75%;
+  text-align: right;
   font-family: $headline-fontfamily;
   font-weight: 700;
   list-style: none;
+  padding: 25px 0 0 0;
   margin: 0;
+}
+
+footer nav {
+  text-align: center;
 }
 
 nav > li {
@@ -80,23 +87,56 @@ ul.posts span {
 ul.work-posts {
   width: 100%;
   margin: 0 0 -20px 0;
-  text-align: left;
+  text-align: center;
   overflow: hidden;
 }
 
 ul.work-posts > li {
-  display: block;
-  float: left;
-  width: 100%;
-  margin: 0 0 0.5em 0;
+  display: inline-block;
+  text-align: center;
+  width: 48%;
+  margin: 0 2% 2% 0;
+  overflow: hidden;
+  box-sizing: border-box;
+  vertical-align: top;
 }
 
-ul.work-posts > li:nth-child(3n+3) {
-  display: block;
-  margin-right: 0;
+ul.work-posts > li:nth-child(2n) {
+  display: inline-block;
+  text-align: center;
+  width: 48%;
+  margin: 0 0 2% 0;
+  overflow: hidden;
+  box-sizing: border-box;
+  vertical-align: top;
 }
 
 ul.work-posts > li > a {
   font-size: 0.75em;
   text-decoration: none;
+}
+
+ul.socialIcons {
+  list-style: none;
+  font-size: 1.5em;
+  line-height: 0;
+  padding: 0;
+  margin: 0;
+}
+
+ul.socialIcons li {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 0;
+  margin: 0 10px;
+}
+
+ul.socialIcons li p {
+  line-height: 1.5em;
+  margin: 0;
+}
+
+ul.socialIcons li p:last-of-type {
+  margin: 0;
 }

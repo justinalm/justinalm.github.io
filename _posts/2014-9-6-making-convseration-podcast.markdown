@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making Conversation Podcast"
+title: "Making Conversation"
 date: 2014-9-6 16:19:44
 thumbnail: "/images/makingConversationThumb.jpg"
 description: "Making Conversation is a podcast featuring conversations with artists and designers about the journey from bright eyed-newbie to fame monster."

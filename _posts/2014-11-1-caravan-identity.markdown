@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Caravan.io Identity"
-date: 2014-11-1 16:19:60
+date: 2014-11-1 10:19:34
 thumbnail: "/images/caravanIdentityThumb.jpg"
 description: "The design of the visual identity for Caravan.io – a website that helps groups manage their events."
 cats: "Identity, Branding, Logo"
 ---
-A _caravan_ is a group of people traveling together. Caravans were used desert areas and across Central Asia. Traveling in groups offered protection and improved trade. [Caravan.io](http://caravan.io) is a website to help large groups organize events and handle RSVPs.
+A _caravan_ is a group of people traveling together. Caravans were used desert areas and across Central Asia. Traveling in groups offered protection and improved trade. Steamclock’s [Caravan.io](http://caravan.io) helps large groups organize events and handle RSVPs.
 
 <div>
 	<img src="/images/caravan1.jpg" alt="Visual identity for Caravan.io" />

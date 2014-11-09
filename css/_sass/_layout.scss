@@ -28,6 +28,10 @@ hr {
   clear: both;
 }
 
+hr.under-project {
+  margin: 2.5em 0 1.5em 0;
+}
+
 hr.blog-top {
   margin: 1.75em 0 2em 0;
 }
@@ -37,21 +41,20 @@ hr.portfolio-top {
 }
 
 header {
+  position: relative;
   text-align: center;
   display: block;
-  max-width: 1064px;
+  max-width: 1024px;
   margin: 0 auto;
-  padding: 0 0 20px 0;
-  border-bottom: 1px solid rgb(236, 236, 236);
+  padding: 0 20px 20px 20px;
 }
 
 footer {
   display: block;
   text-align: center;
-  max-width: 1064px;
+  max-width: 1024px;
   margin: 0 auto;
-  padding: 20px 0px 40px 0px;
-  border-top: 1px solid rgb(236, 236, 236);
+  padding: 20px 20px 40px 20px;
   font-size: 0.7em;
 }
 

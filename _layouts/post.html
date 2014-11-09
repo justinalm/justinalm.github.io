@@ -1,27 +1,23 @@
 ---
 layout: default
 ---
-<div class="animated fadeIn container">
 
-        <div class="post-content">
+<h1 class="postTitle">{{ page.title }}</h1>
+<p class="postCategoriesUnderTitle"><i class="fa fa-pie-chart"></i></i>&nbsp;&nbsp;{{ page.cats }}</p>
 
-            <h1>{{ page.title }}</h1>
+{{ content }}
 
-            {{ content }}
-            
-            <hr>
+<hr class="under-project">
 
-            <ul class="animated fadeIn work-posts">
-            {% for post in site.posts %}
-              <li>
-                <a href="{{ post.url }}">
-                <img src="{{ post.thumbnail }}"/>
-                <h2 class="work-list-post">{{ post.title }}</h2></a>
-                <p class="categories">{{ post.cats }}</p>
-              </li>
-            {% endfor %}
-            </ul>
+<h2 class="more-projects">More Projects</h2>
 
-    </div><!-- The Post Container --> 
-        
-</div><!-- End of the Narrow Container -->
+<ul class="animated fadeIn work-posts">
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">
+    <img src="{{ post.thumbnail }}"/>
+    <h2 class="work-list-post">{{ post.title }}</h2></a>
+    <p class="categories">{{ post.cats }}</p>
+  </li>
+{% endfor %}
+</ul>

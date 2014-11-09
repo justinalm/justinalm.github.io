@@ -14,10 +14,7 @@ A branding proposal for the 2011 Access Library Conference in Vancouver, British
 	<img src="/images/02-access-conference.jpg" alt="Access Conference 3D mark" />
 	<img src="/images/03-access-conference.jpg" alt="Access Conference Poster" />
 	<img src="/images/04-access-conference.jpg" alt="Access Conference Stationery." />
-
-	<div class="container">
-	    <div class="vendor">
-			<iframe src="//player.vimeo.com/video/38350867?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="828" height="600" frameborder="0"> </iframe>
-		</div>
+	<div class="vendor">
+		<iframe src="//player.vimeo.com/video/38350867?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1&amp;loop=1" width="500" height="363" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>&nbsp;</iframe>
 	</div>
 </div>
