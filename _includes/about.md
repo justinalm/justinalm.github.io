@@ -2,10 +2,10 @@
 
 ## Experience
 
-### User Experience & User Interface Designer – [Steamclock Software](http://www.steamclock.com)
+### Interface Designer – [Steamclock Software](http://www.steamclock.com)
 **_Dec. 2012 — Present_**
 
-As a user experience and user interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products [WeddingDJ](http://www.steamclock.com/weddingdj/) and [PartyMonster](http://www.steamclock.com/partymonster/). The other half of my time is spent on [consulting and design](http://www.steamclock.com/services/).
+As an interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products [WeddingDJ](http://www.steamclock.com/weddingdj/) and [PartyMonster](http://www.steamclock.com/partymonster/). The other half of my time is spent on [consulting and design](http://www.steamclock.com/services/).
 
 ### Contract Designer – [Free Agency Creative](http://freeagencycreative.com/)
 **_Aug. 2012 – Nov. 2012_**
