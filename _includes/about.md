@@ -2,10 +2,21 @@
 
 ## Experience
 
+### User Experience Designer – [Jostle Corporation](http://www.jostle.me)
+**_Jan. 2015 — Present_**
+
+As a user experience designer at Jostle Corporation, my work involves strategy, information architecture, wire-framing, visual design of user interfaces for desktop, tablet, and mobile platforms. I am also actively involved with design for web and print marketing materials of various formats.
+
 ### Interface Designer – [Steamclock Software](http://www.steamclock.com)
-**_Dec. 2012 — Present_**
+**_Dec. 2012 — Jan. 2015_**
 
 As an interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products [WeddingDJ](http://www.steamclock.com/weddingdj/) and [PartyMonster](http://www.steamclock.com/partymonster/). The other half of my time is spent on [consulting and design](http://www.steamclock.com/services/).
+
+**Recommendation**
+
+_“It's been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I'm excited to see his future success as he takes on more leadership and tackles new challenges.”_
+
+– [Allen Pike](http://ca.linkedin.com/in/allenpike), Co-founder of Steamclock Software
 
 ### Contract Designer – [Free Agency Creative](http://freeagencycreative.com/)
 **_Aug. 2012 – Nov. 2012_**
@@ -17,7 +28,7 @@ I handled design and production of point of purchase displays and materials for 
 
 I designed the website for The [2012 Emily Carr University Graduation Exhibition Catalogue](http://grad2012.ecuad.ca/) and directed the deployment of the site to Emily Carr’s server. Working with a team of students handing the identity of the exhibition, I presented concepts, prototypes, development of HTML, CSS, jQuery, and PHP, throughout the design and production of the catalogue website. The website was designed to make student work easily accessible on any device and major browsers.
 
-**Testimonial**
+**Recommendation**
 
 _“Justin Alm is one of those rare web designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”_
 
@@ -28,7 +39,7 @@ _“Justin Alm is one of those rare web designers who is just as concerned with 
 
 During my research assistantship with the [Social + Interactive Media](http://research.ecuad.ca/simcentre/) and [Stereoscopic 3D Centres](http://research.ecuad.ca/s3dcentre/) at Emily Carr University of Art + Design, I conducted interviews, produced graphics for feature articles, designed motion graphics for promotional and instructional videos, and published content using Drupal to their respective websites.
 
-**Testimonial**
+**Recommendation**
 
 _“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”_
 
