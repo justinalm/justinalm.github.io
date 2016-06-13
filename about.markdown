@@ -5,7 +5,7 @@ position: 0
 layout: default
 ---
 
-**I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").**
+I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").
 
 ## **Experience**
 
@@ -95,11 +95,15 @@ HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git 
 
 ## **Honours & Awards**
 
-2009 Emily Carr University of Art \+ Design, OPUS Bursary\
-2010 Emily Carr University of Art \+ Design, OPUS Bursary\
-2011 Emily Carr University of Art \+ Design, OPUS Bursary\
-Recipient of the OPUS Bursary 2008-2011 & multiple Millenium Scholarships.\
-[Applied Arts Student Awards 2012](http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1), Design/Editorial – Single, for [Know Ideas](http://justinalm.com/projects/know-ideas)
+* 2009 Emily Carr University of Art \+ Design, OPUS Bursary
+
+* 2010 Emily Carr University of Art \+ Design, OPUS Bursary
+
+* 2011 Emily Carr University of Art \+ Design, OPUS Bursary
+
+* Recipient of the OPUS Bursary 2008-2011 & multiple Millenium Scholarships.
+
+* [Applied Arts Student Awards 2012](http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1), Design/Editorial – Single, for [Know Ideas](http://justinalm.com/projects/know-ideas)
 
 ## **Interests**
 
