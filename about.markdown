@@ -7,8 +7,6 @@ layout: default
 
 **I’m a designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). We are on a quest to make organizations happier and more productive with our People Engagement® platform – a new kind of intranet that is simple, work relevant, and invigorating. I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").**
 
----
-
 ## **Experience**
 
 ### **User Experience Designer – [Jostle Corporation](http://www.jostle.me/)**
@@ -65,8 +63,6 @@ During my research assistantship with the [Social \+ Interactive Media](http://r
 
 I was one of a team of Emily Carr faculty and students who investigated technology options for creating an ebook, [Learning, Freedom and the Web](http://learningfreedomandtheweb.org/). We built an ebook for tablets, and desktop computers, and that is distributed for free. We designed it to take advantage of the navigation and multimedia opportunities a tablet could provide. Working with Vancouver-based development company Steamclock Software, our team recommended building the book in HTML5, Javascript and CSS.
 
----
-
 ## **Education**
 
 ### **Emily Carr University of Art & Design – B.Des — Interaction Design**
@@ -83,8 +79,6 @@ The [Interaction Design Degree Program](http://design.ecuad.ca/) has taught me t
 
 The primary focus of my studies was [The History of the Cold War and Conflict Studies](http://artsandscience.usask.ca/arts-science/humanities-finearts.php). My learning ranged from the history of Europe in the 19th and 20th Centuries, history of imperialism, and the history of development.
 
----
-
 ## **Overview of Skills**
 
 ### **Design**
@@ -99,8 +93,6 @@ MindNode Pro · Photoshop · Illustrator · InDesign · After Effects · Premier
 
 HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git · Github · PHP · WordPress · Jekyll
 
----
-
 ## **Honours & Awards**
 
 2009 Emily Carr University of Art \+ Design, OPUS Bursary\
@@ -108,8 +100,6 @@ HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git 
 2011 Emily Carr University of Art \+ Design, OPUS Bursary\
 Recipient of the OPUS Bursary 2008-2011 & multiple Millenium Scholarships.\
 [Applied Arts Student Awards 2012](http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1), Design/Editorial – Single, for [Know Ideas](http://justinalm.com/projects/know-ideas)
-
----
 
 ## **Interests**
 
