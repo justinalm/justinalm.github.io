@@ -5,7 +5,7 @@ position: 0
 layout: default
 ---
 
-**I’m a designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). We are on a quest to make organizations happier and more productive with our People Engagement® platform – a new kind of intranet that is simple, work relevant, and invigorating. I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").**
+**I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").**
 
 ## **Experience**
 
