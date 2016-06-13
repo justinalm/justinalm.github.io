@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-jekyll && rsync -v -rz --checksum _site/ poly:/srv/www/justinalm.com/public_html/stage

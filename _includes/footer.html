@@ -1,44 +1,9 @@
-            <footer>
-                <nav>
-                  <li><a href="/" title="My portfolio."/>Portfolio</a></li>
-                  <li><a href="/about" title="About me and my history as a designer."/>About</a></li>
-                  <li><a href="https://medium.com/@justinalm" title="My writing on Medium."/>Medium</a></li>
-                </nav>
-                <p>&copy; Justin Alm. 2013.</p>
-            </footer>
+<footer class="site-footer">
 
-            <!-- jQuery -->
-            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-            
-            <!-- FitVids.js -->
-            <script src="/js/jquery.fitvids.js"></script>
-            <script>
-              $(document).ready(function(){
-                $(".container").fitVids();
-              });
-            </script>
-            <script>
-                    jQuery(document).ready( function( ) {
-                        // Load Twitter widget script
-                        jQuery.getScript('http://widgets.twimg.com/j/2/widget.js');
-                    });
-            </script>
+  <div class="wrapper">
 
-            <!-- Google Analytics -->
-            <script type="text/javascript">
+    <h2 class="footer-heading">{{ site.title }}</h2>
 
-              var _gaq = _gaq || [];
-              _gaq.push(['_setAccount', 'UA-1522375-3']);
-              _gaq.push(['_setDomainName', 'justinalm.com']);
-              _gaq.push(['_trackPageview']);
+  </div>
 
-              (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-              })();
-
-            </script>
-
-    </body>
-</html>
+</footer>
