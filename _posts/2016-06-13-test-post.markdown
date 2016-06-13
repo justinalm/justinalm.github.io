@@ -1,6 +1,0 @@
----
-title: Test post
-date: 2016-06-13 04:40:00 Z
----
-
-This is a test post.
