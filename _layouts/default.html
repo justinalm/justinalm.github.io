@@ -1,7 +1,20 @@
-{% include header.html %}
-<div class="animated fadeIn container">
-    <div class="post-content">
-    	{{ content }}
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
-</div>
-{% include footer.html %}
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

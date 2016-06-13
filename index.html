@@ -1,19 +1,23 @@
 ---
 layout: default
-title: Portfolio
-description: By Justin Alm, a Vancouver based designer. Samples of work involve product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and graphic design.
 ---
 
-<h1 style="text-align: center;">Portfolio</h1>
-<p style="text-align: center;"><em>Samples of work involving product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and graphic design.</em></p>
+<div class="home">
 
-<ul class="animated fadeIn work-posts">
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">
-    <img src="{{ post.thumbnail }}"/>
-    <h2 class="work-list-post">{{ post.title }}</h2></a>
-    <p class="categories">{{ post.cats }}</p>
-  </li>
-{% endfor %}
-</ul>
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

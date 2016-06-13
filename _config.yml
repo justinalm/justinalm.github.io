@@ -1,12 +1,23 @@
-# Site settings
-title: Justin Alm
-email: almjustin@gmail.com
-description: I’m a interaction designer from Vancouver, Canada.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://justinalm.com" # the base hostname & protocol for your site
-twitter_username: justinalm
-github_username:  justinalm
-permalink: none
-
-# Build settings
-markdown: kramdown
+---
+title: Portfolio of Justin Alm
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
