@@ -1,0 +1,132 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.group:after {
+  visibility: hidden;
+  display: block;
+  content: "";
+  clear: both;
+  height: 0;
+  }
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
+
+hr {
+  margin: 2.5em 0;
+  border: 0;
+  height: 1px;
+  background: rgb(236, 236, 236);
+  clear: both;
+}
+
+hr.under-project {
+  margin: 2.5em 0 1.5em 0;
+}
+
+hr.blog-top {
+  margin: 1.75em 0 2em 0;
+}
+
+hr.portfolio-top {
+  margin: 1.75em 0 2.25em 0;
+}
+
+header {
+  position: relative;
+  text-align: center;
+  display: block;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 20px 20px 40px 20px;
+  font-size: 0.7em;
+}
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  background-color: rgb(255,255,255);
+  padding: 20px;
+}
+
+.centered {
+  text-align: left;
+}
+
+.pagination {
+  font-family: $headline-fontfamily;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  padding: 1em 0 0 0;
+  border-top: 1px solid rgb(236, 236, 236);
+}
+
+.previous {
+  float: left;
+  display: inline-block;
+  font-family: $headline-fontfamily;
+  padding: 0em;
+  margin: 0;
+}
+
+.next {
+  float: right;
+  display: inline-block;
+  font-family: $headline-fontfamily;;
+  overflow: hidden;
+  padding: 0em;
+  margin: 0;
+}
+
+.page-navigation {
+  font-family: $headline-fontfamily;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.left {
+  float: left;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+}
+
+.right {
+  float: right;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+  overflow: hidden;
+}
+
+.post-content {
+  margin: 0 auto;
+  text-align: center;
+}
