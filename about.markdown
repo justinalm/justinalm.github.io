@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2016-06-12 22:19:00 -07:00
-position: 0
+position: 1
 ---
 
 I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").

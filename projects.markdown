@@ -1,7 +1,7 @@
 ---
 title: Projects
-date: 2016-06-13 04:38:00 Z
-position: 1
+date: 2016-06-12 21:38:00 -07:00
+position: 0
 ---
 
 Samples of work involving product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and graphic design.
