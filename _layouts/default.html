@@ -13,14 +13,6 @@
       </div>
     </div>
 
-    {% for project in site.projects limit:6 %}
-      <li>
-        <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
-        <a href="{{ album.url }}">{{ album.title }}</a>
-        <p>{{ album.short-description }}</p>
-      </li>
-{% endfor %}
-
     {% include footer.html %}
 
   </body>
