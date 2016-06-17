@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Errant Magazine Website
 date: 2016-06-13 06:57:00 Z
 ---

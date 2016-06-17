@@ -1,7 +1,7 @@
 ---
+layout: default
 title: ECUAD 2013 Catalog App
 date: 2016-06-13 05:36:00 Z
-layout: default
 ---
 
 *UI/UX, Web, Front-end, iPad*

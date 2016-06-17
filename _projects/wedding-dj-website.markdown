@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Wedding DJ Website
 date: 2016-06-13 06:56:00 Z
 ---

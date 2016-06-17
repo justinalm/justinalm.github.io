@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Steamclock Website
 date: 2016-06-13 06:58:00 Z
 ---

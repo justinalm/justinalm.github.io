@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Caravan.io Identity
 date: 2016-06-13 06:55:00 Z
 ---

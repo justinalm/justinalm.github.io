@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ECUAD and Mozilla
 date: 2016-06-13 07:00:00 Z
 ---

@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Mozilla Stumbler Concept
 date: 2016-06-13 05:14:00 Z
-layout: default
 ---
 
 ***UX/UI, Android, Concept***

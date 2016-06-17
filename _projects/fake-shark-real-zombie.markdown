@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Fake Shark Real Zombie
 date: 2016-06-13 06:59:00 Z
 ---

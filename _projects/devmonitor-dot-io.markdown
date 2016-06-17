@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Devmonitor.io
 date: 2016-06-13 05:23:00 Z
-layout: default
 ---
 
 ***UX/UI, Visal Design, Front-end***

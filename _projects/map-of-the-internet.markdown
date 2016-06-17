@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
-layout: default
 ---
 
 *UI/UX, iOS, Android, Visual Design*

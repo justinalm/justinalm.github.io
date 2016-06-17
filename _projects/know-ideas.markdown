@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Know Ideas
 date: 2016-06-13 06:59:00 Z
 ---

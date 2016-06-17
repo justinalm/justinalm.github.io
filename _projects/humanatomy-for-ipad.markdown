@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Humanatomy For iPad
 date: 2016-06-13 05:05:00 Z
-layout: default
 ---
 
 ***UX/UI, Visual Design, iPad***
