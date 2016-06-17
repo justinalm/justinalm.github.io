@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Bravado Magazine
-date: 2016-06-13 07:00:00 Z
+date: 2016-06-13 00:00:00 -07:00
+layout: default
 ---
 
 *UI/UX, Front-end, Custom WordPress*

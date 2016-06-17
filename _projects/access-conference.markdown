@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Access Conference
-date: 2016-06-13 07:01:00 Z
+date: 2016-06-13 00:01:00 -07:00
+layout: default
 ---
 
 *Identity, Branding, Motion Graphics*

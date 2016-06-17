@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Steamclock Website
-date: 2016-06-13 06:58:00 Z
+date: 2016-06-12 23:58:00 -07:00
+layout: default
 ---
 
 *UI/UX, Front-end, Ruby, nanoc*

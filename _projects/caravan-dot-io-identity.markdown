@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Caravan.io Identity
-date: 2016-06-13 06:55:00 Z
+date: 2016-06-12 23:55:00 -07:00
+layout: default
 ---
 
 *Identity, Branding, Logo*

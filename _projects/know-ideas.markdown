@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Know Ideas
-date: 2016-06-13 06:59:00 Z
+date: 2016-06-12 23:59:00 -07:00
+layout: default
 ---
 
 *Book Design, Print Production*

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Wedding DJ Website
-date: 2016-06-13 06:56:00 Z
+date: 2016-06-12 23:56:00 -07:00
+layout: default
 ---
 
 *UX, Visual Design, Front-end*

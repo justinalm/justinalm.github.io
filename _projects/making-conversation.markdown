@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Making Conversation
-date: 2016-06-13 06:57:00 Z
+date: 2016-06-12 23:57:00 -07:00
+layout: default
 ---
 
 *Podcast, Indentity, Community*
