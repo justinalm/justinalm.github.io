@@ -47,7 +47,10 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
-    vertical-align: middle;
+}
+
+img.full-width {
+    width: 100%;
 }
 
 
