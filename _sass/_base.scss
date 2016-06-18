@@ -18,6 +18,7 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
+    padding: $spacing-unit/2;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -40,8 +41,6 @@ ul, ol, dl, figure,
 }
 
 
-
-
 /**
  * Images
  */
@@ -54,8 +53,6 @@ img.full-width {
 }
 
 
-
-
 /**
  * Figures
  */
@@ -66,8 +63,6 @@ figure > img {
 figcaption {
     font-size: $small-font-size;
 }
-
-
 
 
 /**
@@ -84,7 +79,24 @@ li {
     }
 }
 
+ul.projectList {
+    list-style: none;
+    margin: 0;
+}
 
+ul.projectList li {
+    display: inline-block;
+}
+
+ul.projectList li a {
+    display: inline-block;
+    background: #f2f2f2;
+    padding: $spacing-unit/4 $spacing-unit/2;
+    margin: 0 $spacing-unit/2 $spacing-unit/2 0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
 
 
 /**
@@ -93,8 +105,6 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
-
-
 
 
 /**
@@ -114,8 +124,6 @@ a {
 }
 
 
-
-
 /**
  * Blockquotes
  */
@@ -131,8 +139,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
-
 
 
 /**
@@ -162,8 +168,6 @@ pre {
 }
 
 
-
-
 /**
  * Wrapper
  */
@@ -185,8 +189,6 @@ pre {
 }
 
 
-
-
 /**
  * Clearfix
  */
@@ -198,8 +200,6 @@ pre {
         clear: both;
     }
 }
-
-
 
 
 /**
