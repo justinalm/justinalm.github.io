@@ -8,7 +8,12 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    max-width: 700px; 
+    margin: 0 auto;
+}
 
 
 /**
@@ -18,7 +23,7 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
-    padding: $spacing-unit/2;
+    padding: 0 $spacing-unit/2;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -26,8 +31,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
-
 
 
 /**
@@ -46,10 +49,12 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+    display: block;
 }
 
 img.full-width {
     width: 100%;
+    margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -69,7 +74,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    padding-left: $spacing-unit / 2;
+    margin: 0 auto;
 }
 
 li {
@@ -81,7 +87,8 @@ li {
 
 ul.projectList {
     list-style: none;
-    margin: 0;
+    padding: 0;
+    margin: 0 auto;
 }
 
 ul.projectList li {
@@ -91,7 +98,7 @@ ul.projectList li {
 ul.projectList li a {
     display: inline-block;
     background: #f2f2f2;
-    padding: $spacing-unit/4 $spacing-unit/2;
+    padding: 0 $spacing-unit/4;
     margin: 0 $spacing-unit/2 $spacing-unit/2 0;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -165,6 +172,28 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+
+/* Navigation */
+
+header, footer {
+    text-align: center;
+}
+
+header {
+    margin-bottom: $spacing-unit / 2;
+    border-bottom: 1px solid #ccc;
+}
+
+footer {
+    margin-top: $spacing-unit / 2;
+    border-top: 1px solid #ccc;
+}
+
+header a, footer a {
+    display: inline-block;
+    padding: $spacing-unit/2;
 }
 
 

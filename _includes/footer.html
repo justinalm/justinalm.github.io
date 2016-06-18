@@ -1,5 +1,11 @@
 <footer>
 
-	{{ site.title }}
+   <a href="{{ site.baseurl }}/">Home</a>
+  
+  {% for my_page in site.pages %}
+    {% if my_page.title %}
+    <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% endif %}
+  {% endfor %}
 
 </footer>
