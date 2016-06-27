@@ -24,7 +24,9 @@ body {
   font: 400 18px/1.8 "Merriweather Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
+  max-width: 1300px;
   padding: 0 15px;
+  margin: 0 auto;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -48,9 +50,30 @@ img {
   max-width: 100%;
   display: block; }
 
-img.full-width {
+img.full-width,
+figure.full-width {
   width: 100%;
   margin-bottom: 15px; }
+
+/* FitVids.js */
+video {
+  width: 100%;
+  max-width: 100%;
+  height: auto; }
+
+iframe,
+embed,
+object {
+  width: 100%;
+  max-width: 100%; }
+
+.vendor {
+  padding: 0;
+  background: #f2f2f2;
+  margin-bottom: 15px; }
+
+.unsupported {
+  background: #ccc; }
 
 /**
  * Figures
@@ -72,15 +95,15 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-ul.projectList {
+ul.workList {
   list-style: none;
   padding: 0;
   margin: 0 auto; }
 
-ul.projectList li {
+ul.workList li {
   display: inline-block; }
 
-ul.projectList li a {
+ul.workList li a {
   display: inline-block;
   background: #f2f2f2;
   padding: 0 7.5px;
@@ -93,7 +116,7 @@ ul.projectList li a {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 700; }
 
 /**
  * Links
@@ -142,7 +165,8 @@ pre {
 
 /* Navigation */
 header, footer {
-  text-align: center; }
+  text-align: left;
+  padding: 0; }
 
 header {
   margin-bottom: 15px;
@@ -156,22 +180,16 @@ header a, footer a {
   display: inline-block;
   padding: 15px; }
 
+header a:first-of-type, footer a:first-of-type {
+  padding-left: 0; }
+
 /**
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(1400px - (30px * 2));
-  max-width: calc(1400px - (30px * 2));
+  max-width: 700px;
   margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
-  @media screen and (max-width: 800px) {
-    .wrapper {
-      max-width: -webkit-calc(1400px - (30px));
-      max-width: calc(1400px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+  margin-left: auto; }
 
 /**
  * Clearfix

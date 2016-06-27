@@ -29,7 +29,9 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
+    max-width: 1300px;
     padding: 0 $spacing-unit/2;
+    margin: 0 auto;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -58,9 +60,31 @@ img {
     display: block;
 }
 
-img.full-width {
+img.full-width,
+figure.full-width {
     width: 100%;
     margin-bottom: $spacing-unit / 2;
+}
+
+/* FitVids.js */
+video {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+iframe,
+embed,
+object {
+    width: 100%;
+    max-width: 100%;
+}
+.vendor {
+    padding: 0;
+    background: #f2f2f2;
+    margin-bottom: $spacing-unit / 2;
+}
+.unsupported {
+    background: #ccc;
 }
 
 
@@ -91,17 +115,17 @@ li {
     }
 }
 
-ul.projectList {
+ul.workList {
     list-style: none;
     padding: 0;
     margin: 0 auto;
 }
 
-ul.projectList li {
+ul.workList li {
     display: inline-block;
 }
 
-ul.projectList li a {
+ul.workList li a {
     display: inline-block;
     background: #f2f2f2;
     padding: 0 $spacing-unit/4;
@@ -116,7 +140,7 @@ ul.projectList li a {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    font-weight: $bold-font-weight;
 }
 
 
@@ -184,7 +208,8 @@ pre {
 /* Navigation */
 
 header, footer {
-    text-align: center;
+    text-align: left;
+    padding: 0;
 }
 
 header {
@@ -202,25 +227,19 @@ header a, footer a {
     padding: $spacing-unit/2;
 }
 
+header a:first-of-type, footer a:first-of-type {
+    padding-left: 0;
+}
+
 
 /**
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: 700px;
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
     @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
 }
 
 
