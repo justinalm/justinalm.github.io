@@ -186,12 +186,13 @@ header {
 
 footer {
   margin-top: 15px;
+  margin-bottom: 30px;
   border-top: 1px solid #ccc; }
 
 header a, footer a {
   display: inline-block;
   color: #828282;
-  padding: 3.75px 15px; }
+  padding: 7.5px 15px; }
 
 header a {
   border-bottom: 2px solid #FFFFFF; }
@@ -204,7 +205,8 @@ header a.selected {
   border-bottom: 2px solid #2196f3; }
 
 footer a {
-  border-top: 2px solid #FFFFFF; }
+  border-top: 2px solid #FFFFFF;
+  border-bottom: none; }
 
 footer a:hover {
   border-top: 2px solid #828282; }

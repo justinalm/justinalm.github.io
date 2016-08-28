@@ -233,13 +233,14 @@ header {
 
 footer {
     margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
     border-top: 1px solid #ccc;
 }
 
 header a, footer a {
     display: inline-block;
     color: $grey-color;
-    padding: $spacing-unit/8 $spacing-unit/2;
+    padding: $spacing-unit/4 $spacing-unit/2;
 }
 
 header a {
@@ -257,6 +258,7 @@ header a.selected {
 
 footer a {
     border-top: 2px solid #FFFFFF;
+    border-bottom: none;
 }
 
 footer a:hover {

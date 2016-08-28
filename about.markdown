@@ -30,7 +30,7 @@ As an interface designer at Steamclock Software, my work involves strategy, info
 
 ***Aug. 2012 – Nov. 2012***
 
-I handled design and production of point of purchase displays and materials for[Nintendo of America](http://www.nintendo.com/), large scale in-mall and direct mail marketing campaigns for [Park Royal Shopping Centre](http://www.shopparkroyal.com/), advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for [Marketplace Events](http://www.nintendo.com/) – a company that produces some of the largest and longest-running home show events in North America.
+I handled design and production of point of purchase displays and materials for [Nintendo of America](http://www.nintendo.com/), large scale in-mall and direct mail marketing campaigns for [Park Royal Shopping Centre](http://www.shopparkroyal.com/), advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for [Marketplace Events](http://www.nintendo.com/) – a company that produces some of the largest and longest-running home show events in North America.
 
 ### **Interaction Designer – [Emily Carr University of Art & Design](http://www.ecuad.ca/)**
 
@@ -42,7 +42,7 @@ I designed the website for The [2012 Emily Carr University Graduation Exhibition
 
 *“Justin Alm is one of those rare web designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”*
 
-– [Alley Kurgan](http://alleykurgan.com/), Graphic Designer at Herschel Supply Co
+– [Alley Kurgan](http://alleykurgan.com/), Designer & Photographer
 
 ### **Research Assistant – [Emily Carr University of Art & Design](http://www.ecuad.ca/)**
 
