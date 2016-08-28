@@ -1,12 +1,15 @@
 ---
-title: Portfolio of Justin Alm
-timezone: UTC
+title: Justin Alm
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
+    output: true
+  work:
+    title: Work
     output: true
 defaults:
 - scope:
