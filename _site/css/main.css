@@ -106,11 +106,16 @@ ul.workList li {
 ul.workList li a {
   display: inline-block;
   background: #f2f2f2;
+  text-decoration: none;
   padding: 0 7.5px;
   margin: 0 15px 15px 0;
+  border: 1px solid #e8e8e8;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px; }
+
+ul.workList li a.selected {
+  border: 1px solid #2196f3; }
 
 /**
  * Headings
@@ -123,11 +128,13 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #2196f3;
-  text-decoration: none; }
+  text-decoration: none;
+  border-bottom: 2px solid #FFFFFF;
+  transition: all 0.2s ease; }
   a:visited {
     color: #2196f3; }
   a:hover {
-    text-decoration: underline; }
+    border-color: #2196f3; }
 
 /**
  * Blockquotes
@@ -149,7 +156,7 @@ pre,
 code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
-  border-radius: 3px;
+  border-radius: 4px;
   background-color: #eef; }
 
 code {
@@ -178,10 +185,16 @@ footer {
 
 header a, footer a {
   display: inline-block;
-  padding: 15px; }
+  padding: 3.75px 15px;
+  margin: 7.5px 0;
+  border: 1px solid #FFFFFF;
+  border-radius: 4px; }
 
-header a:first-of-type, footer a:first-of-type {
-  padding-left: 0; }
+header a:hover, footer a:hover {
+  border: 1px solid #2196f3; }
+
+header a.selected, footer a.selected {
+  border: 1px solid #2196f3; }
 
 /**
  * Wrapper

@@ -130,11 +130,17 @@ ul.workList li {
 ul.workList li a {
     display: inline-block;
     background: #f2f2f2;
+    text-decoration: none;
     padding: 0 $spacing-unit/4;
     margin: 0 $spacing-unit/2 $spacing-unit/2 0;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
+    border: 1px solid $grey-color-light;
+    -webkit-border-radius: $border-radius;
+    -moz-border-radius: $border-radius;
+    border-radius: $border-radius;
+}
+
+ul.workList li a.selected {
+    border: 1px solid $brand-color;
 }
 
 
@@ -152,13 +158,15 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    border-bottom: 2px solid #FFFFFF;
+    transition: all 0.2s ease;
 
     &:visited {
         color: $brand-color;
     }
 
     &:hover {
-        text-decoration: underline;
+        border-color: $brand-color;
     }
 }
 
@@ -170,7 +178,7 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: $base-font-size;
     letter-spacing: -1px;
     font-style: italic;
 
@@ -187,7 +195,7 @@ pre,
 code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
-    border-radius: 3px;
+    border-radius: $border-radius;
     background-color: #eef;
 }
 
@@ -226,11 +234,18 @@ footer {
 
 header a, footer a {
     display: inline-block;
-    padding: $spacing-unit/2;
+    padding: $spacing-unit/8 $spacing-unit/2;
+    margin: $spacing-unit/4 0;
+    border: 1px solid #FFFFFF;
+    border-radius: $border-radius;
 }
 
-header a:first-of-type, footer a:first-of-type {
-    padding-left: 0;
+header a:hover, footer a:hover {
+    border: 1px solid $brand-color;
+}
+
+header a.selected, footer a.selected {
+    border: 1px solid $brand-color;
 }
 
 
