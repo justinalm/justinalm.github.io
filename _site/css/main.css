@@ -106,16 +106,23 @@ ul.workList li {
 ul.workList li a {
   display: inline-block;
   background: #f2f2f2;
+  color: #828282;
   text-decoration: none;
   padding: 0 7.5px;
-  margin: 0 15px 15px 0;
-  border: 1px solid #e8e8e8;
+  margin: 0 7.5px 15px 0;
+  border: 2px solid #dbdbdb;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px; }
 
+ul.workList li a:hover {
+  background: #FFFFFF;
+  border: 2px solid #828282; }
+
 ul.workList li a.selected {
-  border: 1px solid #2196f3; }
+  background: #FFFFFF;
+  color: #2196f3;
+  border: 2px solid #2196f3; }
 
 /**
  * Headings
@@ -131,8 +138,6 @@ a {
   text-decoration: none;
   border-bottom: 2px solid #FFFFFF;
   transition: all 0.2s ease; }
-  a:visited {
-    color: #2196f3; }
   a:hover {
     border-color: #2196f3; }
 
@@ -141,7 +146,7 @@ a {
  */
 blockquote {
   color: #828282;
-  border-left: 4px solid #e8e8e8;
+  border-left: 4px solid #dbdbdb;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -155,7 +160,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #dbdbdb;
   border-radius: 4px;
   background-color: #eef; }
 
@@ -185,16 +190,27 @@ footer {
 
 header a, footer a {
   display: inline-block;
-  padding: 3.75px 15px;
-  margin: 7.5px 0;
-  border: 1px solid #FFFFFF;
-  border-radius: 4px; }
+  color: #828282;
+  padding: 3.75px 15px; }
 
-header a:hover, footer a:hover {
-  border: 1px solid #2196f3; }
+header a {
+  border-bottom: 2px solid #FFFFFF; }
 
-header a.selected, footer a.selected {
-  border: 1px solid #2196f3; }
+header a:hover {
+  border-bottom: 2px solid #828282; }
+
+header a.selected {
+  color: #2196f3;
+  border-bottom: 2px solid #2196f3; }
+
+footer a {
+  border-top: 2px solid #FFFFFF; }
+
+footer a:hover {
+  border-top: 2px solid #828282; }
+
+footer a.selected {
+  border-top: 2px solid #2196f3; }
 
 /**
  * Wrapper
@@ -228,7 +244,7 @@ header a.selected, footer a.selected {
  */
 .site-header {
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #dbdbdb;
   min-height: 56px;
   position: relative; }
 
@@ -257,7 +273,7 @@ header a.selected, footer a.selected {
       top: 9px;
       right: 15px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #dbdbdb;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -290,7 +306,7 @@ header a.selected, footer a.selected {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #dbdbdb;
   padding: 30px 0; }
 
 .footer-heading {
