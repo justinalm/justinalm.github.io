@@ -1,7 +1,6 @@
 ---
 title: Justin Alm
 timezone: America/Los_Angeles
-baseurl: /justinalm.github.io
 collections:
   posts:
     title: Posts
