@@ -1,109 +1,159 @@
 ---
 title: About
 date: 2016-06-12 22:19:00 -07:00
-position: 1
+position: 2
 ---
 
-I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at [Jostle](http://www.jostle.me/). I’ve designed iOS & Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and [a podcast series](http://makingconversation.ca/ "Making Conversation Podcast").
+<div class="grid">
+    <div class="col-2-3">
+    	<h1>About</h1>
+    	<p>I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at <a href="http://www.jostle.me/">Jostle</a>. I’ve designed iOS &amp; Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and <a href="http://makingconversation.ca/" title="Making Conversation Podcast">a podcast series</a>.</p>
+    </div>
+</div>
 
-## **Experience**
+<div class="grid">
+    <div class="col-2-3">
+		<h2><strong>Experience</strong></h2>
+	</div>
+</div>
 
-### **User Experience Designer – [Jostle Corporation](http://www.jostle.me/)**
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>User Experience Designer – <a href="http://www.jostle.me/">Jostle Corporation</a></strong></h3>
+		<p><strong><em>Jan. 2015 — Present</em></strong></p>
+		<p>As a user experience designer at Jostle Corporation, my work involves strategy, information architecture, wire-framing, visual design of user interfaces for desktop, tablet, and mobile platforms. I am also actively involved with design for web and print marketing materials of various formats.</p>
+	</div>
+	<div class="col-1-3">
+		<p><img src="http://placehold.it/600x400"></p>
+	</div>
+</div>
 
-***Jan. 2015 — Present***
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Interface Designer – <a href="http://www.steamclock.com/">Steamclock Software</a></strong></h3>
+		<p><strong><em>Dec. 2012 — Jan. 2015</em></strong></p>
+		<p>As an interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products <a href="http://www.steamclock.com/weddingdj/">WeddingDJ</a> and <a href="http://www.steamclock.com/partymonster/">PartyMonster</a>. The other half of my time is spent on <a href="http://www.steamclock.com/services/">consulting and design</a>.</p>
+		<p><strong>Recommendation</strong></p>
+		<p><em>“It’s been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</em></p>
+		<p>– <a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a>, Co-founder of Steamclock Software</p>
+	</div>
+    <div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-As a user experience designer at Jostle Corporation, my work involves strategy, information architecture, wire-framing, visual design of user interfaces for desktop, tablet, and mobile platforms. I am also actively involved with design for web and print marketing materials of various formats.
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Contract Designer – <a href="http://freeagencycreative.com/">Free Agency Creative</a></strong></h3>
+		<p><strong><em>Aug. 2012 – Nov. 2012</em></strong></p>
+		<p>I handled design and production of point of purchase displays and materials for <a href="http://www.nintendo.com/">Nintendo of America</a>, large scale in-mall and direct mail marketing campaigns for <a href="http://www.shopparkroyal.com/">Park Royal Shopping Centre</a>, advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for <a href="http://www.nintendo.com/">Marketplace Events</a> – a company that produces some of the largest and longest-running home show events in North America.</p>
+	</div>
+    <div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-### **Interface Designer – [Steamclock Software](http://www.steamclock.com/)**
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Interaction Designer – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
+		<p><strong><em>Feb. 2012 — Apr. 2012</em></strong></p>
+		<p>I designed the website for The <a href="http://grad2012.ecuad.ca/">2012 Emily Carr University Graduation Exhibition Catalogue</a> and directed the deployment of the site to Emily Carr’s server. Working with a team of students handing the identity of the exhibition, I presented concepts, prototypes, development of HTML, CSS, jQuery, and PHP, throughout the design and production of the catalogue website. The website was designed to make student work easily accessible on any device and major browsers.</p>
+		<p><strong>Recommendation</strong></p>
+		<p><em>“Justin Alm is one of those rare web designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</em></p>
+		<p>– <a href="http://alleykurgan.com/">Alley Kurgan</a>, Designer &amp; Photographer</p>
+	</div>
+    <div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-***Dec. 2012 — Jan. 2015***
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Research Assistant – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
+		<p><strong><em>Jan. 2011 — Jan. 2012</em></strong></p>
+		<p>During my research assistantship with the <a href="http://research.ecuad.ca/simcentre/">Social + Interactive Media</a> and <a href="http://research.ecuad.ca/s3dcentre/">Stereoscopic 3D Centres</a> at Emily Carr University of Art + Design, I conducted interviews, produced graphics for feature articles, designed motion graphics for promotional and instructional videos, and published content using Drupal to their respective websites.</p>
+		<p><strong>Recommendation</strong></p>
+		<p><em>“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</em></p>
+		<p>— <a href="https://www.linkedin.com/in/sandradametto">Sandra Dametto</a> Project Manager S3D Centre &amp; SIM Centre</p>
+	</div>
+    <div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-As an interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products [WeddingDJ](http://www.steamclock.com/weddingdj/) and [PartyMonster](http://www.steamclock.com/partymonster/). The other half of my time is spent on [consulting and design](http://www.steamclock.com/services/).
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Interaction Designer – <a href="https://www.mozilla.org/en-US/">Mozilla</a></strong></h3>
+		<p><strong><em>Mar. — Sept. 2011</em></strong></p>
+		<p>I was one of a team of Emily Carr faculty and students who investigated technology options for creating an ebook, <a href="http://learningfreedomandtheweb.org/">Learning, Freedom and the Web</a>. We built an ebook for tablets, and desktop computers, and that is distributed for free. We designed it to take advantage of the navigation and multimedia opportunities a tablet could provide. Working with Vancouver-based development company Steamclock Software, our team recommended building the book in HTML5, Javascript and CSS.</p>
+	</div>
+	<div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-**Recommendation**
+<div class="grid">
+    <div class="col-2-3">
+		<h2><strong>Education</strong></h2>
+	</div>
+</div>
 
-*“It’s been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”*
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>Emily Carr University of Art &amp; Design – B.Des — Interaction Design</strong></h3>
+		<p><strong><em>2008 — 2012</em></strong></p>
+		<p>The <a href="http://design.ecuad.ca/">Interaction Design Degree Program</a> has taught me the iterative process of design. From writing proposals, concept development, visual research and exploration, user-testing, refining designs and development, and finishing projects for implementation or delivery, I’ve been educated to embrace the tension found in the convergent and divergent plot structure we find in the narrative of every design project.</p>
 
-– [Allen Pike](http://ca.linkedin.com/in/allenpike), Co-founder of Steamclock Software
+		<p><em>Activities and Societies: <a href="http://www.woopublication.ca/">WOO Student Publication</a>, <a href="http://grad2012.ecuad.ca/">Graduation Exhibition Catalogue 2012</a>, <a href="http://research.ecuad.ca/simcentre/">SIM Centre</a>, <a href="http://research.ecuad.ca/s3dcentre/">S3D Centre</a>.</em></p>
+	</div>
+	<div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-### **Contract Designer – [Free Agency Creative](http://freeagencycreative.com/)**
+<div class="grid">
+    <div class="col-2-3">
+		<h3><strong>University of Saskatchewan – B.Arts — History</strong></h3>
+		<p><strong><em>2000 — 2004</em></strong></p>
+		<p>The primary focus of my studies was <a href="http://artsandscience.usask.ca/arts-science/humanities-finearts.php">The History of the Cold War and Conflict Studies</a>. My learning ranged from the history of Europe in the 19th and 20th Centuries, history of imperialism, and the history of development.</p>
+	</div>
+	<div class="col-1-3">
+    	<p><img src="http://placehold.it/600x400"></p>
+    </div>
+</div>
 
-***Aug. 2012 – Nov. 2012***
+<div class="grid">
+    <div class="col-1-2">
+    	<h2><strong>Overview of Skills</strong></h2>
+    	
+		<h3><strong>Design</strong></h3>
+		<p>Requirements Gathering · Stakeholder Interviews · Information Architecture · Sitemaps · Wireframes · Sketching · Visual Design · Audio &amp; Video · Interactive Prototyping · User Research · Presentation Design · Website Design · Website Production · Website Publishing</p>
 
-I handled design and production of point of purchase displays and materials for [Nintendo of America](http://www.nintendo.com/), large scale in-mall and direct mail marketing campaigns for [Park Royal Shopping Centre](http://www.shopparkroyal.com/), advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for [Marketplace Events](http://www.nintendo.com/) – a company that produces some of the largest and longest-running home show events in North America.
+		<h3><strong>Software</strong></h3>
+		<p>MindNode Pro · Photoshop · Illustrator · InDesign · After Effects · Premier · Logic Pro · Sketch · OmniGraffle · Final Cut Pro X · iWork Suite · Xcode · Sublime Text 2 · Terminal</p>
 
-### **Interaction Designer – [Emily Carr University of Art & Design](http://www.ecuad.ca/)**
+		<h3><strong>Code</strong></h3>
+		<p>HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git · Github · PHP · WordPress · Jekyll</p>
+	</div>
+	<div class="col-1-2">
+		<h2><strong>Honours &amp; Awards</strong></h2>
+		<ul>
+			<li><p>2009 Emily Carr University of Art + Design, OPUS Bursary</p></li>
+			<li><p>2010 Emily Carr University of Art + Design, OPUS Bursary</p></li>
+			<li><p>2011 Emily Carr University of Art + Design, OPUS Bursary</p></li>
+			<li><p>Recipient of the OPUS Bursary 2008-2011 &amp; multiple Millenium Scholarships.</p></li>
+			<li><p><a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&amp;year=2012&amp;clip=1">Applied Arts Student Awards 2012</a>, Design/Editorial – Single, for <a href="http://justinalm.com/projects/know-ideas">Know Ideas</a></p></li>
+		</ul>
+	</div>
+	<div class="col-1-2">
+		<h2><strong>Interests</strong></h2>
+		<p>The Internet, getting outdoors, reading, podcasting, writing, cooking, dining out, and traveling.</p>
+	</div>
+</div>
 
-***Feb. 2012 — Apr. 2012***
-
-I designed the website for The [2012 Emily Carr University Graduation Exhibition Catalogue](http://grad2012.ecuad.ca/) and directed the deployment of the site to Emily Carr’s server. Working with a team of students handing the identity of the exhibition, I presented concepts, prototypes, development of HTML, CSS, jQuery, and PHP, throughout the design and production of the catalogue website. The website was designed to make student work easily accessible on any device and major browsers.
-
-**Recommendation**
-
-*“Justin Alm is one of those rare web designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”*
-
-– [Alley Kurgan](http://alleykurgan.com/), Designer & Photographer
-
-### **Research Assistant – [Emily Carr University of Art & Design](http://www.ecuad.ca/)**
-
-***Jan. 2011 — Jan. 2012***
-
-During my research assistantship with the [Social \+ Interactive Media](http://research.ecuad.ca/simcentre/) and [Stereoscopic 3D Centres](http://research.ecuad.ca/s3dcentre/) at Emily Carr University of Art \+ Design, I conducted interviews, produced graphics for feature articles, designed motion graphics for promotional and instructional videos, and published content using Drupal to their respective websites.
-
-**Recommendation**
-
-*“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”*
-
-— [Sandra Dametto](https://www.linkedin.com/in/sandradametto) Project Manager S3D Centre & SIM Centre
-
-### **Interaction Designer – [Mozilla](https://www.mozilla.org/en-US/)**
-
-***Mar. — Sept. 2011***
-
-I was one of a team of Emily Carr faculty and students who investigated technology options for creating an ebook, [Learning, Freedom and the Web](http://learningfreedomandtheweb.org/). We built an ebook for tablets, and desktop computers, and that is distributed for free. We designed it to take advantage of the navigation and multimedia opportunities a tablet could provide. Working with Vancouver-based development company Steamclock Software, our team recommended building the book in HTML5, Javascript and CSS.
-
-## **Education**
-
-### **Emily Carr University of Art & Design – B.Des — Interaction Design**
-
-***2008 — 2012***
-
-The [Interaction Design Degree Program](http://design.ecuad.ca/) has taught me the iterative process of design. From writing proposals, concept development, visual research and exploration, user-testing, refining designs and development, and finishing projects for implementation or delivery, I’ve been educated to embrace the tension found in the convergent and divergent plot structure we find in the narrative of every design project.
-
-*Activities and Societies: [WOO Student Publication](http://www.woopublication.ca/), [Graduation Exhibition Catalogue 2012](http://grad2012.ecuad.ca/), [SIM Centre](http://research.ecuad.ca/simcentre/), [S3D Centre](http://research.ecuad.ca/s3dcentre/).*
-
-### **University of Saskatchewan – B.Arts — History**
-
-***2000 — 2004***
-
-The primary focus of my studies was [The History of the Cold War and Conflict Studies](http://artsandscience.usask.ca/arts-science/humanities-finearts.php). My learning ranged from the history of Europe in the 19th and 20th Centuries, history of imperialism, and the history of development.
-
-## **Overview of Skills**
-
-### **Design**
-
-Requirements Gathering · Stakeholder Interviews · Information Architecture · Sitemaps · Wireframes · Sketching · Visual Design · Audio & Video · Interactive Prototyping · User Research · Presentation Design · Website Design · Website Production · Website Publishing
-
-### **Software**
-
-MindNode Pro · Photoshop · Illustrator · InDesign · After Effects · Premier · Logic Pro · Sketch · OmniGraffle · Final Cut Pro X · iWork Suite · Xcode · Sublime Text 2 · Terminal
-
-### **Code**
-
-HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git · Github · PHP · WordPress · Jekyll
-
-## **Honours & Awards**
-
-* 2009 Emily Carr University of Art \+ Design, OPUS Bursary
-
-* 2010 Emily Carr University of Art \+ Design, OPUS Bursary
-
-* 2011 Emily Carr University of Art \+ Design, OPUS Bursary
-
-* Recipient of the OPUS Bursary 2008-2011 & multiple Millenium Scholarships.
-
-* [Applied Arts Student Awards 2012](http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1), Design/Editorial – Single, for [Know Ideas](http://justinalm.com/projects/know-ideas)
-
-## **Interests**
-
-The Internet, getting outdoors, reading, podcasting, writing, cooking, dining out, and traveling.
+<h2>Sample projects</h2>
+<ul class="workList">
+{% for work in site.work %}
+  <li><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
+{% endfor %}
+</ul>
