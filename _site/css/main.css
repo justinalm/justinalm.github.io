@@ -20,8 +20,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 18px/1.8 "Merriweather Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
+  font: 400 18px/1.8 "Roboto Mono", Monaco, monospace;
+  color: #001F3F;
   background-color: #fdfdfd;
   max-width: 1300px;
   padding: 0 15px;
@@ -265,7 +265,7 @@ footer a.selected {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #001F3F;
     line-height: 1.8; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
