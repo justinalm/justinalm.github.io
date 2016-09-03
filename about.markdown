@@ -7,7 +7,7 @@ position: 2
 <div class="grid">
     <div class="col-2-3">
     	<h1>About</h1>
-    	<p>I’m a generalist designer from Vancouver, Canada. I currently work as a UX Designer at <a href="http://www.jostle.me/">Jostle</a>. I’ve designed iOS &amp; Android Apps, multi-media websites, online publications, ebooks, print publications, identities, and <a href="http://makingconversation.ca/" title="Making Conversation Podcast">a podcast series</a>.</p>
+    	<p>I’m a interaction designer from Vancouver, Canada. I currently work as a UX Designer at <a href="http://www.jostle.me/">Jostle</a>. I’ve designed iOS &amp; Android Apps, web apps, online publications, ebooks, print publications, identities, and <a href="http://makingconversation.ca/" title="Making Conversation Podcast">a podcast series</a>.</p>
     </div>
 </div>
 
@@ -150,10 +150,3 @@ position: 2
 		<p>The Internet, getting outdoors, reading, podcasting, writing, cooking, dining out, and traveling.</p>
 	</div>
 </div>
-
-<h2>Sample projects</h2>
-<ul class="workList">
-{% for work in site.work %}
-  <li><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
-{% endfor %}
-</ul>
