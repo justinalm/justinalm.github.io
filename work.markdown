@@ -6,10 +6,10 @@ position: 1
 
 <div class="grid">
     <div class="col-2-3">
-    	<h1>Work</h1>
-		<p>Samples of work involving product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and graphic design.</p>
-	</div>
-	<div class="col-1-3"></div>
+        <h1>Work</h1>
+        <p>Samples of work involving product strategy, information architecture (IA), wireframing, user interface design (UI), identity, and graphic design.</p>
+    </div>
+    <div class="col-1-3"></div>
 </div>
 
 {% for work in site.work %}
@@ -19,6 +19,7 @@ position: 1
         <h2><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></h2>
         <p><em><small>{{ work.categories }}</small></em></p>
         <p>{{ work.summary }}</p>
+        <a class="Btn" href="{{ work.url }}" title="{{ work.title }}">View project</a>
     </div>
     <div class="col-2-3">
         <p><a href="{{ work.url }}" title="{{ work.thumbnail }}"><img src="{{ work.thumbnail }}"/></a></p>
