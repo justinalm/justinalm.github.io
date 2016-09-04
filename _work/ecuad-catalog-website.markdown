@@ -57,3 +57,12 @@ summary: A website showcasing works of art & design by Emily Carr University gra
 		<img src="/uploads/2012-emilycarr-catalogue-zoomout.jpg" alt="Building Order From Chaos" />
 	</div>
 </div>
+
+<div class="grid">
+    <div class="col-1-3">
+    	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+	</div>
+	<div class="col-2-3">
+		<img src="/uploads/2012-emilycarr-catalogue-zoomout.jpg" />
+	</div>
+</div>

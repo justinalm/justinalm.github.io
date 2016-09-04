@@ -4,7 +4,7 @@ date: 2016-06-13 00:00:00 -07:00
 layout: default
 thumbnail: /uploads/bravado2-thumb.jpg
 categories: UI/UX, Front-end, Custom WordPress
-summary: I redesigned Bravado Magazine. The design of the website involved concept development, paper-prototyping, front-end development, and migration of content to WordPress. Bravado Magazine is, “high gloss pixels”.
+summary: Cut up content and Bravado Mag became “high gloss pixels”.
 ---
 
 <div class="grid">

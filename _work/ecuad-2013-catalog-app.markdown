@@ -1,10 +1,10 @@
 ---
-title: ECUAD 2013 Catalog App
+title: ECUAD Catalog Platform
 date: 2016-06-12 22:36:00 -07:00
 layout: default
-categories: UI/UX, Web, Front-end, iPad
+categories: UI/UX,&nbsp;System&nbsp;Design,&nbsp;Front-end,&nbsp;iPad
 thumbnail: /uploads/ecuad2013-thumb.jpg
-summary: At Steamclock, I worked on the 2013 <a href="http://theshow2013.ecuad.ca/" target="_blank">Emily Carr Graduation Exhibition website</a> and <a href="https://itunes.apple.com/ca/app/ecuad-grad-catalog/id640841713?mt=8&ign-mpt=uo%3D4" target="_blank">iPad app</a>. Students can submit via a web form. Curators can review submissions and approve projects or request resubmission. <em>The Show</em> brand by <a href="http://www.seven25.com/" target="_blank">Seven25 Design</a>.
+summary: A scalable system to help curators approve and share hundreds projects.
 ---
 <div class="grid">
     <h1>ECUAD 2013 Catalog App</h1>

@@ -4,7 +4,7 @@ date: 2016-06-12 22:23:00 -07:00
 layout: default
 thumbnail: /uploads/devMonitorThumb.jpg
 categories: UX/UI, Visual Design, Front-end
-summary: At Steamclock Software, I worked on the design for <a href="http://www.devmonitor.io/" target="_blank">Devmonitor.io</a> – a website for developer evangelists to connect with their community. The web app enables a ‘devangelist’ to track questions about their product from sites like Stackoverflow.com.
+summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 ---
 
 <div class="grid">

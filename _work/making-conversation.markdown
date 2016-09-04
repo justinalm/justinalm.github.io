@@ -4,7 +4,7 @@ date: 2016-06-12 23:57:00 -07:00
 layout: default
 thumbnail: /uploads/makingConversationLogo.jpg
 categories: Podcast, Indentity, Community
-summary: Shawn Choi and I host the Making Conversation Podcast. We feature conversations with artists and designers about the journey from bright eyed-newbie to fame monster.
+summary: A podcast featuring conversations with artists and designers about the journey from bright eyed-newbie to fame monster.
 ---
 
 <div class="grid">

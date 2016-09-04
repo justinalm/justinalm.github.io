@@ -4,7 +4,7 @@ date: 2016-06-12 23:57:00 -07:00
 layout: default
 thumbnail: /uploads/inspiralMagazineThumb.jpg
 categories: UX/UI,&nbsp;Responsive,&nbsp;WordPress
-summary: Inspiral Magazine was a website intended to grow beyond the editors.
+summary: A publishing system designed to take on a life of its own.
 ---
 <div class="grid">
     <h1>Inspiral Magazine</h1>

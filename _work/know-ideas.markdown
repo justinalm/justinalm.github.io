@@ -4,7 +4,7 @@ date: 2016-06-12 23:57:00 -07:00
 layout: default
 thumbnail: /uploads/ki2-1024x682-thumb.jpg
 categories: Book Design,&nbsp;Print&nbsp;Production
-summary: Grey Vaisius and I wrote a 130 page book about Internet culture.
+summary: 130 pages of paper that helps people understand Internet culture.
 ---
 
 <div class="grid">

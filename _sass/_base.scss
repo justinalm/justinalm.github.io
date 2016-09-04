@@ -173,6 +173,23 @@ a {
     }
 }
 
+.Btn {
+    display: inline-block;
+    background: #fff;
+    color: $brand-color;
+    text-decoration: none;
+    padding: 0 $spacing-unit/4;
+    margin: 0 $spacing-unit/4 $spacing-unit/2 0;
+    border: 2px solid $brand-color;
+    -webkit-border-radius: $border-radius;
+    -moz-border-radius: $border-radius;
+    border-radius: $border-radius;
+
+    &:hover {
+        background: $brand-color;
+        color: #fff;
+    }
+}
 
 /**
  * Blockquotes

@@ -4,7 +4,7 @@ date: 2016-06-12 23:58:00 -07:00
 layout: default
 categories: Identity&nbsp;&&nbsp;Branding
 thumbnail: /uploads/woo2cuIdentityThumb.jpg
-summary: Fashion brands can appear superficial, ineffectual, and void of genuine relationships. <a href="http://wootoseeyou.com/" target="_blank">Woo To See You</a> is fun with fashion and for people who love clothing. We wanted people to feel good when saying, “Woo To See You”.
+summary: Making sure it feels good to say, “Woo To See You”.
 ---
 <div class="grid">
     <h1>Woo To See You Identity</h1>

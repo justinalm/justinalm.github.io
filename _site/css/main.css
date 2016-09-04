@@ -140,6 +140,21 @@ a {
   a:hover {
     border-color: #2196f3; }
 
+.Btn {
+  display: inline-block;
+  background: #fff;
+  color: #2196f3;
+  text-decoration: none;
+  padding: 0 7.5px;
+  margin: 0 7.5px 15px 0;
+  border: 2px solid #2196f3;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
+  .Btn:hover {
+    background: #2196f3;
+    color: #fff; }
+
 /**
  * Blockquotes
  */
