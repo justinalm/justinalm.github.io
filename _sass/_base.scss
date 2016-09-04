@@ -177,8 +177,11 @@ a {
     display: inline-block;
     background: #fff;
     color: $brand-color;
+    font-size: 0.75em;
     text-decoration: none;
-    padding: 0 $spacing-unit/4;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    padding: 0 $spacing-unit/8 0 $spacing-unit/4;
     margin: 0 $spacing-unit/4 $spacing-unit/2 0;
     border: 2px solid $brand-color;
     -webkit-border-radius: $border-radius;
