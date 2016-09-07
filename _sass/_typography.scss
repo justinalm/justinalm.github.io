@@ -1,0 +1,93 @@
+/**
+ * Basic styling
+ */
+body {
+    font-family: $font-family;
+}
+
+/* FitVids.js */
+video {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+iframe,
+embed,
+object {
+    width: 100%;
+    max-width: 100%;
+}
+.vendor {
+    padding: 0;
+    background: #f2f2f2;
+}
+.unsupported {
+    background: #ccc;
+}
+
+nav a:hover {
+    border-bottom: 2px solid $brand-color;
+}
+
+nav a.selected {
+    color: $brand-color;
+    border-bottom: 2px solid $brand-color;
+}
+
+nav a.home {
+    border: none;
+}
+
+/**
+ * Links
+ */
+a {
+    color: $brand-color;
+    text-decoration: none;
+    border-bottom: 2px solid #FFFFFF;
+    transition: all 0.2s ease;
+
+    &:hover {
+        border-color: $brand-color;
+    }
+}
+
+.Btn {
+    display: inline-block;
+    background: #fff;
+    color: $brand-color;
+    font-size: 0.75em;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+
+    &:hover {
+        background: $brand-color;
+        color: #fff;
+    }
+}
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}

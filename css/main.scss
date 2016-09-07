@@ -4,34 +4,9 @@
 @charset "utf-8";
 
 
-
 // Our variables
-$base-font-family: 	'Roboto Mono', Monaco, monospace;
-$base-font-size:   18px;
-$base-font-weight: 400;
-$bold-font-weight: 700;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.8;
-
-$spacing-unit:     30px;
-
-$text-color:       #001F3F;
-$background-color: #fdfdfd;
-$brand-color:      #2196f3;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 35%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$border-radius:     4px;
-
-// Width of the content area
-$content-width:    1300px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
+$font-family: 'Roboto Mono', Monaco, monospace;
+$brand-color: #5790E5;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -47,11 +22,8 @@ $on-laptop:        800px;
 }
 
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "grid",
+        "typography",
         "syntax-highlighting"
 ;
