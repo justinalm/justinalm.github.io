@@ -1,0 +1,15 @@
+{% for work in site.work %}
+
+<div class="cf mb4">
+    <div class="fl w-100 w-50-ns w-40-l ph4 f4-l lh-copy">
+        <h2 class="mv0"><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></h2>
+        <p class="mt0 silver"><em><small>{{ work.categories }}</small></em></p>
+        <p>{{ work.summary }}</p>
+        <a class="Btn pv1 ph3 br2 mb4" href="{{ work.url }}" title="{{ work.title }}">View project</a>
+    </div>
+    <div class="fl w-100 w-50-ns w-60-l ph4 pb4 lh-copy">
+        <a href="{{ work.url }}" title="{{ work.thumbnail }}" class="b--none"><img class="w-100" src="{{ work.thumbnail }}"/></a>
+    </div>
+</div>
+
+{% endfor %}

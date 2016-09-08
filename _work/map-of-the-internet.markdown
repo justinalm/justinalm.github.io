@@ -1,8 +1,8 @@
 ---
 title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
-layout: default
-categories: UI/UX, iOS, Android, Visual Design
+layout: workPost
+categories: UI/UX,&nbsp;iOS,&nbsp;Android,&nbsp;Visual&nbsp;Design
 thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
 summary: Map of the Internet helps people understand the web in a new way.
 ---

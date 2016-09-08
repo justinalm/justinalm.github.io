@@ -51,7 +51,8 @@ a {
   font-size: 0.75em;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.25em; }
+  letter-spacing: 0.25em;
+  border: 1px solid #5790E5; }
   .Btn:hover {
     background: #5790E5;
     color: #fff; }
@@ -74,6 +75,9 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
+
+.typed-cursor {
+  display: none; }
 
 /**
  * Syntax highlighting styles

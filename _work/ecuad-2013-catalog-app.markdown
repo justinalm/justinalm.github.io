@@ -1,7 +1,7 @@
 ---
 title: ECUAD Catalog Platform
 date: 2016-06-12 22:36:00 -07:00
-layout: default
+layout: workPost
 categories: UI/UX,&nbsp;System&nbsp;Design,&nbsp;Front-end,&nbsp;iPad
 thumbnail: /uploads/ecuad2013-thumb.jpg
 summary: A scalable system to help curators approve and share hundreds projects.

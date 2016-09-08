@@ -1,10 +1,10 @@
 <footer class="pv4 ph3 ph5-m ph6-l mid-gray">
   <small class="f6 db tc">© 2016 <b>Justin Alm</b>, All Rights Reserved</small>
   <div class="tc mt3">
-	<a href="{{ site.baseurl }}/" title="Home" class="f6 dib ph2 link">Home</a>
+	<a href="{{ site.baseurl }}/" title="Home" class="f6 dib pa2 link">Home</a>
   	{% for my_page in site.pages %}
 		{% if my_page.title %}
-    		<a href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}" class="f6 dib ph2 link">{{ my_page.title }}</a>
+    		<a href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}" class="f6 dib pa2 link">{{ my_page.title }}</a>
     	{% endif %}
 	{% endfor %}
   </div>

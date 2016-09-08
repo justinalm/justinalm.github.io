@@ -60,6 +60,7 @@ a {
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 0.25em;
+    border: 1px solid $brand-color;
 
     &:hover {
         background: $brand-color;
@@ -90,4 +91,8 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+.typed-cursor {
+    display: none
 }

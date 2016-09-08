@@ -1,7 +1,7 @@
 ---
 title: Woo To See You Identity
 date: 2016-06-12 23:58:00 -07:00
-layout: default
+layout: workPost
 categories: Identity&nbsp;&&nbsp;Branding
 thumbnail: /uploads/woo2cuIdentityThumb.jpg
 summary: Making sure it feels good to say, “Woo To See You”.

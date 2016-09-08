@@ -1,9 +1,9 @@
 ---
 title: ECUAD 2012 Catalog
 date: 2016-06-13 00:00:00 -07:00
-layout: default
+layout: workPost
 thumbnail: /uploads/2012-emilycarr-catalogue-thumb.jpg
-categories: UI/UX, Web, Front-end, WordPress
+categories: UI/UX,&nbsp;Web,&nbsp;Front-end,&nbsp;WordPress
 summary: A website showcasing works of art & design by Emily Carr University graduates.
 ---
 <div class="grid">
