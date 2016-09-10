@@ -28,9 +28,6 @@ date: 2016-06-12 22:19:00 -07:00
             <h3 class="mv0"><strong>Interface Designer – <a href="http://www.steamclock.com/">Steamclock Software</a></strong></h3>
             <p class="mt0"><strong><em>Dec. 2012 — Jan. 2015</em></strong></p>
             <p class="mb2">As an interface designer at Steamclock Software, my work involves strategy, information architecture, wire-framing, visual design of user interface, and the design and production of marketing material of various formats. Half of my time at Steamclock is spent designing the products <a href="http://www.steamclock.com/weddingdj/">WeddingDJ</a> and <a href="http://www.steamclock.com/partymonster/">PartyMonster</a>. The other half of my time is spent on <a href="http://www.steamclock.com/services/">consulting and design</a>.</p>
-            <p><strong>Recommendation</strong></p>
-            <p><em>“It’s been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</em></p>
-            <p>– <a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a>, Co-founder of Steamclock Software</p>
         </div>
         <div class="fl w-100 w-50-ns ph4 mb2">
             <img class="w-100" src="/uploads/steamclock.jpg">
@@ -54,9 +51,6 @@ date: 2016-06-12 22:19:00 -07:00
         <h3 class="mv0"><strong>Interaction Designer – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
         <p class="mt0"><strong><em>Feb. 2012 — Apr. 2012</em></strong></p>
         <p>I designed the website for The <a href="http://grad2012.ecuad.ca/">2012 Emily Carr University Graduation Exhibition Catalogue</a> and directed the deployment of the site to Emily Carr’s server. Working with a team of students handing the identity of the exhibition, I presented concepts, prototypes, development of HTML, CSS, jQuery, and PHP, throughout the design and production of the catalogue website. The website was designed to make student work easily accessible on any device and major browsers.</p>
-        <p><strong>Recommendation</strong></p>
-        <p><em>“Justin Alm is one of those rare web designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</em></p>
-        <p>– <a href="http://alleykurgan.com/">Alley Kurgan</a>, Designer &amp; Photographer</p>
     </div>
     <div class="fl w-100 w-50-ns ph4 mb2 lh-copy">
         <img class="w-100" src="/uploads/studiogrey.jpg">
@@ -68,9 +62,6 @@ date: 2016-06-12 22:19:00 -07:00
         <h3 class="mv0"><strong>Research Assistant – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
         <p class="mt0"><strong><em>Jan. 2011 — Jan. 2012</em></strong></p>
         <p>During my research assistantship with the <a href="http://research.ecuad.ca/simcentre/">Social + Interactive Media</a> and <a href="http://research.ecuad.ca/s3dcentre/">Stereoscopic 3D Centres</a> at Emily Carr University of Art + Design, I conducted interviews, produced graphics for feature articles, designed motion graphics for promotional and instructional videos, and published content using Drupal to their respective websites.</p>
-        <p><strong>Recommendation</strong></p>
-        <p><em>“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</em></p>
-        <p>— <a href="https://www.linkedin.com/in/sandradametto">Sandra Dametto</a> Project Manager S3D Centre &amp; SIM Centre</p>
     </div>
     <div class="fl w-100 w-50-ns ph4 mb2 lh-copy">
         <img class="w-100" src="http://placehold.it/600x400">
@@ -118,22 +109,51 @@ date: 2016-06-12 22:19:00 -07:00
 </div>
 
 <div class="cf">
-    <div class="fl w-100 w-75-ns ph4 mb2 lh-copy">
-        <h2><strong>Overview of Skills</strong></h2>
-        
-        <h3><strong>Design</strong></h3>
-        <p>Requirements Gathering · Stakeholder Interviews · Information Architecture · Sitemaps · Wireframes · Sketching · Visual Design · Audio &amp; Video · Interactive Prototyping · User Research · Presentation Design · Website Design · Website Production · Website Publishing</p>
-
-        <h3><strong>Software</strong></h3>
-        <p>MindNode Pro · Photoshop · Illustrator · InDesign · After Effects · Premier · Logic Pro · Sketch · OmniGraffle · Final Cut Pro X · iWork Suite · Xcode · Sublime Text 2 · Terminal</p>
-
-        <h3><strong>Code</strong></h3>
-        <p>HTML · CSS · SASS · Javascript · jQuery · Bootstrap · Command Line · Git · Github · PHP · WordPress · Jekyll</p>
+    <div class="fl w-100 ph4 mb2 lh-copy">
+        <h2><strong>Recommendations</strong></h2>
     </div>
 </div>
 
 <div class="cf">
-    <div class="fl w-100 w-75-ns ph4 mb2 lh-copy">
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <p><em>“It’s been a pleasure working with Justin. He’s proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</em></p>
+        <p><small><a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a><br>
+        <span class="silver">Co-founder of Steamclock Software</span></small></p>
+    </div>
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <p><em>“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</em></p>
+        <p><small><a href="https://www.linkedin.com/in/sandradametto">Sandra Dametto</a><br>
+        <span class="silver">Project Manager S3D Centre &amp; SIM Centre</span></small></p>
+    </div>
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <p><em>“Justin Alm is one of those rare designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</em></p>
+        <p><small><a href="http://alleykurgan.com/">Alley Kurgan</a><br>
+        <span class="silver">Designer &amp; Photographer</span></small></p>
+    </div>
+</div>
+
+<div class="cf">
+    <div class="fl measure ph4 mb2 lh-copy">
+        <h2><strong>Overview of Skills</strong></h2>
+    </div>
+</div>
+<div class="cf">
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <h3 class="mv0"><strong>Design</strong></h3>
+        <p>Wireframeing · Sketching · Visual Design · Web Design &amp; Production · Interactive Prototyping · Presentation Design · Requirements Gathering · Stakeholder Interviews · Information Architecture</p>
+    </div>
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <h3 class="mv0"><strong>Software</strong></h3>
+        <p>Sketch · Photoshop · Illustrator · InDesign · After Effects · Premier · MindNode · Logic Pro · Final Cut Pro X · iWork Suite · Xcode · Sublime Text 2 · Terminal · Trello · Jira · Google Docs Wizard</p>
+    </div>
+    <div class="fl w-100 w-50-ns w-33-l ph4 mb2 lh-copy">
+        <h3 class="mv0"><strong>Code</strong></h3>
+        <p>HTML · CSS · SASS · Javascript (Prototyping) · jQuery (Prototyping) · Command Line · Git · Github · Gitlabs · WordPress · Jekyll · Experience contributing to Node.js and iOS projects</p>
+    </div>
+</div>
+
+<div class="cf">
+    <div class="fl m-100 w-50-ns w-50-l ph4 mb2 lh-copy">
         <h2><strong>Honours &amp; Awards</strong></h2>
         <ul>
             <li><p>2009 Emily Carr University of Art + Design, OPUS Bursary</p></li>
@@ -143,12 +163,9 @@ date: 2016-06-12 22:19:00 -07:00
             <li><p><a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&amp;year=2012&amp;clip=1">Applied Arts Student Awards 2012</a>, Design/Editorial – Single, for <a href="http://justinalm.com/projects/know-ideas">Know Ideas</a></p></li>
         </ul>
     </div>
-</div>
-
-<div class="cf pb4">
-    <div class="fl w-100 w-75-ns ph4 mb2 lh-copy">
+    <div class="fl m-100 w-50-ns w-50-l ph4 mb2 lh-copy">
         <h2><strong>Interests</strong></h2>
-        <p>The Internet, getting outdoors, books, podcasting, cooking &amp; dining out, travel.</p>
+        <p>I hate to say it but long walk on the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to and making podcasts, cooking, dining out, and travelling.</p>
     </div>
 </div>
 
