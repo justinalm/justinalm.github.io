@@ -3,10 +3,7 @@
     <img src="/uploads/profile-pic-cropped@2x.png" class="dib w2 h2 w3-ns h3-ns br-100" alt="{{ site.name }}">
   </a>
   <div class="dtc v-mid w-75 tr">
-	{% for my_page in site.pages %}
-	{% if my_page.title %}
-		<a class="link dark-gray f5 f4-ns dib ml2 ml4-ns pv2" href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
-	{% endif %}
-	{% endfor %}
+		<a class="link dark-gray f5 f4-ns dib ml2 ml4-ns pv2" href="/work/" title="Work">Work</a>
+		<a class="link dark-gray f5 f4-ns dib ml2 ml4-ns pv2" href="/about/" title="About">About</a>
   </div>
 </nav>
