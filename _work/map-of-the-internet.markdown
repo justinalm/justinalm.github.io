@@ -4,81 +4,86 @@ date: 2016-06-12 22:12:00 -07:00
 layout: workPost
 categories: UI/UX,&nbsp;iOS,&nbsp;Android,&nbsp;Visual&nbsp;Design
 thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
-summary: Map of the Internet helps people understand the web in a new way.
+summary: Map of the Internet is a visualization of the internet!
 ---
-<div class="grid">
-    <h1>Map of the Internet</h1>
-    <p><em>UI/UX, iOS, Android, Visual Design</em></p>
-</div>
+<article>
+	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4" style="background:url(/uploads/Peer1MapOfTheInternetSplash.jpg) no-repeat center;">
+    	<div class="dtc v-mid">
+      		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Map of the Internet</h1>
+      		<p class="measure f6 f5-ns lh-copy i">UI/UX, iOS, Android, Visual Design</p>
+    	</div>
+	</div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I worked on the design for the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/ca/app/map-internet-by-peer-1-hosting/id605924222?mt=8&at=11l4FP&ct=steamclockcom" target="_blank">Map of the Internet</a>. Concept for the app by Peer 1. Initial design of the UI and 3D visualization by Steamclock Software.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-iphone-firstuse.jpg"/>
+	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
+		<img class="w-100" src="/uploads/peer1-iphone-firstuse.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-iphone-globe-3dgrid-node.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-iphone-globe-3dgrid-node.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-iphone-search-traceroute-results.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-iphone-search-traceroute-results.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-ipad-traceroute.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-ipad-traceroute.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-ipad-node.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-ipad-node.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-ipad-timeline.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-ipad-timeline.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-ipad-timeline-globe.jpg"/>
+	<div class="fl w-100 w-60-ns">
+		<img class="w-100" src="/uploads/peer1-ipad-timeline-globe.jpg"/>
 	</div>
 </div>
 
-<div class="grid">
-    <div class="col-1-3">
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p>This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
 	</div>
-	<div class="col-2-3">
-		<img src="/uploads/peer1-appstore.jpg"/>
+	<div class="fl w-100 w-60-ns mb5">
+		<img class="w-100" src="/uploads/peer1-appstore.jpg"/>
 	</div>
 </div>
+
+</article>

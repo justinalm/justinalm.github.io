@@ -1,3 +1,6 @@
+@media screen and (min-width: 60em) {
+  .f-headline-l {
+    font-size: 6rem; } }
 /**
  * Basic styling
  */

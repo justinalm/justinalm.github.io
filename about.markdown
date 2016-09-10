@@ -1,12 +1,12 @@
 ---
 title: About
-date: 2016-06-12 22:19:00 -07:00
+date: 2016-09-12 22:19:00 -07:00
 ---
 
 <article class="cf">
     <div class="fl measure ph4 pb4 f4-m f3-l lh-copy">
         <h1>About</h1>
-        <p>I’m a designer from Vancouver, Canada. I currently work as a UX Designer at <a href="http://www.jostle.me/">Jostle</a>. I cohost <a href="http://makingconversation.ca/" title="Making Conversation Podcast">a podcast</a> called Making Conversation.</p>
+        <p>I’m an interaction designer based in Vancouver, Canada. I currently work as a UX Designer at <a href="http://www.jostle.me/">Jostle</a>. This page is similar to what you’d find on my <a href="https://www.linkedin.com/in/justin-alm-8611b412" title="Justin Alm on LinkedIn" target="_blank">LinkedIn profile</a>.</p>
     </div>
     <div class="fl w-100 ph4 lh-copy">
         <h2><strong>Experience</strong></h2>
@@ -165,7 +165,7 @@ date: 2016-06-12 22:19:00 -07:00
     </div>
     <div class="fl m-100 w-50-ns w-50-l ph4 mb2 lh-copy">
         <h2><strong>Interests</strong></h2>
-        <p>I hate to say it but long walk on the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to and making podcasts, cooking, dining out, and travelling.</p>
+        <p>I hate to say it but long walks by the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to podcasts, making podcasts, cooking, dining out, and travelling.</p>
     </div>
 </div>
 

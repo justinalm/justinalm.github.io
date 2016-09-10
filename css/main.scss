@@ -21,6 +21,11 @@ $brand-color: #5790E5;
     }
 }
 
+@media screen and (min-width: 60em) {
+    .f-headline-l {
+        font-size: 6rem;
+    }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

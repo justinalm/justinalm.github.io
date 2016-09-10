@@ -1,10 +1,12 @@
-<nav class="dt border-box ph4 pt4 pb2">
-  <a class="dtc v-mid link home pr3" href="{{ site.baseurl }}/" title="Home">
-    <img src="/uploads/profile-pic-cropped@2x.png" class="dib w3 h3 br-100" alt="Site Name">
+<nav class="dt w-100 border-box ph4 pv3 bb b--black-10">
+  <a class="dtc v-mid mid-gray link w-25 home" href="/" title="{{ site.title }}">
+    <img src="/uploads/profile-pic-cropped@2x.png" class="dib w2 h2 w3-ns h3-ns br-100" alt="{{ site.name }}">
   </a>
-  {% for my_page in site.pages %}
-    {% if my_page.title %}
-        <a class="dtc v-mid link f5 f4-ns dib ph3" href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
-      {% endif %}
-  {% endfor %}
+  <div class="dtc v-mid w-75 tr">
+	{% for my_page in site.pages %}
+	{% if my_page.title %}
+		<a class="link dark-gray f5 f4-ns dib ml2 ml4-ns pv2" href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}">{{ my_page.title }}</a>
+	{% endif %}
+	{% endfor %}
+  </div>
 </nav>
