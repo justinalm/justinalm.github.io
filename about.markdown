@@ -115,20 +115,38 @@ date: 2016-09-12 22:19:00 -07:00
 </div>
 
 <div class="cf">
-    <div class="fl w-100 f4 ph4 mb2 lh-copy">
+    <div class="fl w-100 f4 ph4 mb3 lh-copy">
         <p class="f4 f3-ns f2-l lh-title mv0 measure">“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</p>
-        <p class="f6"><a href="https://www.linkedin.com/in/sandradametto">Sandra Dametto</a><br>
-        <span class="silver">Project Manager S3D Centre &amp; SIM Centre</span></p>
+        <div class="dt mt3">
+            <div class="dtc v-mid pr3">
+                <img class="mw3 ba b--black-20 br-100" src="/uploads/sandraDametto.jpg">
+            </div>
+            <div class="dtc v-mid">
+                <p class="f6 mt0"><a href="https://www.linkedin.com/in/sandradametto">Sandra Dametto</a><br><span class="silver">Project Manager S3D Centre &amp; SIM Centre</span></p>
+            </div>
+        </div>
     </div>
     <div class="fl w-100 w-50-ns ph4 mb2 lh-copy">
         <p class="f5 f4-ns f4-l mv0 measure">“It’s been a pleasure working with Justin. He’s proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</p>
-        <p class="f6"><a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a><br>
-        <span class="silver">Co-founder of Steamclock Software</span></p>
+        <div class="dt mt3">
+            <div class="dtc v-mid pr3">
+                <img class="mw3 br-100 ba b--black-20" src="/uploads/allenpike.jpg">
+            </div>
+            <div class="dtc v-mid">
+                <p class="f6 mt0"><a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a><br><span class="silver">Co-founder of Steamclock Software</span></p>
+            </div>
+        </div>
     </div>
     <div class="fl w-100 w-50-ns f4 ph4 mb2 lh-copy">
         <p class="f5 f4-ns f4-l mv0 measure">“Justin Alm is one of those rare designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</p>
-        <p class="f6"><a href="http://alleykurgan.com/">Alley Kurgan</a><br>
-        <span class="silver">Designer &amp; Photographer</span></p>
+        <div class="dt mt3">
+            <div class="dtc v-mid pr3">
+                <img class="mw3 ba b--black-20 br-100" src="/uploads/alleyKurgan.jpg">
+            </div>
+            <div class="dtc v-mid">
+                <p class="f6 mt0"><a href="http://alleykurgan.com/">Alley Kurgan</a><br><span class="silver">Designer &amp; Photographer</span></p>
+            </div>
+        </div>
     </div>
 </div>
 
