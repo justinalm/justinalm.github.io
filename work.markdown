@@ -10,4 +10,4 @@ date: 2015-08-13 22:19:00 -07:00
     </div>
 </div>
 
-{% include smallWorkList.html %}
+{% include halfWidthWorkList.html %}

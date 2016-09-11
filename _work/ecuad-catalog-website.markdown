@@ -4,7 +4,7 @@ date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 thumbnail: /uploads/2012-emilycarr-catalogue-thumb.jpg
 categories: UI/UX,&nbsp;Web,&nbsp;Front-end,&nbsp;WordPress
-summary: A website showcasing works of art & design by Emily Carr University graduates.
+summary: Online catalog of art & design by Emily Carr University grads.
 ---
 <div class="grid">
     <h1>ECUAD 2012 Catalog Website</h1>

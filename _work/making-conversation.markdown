@@ -4,7 +4,7 @@ date: 2016-06-12 23:57:00 -07:00
 layout: workPost
 thumbnail: /uploads/makingConversationLogo.jpg
 categories: Podcast,&nbsp;Indentity,&nbsp;Community
-summary: A podcast featuring conversations with artists and designers about the journey from bright eyed-newbie to fame monster.
+summary: A podcast featuring conversations with artists and designers.
 ---
 
 <div class="grid">

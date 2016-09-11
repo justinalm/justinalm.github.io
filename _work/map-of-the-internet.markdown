@@ -4,7 +4,7 @@ date: 2016-06-12 22:12:00 -07:00
 layout: workPost
 categories: UI/UX,&nbsp;iOS,&nbsp;Android,&nbsp;Visual&nbsp;Design
 thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
-summary: Map of the Internet is a visualization of the internet!
+summary: Map of the Internet is exactly as it sounds. It’s a map of the internet!
 ---
 <article>
 	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4" style="background:url(/uploads/Peer1MapOfTheInternetSplash.jpg) no-repeat center;">
