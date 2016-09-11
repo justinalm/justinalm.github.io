@@ -165,5 +165,3 @@ date: 2016-09-12 22:19:00 -07:00
         <p>I hate to say it but long walks by the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to podcasts, making podcasts, cooking, dining out, and travelling.</p>
     </div>
 </div>
-
-{% include halfWidthWorkList.html %}
