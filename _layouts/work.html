@@ -11,12 +11,6 @@
 
     {{ content }}
     
-    <ul class="workList">
-      {% for work in site.work %}
-        <li><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
-      {% endfor %}
-    </ul>
-    
     {% include footer.html %}
 
   </body>

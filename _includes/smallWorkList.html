@@ -2,5 +2,5 @@
     
 <div class="cf mb4">
 
-{% for work in site.work %}<div class="dib v-top w-100 w-50-ns w-25-l ph4 lh-copy"><a href="{{ work.url }}" title="{{ work.title }}" class="db b--none mb3"><div class="aspect-ratio--4x3" style="background: url({{ work.thumbnail }}) no-repeat center center; background-size: cover;"></div></a><h2 class="f5 mv0"><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></h2><p class="f6 i mt0 silver truncate">{{ work.categories }}</p><a class="Btn pv1 ph2 br2 mb4" href="{{ work.url }}" title="{{ work.title }}">View project</a></div>{% endfor %}
+{% for work in site.work %}<div class="dib v-top w-100 w-50-ns w-25-l ph4 lh-copy"><a href="{{ work.url }}" title="{{ work.title }}" class="db b--none mb3"><div class="aspect-ratio--4x3 ba b--black-10" style="background: url({{ work.thumbnail }}) no-repeat center center; background-size: cover;"></div></a><h2 class="f5 mv0"><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></h2><p class="f6 i mt0 silver truncate">{{ work.categories }}</p><a class="Btn pv1 ph2 br2 mb4" href="{{ work.url }}" title="{{ work.title }}">View project</a></div>{% endfor %}
 </div>

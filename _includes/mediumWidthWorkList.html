@@ -1,0 +1,6 @@
+<h2 class="pl4 pb3">Sample projects</h2>
+    
+<div class="cf mb4">
+
+{% for work in site.work %}<div class="dib v-top w-100 w-50-ns w-33-l ph4 lh-copy"><a href="{{ work.url }}" title="{{ work.title }}" class="db b--none mb3"><div class="aspect-ratio--4x3 ba b--black-10" style="background: url({{ work.thumbnail }}) no-repeat center center; background-size: cover;"></div></a><h2 class="f5 mv0"><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></h2><p class="f6 i mv0 silver truncate">{{ work.categories }}</p><p class="mt2 lh-copy measure">{{ work.summary }}</p><a class="Btn pv1 ph2 br2 mb4" href="{{ work.url }}" title="{{ work.title }}">View project</a></div>{% endfor %}
+</div>
