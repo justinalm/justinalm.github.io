@@ -7,7 +7,7 @@ categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production
 summary: 130 pages of paper that helps people understand Internet culture.
 ---
 <article>
-<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/ki2-1024x682-thumb.jpg) no-repeat center; background-size: cover;">
+<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/ki12-1024x682.jpg) no-repeat center; background-size: cover;">
 	<div class="dtc v-mid">
   		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Know Ideas</h1>
   		<p class="measure f6 f5-ns lh-copy i">Book Design, Print Production</p>
