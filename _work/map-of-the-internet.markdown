@@ -7,7 +7,7 @@ thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
 summary: Map of the Internet is exactly as it sounds. It’s a map of the internet!
 ---
 <article>
-	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4" style="background:url(/uploads/Peer1MapOfTheInternetSplash.jpg) no-repeat center;">
+	<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/Peer1MapOfTheInternetSplash.jpg) no-repeat center; background-size: cover;">
     	<div class="dtc v-mid">
       		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Map of the Internet</h1>
       		<p class="measure f6 f5-ns lh-copy i">UI/UX, iOS, Android, Visual Design</p>
