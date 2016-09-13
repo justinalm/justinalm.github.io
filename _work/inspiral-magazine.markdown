@@ -7,7 +7,7 @@ categories: UX/UI,&nbsp;Responsive,&nbsp;WordPress
 summary: A publishing system designed to take on a life of its own.
 ---
 <article>
-	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/inspiralMagazineThumb.jpg) no-repeat center; background-size: cover;">
+	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/inspiralCover.jpg) no-repeat center; background-size: cover;">
     	<div class="dtc v-mid">
       		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Inspiral Magazine</h1>
       		<p class="measure f6 f5-ns lh-copy i">UX/UI, Responsive, WordPress</p>
