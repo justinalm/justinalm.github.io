@@ -25,7 +25,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf pv4-ns pv4-l">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="mt0-ns">When you first open the app, a three page tutorial is presented. The tutorial walks you through the supported gestures, how to search known ISPs, an explanation of colors, and how to change the visualization between the Network and Globe views. You can replay this tutorial via the “i” menu at the top of the application frame.</p>
 	</div>
 	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
 		<img class="w-100 ba b--black-10" src="/uploads/peer1-iphone-firstuse.jpg"/>
@@ -34,7 +34,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf pv4-ns pv4-l">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="mt0-ns">The Globe view, Network view, and a focused node. </p>
 	</div>
 	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
 		<img class="w-100 ba b--black-10" src="/uploads/peer1-iphone-globe-3dgrid-node.jpg"/>
@@ -43,7 +43,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf pv4-ns pv4-l">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="mt0-ns">Tap the magnifying glass icon to open Search. Tap on a node to bring it into focus. Details for the node slide up from the bottom of the view. To performs a traceroute between your position on the Internet and focused node, tap “Perform traceroute”. The button fades out. Swipe up to view detailed stats on the tracerounte.</p>
 	</div>
 	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
 		<img class="w-100 ba b--black-10" src="/uploads/peer1-iphone-search-traceroute-results.jpg"/>
@@ -52,16 +52,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf pv4-ns pv4-l">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/peer1-ipad-traceroute.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="mt0-ns">On the iPad, details for a focused node are displayed in a context menu.</p>
 	</div>
 	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
 		<img class="w-100 ba b--black-10" src="/uploads/peer1-ipad-node.jpg"/>
@@ -70,7 +61,16 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf pv4-ns pv4-l">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="mt0-ns">When performing a traceroute, the context menu extends in height as details for the traceroute are printed on the context menu.</p>
+	</div>
+	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
+		<img class="w-100 ba b--black-10" src="/uploads/peer1-ipad-traceroute.jpg"/>
+	</div>
+</div>
+
+<div class="cf pv4-ns pv4-l">
+    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
+    	<p class="mt0-ns">Tap the “Counter-clockwise” icon at the top of the view to enter the Timeline view.</p>
 	</div>
 	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
 		<img class="w-100 ba b--black-10" src="/uploads/peer1-ipad-timeline.jpg"/>
