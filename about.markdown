@@ -28,10 +28,10 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
     <div class="cf pb3">
         <div class="fl w-100 w-50-ns ph4 mb3 lh-copy">
-            <p class="f5 f4-ns f4-l mv0 measure">“It’s been a pleasure working with Justin. He’s proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</p>
+            <p class="f5 f4-ns f4-l mv0">“It’s been a pleasure working with Justin. He’s proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</p>
             <div class="dt mt3">
                 <div class="dtc v-mid pr3">
-                    <img class="mw3 br-100 ba b--black-20" src="/uploads/allenpike.jpg">
+                    <img class="mw3 br-100 ba b--black-20" src="/uploads/allenPike.jpg">
                 </div>
                 <div class="dtc v-mid">
                     <p class="f6 mt0"><a href="http://ca.linkedin.com/in/allenpike">Allen Pike</a><br><span class="silver">Co-founder, Steamclock Software</span></p>
@@ -39,7 +39,7 @@ date: 2016-09-12 22:19:00 -07:00
             </div>
         </div>
         <div class="fl w-100 w-50-ns f4 ph4 mb3 lh-copy">
-            <p class="f5 f4-ns f4-l mv0 measure">“Justin Alm is one of those rare designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</p>
+            <p class="f5 f4-ns f4-l mv0">“Justin Alm is one of those rare designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</p>
             <div class="dt mt3">
                 <div class="dtc v-mid pr3">
                     <img class="mw3 ba b--black-20 br-100" src="/uploads/alleyKurgan.jpg">
@@ -52,7 +52,7 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
     <div class="cf">
         <div class="fl w-100 w-50-ns f4 ph4 mb3 lh-copy">
-            <p class="f5 f4-ns f4-l mv0 measure">“Justin and I worked together on a variety of projects at Steamclock Software. Justin is an extremely talented individual who is full of creative energy. We've had many fantastic coffee fuelled brainstorming sessions which always left me feeling invigorated and confident that our project was headed in the right direction. He's a great person to work with and I hope I get the chance to collaborate with him again in the future.”</p>
+            <p class="f5 f4-ns f4-l mv0 ">“Justin and I worked together on a variety of projects at Steamclock Software. Justin is an extremely talented individual who is full of creative energy. We've had many fantastic coffee fuelled brainstorming sessions which always left me feeling invigorated and confident that our project was headed in the right direction. He's a great person to work with and I hope I get the chance to collaborate with him again in the future.”</p>
             <div class="dt mt3">
                 <div class="dtc v-mid pr3">
                     <img class="mw3 ba b--black-20 br-100" src="/uploads/robMacEachern.jpg">
@@ -63,7 +63,7 @@ date: 2016-09-12 22:19:00 -07:00
             </div>
         </div>
         <div class="fl w-100 w-50-ns f4 ph4 mb3 lh-copy">
-            <p class="f5 f4-ns f4-l mv0 measure">“I have learned much from working with Justin, and he showed me what being a designer is really all about. Not only is Justin incredible with both hand-drawn and digital design, he is also a proficient web developer. Furthermore, Justin's insight and thorough understanding of iOS and Android design patterns have helped us created many awesome products.”</p>
+            <p class="f5 f4-ns f4-l mv0 ">“I have learned much from working with Justin, and he showed me what being a designer is really all about. Not only is Justin incredible with both hand-drawn and digital design, he is also a proficient web developer. Furthermore, Justin's insight and thorough understanding of iOS and Android design patterns have helped us created many awesome products.”</p>
             <div class="dt mt3">
                 <div class="dtc v-mid pr3">
                     <img class="mw3 ba b--black-20 br-100" src="/uploads/jeremyChiang.jpg">
@@ -107,7 +107,7 @@ date: 2016-09-12 22:19:00 -07:00
         </div>
     </div>
     <div class="headline f4 f3-ns f2-l lh-title mv0 center tc pa4 mv4 bg-black-10">
-        <p class="measure center">Finally, my work experience and education…</p>
+        <p class=" center">Finally, my work experience and education…</p>
     </div>
     <div class="fn center w-100 w-60-ns ph4 lh-copy">
         <h2><strong>My past <span class="bb b--black-20 pb2">relevant</span> work expereince:</strong></h2>
