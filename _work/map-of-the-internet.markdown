@@ -86,7 +86,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 	</div>
 </div>
 
-<div class="cf pv4 mb4 bb b--black-10">
+<div class="cf pv4 mb4">
     <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
     	<p class="mt0-ns">I designed the Map of the Internet icon in collaboration with Allen Pike. I designed and produced all of the UI assets and the App Store screenshots.</p>
 	</div>
