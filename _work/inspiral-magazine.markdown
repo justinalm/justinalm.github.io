@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/inspiralMagazineThumb.jpg
 categories: UX/UI,&nbsp;Responsive,&nbsp;WordPress
 summary: A publishing system designed to take on a life of its own.
+published: false
 ---
 <article>
 	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/inspiralCover.jpg) no-repeat center; background-size: cover;">

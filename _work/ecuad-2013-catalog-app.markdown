@@ -5,6 +5,7 @@ layout: workPost
 categories: UI/UX,&nbsp;System&nbsp;Design,&nbsp;Front-end,&nbsp;iPad
 thumbnail: /uploads/ecuad2013-thumb.jpg
 summary: A scalable system to help curators approve and share hundreds projects.
+published: false
 ---
 <article>
 	<div class="vh-100 dt w-100 bg-black pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/theShowCover.jpg) no-repeat center; background-size: cover;">

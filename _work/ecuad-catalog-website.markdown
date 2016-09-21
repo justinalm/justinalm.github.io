@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/2012-emilycarr-catalogue-thumb.jpg
 categories: UI/UX,&nbsp;Web,&nbsp;Front-end,&nbsp;WordPress
 summary: Online catalog of art & design by Emily Carr University grads.
+published: false
 ---
 <article>
 <div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/2012-emilycarr-catalogue-thumb.jpg) no-repeat center; background-size: cover;">

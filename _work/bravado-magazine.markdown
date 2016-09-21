@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/bravado2-thumb.jpg
 categories: UI/UX,&nbsp;Front-end,&nbsp;Custom&nbsp;WordPress
 summary: Cut up content and Bravado Mag became “high gloss pixels”.
+published: false
 ---
 <article>
 <div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/bravado2-thumb.jpg) no-repeat center; background-size: cover;">

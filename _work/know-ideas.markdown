@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/ki2-1024x682-thumb.jpg
 categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production
 summary: 130 pages of paper that helps people understand Internet culture.
+published: false
 ---
 <article>
 <div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/ki12-1024x682.jpg) no-repeat center; background-size: cover;">
