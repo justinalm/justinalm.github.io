@@ -5,7 +5,7 @@ layout: workPost
 thumbnail: /uploads/devMonitorThumb.jpg
 categories: UX/UI,&nbsp;Branding,&nbsp;Front-end&nbsp;Dev
 summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
-published: false
+published: true
 ---
 <article>
 	<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/devMonitorCover.jpg) no-repeat center; background-size: cover;">
@@ -26,7 +26,7 @@ published: false
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="pa3 pa4-ns mv0">We designed a simple sign-up workflow so new users can join quickly and immediately experience the capabilities of the product.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor2.jpg"/>
@@ -35,7 +35,7 @@ published: false
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="pa3 pa4-ns mv0">The “Forgot password?” page.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor3.jpg"/>
@@ -44,7 +44,7 @@ published: false
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="pa3 pa4-ns mv0">Dashboard is where you aggregate and respond to questions asked about your product. Add keywords on the right. Select keywords to aggregate questions in the feed. To remove questions from the feed, click the “x” icon in the top-right corner of the item. To reploy to a question, click the reply-icon below the relevance score in the top-left corner of the item.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor4.jpg"/>
@@ -53,7 +53,7 @@ published: false
 
 <div class="cf mb4">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
+    	<p class="pa3 pa4-ns mv0">Analytics enables you to guage developer sentiment about your product. Each of your selected keywords coresponds to a colour on the charts. You can filter by date to see how sentiment has changed over time.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor5.jpg"/>
