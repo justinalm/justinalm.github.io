@@ -66,6 +66,13 @@ a {
   -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); }
 
+/* Colors */
+.brand-blue {
+  color: #5790E5; }
+
+.ki-red {
+  color: #EE3B3F; }
+
 /**
  * Code formatting
  */
