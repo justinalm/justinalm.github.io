@@ -44,7 +44,7 @@ published: true
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">Dashboard is where you aggregate and respond to questions asked about your product. Add keywords on the right. Select keywords to aggregate questions in the feed. To remove questions from the feed, click the “x” icon in the top-right corner of the item. To reploy to a question, click the reply-icon below the relevance score in the top-left corner of the item.</p>
+    	<p class="pa3 pa4-ns mv0">Dashboard is where you aggregate and respond to questions asked about your product. Add keywords on the right. Select keywords to aggregate questions in the feed. To remove questions from the feed, click the “x” icon in the top-right corner of the item. To reply to a question, click the reply-icon below the relevance score in the top-left corner of the item.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor4.jpg"/>
