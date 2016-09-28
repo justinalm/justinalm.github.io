@@ -5,7 +5,7 @@ layout: workPost
 thumbnail: /uploads/devMonitorThumb.jpg
 categories: UX/UI,&nbsp;Branding,&nbsp;Front-end&nbsp;Dev
 summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
-published: true
+published: false
 ---
 <article>
 	<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/devMonitorCover.jpg) no-repeat center; background-size: cover;">
