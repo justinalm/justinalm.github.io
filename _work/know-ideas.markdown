@@ -15,93 +15,93 @@ published: true
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book included: Gate folds, French folds, layers of acetate, and mirror paper — a poetic representation of the screen. The books is a melding of medium and message.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book included: Gate folds, French folds, layers of acetate, and mirror paper — a poetic representation of the screen. The books is a melding of medium and message.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki2-1024x682.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">The front cover.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki4-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki2-1024x682.jpg"/>
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">The back cover.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">The front cover.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki5-1024x682.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">Metaphorical representation of the "body" using a layer of acetate over Michelangelo’s David. Common elements found in the body of a web page map to the human body.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki10-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki4-1024x682.jpg"/>
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">Lift the acetate to see the body innocently – as you saw it before gaining consciousness.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">The back cover.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki11-1024x682.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">More language and consciousness experiments using acetate.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki9-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki5-1024x682.jpg"/>
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">The mirror screen. The more we look into the screen we see a reflection of the self.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">Metaphorical representation of the "body" using a layer of acetate over Michelangelo’s David. Common elements found in the body of a web page map to the human body.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki14-1024x682.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">What about the Internet captivates us so deeply?</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki12-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki10-1024x682.jpg"/>
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">Open the French fold to find hidden meaning. The Internet is a grand impression of life.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">Lift the acetate to see the body innocently – as you saw it before gaining consciousness.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki8-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki11-1024x682.jpg"/>
 	</div>
 </div>
 
-<div class="cf pv4-ns pv4-l mb4">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">Language influeces you to interact with the page. The full meaning is found in the interaction.</p>
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">More language and consciousness experiments using acetate.</p>
 	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/ki7-1024x682.jpg"/>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki9-1024x682.jpg"/>
+	</div>
+</div>
+
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">The mirror screen. The more we look into the screen we see a reflection of the self.</p>
+	</div>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki14-1024x682.jpg"/>
+	</div>
+</div>
+
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">What about the Internet captivates us so deeply?</p>
+	</div>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki12-1024x682.jpg"/>
+	</div>
+</div>
+
+<div class="cf">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">Open the French fold to find hidden meaning. The Internet is a grand impression of life.</p>
+	</div>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki8-1024x682.jpg"/>
+	</div>
+</div>
+
+<div class="cf mb4">
+    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
+    	<p class="pa3 pa4-ns mv0">Language influeces you to interact with the page. The full meaning is found in the interaction.</p>
+	</div>
+	<div class="fl w-100 w-60-l pr4-l">
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki7-1024x682.jpg"/>
 	</div>
 </div>
 </article>
