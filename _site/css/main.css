@@ -5,12 +5,7 @@
  * Basic styling
  */
 body {
-  font-family: "Roboto Mono", Monaco, monospace;
-  overflow: hidden;
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  font-family: "Roboto Mono", Monaco, monospace; }
 
 /* FitVids.js */
 video {
