@@ -4,11 +4,11 @@ date: 2016-06-12 23:57:00 -07:00
 layout: workPost
 thumbnail: /uploads/ki2-1024x682-thumb.jpg
 categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production
-summary: A 130 page post-digital style reflection, Know Ideas describes the Internet using a series of small related experiments.
+summary: Description of the Internet using a series of small related experiments.
 published: true
 ---
 <article>
-<div class="vh-100 dt w-100 bg-black ki-red pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/kiCover.jpg) no-repeat center; background-size: cover;">
+<div class="vh-100 dt w-100 bg-black pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/kiCover.jpg) no-repeat center; background-size: cover;">
 	<div class="dtc v-mid">
   		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Know Ideas</h1>
   		<p class="measure f6 f5-ns lh-copy i">Book Design, Print Production</p>
