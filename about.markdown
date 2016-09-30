@@ -10,12 +10,12 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
     <div class="cf">
         <div class="fl w-100 ph3 ph4-ns mb2 lh-title">
-            <h2><strong>Previous bosses &amp; teammates have said:</strong></h2>
+            <h2><strong>Recommendations:</strong></h2>
         </div>
     </div>
     <div class="cf pb3">
         <div class="fl w-100 f4 ph3 mb3 ph4-ns lh-copy">
-            <p class="f4 f3-ns f2-l lh-title mv0 measure">“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</p>
+            <p class="f5 f3-ns f2-l lh-copy lh-title-l mv0 measure">“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</p>
             <div class="dt mt3">
                 <div class="dtc v-mid pr3">
                     <img class="mw3 ba b--black-20 br-100" src="/uploads/sandraDametto.jpg">
@@ -76,7 +76,7 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
     <div class="cf">
         <div class="fl ph3 mb2 ph4-ns lh-title">
-            <h2><strong>My range of my skills include:</strong></h2>
+            <h2><strong>Skills:</strong></h2>
         </div>
     </div>
     <div class="cf">
@@ -95,26 +95,21 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
     <div class="cf">
         <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
-            <h2 class="lh-title"><strong>I’ve recieved honours &amp; awards:</strong></h2>
+            <h2 class="lh-title"><strong>Honours &amp; awards:</strong></h2>
             <ul>
                 <li><p>Recipient of the OPUS Bursary 2009-2011 &amp; multiple Millenium Scholarships.</p></li>
                 <li><p><a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&amp;year=2012&amp;clip=1">Applied Arts Student Awards 2012</a>, Design/Editorial – Single, for <a href="http://justinalm.com/projects/know-ideas">Know Ideas</a></p></li>
             </ul>
         </div>
         <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
-            <h2><strong>My personal interests:</strong></h2>
+            <h2><strong>Interests:</strong></h2>
             <p>I hate to say it but long walks by the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to podcasts, making podcasts, cooking, dining out, and travelling.</p>
         </div>
-    </div>
-    <div class="headline f4 f3-ns f2-l lh-title mv0 center tc pa4 mv4 ph4-ns bg-black-10">
-        <p class=" center">Finally, my work experience and education…</p>
-    </div>
-    <div class="fn center w-100 w-60-l ph3 ph4-ns lh-title">
-        <h2><strong>My past <span class="bb b--black-20">relevant</span> work expereince:</strong></h2>
     </div>
     <!-- Jostle -->
     <div class="cf">
         <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
+            <h2><strong>Work expereince:</strong></h2>
             <h3 class="mv0 lh-title"><strong>User Experience Designer – <a href="http://www.jostle.me/">Jostle Corporation</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Jan. 2015 — Present</small></em></strong></p>
             <p>As a user experience designer at Jostle Corporation, my work involves strategy, information architecture, wire-framing, visual design of user interfaces for desktop, tablet, and mobile platforms. I am also actively involved with design for web and print marketing materials of various formats.</p>
@@ -145,13 +140,9 @@ date: 2016-09-12 22:19:00 -07:00
             <p>I was one of a team of Emily Carr faculty and students who investigated technology options for creating an ebook, <a href="http://learningfreedomandtheweb.org/">Learning, Freedom and the Web</a>. We built an ebook for tablets, and desktop computers, and that is distributed for free. We designed it to take advantage of the navigation and multimedia opportunities a tablet could provide. Working with Vancouver-based development company Steamclock Software, our team built the book in HTML5, Javascript and CSS.</p>
         </div>
     </div>
-    <div class="cf">
-        <div class="fn center w-100 w-60-l ph3 ph4-ns mb2 lh-title">
-            <h2><strong>I have a B.Design and a B.Arts:</strong></h2>
-        </div>
-    </div>
     <div class="cf pb4">
         <div class="fn center w-100 w-60-l ph3 ph4-ns mb2 lh-copy">
+            <h2><strong>Education:</strong></h2>
             <h3 class="mv0 lh-title"><strong>Emily Carr University of Art &amp; Design – B.Des — Interaction Design</strong></h3>
             <p class="mt0 silver"><strong><em><small>2008 — 2012</small></em></strong></p>
             <p>The <a href="http://design.ecuad.ca/">Interaction Design Degree Program</a> taught me the iterative process of design. From writing proposals, concept development, visual research and exploration, user-testing, refining designs and development, and finishing projects for implementation or delivery, I’ve been educated to embrace the tension found in the convergent and divergent plot structure we find in the narrative of every design project.</p>
