@@ -10,8 +10,8 @@ published: true
 <article>
 	<div class="vh-100 dt w-100 bg-black pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/devMonitorCover.jpg) no-repeat center; background-size: cover;">
     	<div class="dtc v-mid">
-      		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Devmonitor.io</h1>
-      		<p class="measure f6 f5-ns lh-copy i">UX/UI, Visual Design, Front-end Dev</p>
+      		<h1 class="fl f1 f-subheadline-l measure lh-title fw7 mb0 bg-white pt1 pb2 ph3 ph4-l shadow-2">Dev Monitor</h1>
+      		<p class="fl cl measure f5 lh-copy i bg-white pa0 ph2 shadow-2">UX/UI, Visual Design, Front-end Dev</p>
     	</div>
 	</div>
 
