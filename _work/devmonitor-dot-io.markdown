@@ -17,7 +17,7 @@ published: true
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">At Steamclock Software, I worked on the design for <a href="http://www.devmonitor.io/" target="_blank">Devmonitor.io</a> – a website for developer evangelists to connect with their community. The web app enables a ‘devangelist’ to track questions about their product from sites like Stackoverflow.com.</p>
+    	<p class="pa3 pa4-ns mv0">At Steamclock Software, I worked on the design for <a href="http://www.wipfactory.com/blog/2016/4/1/from-the-devmonitor-what-do-stack-overflows-survey-results-say-to-dev-programs" target="_blank">Devmonitor.io</a> – a website for developer evangelists to connect with their community. The web app enables a ‘devangelist’ to track questions about their product from sites like Stackoverflow.com.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/devMonitor1.jpg"/>
