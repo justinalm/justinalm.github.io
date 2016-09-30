@@ -16,7 +16,7 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 
 <div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I worked on the design for the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/ca/app/map-internet-by-peer-1-hosting/id605924222?mt=8&at=11l4FP&ct=steamclockcom" target="_blank">Map of the Internet</a>. Concept for the app by Peer 1. Design and development for the UI and 3D visualization by Steamclock Software.</p>
+    	<p class="pa3 pa4-ns mv0">At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I worked on the design for the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&mt=8" target="_blank">Map of the Internet</a>. Concept for the app by Peer 1. Design and development for the UI and 3D visualization by Steamclock Software.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<div class="vendor mt4-l"><iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe></div>
