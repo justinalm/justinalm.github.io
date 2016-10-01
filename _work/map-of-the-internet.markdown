@@ -9,8 +9,8 @@ summary: Map of the Internet is exactly as it sounds. It’s a map of the intern
 <article>
 	<div class="vh-100 dt w-100 bg-black pt5 pb6 bb b--black-10" style="background:url(/uploads/peer1-map-of-the-internet-cover.jpg) no-repeat center; background-size: cover;">
     	<div class="dtc v-mid">
-      		<h1 class="fl f1 f-subheadline-l measure lh-title fw7 mb0 bg-white pt1 pb2 pr2 pl4 pr4-l shadow-2">Map of the Internet</h1>
-      		<p class="fl cl measure f5 lh-copy i bg-white pv0 pr2 pl4 shadow-2">UI/UX, iOS, Android</p>
+      		<h1 class="fl f1 f-subheadline-l measure lh-title fw7 mb0 bg-white pt1 pb2 pr0 pl3 pl4-ns pr4-ns">Map of the Internet</h1>
+      		<p class="fl cl measure f5 lh-copy i bg-white pv0 pr2 pl3 pl4-ns">UI/UX, iOS, Android</p>
     	</div>
 	</div>
 
