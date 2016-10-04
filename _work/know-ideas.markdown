@@ -20,7 +20,7 @@ published: true
     	<p class="pa3 pa4-ns mv0"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book included: Gate folds, French folds, layers of acetate, and mirror paper — a poetic representation of the screen. The books is a melding of medium and message.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
-		<img class="w-100 mt4-l ba b--black-10" src="/uploads/ki2-1024x682.jpg"/>
+		<img class="w-100 mt4-l ba b--black-10" src="/uploads/kiscroll.jpg"/>
 	</div>
 </div>
 
