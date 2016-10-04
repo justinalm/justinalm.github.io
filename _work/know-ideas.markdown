@@ -8,7 +8,7 @@ summary: Description of the Internet using a series of small related experiments
 published: true
 ---
 <article>
-<div class="vh-100 dt w-100 bg-black pt5 pb6 bb b--black-10" style="background: url(/uploads/book_cover.jpg) no-repeat center; background-size: cover;">
+<div class="vh-100 dt w-100 bg-black pt5 pb6 bb b--black-10" style="background: url(/uploads/knowIdeasCover.jpg) no-repeat center; background-size: cover;">
 	<div class="dtc v-mid">
   		<h1 class="fl f1 f-subheadline-l measure lh-title fw7 mb0 bg-white pt1 pb2 pr2 pl3 pl4-ns pr4-ns">Know Ideas</h1>
   		<p class="fl cl measure f5 lh-copy i bg-white pv0 pr2 pl3 pl4-ns">Book Design, Print Production</p>
