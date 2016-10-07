@@ -51,7 +51,7 @@ published: true
 	</div>
 </div>
 
-<div class="cf mb4">
+<div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
     	<p class="pa3 pa4-ns mv0">Analytics enables you to guage developer sentiment about your product. Each of your selected keywords coresponds to a colour on the charts.</p>
 	</div>
