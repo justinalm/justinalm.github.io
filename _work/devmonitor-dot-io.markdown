@@ -70,7 +70,7 @@ published: true
 	</div>
 </div>
 
-<div class="cf mb4">
+<div class="cf">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
     	<p class="pa3 pa4-ns mv0">
     	<span class="db f2 fw7 lh-title">Date ranges</span>
