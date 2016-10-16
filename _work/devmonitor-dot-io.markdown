@@ -70,7 +70,7 @@ published: true
 	</div>
 </div>
 
-<div class="cf">
+<div class="cf mb4">
     <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
     	<p class="pa3 pa4-ns mv0">
     	<span class="db f2 fw7 lh-title">Date ranges</span>
@@ -81,14 +81,4 @@ published: true
 	</div>
 </div>
 
-<div class="cf mb4">
-    <div class="fl w-100 w-40-l f5 f4-ns f4-l lh-copy">
-    	<p class="pa3 pa4-ns mv0">
-    	<span class="db f2 fw7 lh-title">Brand Guidelines</span>
-    	I designed the logo, selected the color and pattern palette, established styles for ui elements and iconography, and packaged the Dev Monitor Brand Guidelines to aid in maintaining visual consistency for development after hand-off.</p>
-	</div>
-	<div class="fl w-100 w-60-l pr4-l">
-		<img class="w-100 mt4-l ba b--black-20" src="/uploads/DevMonitorBrandGuidelines.jpg"/>
-	</div>
-</div>
 </article>
