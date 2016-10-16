@@ -106,49 +106,57 @@ date: 2016-09-12 22:19:00 -07:00
             <p>I hate to say it but long walks by the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to podcasts, making podcasts, cooking, dining out, and travelling.</p>
         </div>
     </div>
+    <div class="cf">
+        <div class="fl ph3 mb2 ph4-ns lh-title">
+            <h2><strong>Work Experience:</strong></h2>
+        </div>
+    </div>
     <!-- Jostle -->
     <div class="cf">
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
-            <h2><strong>Work expereince:</strong></h2>
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>User Experience Designer – <a href="http://www.jostle.me/">Jostle Corporation</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Jan. 2015 — Present</small></em></strong></p>
             <p>As a user experience designer at Jostle Corporation, my work involves strategy, information architecture, wire-framing, visual design of user interfaces for desktop, tablet, and mobile platforms. I am also actively involved with design for web and print marketing materials of various formats.</p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>Interface Designer – <a href="http://www.steamclock.com/">Steamclock Software</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Dec. 2012 — Jan. 2015</small></em></strong></p>
             <p>As an interface designer at Steamclock Software, my work involved strategy, information architecture, wire-framing, visual design of user interfaces, and the design and production of marketing materials of various formats. Half of my time at Steamclock was spent designing the products <a href="http://www.steamclock.com/weddingdj/">WeddingDJ</a> and <a href="http://www.steamclock.com/partymonster/">PartyMonster</a>. The other half of my time was spent on <a href="http://www.steamclock.com/services/">consulting and design</a>.</p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>Contract Designer – <a href="http://freeagencycreative.com/">Free Agency Creative</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Aug. 2012 – Nov. 2012</small></em></strong></p>
             <p>I handled design and production of point of purchase displays and materials for <a href="http://www.nintendo.com/">Nintendo of America</a>, large scale in-mall and direct mail marketing campaigns for <a href="http://www.shopparkroyal.com/">Park Royal Shopping Centre</a>, advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for <a href="http://www.nintendo.com/">Marketplace Events</a> – a company that produces some of the largest and longest-running home show events in North America.</p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>Interaction Designer – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Feb. 2012 — Apr. 2012</small></em></strong></p>
             <p>I designed the website for The <a href="http://grad2012.ecuad.ca/">2012 Emily Carr University Graduation Exhibition Catalogue</a> and managed the deployment of the site to Emily Carr’s server. Working with a team of students handing visual identity of the exhibition, I presented concepts, prototypes, development of HTML, CSS, jQuery, and PHP, throughout the design and production of the catalogue and website. The website was designed to make student work easily accessible on any device and across all major browsers.</p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>Research Assistant – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Jan. 2011 — Jan. 2012</small></em></strong></p>
             <p>During my research assistantship with the <a href="http://research.ecuad.ca/simcentre/">Social + Interactive Media</a> and <a href="http://research.ecuad.ca/s3dcentre/">Stereoscopic 3D Centres</a> at Emily Carr University of Art + Design, I conducted interviews, produced graphics for feature articles, designed motion graphics for promotional and instructional videos, and published content using Drupal to their respective websites.</p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy">
-            <h3 class="mv0 lh-title"><strong>Interaction Designer – <a href="https://www.mozilla.org/en-US/">Mozilla</a></strong></h3>
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
+            <h3 class="mv0 lh-title"><strong>Interaction Designer – <a href="http://www.ecuad.ca/">Emily Carr University of Art &amp; Design</a> &amp; <a href="https://www.mozilla.org/en-US/">Mozilla</a></strong></h3>
             <p class="mt0 silver"><strong><em><small>Mar. — Sept. 2011</small></em></strong></p>
             <p>I was one of a team of Emily Carr faculty and students who investigated technology options for creating an ebook, <a href="http://learningfreedomandtheweb.org/">Learning, Freedom and the Web</a>. We built an ebook for tablets, and desktop computers, and that is distributed for free. We designed it to take advantage of the navigation and multimedia opportunities a tablet could provide. Working with Vancouver-based development company Steamclock Software, our team built the book in HTML5, Javascript and CSS.</p>
         </div>
     </div>
-    <div class="cf pb4">
-        <div class="fn center w-100 w-60-l ph3 ph4-ns mb2 lh-copy">
+    <div class="cf">
+        <div class="fl ph3 mb2 ph4-ns lh-title">
             <h2><strong>Education:</strong></h2>
+        </div>
+    </div>
+    <div class="cf pb4">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>Emily Carr University of Art &amp; Design – B.Des — Interaction Design</strong></h3>
             <p class="mt0 silver"><strong><em><small>2008 — 2012</small></em></strong></p>
             <p>The <a href="http://design.ecuad.ca/">Interaction Design Degree Program</a> taught me the iterative process of design. From writing proposals, concept development, visual research and exploration, user-testing, refining designs and development, and finishing projects for implementation or delivery, I’ve been educated to embrace the tension found in the convergent and divergent plot structure we find in the narrative of every design project.</p>
             <p><em>Activities and Societies I was a part of at ECUAD: <a href="http://www.woopublication.ca/">WOO Student Publication</a>, <a href="http://grad2012.ecuad.ca/">Graduation Exhibition Catalogue 2012</a>, <a href="http://research.ecuad.ca/simcentre/">SIM Centre</a>, <a href="http://research.ecuad.ca/s3dcentre/">S3D Centre</a>.</em></p>
         </div>
-        <div class="fn center w-100 w-60-l ph3 ph4-ns lh-copy lh-copy-l">
+        <div class="fl m-100 w-50-ns w-50-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0 lh-title"><strong>University of Saskatchewan – B.Arts — History</strong></h3>
             <p class="mt0 silver"><strong><em><small>2000 — 2004</small></em></strong></p>
             <p>The primary focus of my studies was <a href="http://artsandscience.usask.ca/arts-science/humanities-finearts.php">The History of the Cold War and Conflict Studies</a>. My learning ranged from the history of Europe in the 19th and 20th Centuries, history of imperialism, and the history of development. This one was <strong>heavy</strong> on research and writing.</p>
