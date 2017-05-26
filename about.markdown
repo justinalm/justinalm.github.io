@@ -86,7 +86,7 @@ date: 2016-09-12 22:19:00 -07:00
         </div>
         <div class="fl w-100 w-50-ns w-33-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0"><strong>Software</strong></h3>
-            <p>Sketch · Photoshop · Illustrator · InDesign · After Effects · Premier · MindNode · Logic Pro · Final Cut Pro X · iWork Suite · Xcode · Sublime Text 2 · Terminal · Trello · Jira · Google Docs Wizard</p>
+            <p>Sketch · Photoshop · Illustrator · InDesign · After Effects · Premier · MindNode · Logic Pro · Final Cut Pro · iWork Suite · Xcode · Sublime Text · Terminal · Trello · Jira · Google Docs Wizard</p>
         </div>
         <div class="fl w-100 w-50-ns w-33-l ph3 mb2 ph4-ns lh-copy">
             <h3 class="mv0"><strong>Code</strong></h3>
