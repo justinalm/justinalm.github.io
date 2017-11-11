@@ -1,12 +1,12 @@
 ---
-title: About — Justin Alm — UX designer from Vancouver, Canada.
+title: About — Justin Alm — A designer from Vancouver, Canada.
 date: 2016-09-12 22:19:00 -07:00
 ---
 
 <article class="cf">
     <div class="fl ph3 pb3 f4-m ph4-ns f3-l lh-copy measure">
         <h1>About</h1>
-        <p>I’m a UX designer from Vancouver, Canada. I currently work at <a href="http://www.jostle.me/">Jostle</a>. This page is similar to what you’d find on my <a href="https://www.linkedin.com/in/justin-alm-8611b412" title="Justin Alm on LinkedIn" target="_blank">LinkedIn profile</a>.</p>
+        <p>I’m a designer from Vancouver, Canada. I currently work at <a href="http://www.jostle.me/">Jostle</a>. This page is similary to my <a href="https://www.linkedin.com/in/justin-alm-8611b412" title="Justin Alm on LinkedIn" target="_blank">LinkedIn profile</a>.</p>
     </div>
     <div class="cf">
         <div class="fl w-100 ph3 ph4-ns mb2 lh-title">
