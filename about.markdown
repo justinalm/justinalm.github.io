@@ -1,5 +1,5 @@
 ---
-title: About
+title: About — Justin Alm — UX designer from Vancouver, Canada.
 date: 2016-09-12 22:19:00 -07:00
 ---
 
