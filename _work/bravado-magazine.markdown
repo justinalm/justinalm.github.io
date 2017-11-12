@@ -4,7 +4,7 @@ date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 thumbnail: /uploads/bravado2-thumb.jpg
 categories: UI/UX,&nbsp;Front-end,&nbsp;Custom&nbsp;WordPress
-summary: Cut up content and Bravado Mag became “high gloss pixels”.
+summary: We cut up reshaped content and Bravado Mag became “high gloss pixels”.
 published: false
 ---
 <article>
