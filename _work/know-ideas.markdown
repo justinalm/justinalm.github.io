@@ -1,6 +1,6 @@
 ---
 title: Know Ideas
-date: 2016-06-12 23:57:00 -07:00
+date: 2016-06-12 21:11:00 -07:00
 layout: workPost
 thumbnail: /uploads/ki2-1024x682-thumb.jpg
 categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production
