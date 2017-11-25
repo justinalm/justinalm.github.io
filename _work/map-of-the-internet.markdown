@@ -29,7 +29,7 @@ summary: Map of the Internet is a 3D visualization of the internet.
     <div class="fl w-100 w-40-l">
     	<p class="pa3 pa4-ns mv0">
     	<span class="db f3 b lh-title">First use</span>
-    	When you first open the app, you can swipe through a quick tutorial. The tutorial explains supported gestures, how to search for ISPs, what colors signify, how toggle between the Network and Globe views, and scrub the Timeline.</p>
+    	When you first open the app, you can swipe through a quick tutorial. The tutorial explains supported gestures, how to search for ISPs, what colors signify, how to toggle between the Network and Globe views, and scrub the Timeline.</p>
 	</div>
 	<div class="fl w-100 w-60-l pr4-l">
 		<img class="w-100 mt4-l ba b--black-10" src="/uploads/peer1-iphone-firstuse.jpg"/>
