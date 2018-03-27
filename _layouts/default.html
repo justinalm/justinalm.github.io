@@ -1,23 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html class="bg-lightgrey">
 
   {% include head.html %}
 
-  <body>
+  <body class="w-100 mw1280 center bg-white">
 
     {% include header.html %}
-
-    <h1>{{ page.title }}</h1>
-
+      
     {{ content }}
-
-    <h2>Work</h2>
-    
-    <ul class="workList">
-      {% for work in site.work %}
-        <li><a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
-      {% endfor %}
-    </ul>
     
     {% include footer.html %}
     {% include scripts.html %}

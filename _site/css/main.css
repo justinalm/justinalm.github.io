@@ -1,59 +1,14 @@
-/* Box-sizing */
-* {
-  box-sizing: border-box; }
-
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0; }
-
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  max-width: 700px;
-  margin: 0 auto; }
-
+@media screen and (min-width: 60em) {
+  .f-headline-l {
+    font-size: 6rem; } }
 /**
  * Basic styling
  */
 body {
-  font: 400 18px/1.8 "Merriweather Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
-  max-width: 1300px;
-  padding: 0 15px;
-  margin: 0 auto;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+  font-family: "Roboto Mono", Monaco, monospace; }
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-.highlight {
-  margin-bottom: 15px; }
-
-/**
- * Images
- */
-img {
-  max-width: 100%;
-  display: block; }
-
-img.full-width,
-figure.full-width {
-  width: 100%;
-  margin-bottom: 15px; }
+.mw1280 {
+  max-width: 1500px; }
 
 /* FitVids.js */
 video {
@@ -69,78 +24,60 @@ object {
 
 .vendor {
   padding: 0;
-  background: #f2f2f2;
-  margin-bottom: 15px; }
+  background: #f2f2f2; }
 
 .unsupported {
   background: #ccc; }
 
-/**
- * Figures
- */
-figure > img {
-  display: block; }
+nav a:hover {
+  border-bottom: 2px solid #5790E5; }
 
-figcaption {
-  font-size: 15.75px; }
+nav a.selected {
+  color: #5790E5;
+  border-bottom: 2px solid #5790E5; }
 
-/**
- * Lists
- */
-ul, ol {
-  padding-left: 15px;
-  margin: 0 auto; }
-
-li > ul,
-li > ol {
-  margin-bottom: 0; }
-
-ul.workList {
-  list-style: none;
-  padding: 0;
-  margin: 0 auto; }
-
-ul.workList li {
-  display: inline-block; }
-
-ul.workList li a {
-  display: inline-block;
-  background: #f2f2f2;
-  padding: 0 7.5px;
-  margin: 0 15px 15px 0;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px; }
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 700; }
+nav a.home {
+  border: none; }
 
 /**
  * Links
  */
 a {
-  color: #2196f3;
-  text-decoration: none; }
-  a:visited {
-    color: #2196f3; }
+  color: #5790E5;
+  text-decoration: none;
+  border-bottom: 2px solid #FFFFFF;
+  transition: all 0.2s ease; }
   a:hover {
-    text-decoration: underline; }
+    border-color: #5790E5; }
 
-/**
- * Blockquotes
- */
-blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
-  padding-left: 15px;
-  font-size: 18px;
-  letter-spacing: -1px;
-  font-style: italic; }
-  blockquote > :last-child {
-    margin-bottom: 0; }
+.Btn {
+  display: inline-block;
+  background: #fff;
+  color: #5790E5;
+  font-size: 0.75em;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  border: 1px solid #5790E5; }
+  .Btn:hover {
+    background: #5790E5;
+    color: #fff; }
+
+/* Box-shadow */
+.shadow-1 {
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); }
+
+/* Colors */
+.brand-blue {
+  color: #5790E5; }
+
+.ki-red {
+  color: #EE3B3F; }
+
+.bg-lightgrey {
+  background-color: #f2f2f2; }
 
 /**
  * Code formatting
@@ -148,8 +85,6 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
   background-color: #eef; }
 
 code {
@@ -162,53 +97,6 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
-
-/* Navigation */
-header, footer {
-  text-align: left;
-  padding: 0; }
-
-header {
-  margin-bottom: 15px;
-  border-bottom: 1px solid #ccc; }
-
-footer {
-  margin-top: 15px;
-  border-top: 1px solid #ccc; }
-
-header a, footer a {
-  display: inline-block;
-  padding: 15px; }
-
-header a:first-of-type, footer a:first-of-type {
-  padding-left: 0; }
-
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: 700px;
-  margin-right: auto;
-  margin-left: auto; }
-
-/**
- * Clearfix
- */
-.wrapper:after {
-  content: "";
-  display: table;
-  clear: both; }
-
-/**
- * Icons
- */
-.icon > svg {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  vertical-align: middle; }
-  .icon > svg path {
-    fill: #828282; }
 
 /**
  * Syntax highlighting styles

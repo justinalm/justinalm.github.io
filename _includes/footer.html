@@ -1,10 +1,7 @@
-<footer>
-	<div class="wrapper">
-		<a href="{{ site.baseurl }}/">Home</a>
-		{% for my_page in site.pages %}
-			{% if my_page.title %}
-				<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-			{% endif %}
-		{% endfor %}
-	 </div>
+<footer class="pa3 ph4-ns pv4-ns mid-gray bt b--black-10">
+  <small class="f6 db">© 2017 <b>Justin Alm</b>, All Rights Reserved</small>
+  <nav class="mt3">
+    <a href="/" title="Work" class="f6 dib pv2 mr2 link">Work</a>
+    <a href="/about/" title="About" class="f6 dib pv2 mh2 link">About</a>
+  </nav>
 </footer>
