@@ -1,0 +1,27 @@
+/**
+ * Tables
+ */
+
+table {
+    width: 100%;
+}
+
+thead {
+    text-align: left;
+    border-bottom: 2px solid $grey02;
+}
+
+tfoot {
+    color: $grey03;
+    background-color: $grey01;
+    border-bottom: 2px solid $grey02;
+}
+
+tr {
+    border-bottom: 1px solid $grey02;
+}
+
+th,
+td {
+    padding: $spacing-unit/2;
+}

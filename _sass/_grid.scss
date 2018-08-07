@@ -1,0 +1,44 @@
+/**
+ * Grid
+ */
+
+.Grid {
+    font-size: 0;
+}
+
+.Grid-cell {
+    font-size: $font-size-ash3;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+}
+
+.Grid--withGutters {
+    margin-left: -$spacing-unit*2;
+    margin-bottom: -$spacing-unit*2;
+}
+
+.Grid--withGutters > .Grid-cell {
+    padding-left: $spacing-unit*2;
+    padding-bottom: $spacing-unit*2;
+    box-sizing: border-box;
+}
+
+.Grid--alignMiddle > .Grid-cell {
+    vertical-align: middle;
+}
+
+/**
+ * Sizing utilities
+ */
+
+.u-size1of1 { width: 100%; }
+
+.u-size1of2 { width: 50%; }
+
+.u-size1of3 { width: 33.3333%; }
+.u-size2of3 { width: 66.6666%; }
+
+.u-size1of4 { width: 25%; }
+.u-size2of4 { width: 50%; }
+.u-size3of4 { width: 75%; }

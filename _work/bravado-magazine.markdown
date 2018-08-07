@@ -8,7 +8,6 @@ summary: We cut up reshaped content and Bravado Mag became â€œhigh gloss pixelsâ
 published: false
 ---
 <article>
-<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/bravado2-thumb.jpg) no-repeat center; background-size: cover;">
 	<div class="dtc v-mid">
   		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Bravado Magazine</h1>
   		<p class="measure f6 f5-ns lh-copy i">UI/UX, Front-end, Custom WordPress</p>

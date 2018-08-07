@@ -2,7 +2,16 @@
 layout: default
 ---
 
-{{ content }}
+<div class="mw-600 u-mar-t04 u-mar-auto">
 
-<h2 class="pl4 pb3">Sample projects</h2>
-{% include mediumWidthWorkList.html %}
+    <h1><strong>{{ page.title }}</strong></h1>
+    
+    <em>{{ page.categories }}</em>
+
+    {{ content }}
+
+</div>
+
+<h2><strong>More work</strong></h2>
+
+{% include workList.html %}

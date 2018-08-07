@@ -1,0 +1,19 @@
+/* FitVids.js */
+video {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+iframe,
+embed,
+object {
+    width: 100%;
+    max-width: 100%;
+}
+.vendor {
+    padding: 0;
+    background: #f2f2f2;
+}
+.unsupported {
+    background: #ccc;
+}

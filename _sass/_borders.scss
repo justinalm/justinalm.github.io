@@ -1,0 +1,38 @@
+hr,
+.is-hr {
+    border: 0;
+    border-top: 1px solid $grey02;
+}
+
+
+/**
+  * Border style
+  */
+
+.u-bor-style-solid { border-style: solid; } /* Dark borders */
+
+/**
+  * Border widths
+  */
+
+/* Normal border widths */
+.u-bor-width-nrml { border-width: 1px; }
+.u-bor-width-nrml-t { border-width-top: 1px; }
+.u-bor-width-nrml-r { border-width-right: 1px; }
+.u-bor-width-nrml-b { border-width-bottom: 1px; }
+.u-bor-width-nrml-l { border-width-left: 1px; }
+
+/* Fat border widths */
+.u-bor-width-fat { border-width: 5px; }
+.u-bor-width-fat-t { border-width-top: 5px; }
+.u-bor-width-fat-r { border-width-right: 5px; }
+.u-bor-width-fat-b { border-width-bottom: 5px; }
+.u-bor-width-fat-l { border-width-left: 5px; }
+
+/**
+  * Border colours
+  */
+
+.u-bor { border-color: $grey04; } /* Dark borders */
+.u-bor-light { border-color: $grey02; } /* Light borders */
+.u-bor-fatlight { border-color: $grey01; } /* Fat light borders */

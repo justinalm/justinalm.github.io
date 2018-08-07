@@ -1,0 +1,90 @@
+/*
+ * Inputs
+ * For text, date, etc. inputs
+ */
+
+.Input {
+    font-family: $base-font-family;
+    font-size: $font-size-ash5;
+    line-height: $line-height00; 
+    padding: $spacing-unit $spacing-unit*1.5;
+    border-radius: $spacing-unit/2;
+    border: 1px solid $grey02;
+    box-sizing: border-box;
+}
+
+.Input[disabled] {
+    background-color: $grey01;
+    cursor: not-allowed;
+}
+
+.Input[type="search"] {
+    box-sizing: border-box;
+}
+
+.Input:focus {
+    outline: 0;
+    border-color: $blue01;
+    box-shadow: 0 0 0 1px $blue01;
+}
+
+.Input--block {
+    display: block;
+    width: 100%;
+}
+
+/*
+ * Select input
+ * 1. so z-index works
+ * 2. brings the select above the :after so there is no dead zone
+ */
+
+.Select {
+    display: inline-block;
+    position: relative;
+    background-color: $white;
+}
+
+.Select--block,
+.Select--block .Select-input {
+    display: block;
+    width: 100%;
+    line-height: $line-height02;
+}
+
+.Select:after {
+    content: '\25BC';
+    font-size: $font-size-ash5;
+    position: absolute;
+    right: $spacing-unit*2;
+    top: 10px;
+    bottom: $spacing-unit;
+    left: auto;
+}
+
+.Input--select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    position: relative; /* 1 */
+    z-index: 5; /* 2 */
+    background-color: transparent;
+}
+
+/**
+ * Labels
+ */
+
+.Label {
+    font-size: $font-size-ash5;
+    font-weight: $font-weight-bold;
+    color: $grey05;
+}
+
+/*
+
+http://www.abeautifulsite.net/whipping-file-inputs-into-shape-with-bootstrap-3/
+
+ */
+.Input--file {
+
+}

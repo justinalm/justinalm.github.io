@@ -1,0 +1,46 @@
+nav {
+    display: table;
+    vertical-align: middle;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border-bottom: 4px solid transparent;
+}
+
+nav a:hover {
+    border-bottom: 4px solid $blue01;
+}
+
+nav a.selected {
+    color: $blue01;
+    border-bottom: 4px solid $blue01;
+}
+
+nav a.logo {
+    display: table-cell;
+    vertical-align: middle;
+    border: 0 !important;
+}
+
+nav .logo {
+    width: 66px;
+    border-radius: 50%;
+}
+
+nav a.logo img {
+    vertical-align: middle;
+}
+
+nav .pages {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+}
+
+nav .pages a,
+nav .pages p {
+    padding: $spacing-unit*2;
+}

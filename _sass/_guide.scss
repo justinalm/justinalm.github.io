@@ -1,0 +1,128 @@
+.Guide-main {
+    padding: $spacing-unit*3;
+    overflow: hidden;
+}
+
+.Guide-nav {
+    height: auto;
+    background-color: $white;
+    padding: 0;
+    margin: 0;
+    @include box-shadow;
+}
+
+.Guide-nav a {
+    text-decoration: none;
+    color: $grey05;
+}
+
+.Guide-nav > li {
+    list-style: none;
+}
+
+.Guide-nav-link {
+    display: block;
+    padding: $spacing-unit $spacing-unit*2;
+    border-bottom: 1px solid $grey02;
+    transition: background-color 200ms;
+}
+
+.Guide-nav-link:hover {
+    background-color: $grey01;
+}
+
+.Guide-nav-header {
+    line-height: 1.2;
+    color: $grey05;
+    padding: $spacing-unit/2 $spacing-unit*2;
+    border-bottom: 1px solid $grey04;
+    box-sizing: border-box; 
+}
+
+@media (min-width: 38em) {
+
+    .Guide-nav {
+        position: fixed;
+        min-width: 192px;
+        max-width: 192px;
+        height: 100vh;
+        top: 0;
+        left: 0;
+        border-right: 1px solid $grey02;
+        box-shadow: none;
+    }
+
+    .Guide-content {
+        max-width: 720px;
+        margin-left: 210px;
+    }
+
+}
+
+.Guide-grid {
+    font-size: 0;
+    margin-left: -$spacing-unit*2;
+}
+
+.Guide-grid-cell {
+    display: inline-block;
+    font-size: $spacing-unit*2;
+    padding-left: $spacing-unit*2;
+    padding-bottom: $spacing-unit*2;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.Guide-grid--squares > .Guide-grid-cell {
+    width: 20%;
+}
+
+.Guide-square {
+    padding-top: 100%;
+    width: 100%;
+}
+
+.Guide-section {
+    padding-top: $spacing-unit*2;
+    border-top: 1px solid $grey02;
+}
+
+.Guide-row {
+    margin-bottom: $spacing-unit*2;
+}
+
+.Guide-code {
+    padding: $spacing-unit*3;
+    border: 1px solid $grey02;
+    border-radius: $spacing-unit/2;
+    background-color: $grey01;
+    font-family: "SourceCodePro", courier, monospace;
+}
+
+.Guide-block {
+    padding: $spacing-unit*3;
+    margin: 0;
+    background-color: $grey01;
+}
+
+.Guide-header {
+    padding: 25px;
+    text-align: right;
+    background-color: $grey01;
+    transform: translateY(-90%);
+    opacity: 0.5;
+    transition: transform 200ms, opacity 200ms;
+}
+
+.Guide-header:hover {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.Guide-header a {
+    text-decoration: none;
+}
+
+.t-caps {
+    letter-spacing: 1px;
+}

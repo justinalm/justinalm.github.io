@@ -1,0 +1,30 @@
+@media all and (min-width: 479px) {
+    ul.work-list li {
+        display: inline-block;
+        vertical-align: top;
+        box-sizing: border-box;
+        width: 48%;
+        text-align: left;
+        margin: 0 4% $spacing-unit*4 0;
+        @include border-radius;
+        overflow: hidden;
+    }
+    ul.work-list li:nth-child(2n+2) {
+        margin-right: 0;
+    }
+}
+
+@media all and (min-width: 1020px) {
+    ul.work-list li,
+    ul.work-list li:nth-child(2n+2) {
+        box-sizing: border-box;
+        width: 31%;
+        text-align: left;
+        margin: 0 3.33% $spacing-unit*4 0;
+        @include border-radius;
+        overflow: hidden;
+    }
+    ul.work-list li:nth-child(3n+3) {
+        margin-right: 0;
+    }
+}
