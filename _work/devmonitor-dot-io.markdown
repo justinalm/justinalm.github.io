@@ -2,7 +2,7 @@
 title: Devmonitor.io
 date: 2016-06-12 22:23:00 -07:00
 layout: workPost
-thumbnail: /uploads/devmonitor-thumb.jpg
+thumbnail: /uploads/wip-dev-monitor-thumb.jpg
 categories: UX/UI,&nbsp;Branding,&nbsp;Front-end
 summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 published: true
