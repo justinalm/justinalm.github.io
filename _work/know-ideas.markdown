@@ -3,12 +3,10 @@ title: Know Ideas
 date: 2016-06-12 21:11:00 -07:00
 layout: workPost
 thumbnail: /uploads/know-ideas-thumb.jpg
-categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production
+categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production,&nbsp;Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
 ---
-
-## __Intro__
 
 <a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book included: Gate folds, French folds, layers of acetate, and mirror paper. The books is an exploration of medium and message.
 

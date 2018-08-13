@@ -2,12 +2,10 @@
 title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
 layout: workPost
-categories: UI/UX,&nbsp;iOS,&nbsp;Android
+categories: UX/UI,&nbsp;iOS,&nbsp;Android
 thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
 summary: Map of the Internet is a 3D visualization of the internet.
 ---
-
-## __Intro__
 
 At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I worked on the design for the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&mt=8" target="_blank">Map of the Internet</a>. Concept for the app was by Peer 1. Design and development for the UI and 3D visualization was by Steamclock Software. Watch this video by <span class="fw7">CNN Money</span> or read on to learn more.
 
