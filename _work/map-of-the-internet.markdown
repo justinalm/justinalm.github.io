@@ -3,7 +3,7 @@ title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
 layout: workPost
 categories: UX/UI,&nbsp;iOS,&nbsp;Android
-thumbnail: /uploads/peer1-map-of-the-internet-thumb.jpg
+thumbnail: /uploads/map-of-the-internet-thumb.jpg
 summary: Map of the Internet is a 3D visualization of the internet.
 ---
 
