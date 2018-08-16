@@ -5,7 +5,7 @@ date: 2016-09-12 22:19:00 -07:00
 
 # __About__
 
-I’m a designer from Vancouver, Canada. I currently work at Jostle. This page is similar to my LinkedIn profile.
+I’m a designer from Vancouver, Canada. I currently work at Jostle. This page is similar to my [LinkedIn profile](https://www.linkedin.com/in/justin-alm-8611b412/).
 
 ## __Skills__:
 
