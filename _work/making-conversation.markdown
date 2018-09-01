@@ -8,14 +8,32 @@ summary: A podcast featuring conversations with artists and designers.
 published: true
 ---
 
-Making Conversation was a podcast I hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>. We feature conversations with artists and designers about the journey from bright eyed-newbie to fame monster. Before sunsetting the show, it was available on iTunes, makingconversation.ca, and Soundcloud.
+<div class="Grid  Grid--withGutters u-mar-b02">
+    <div class="Grid-cell  u-size1of2">
+        <h1 class="u-noMargin u-mar-b01"><strong>{{ page.title }}</strong></h1>
+        <p class="u-noMargin"><em>{{ page.categories }}</em></p>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <p class="u-noMargin" style="max-width: 100%;">Making Conversation was a podcast I hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>. We featured artists and designers, highlighting milestones in their creative journeys. The show was available on iTunes, makingconversation.ca, and Soundcloud.</p>
+    </div>
+</div>
 
-<img class="w-100 ba b--black-10" src="/uploads/makingConversationLogo.jpg"/>
+<figure>
+    <img src="/uploads/makingConversationLogo.jpg"/>
+</figure>
 
-<img class="w-100 ba b--black-10" src="/uploads/makingConversationProcess.jpg"/>
+<figure>
+    <img src="/uploads/makingConversationProcess.jpg"/>
+</figure>
 
-<img class="w-100 ba b--black-10" src="/uploads/makingConversationResponsiveShowcase.jpg"/>
+<figure>
+    <img src="/uploads/makingConversationResponsiveShowcase.jpg"/>
+</figure>
 
-<img class="w-100 ba b--black-10" src="/uploads/makingConversationTwitter.jpg"/>
+<figure>
+    <img src="/uploads/makingConversationTwitter.jpg"/>
+</figure>
 
-<img class="w-100 ba b--black-10" src="/uploads/makingConversationiTunes.jpg"/>
+<figure>
+    <img src="/uploads/makingConversationiTunes.jpg"/>
+</figure>

@@ -9,12 +9,13 @@
         @include border-radius;
         overflow: hidden;
     }
-    ul.work-list li:nth-child(2n+2) {
-        margin-right: 0;
-    }
+    ul.work-list li:nth-child(2n+2) { margin-right: 0; }
+    .u-size1of2 { width: 50%; }
+    figcaption { text-align: center; }
 }
 
 @media all and (min-width: 1020px) {
+    body { margin: 20px 40px; }
     ul.work-list li,
     ul.work-list li:nth-child(2n+2) {
         box-sizing: border-box;

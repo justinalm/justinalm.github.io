@@ -3,3 +3,13 @@
  */
 
 img { width: 100%; }
+
+figure, .vendor {
+    margin: 0 0 $spacing-unit*4 0;
+}
+
+figcaption {
+    text-align: left;
+    font-size: .85rem;
+    color: $grey03;
+}
