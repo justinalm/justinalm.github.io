@@ -28,4 +28,7 @@
     ul.work-list li:nth-child(3n+3) {
         margin-right: 0;
     }
+    figure, .vendor {
+        margin: 0 0 $spacing-unit*8 0;
+    }
 }

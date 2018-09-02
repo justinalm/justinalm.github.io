@@ -113,7 +113,7 @@ img {
   width: 100%; }
 
 figure, .vendor {
-  margin: 0 0 64px 0; }
+  margin: 0 0 32px 0; }
 
 figcaption {
   max-width: 600px;
@@ -845,4 +845,7 @@ ul.work-list li img {
     overflow: hidden; }
 
   ul.work-list li:nth-child(3n+3) {
-    margin-right: 0; } }
+    margin-right: 0; }
+
+  figure, .vendor {
+    margin: 0 0 64px 0; } }
