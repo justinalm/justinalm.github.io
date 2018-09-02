@@ -5,18 +5,10 @@ nav {
 }
 
 nav a {
+    color: $grey05;
     text-decoration: none;
     transition: all 0.2s ease;
-    border-bottom: 4px solid transparent;
-}
-
-nav a:hover {
-    border-bottom: 4px solid $blue01;
-}
-
-nav a.selected {
-    color: $blue01;
-    border-bottom: 4px solid $blue01;
+    border-bottom: 2px solid transparent;
 }
 
 nav a.logo {
@@ -42,5 +34,16 @@ nav .pages {
 
 nav .pages a,
 nav .pages p {
+    color: $grey05;
     padding: $spacing-unit*2;
+}
+
+nav a:hover {
+    color: $blue01;
+    border-bottom: 2px solid $blue01;
+}
+
+nav a.selected {
+    color: $blue01;
+    border-bottom: 2px solid $blue01;
 }

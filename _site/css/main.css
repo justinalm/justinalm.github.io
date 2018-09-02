@@ -63,11 +63,6 @@ body {
   line-height: 1.45;
   color: #232323; }
 
-h1, h2, h3, h4, h5, h6, p, figcaption {
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto; }
-
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.414em;
   margin-bottom: 0.5em;
@@ -118,12 +113,14 @@ img {
   width: 100%; }
 
 figure, .vendor {
-  margin: 0 0 32px 0; }
+  margin: 0 0 64px 0; }
 
 figcaption {
+  max-width: 600px;
   text-align: left;
-  font-size: .85rem;
-  color: #9ba3a5; }
+  font-size: 0.833em;
+  color: #9ba3a5;
+  margin: 8px auto 0 auto; }
 
 .Guide-main {
   padding: 24px;
@@ -721,16 +718,10 @@ nav {
   width: 100%; }
 
 nav a {
+  color: #232323;
   text-decoration: none;
   transition: all 0.2s ease;
-  border-bottom: 4px solid transparent; }
-
-nav a:hover {
-  border-bottom: 4px solid #5790E5; }
-
-nav a.selected {
-  color: #5790E5;
-  border-bottom: 4px solid #5790E5; }
+  border-bottom: 2px solid transparent; }
 
 nav a.logo {
   display: table-cell;
@@ -751,7 +742,16 @@ nav .pages {
 
 nav .pages a,
 nav .pages p {
+  color: #232323;
   padding: 16px; }
+
+nav a:hover {
+  color: #5790E5;
+  border-bottom: 2px solid #5790E5; }
+
+nav a.selected {
+  color: #5790E5;
+  border-bottom: 2px solid #5790E5; }
 
 ul.work-list {
   padding: 0;
