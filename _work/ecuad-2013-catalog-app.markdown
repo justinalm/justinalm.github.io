@@ -14,7 +14,7 @@ published: true
         <p class="u-noMargin"><em>{{ page.categories }}</em></p>
     </div>
     <div class="Grid-cell  u-size1of2">
-        <p class="u-noMargin" style="max-width: 100%;">At Steamclock, I worked on the <a href="http://theshowcatalogue.ecuad.ca/2013/home">Emily Carr Graduation Exhibition app</a>. The app enables students to submit projects and curators to review and approve their submissions. <em>The Show</em> branding was by <a href="http://www.seven25.com/">Seven25</a>.</p>
+        <p class="u-noMargin" style="max-width: 100%;">At Steamclock Software, I worked on the <a href="http://theshowcatalogue.ecuad.ca/2013/home">Emily Carr Graduation Exhibition app</a>. The app enables students to submit projects and curators to review and approve their submissions. <em>The Show</em> branding was by <a href="http://www.seven25.com/">Seven25</a>.</p>
     </div>
 </div>
 

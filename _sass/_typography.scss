@@ -4,12 +4,13 @@
 
 /* Typography */
 
-html {font-size: 1.125em;}
+html {font-size: 1em;}
 
 body {
   background-color: white;
   font-family: $base-font-family;
   font-weight: 400;
+  letter-spacing: -0.4px;
   line-height: 1.45;
   color: $grey05;
 }

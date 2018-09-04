@@ -54,12 +54,13 @@
  */
 /* Typography */
 html {
-  font-size: 1.125em; }
+  font-size: 1em; }
 
 body {
   background-color: white;
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: "Roboto Mono", monospace;
   font-weight: 400;
+  letter-spacing: -0.4px;
   line-height: 1.45;
   color: #232323; }
 
@@ -178,7 +179,6 @@ figcaption {
 
 .Guide-grid-cell {
   display: inline-block;
-  font-size: 16px;
   padding-left: 16px;
   padding-bottom: 16px;
   vertical-align: top;
@@ -235,7 +235,7 @@ figcaption {
   font-size: 0; }
 
 .Grid-cell {
-  font-size: 18px;
+  font-size: 16px;
   display: inline-block;
   vertical-align: top;
   width: 100%; }
@@ -535,7 +535,7 @@ hr,
   display: inline-block;
   color: #232323;
   background-color: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: "Roboto Mono", monospace;
   font-size: 14px;
   font-weight: 700;
   line-height: 1.4;
@@ -619,7 +619,7 @@ button.Btn--block {
  * For text, date, etc. inputs
  */
 .Input {
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: "Roboto Mono", monospace;
   font-size: 14px;
   line-height: 1;
   padding: 8px 12px;
