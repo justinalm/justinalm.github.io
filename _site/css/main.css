@@ -743,15 +743,15 @@ nav .pages {
 nav .pages a,
 nav .pages p {
   color: #232323;
-  padding: 16px; }
+  padding: 16px;
+  border-bottom: 2px solid transparent; }
 
-nav a:hover {
+nav a:hover, nav a:active, nav a.selected {
   color: #5790E5;
   border-bottom: 2px solid #5790E5; }
 
-nav a.selected {
-  color: #5790E5;
-  border-bottom: 2px solid #5790E5; }
+figure.active {
+  border: 0px solid transparent; }
 
 ul.work-list {
   padding: 0;
@@ -831,7 +831,7 @@ ul.work-list li img {
     text-align: center; } }
 @media all and (min-width: 1020px) {
   body {
-    margin: 20px 40px; }
+    margin: 16px 64px; }
 
   ul.work-list li,
   ul.work-list li:nth-child(2n+2) {

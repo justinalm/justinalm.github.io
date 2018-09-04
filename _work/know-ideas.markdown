@@ -18,7 +18,7 @@ published: true
     </div>
 </div>
 
-<figure>
+<figure class="active">
     <img src="/uploads/kiscroll.jpg"/>
 </figure>
 

@@ -18,7 +18,7 @@ published: true
     </div>
 </div>
 
-<figure>
+<figure class="active">
     <img src="/uploads/devmonitor-home.jpg"/>
     <figcaption>Public home highlighting <em>log in</em> and <em>join</em>.</figcaption>
 </figure>

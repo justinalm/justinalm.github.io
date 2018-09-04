@@ -36,14 +36,14 @@ nav .pages a,
 nav .pages p {
     color: $grey05;
     padding: $spacing-unit*2;
+    border-bottom: 2px solid transparent;
 }
 
-nav a:hover {
+nav a:hover, nav a:active, nav a.selected {
     color: $blue01;
     border-bottom: 2px solid $blue01;
 }
 
-nav a.selected {
-    color: $blue01;
-    border-bottom: 2px solid $blue01;
+figure.active {
+    border: 0px solid transparent;
 }

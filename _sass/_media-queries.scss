@@ -15,7 +15,7 @@
 }
 
 @media all and (min-width: 1020px) {
-    body { margin: 20px 40px; }
+    body { margin: $spacing-unit*2 $spacing-unit*8; }
     ul.work-list li,
     ul.work-list li:nth-child(2n+2) {
         box-sizing: border-box;
