@@ -4,7 +4,7 @@ date: 2016-06-12 22:36:00 -07:00
 layout: workPost
 categories: UI/UX,&nbsp;Front-end Dev,&nbsp;iPad
 thumbnail: /uploads/ecuad2013-thumb.jpg
-summary: A scalable system to help curators approve and share hundreds projects annually.
+summary: An app to help curators approve and share hundreds of projects annually.
 published: true
 ---
 
