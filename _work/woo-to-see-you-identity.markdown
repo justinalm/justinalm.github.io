@@ -1,62 +1,38 @@
 ---
-title: Woo To See You Identity
+title: Woo To See You
 date: 2016-06-12 23:58:00 -07:00
 layout: workPost
-categories: Identity&nbsp;&&nbsp;Branding
+categories: Identity&nbsp;&amp;&nbsp;Branding
 thumbnail: /uploads/woo2cuIdentityThumb.jpg
-summary: Making sure it feels good to say, “Woo To See You”.
+summary: Highly curated and exclusive retail with an inclusive environment.
 published: false
 ---
-<article>
-<div class="vh-100 dt w-100 bg-black white pt5 pb6 ph4 bb b--black-10" style="background: url(/uploads/woo2cuIdentityThumb.jpg) no-repeat center; background-size: cover;">
-	<div class="dtc v-mid">
-  		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Woo To See You Identity</h1>
-  		<p class="measure f6 f5-ns lh-copy i">Identity &amp; Branding</p>
-	</div>
+
+<div class="Grid  Grid--withGutters u-mar-b02">
+    <div class="Grid-cell  u-size1of2">
+        <h1 class="u-noMargin u-mar-b01"><strong>{{ page.title }}</strong></h1>
+        <p class="u-noMargin"><em>{{ page.categories }}</em></p>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <p class="u-noMargin" style="max-width: 100%;">I helped <a href="http://wootoseeyou.com/" target="_blank">Woo To See You</a> develop their retail experience across all brand touchpoints—online and brick-and-mortar. Our principles were curation and exclusive product with an contrastingly inclusive environment. Avante-garde but fun.</p>
+    </div>
 </div>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">Fashion brands can appear superficial, ineffectual, and void of genuine relationships. <a href="http://wootoseeyou.com/" target="_blank">Woo To See You</a> is fun with fashion and for people who love clothing. We wanted people to feel good when saying, “Woo To See You”.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/wootoseeyou-logo-monogram.jpg"/>
-	</div>
-</div>
+<figure class="active">
+    <img src="/uploads/wootoseeyou-business-card.jpg"/>
+    <figcaption>Public home highlighting <em>log in</em> and <em>join</em>.</figcaption>
+</figure>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/wootoseeyou-business-card.jpg"/>
-	</div>
-</div>
+<figure>
+    <img src="/uploads/wootoseeyou-pattern.jpg"/>
+    <figcaption>Public home highlighting <em>log in</em> and <em>join</em>.</figcaption>
+</figure>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/wootoseeyou-pattern.jpg"/>
-	</div>
-</div>
+<figure>
+    <img src="/uploads/wootoseeyou-gift-card.jpg"/>
+    <figcaption>Public home highlighting <em>log in</em> and <em>join</em>.</figcaption>
+</figure>
 
-<div class="cf pv4-ns pv4-l">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/wootoseeyou-gift-card.jpg"/>
-	</div>
-</div>
-
-<div class="cf pv4-ns pv4-l mb4 bb b--black-10">
-    <div class="fl w-100 w-40-ns f5 f4-ns f4-l ph4 lh-copy">
-    	<p class="mt0-ns">This is an explanation of an image and sometimes it can go long or sometimes it can be short.</p>
-	</div>
-	<div class="fl w-100 w-60-ns pr4-ns pr4-l">
-		<img class="w-100 ba b--black-10" src="/uploads/wootoseeyou-invoice.jpg"/>
-	</div>
-</div>
-</article>
+<figure>
+    <img src="/uploads/wootoseeyou-invoice.jpg"/>
+</figure>
