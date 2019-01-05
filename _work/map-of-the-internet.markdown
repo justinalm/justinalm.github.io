@@ -17,7 +17,7 @@ summary: Map of the Internet is a 3D visualization of the internet.
     </div>
 </div>
 
-<figure class="vendor active"><iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
+<figure class="animated fadeIn delay-1s vendor active"><iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
 </figure>
 

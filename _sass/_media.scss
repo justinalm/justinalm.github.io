@@ -2,7 +2,10 @@
  * Media sizing
  */
 
-img { width: 100%; }
+img {
+    width: 100%;
+    background-color: $grey01;
+}
 
 figure, .vendor {
     margin: 0 0 $spacing-unit*4 0;
