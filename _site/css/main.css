@@ -720,8 +720,7 @@ nav {
 nav a {
   color: #232323;
   text-decoration: none;
-  transition: all 0.2s ease;
-  border-bottom: 2px solid transparent; }
+  transition: all 0.2s ease; }
 
 nav a.logo {
   display: table-cell;
@@ -743,12 +742,10 @@ nav .pages {
 nav .pages a,
 nav .pages p {
   color: #232323;
-  padding: 16px;
-  border-bottom: 2px solid transparent; }
+  padding: 16px; }
 
 nav a:hover, nav a:active, nav a.selected {
-  color: #5790E5;
-  border-bottom: 2px solid #5790E5; }
+  color: #5790E5; }
 
 figure.active {
   border: 0px solid transparent; }
