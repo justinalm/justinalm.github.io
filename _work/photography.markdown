@@ -2,7 +2,7 @@
 title: Photography
 date: 2016-09-12 22:12:00 -07:00
 layout: workPost
-categories: Photography,&nbsp;Art
+categories: Art,&nbsp;Print&nbsp;Production
 thumbnail: /uploads/photos/photography-thumb.jpg
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
