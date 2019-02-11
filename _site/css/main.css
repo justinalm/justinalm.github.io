@@ -91,6 +91,9 @@ small, .font_small {
 a {
   color: #5790E5; }
 
+.u-textAlign-center {
+  text-align: center; }
+
 body {
   padding: 16px;
   margin: 0; }
@@ -262,7 +265,7 @@ figcaption {
   width: 100%; }
 
 .u-size1of3 {
-  width: 33.3333%; }
+  width: 100%; }
 
 .u-size2of3 {
   width: 66.6666%; }
@@ -3256,6 +3259,9 @@ ul.work-list li img {
 
   .u-size1of2 {
     width: 50%; }
+
+  .u-size1of3 {
+    width: 33.3333%; }
 
   figcaption {
     text-align: center; } }
