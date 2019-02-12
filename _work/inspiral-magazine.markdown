@@ -3,7 +3,7 @@ title: Inspiral Magazine
 date: 2016-06-12 23:57:00 -07:00
 layout: workPost
 thumbnail: /uploads/inspiralMagazineThumb.jpg
-categories: UX/UI,&nbsp;Responsive,&nbsp;WordPress
+categories: UX/UI, Responsive, WordPress
 summary: A publishing system designed to take on a life of its own.
 published: false
 ---

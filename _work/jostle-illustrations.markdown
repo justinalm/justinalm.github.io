@@ -2,7 +2,7 @@
 title: Jostle Illustrations
 date: 2016-09-12 22:12:00 -07:00
 layout: workPost
-categories: Illustration,&nbsp;Commercial&nbsp;Art,&nbsp;Marketing
+details: Illustration, Commercial Art, Marketing
 thumbnail: /uploads/jostle-illustrations/jostle-illustrations-thumb.jpg
 summary: A selection of illustrations I drew for The Jostle Blog.
 published: true

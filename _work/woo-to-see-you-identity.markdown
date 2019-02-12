@@ -2,7 +2,7 @@
 title: Woo To See You
 date: 2016-06-12 23:58:00 -07:00
 layout: workPost
-categories: Identity&nbsp;&amp;&nbsp;Branding
+details: Identity &amp; Branding
 thumbnail: /uploads/woo2cuIdentityThumb.jpg
 summary: Highly curated and exclusive retail with an inclusive environment.
 published: false

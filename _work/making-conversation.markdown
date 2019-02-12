@@ -3,7 +3,7 @@ title: Making Conversation
 date: 2016-06-14 23:57:00 -07:00
 layout: workPost
 thumbnail: /uploads/making-conversation-thumb.jpg
-categories: Podcast,&nbsp;Indentity,&nbsp;Community
+details: Podcast, Indentity, Community
 summary: A podcast featuring conversations with artists and designers.
 published: false
 ---

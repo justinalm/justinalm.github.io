@@ -3,7 +3,7 @@ title: Know Ideas
 date: 2016-06-12 21:11:00 -07:00
 layout: workPost
 thumbnail: /uploads/know-ideas-thumb.jpg
-categories: Book&nbsp;Design,&nbsp;Print&nbsp;Production,&nbsp;Writing
+details: Book Design, Print Production, Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
 ---

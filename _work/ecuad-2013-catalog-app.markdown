@@ -2,7 +2,7 @@
 title: ECUAD Catalog Platform
 date: 2016-06-12 22:36:00 -07:00
 layout: workPost
-categories: UI/UX,&nbsp;Front-end Dev,&nbsp;iPad
+details: UI/UX, Front-end Dev, iPad
 thumbnail: /uploads/ecuad2013-thumb.jpg
 summary: An platform to approve and share hundreds of projects annually.
 published: false
