@@ -14,7 +14,7 @@ published: true
         <p class="u-noMargin"><em>{{ page.categories }}</em></p>
     </div>
     <div class="Grid-cell  u-size1of2">
-        <p class="u-noMargin" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle’s Blog</a>. Although my primary role at Jostle is Product Designer, I support the Marketing Team with illustration for the articles they publish twice a week.</p>
+        <p class="u-noMargin" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a>. Although my primary role at Jostle is Product Designer, I support the Marketing Team with illustration for the articles they publish twice a week.</p>
     </div>
 </div>
 <figure>
