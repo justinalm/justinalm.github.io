@@ -7,13 +7,12 @@ ul.work-list {
 ul.work-list li {
     box-sizing: border-box;
     margin: 0 0 $spacing-unit*4 0;
-    @include border-radius;
     overflow: hidden;
     transition: all 0.2s ease;
 }
 
-ul.work-list li:hover {
-    @include box-shadow;
+ul.work-list li:hover > ul.work-list li h3 {
+    text-decoration: underline;
 }
 
 ul.work-list li a {
@@ -24,8 +23,6 @@ ul.work-list li a {
 
 ul.work-list li h3,
 ul.work-list li p {
-    padding-right: $spacing-unit*2;
-    padding-left: $spacing-unit*2;
     margin: 0;
 }
 
@@ -38,7 +35,6 @@ ul.work-list li p {
 ul.work-list li img {
     display: block;
     width: 100%;
-    border-bottom: 1px solid $grey01;
 }
 
 
