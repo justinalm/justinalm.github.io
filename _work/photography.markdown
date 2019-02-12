@@ -158,7 +158,7 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/gallery-steps-framed.jpg"/>
-            <figcaption><strong>Steps</strong><br>Papers 16" x 16" / Artwork 8" x 8"</figcaption>
+            <figcaption><strong>Steps</strong><br>Paper 16" x 16" / Artwork 8" x 8"</figcaption>
         </figure>
     </div>
 </div>
@@ -167,13 +167,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/english-bay-framed.jpg"/>
-            <figcaption><strong>English Bay</strong><br>Papers 20" x 16" / Artwork 18" x 14"</figcaption>
+            <figcaption><strong>English Bay</strong><br>Paper 20" x 16" / Artwork 18" x 14"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/english-bay-fog-framed.jpg"/>
-            <figcaption><strong>English Bay Fog</strong><br>Papers 20" x 16" / Artwork 18" x 14"</figcaption>
+            <figcaption><strong>English Bay Fog</strong><br>Paper 20" x 16" / Artwork 18" x 14"</figcaption>
         </figure>
     </div>
 </div>
@@ -182,13 +182,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/english-bay-beach-framed.jpg"/>
-            <figcaption><strong>English Bay Beach</strong><br>Papers 20" x 16" / Artwork 18" x 14"</figcaption>
+            <figcaption><strong>English Bay Beach</strong><br>Paper 20" x 16" / Artwork 18" x 14"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/en-route-daegu-framed.jpg"/>
-            <figcaption><strong>En Route Daegu</strong><br>Papers 20" x 16" / Artwork 14" x 10"</figcaption>
+            <figcaption><strong>En Route Daegu</strong><br>Paper 20" x 16" / Artwork 14" x 10"</figcaption>
         </figure>
     </div>
 </div>
@@ -197,13 +197,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/dog-mountain-sunset-framed.jpg"/>
-            <figcaption><strong>Dog Mountain Sunset</strong><br>Papers 20" x 16" / Artwork 18" x 14"</figcaption>
+            <figcaption><strong>Dog Mountain Sunset</strong><br>Paper 20" x 16" / Artwork 18" x 14"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/deep-cove-framed.jpg"/>
-            <figcaption><strong>Deep Cove</strong><br>Papers 20" x 16" / Artwork 18" x 7.5"</figcaption>
+            <figcaption><strong>Deep Cove</strong><br>Paper 20" x 16" / Artwork 18" x 7.5"</figcaption>
         </figure>
     </div>
 </div>
@@ -212,13 +212,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/daegu-sunset-framed.jpg"/>
-            <figcaption><strong>Daegu Sunset</strong><br>Papers 20" x 16" / Artwork 12" x 16"</figcaption>
+            <figcaption><strong>Daegu Sunset</strong><br>Paper 20" x 16" / Artwork 12" x 16"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/daegu-apartments-framed.jpg"/>
-            <figcaption><strong>Daegu Apartments</strong><br>Papers 20" x 16" / Artwork 14" x 10"</figcaption>
+            <figcaption><strong>Daegu Apartments</strong><br>Paper 20" x 16" / Artwork 14" x 10"</figcaption>
         </figure>
     </div>
 </div>
@@ -227,13 +227,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/construction-crane-framed.jpg"/>
-            <figcaption><strong>Construction Crane</strong><br>Papers 20" x 16" / Artwork 10" x 14"</figcaption>
+            <figcaption><strong>Construction Crane</strong><br>Paper 20" x 16" / Artwork 10" x 14"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/cloud-wave-framed.jpg"/>
-            <figcaption><strong>Cloud Wave</strong><br>Papers 20" x 16" / Artwork 8" x 10"</figcaption>
+            <figcaption><strong>Cloud Wave</strong><br>Paper 20" x 16" / Artwork 8" x 10"</figcaption>
         </figure>
     </div>
 </div>
@@ -242,13 +242,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/cloud-array-framed.jpg"/>
-            <figcaption><strong>Cloud Array</strong><br>Papers 16" x 16" / Artwork 8" x 8"</figcaption>
+            <figcaption><strong>Cloud Array</strong><br>Paper 16" x 16" / Artwork 8" x 8"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/cloud-array-2-framed.jpg"/>
-            <figcaption><strong>Cloud Array 2</strong><br>Papers 16" x 20" / Artwork 8" x 10"</figcaption>
+            <figcaption><strong>Cloud Array 2</strong><br>Paper 16" x 20" / Artwork 8" x 10"</figcaption>
         </figure>
     </div>
 </div>
@@ -257,13 +257,13 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/ambleside-sunset-framed.jpg"/>
-            <figcaption><strong>Ambleside Sunset</strong><br>Papers 20" x 16" / Artwork 18" x 14"</figcaption>
+            <figcaption><strong>Ambleside Sunset</strong><br>Paper 20" x 16" / Artwork 18" x 14"</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/photos/airplane-framed.jpg"/>
-            <figcaption><strong>Airplane</strong><br>Papers 16" x 16" / Artwork 8" x 8"</figcaption>
+            <figcaption><strong>Airplane</strong><br>Paper 16" x 16" / Artwork 8" x 8"</figcaption>
         </figure>
     </div>
 </div>
