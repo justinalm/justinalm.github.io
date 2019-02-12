@@ -17,7 +17,10 @@ published: true
         <p class="u-noMargin" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle’s Blog</a>. Although my primary role at Jostle is Product Designer, I support the Marketing Team with illustration for the articles they publish twice a week.</p>
     </div>
 </div>
-
+<figure>
+    <img src="/uploads/jostle-illustrations/workplace-rules-16x9.png"/>
+    <figcaption><a href="https://blog.jostle.me/blog/7-workplace-rules-that-need-to-go" title="7 workplace rules that need to go">7 workplace rules that are holding back your organization</a></figcaption>
+</figure>
 <figure>
     <img src="/uploads/jostle-illustrations/how-to-break-down-silos.png"/>
     <figcaption><a href="https://blog.jostle.me/blog/how-to-break-down-silos" title="Working in silos? Here's how to break them how-to-break-down-silos">Working in silos? Here's how to break them how-to-break-down-silos</a></figcaption>
@@ -33,10 +36,6 @@ published: true
 <figure>
     <img src="/uploads/jostle-illustrations/companies-with-great-internal-communications-16x9.png"/>
     <figcaption><a href="https://blog.jostle.me/blog/companies-with-great-internal-communications" title="5 companies with great internal communications">5 companies with great internal communications</a></figcaption>
-</figure>
-<figure>
-    <img src="/uploads/jostle-illustrations/workplace-rules-16x9.png"/>
-    <figcaption><a href="https://blog.jostle.me/blog/7-workplace-rules-that-need-to-go" title="7 workplace rules that need to go">7 workplace rules that are holding back your organization</a></figcaption>
 </figure>
 <figure>
     <img src="/uploads/jostle-illustrations/coffee-breaks-16x9.png"/>
