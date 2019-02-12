@@ -89,10 +89,19 @@ small, .font_small {
   font-size: 0.833em; }
 
 a {
-  color: #5790E5; }
+  color: #5790E5;
+  text-decoration: none;
+  border-bottom: 1px solid #5790E5;
+  transition: ease all 0.2s; }
+
+a:hover {
+  border-bottom: 1px solid #fff; }
 
 .u-textAlign-center {
   text-align: center; }
+
+.u-textAlign-left {
+  text-align: left; }
 
 body {
   padding: 16px;
