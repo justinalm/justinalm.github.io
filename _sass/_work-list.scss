@@ -27,14 +27,21 @@ ul.work-list li p {
 }
 
 ul.work-list li img,
+ul.work-list li .media,
 ul.work-list li p {
     margin-top: 0;
     margin-bottom: $spacing-unit*2;
 }
 
-ul.work-list li img {
+ul.work-list li img,
+ul.work-list li .media {
     display: block;
     width: 100%;
+    height: auto;
+}
+
+ul.work-list li img {
+    border: 1px solid $grey02;
 }
 
 

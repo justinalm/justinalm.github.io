@@ -115,12 +115,98 @@ body {
 .mw-600 {
   max-width: 600px; }
 
+ul.work-list {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
+ul.work-list li {
+  box-sizing: border-box;
+  margin: 0 0 32px 0;
+  overflow: hidden;
+  transition: all 0.2s ease; }
+
+ul.work-list li:hover > ul.work-list li h3 {
+  text-decoration: underline; }
+
+ul.work-list li a {
+  display: block;
+  color: #232323;
+  text-decoration: none; }
+
+ul.work-list li h3,
+ul.work-list li p {
+  margin: 0; }
+
+ul.work-list li img,
+ul.work-list li .media,
+ul.work-list li p {
+  margin-top: 0;
+  margin-bottom: 16px; }
+
+ul.work-list li img,
+ul.work-list li .media {
+  display: block;
+  width: 100%;
+  height: auto; }
+
+ul.work-list li img {
+  border: 1px solid #cccccc; }
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {
+    ul.work-list li {
+        box-sizing: border-box;
+        display: inline-block;
+        vertical-align: top;
+        width: 30%;
+        text-align: left;
+        padding: 0;
+        margin: 1.66%;
+        @include border-radius;
+        overflow: hidden;
+    }
+} 
+ */
 /**
  * Media sizing
  */
-img {
+.media {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background: #ffffff;
+  padding-top: 56.25%;
+  box-sizing: border-box; }
+
+.media::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid #cccccc; }
+
+.media > video {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   width: 100%;
-  background-color: #ebebeb; }
+  height: 100%;
+  border-radius: inherit;
+  object-fit: cover;
+  box-sizing: border-box; }
+
+img {
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  border: 1px solid transparent;
+  background-color: #fff; }
 
 figure, .vendor {
   margin: 0 0 32px 0; }
@@ -759,53 +845,6 @@ nav a:hover, nav a:active, nav a.selected {
 figure.active {
   border: 0px solid transparent; }
 
-ul.work-list {
-  padding: 0;
-  margin: 0;
-  list-style: none; }
-
-ul.work-list li {
-  box-sizing: border-box;
-  margin: 0 0 32px 0;
-  overflow: hidden;
-  transition: all 0.2s ease; }
-
-ul.work-list li:hover > ul.work-list li h3 {
-  text-decoration: underline; }
-
-ul.work-list li a {
-  display: block;
-  color: #232323;
-  text-decoration: none; }
-
-ul.work-list li h3,
-ul.work-list li p {
-  margin: 0; }
-
-ul.work-list li img,
-ul.work-list li p {
-  margin-top: 0;
-  margin-bottom: 16px; }
-
-ul.work-list li img {
-  display: block;
-  width: 100%; }
-
-/* Medium devices (landscape tablets, 768px and up) */
-/* @media only screen and (min-width: 768px) {
-    ul.work-list li {
-        box-sizing: border-box;
-        display: inline-block;
-        vertical-align: top;
-        width: 30%;
-        text-align: left;
-        padding: 0;
-        margin: 1.66%;
-        @include border-radius;
-        overflow: hidden;
-    }
-} 
- */
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.7.0

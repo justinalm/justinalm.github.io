@@ -3,8 +3,8 @@ title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
 layout: workPost
 details: UX/UI, iOS, Android
-thumbnail: /uploads/map-of-the-internet-thumb.jpg
-summary: Map of the Internet is a 3D visualization of the internet.
+video: /uploads/peer1-map-of-the-internet-thumbnail-compressed.mp4
+summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
 
 <div class="Grid  Grid--withGutters u-mar-b02">

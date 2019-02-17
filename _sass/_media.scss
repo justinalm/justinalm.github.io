@@ -2,9 +2,45 @@
  * Media sizing
  */
 
+.media {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background: #ffffff;
+  padding-top: 56.25%;
+  box-sizing: border-box;
+}
+
+.media::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid #cccccc;
+}
+
+.media > video {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+
 img {
-    width: 100%;
-    background-color: $grey01;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  border: 1px solid transparent;
+  background-color: #fff;
 }
 
 figure, .vendor {
