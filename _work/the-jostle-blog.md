@@ -2,7 +2,7 @@
 title: The Jostle Blog
 date: 2016-06-11 22:23:00 -07:00
 layout: workPost
-video: /uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
+video: /uploads/the-jostle-blog/the-jostle-blog-thumbnail.mp4
 details: Product Design, Marketing Design, Front-end Dev
 summary: A blog on workplace issues visited by 100s of thousands of people a year.
 published: false

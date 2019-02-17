@@ -3,7 +3,7 @@ title: Map of the Internet
 date: 2016-06-12 22:12:00 -07:00
 layout: workPost
 details: UX/UI, iOS, Android
-video: /uploads/peer1-map-of-the-internet-thumbnail-compressed.mp4
+video: /uploads/peer1-map-of-the-internet-thumbnail.mp4
 summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
 

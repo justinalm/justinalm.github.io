@@ -3,7 +3,7 @@ title: Photography
 date: 2016-09-12 22:12:00 -07:00
 layout: workPost
 details: Art, Print Production
-video: /uploads/photos/photography-thumbnail3.mp4
+video: /uploads/photos/photography-thumbnail.mp4
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
 
