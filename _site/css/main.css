@@ -150,9 +150,6 @@ ul.work-list li .media {
   width: 100%;
   height: auto; }
 
-ul.work-list li img {
-  border: 1px solid #cccccc; }
-
 /* Medium devices (landscape tablets, 768px and up) */
 /* @media only screen and (min-width: 768px) {
     ul.work-list li {
@@ -179,15 +176,15 @@ ul.work-list li img {
   padding-top: 56.25%;
   box-sizing: border-box; }
 
-.media::after {
+/* .media::after {
   position: absolute;
   content: "";
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  border: 1px solid #cccccc; }
-
+  border: 1px solid #cccccc;
+} */
 .media > video {
   display: block;
   position: absolute;
