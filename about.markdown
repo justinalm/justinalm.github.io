@@ -15,11 +15,11 @@ Wireframeing · Sketching · Visual Design · Web Design & Production · Interac
 
 ### Software
 
-Sketch · Photoshop · Illustrator · InDesign · After Effects · Premier · MindNode · Logic Pro · Final Cut Pro · iWork Suite · Xcode · Sublime Text · Terminal · Trello · Jira · Google Docs Wizard
+Figma · Sketch · Principle · Illustrator · Photoshop · InDesign · Premier · MindNode · Logic Pro · Final Cut Pro · iWork Suite · Xcode · Sublime Text · Terminal · Trello · Jira · G Suite wiz
 
 ### Code
 
-HTML · CSS · SASS · Javascript (Prototyping) · jQuery (Prototyping) · Command Line · Git · Github · Gitlabs · WordPress · Jekyll · Experience contributing to Node.js and iOS projects
+HTML · CSS · SASS · Javascript (Prototyping) · jQuery (Prototyping) · Command Line · Git · Github · Gitlabs · Netlify · WordPress · Jekyll · Experience contributing to Node.js and iOS projects
 
 ## __Work Experience__:
 
