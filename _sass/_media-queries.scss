@@ -1,4 +1,5 @@
 @media all and (min-width: 479px) {
+
     ul.work-list li {
         display: inline-block;
         vertical-align: top;
@@ -8,14 +9,35 @@
         margin: 0 4% $spacing-unit*4 0;
         overflow: hidden;
     }
+    
     ul.work-list li:nth-child(2n+2) { margin-right: 0; }
+    
     .u-size1of2 { width: 50%; }
+    
     .u-size1of3 { width: 33.3333%; }
-    figcaption { text-align: center; }
+
+    .bp1-u-textAlign-center { text-align: center; }
+
+    .bp1-u-textAlign-left { text-align: left; }
+
 }
 
 @media all and (min-width: 1020px) {
-    body { margin: $spacing-unit*2 $spacing-unit*8; }
+    
+    body { margin: $spacing-unit*2 $spacing-unit*4; }
+    
+    h1, .as-h1 {font-size: 3.157em;}
+
+    h2, .as-h2 {font-size: 2.369em;}
+
+    h3, .as-h3 {font-size: 1.777em;}
+
+    h4, .as-h4 {font-size: 1.333em;}
+
+    h5, .as-h5 {font-size: 1em;}
+
+    h6, .as-h6, small, .text_small {font-size: 0.75em;}
+
     ul.work-list li,
     ul.work-list li:nth-child(2n+2) {
         box-sizing: border-box;
@@ -24,9 +46,11 @@
         margin: 0 3.33% $spacing-unit*4 0;
         overflow: hidden;
     }
+
     ul.work-list li:nth-child(3n+3) {
         margin-right: 0;
     }
+
     figure, .vendor {
         margin: 0 0 $spacing-unit*8 0;
     }

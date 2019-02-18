@@ -6,11 +6,11 @@ details: Art, Print Production, Self-indulgence
 video: /uploads/photos/photography-thumbnail.mp4
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center">I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3">I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <div class="Grid  Grid--withGutters  Grid--alignMiddle">
     <div class="Grid-cell  u-size1of2">

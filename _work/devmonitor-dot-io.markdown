@@ -7,11 +7,11 @@ details: UX/UI, Branding, Web
 summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 published: true
 ---
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center">At Steamclock Software, we designed and developed Devmonitor.io for <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a>. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3">At Steamclock Software, we designed and developed Devmonitor.io for <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a>. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <figure>
     <img src="/uploads/devmonitor-home.jpg"/>
@@ -40,5 +40,5 @@ published: true
 
 <figure>
     <img src="/uploads/devmonitor-dates.jpg"/>
-    <figcaption>Filter <em>Analytics</em> by date to see change in developer interest over time, fluctuations in Github activity, as well as track your progress responding to your community.</figcaption>
+    <figcaption>Filter <em>Analytics</em> by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.</figcaption>
 </figure>

@@ -7,11 +7,11 @@ details: Book Design, Print Production, Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
 ---
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book include: Gate folds, French folds, acetate, and mirror paper. An exploration of medium and message.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book include: Gate folds, French folds, acetate, and mirror paper. An exploration of medium and message.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <figure>
     <img src="/uploads/kiscroll.jpg"/>

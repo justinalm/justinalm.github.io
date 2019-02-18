@@ -6,11 +6,11 @@ details: UX/UI, iOS, Android
 video: /uploads/peer1-map-of-the-internet-thumbnail.mp4
 summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center" style="max-width: 100%;">At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I led design of the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&mt=8" target="_blank">Map of the Internet</a>. Concept by Peer 1. Design and dev by Steamclock.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3" style="max-width: 100%;">At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I led design of the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&mt=8" target="_blank">Map of the Internet</a>. Concept by Peer 1. Design and dev by Steamclock.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <figure class="animated fadeIn delay-1s vendor"><iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>

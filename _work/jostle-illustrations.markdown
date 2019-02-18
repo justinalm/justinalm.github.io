@@ -8,11 +8,11 @@ summary: A selection of illustrations I drew for The Jostle Blog.
 published: true
 ---
 
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a>. Although my primary role at Jostle is Product Designer, I support Marketing with illustration for articles published twice a week.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a>. Although my primary role at Jostle is Product Designer, I support Marketing with illustration for articles published twice a week.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <figure>
     <img src="/uploads/jostle-illustrations/workplace-rules-16x9.png"/>

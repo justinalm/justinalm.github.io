@@ -8,11 +8,11 @@ summary: A blog on workplace issues visited by thousands of people everyday.
 published: true
 ---
 
-<div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center" style="max-width: 100%;">I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
+    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3" style="max-width: 100%;">I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.</p>
+    <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
 <figure>
     <img src="/uploads/the-jostle-blog/the-jostle-blog-overview.jpg"/>
