@@ -39,17 +39,8 @@ img {
   box-sizing: border-box;
   width: 100%;
   height: auto;
-  background-color: $grey01;
 }
 
 figure, .vendor {
     margin: 0 0 $spacing-unit*4 0;
-}
-
-figcaption {
-    max-width: 600px;
-    text-align: left;
-    font-size: 0.833em;
-    color: $grey03;
-    margin: $spacing-unit auto 0 auto;
 }

@@ -5,7 +5,7 @@ layout: workPost
 thumbnail: /uploads/bravado2-thumb.jpg
 details: UI/UX, Front-end Dev, Web
 summary: We reshaped content and Bravado Mag became “high gloss pixels”.
-published: true
+published: false
 ---
 
 <div class="Grid  Grid--withGutters u-mar-b02">

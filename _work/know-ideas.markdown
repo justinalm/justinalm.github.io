@@ -7,18 +7,13 @@ details: Book Design, Print Production, Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
 ---
-
-<div class="Grid  Grid--withGutters u-mar-b02">
-    <div class="Grid-cell  u-size1of2">
-        <h1 class="u-noMargin u-mar-b01"><strong>{{ page.title }}</strong></h1>
-        <p class="u-noMargin"><em>{{ page.categories }}</em></p>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <p class="u-noMargin" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book included: Gate folds, French folds, layers of acetate, and mirror paper. The books is an exploration of medium and message.</p>
-    </div>
+<div class="mw-900  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center  c-grey03">{{ page.title }}</h1>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey04"><em>{{ page.details }}</em></p>
+    <p class="as-h3  u-textAlign-center  c-grey04" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book include: Gate folds, French folds, acetate, and mirror paper. An exploration of medium and message.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey03">&#8757;</p>
 </div>
-
-<figure class="active">
+<figure>
     <img src="/uploads/kiscroll.jpg"/>
 </figure>
 

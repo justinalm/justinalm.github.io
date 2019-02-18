@@ -7,18 +7,13 @@ details: UX/UI, Branding, Web
 summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 published: true
 ---
-
-<div class="Grid  Grid--withGutters u-mar-b02">
-    <div class="Grid-cell  u-size1of2">
-        <h1 class="u-noMargin u-mar-b01"><strong>{{ page.title }}</strong></h1>
-        <p class="u-noMargin"><em>{{ page.categories }}</em></p>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <p class="u-noMargin" style="max-width: 100%;">At Steamclock Software, we consulted with <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a> on the design and development of <a href="http://www.wipfactory.com/blog/2016/4/1/from-the-devmonitor-what-do-stack-overflows-survey-results-say-to-dev-programs" target="_blank">Devmonitor.io</a>. The app enables you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
-    </div>
+<div class="mw-900  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center  c-grey03">{{ page.title }}</h1>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey04"><em>{{ page.details }}</em></p>
+    <p class="as-h3  u-textAlign-center  c-grey04">At Steamclock Software, we designed and developed Devmonitor.io for <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a>. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey03">&#8757;</p>
 </div>
-
-<figure class="active">
+<figure>
     <img src="/uploads/devmonitor-home.jpg"/>
     <figcaption>Public home highlighting <em>log in</em> and <em>join</em>.</figcaption>
 </figure>

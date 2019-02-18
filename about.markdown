@@ -107,3 +107,5 @@ Applied Arts Student Awards 2012, Design/Editorial – Single, for Know Ideas
 ## __Interests__:
 
 I hate to say it but long walks by the beach are pretty high on my list of interests. I like exploring neighborhoods, getting outdoors, well designed books, listening to podcasts, making podcasts, cooking, dining out, and travelling.
+
+<div class="u-mar-b05">&nbsp;</div>

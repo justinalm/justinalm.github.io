@@ -6,17 +6,12 @@ details: Art, Print Production
 video: /uploads/photos/photography-thumbnail.mp4
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
-
-<div class="Grid  Grid--withGutters u-mar-b02">
-    <div class="Grid-cell  u-size1of2">
-        <h1 class="u-noMargin u-mar-b01"><strong>{{ page.title }}</strong></h1>
-        <p class="u-noMargin"><em>{{ page.categories }}</em></p>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <p class="u-noMargin" style="max-width: 100%;">I’m interested in formalism, abstraction, architecture, urban landscapes, and nature. If you’re intrested in prints, editorial, or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.</p>
-    </div>
+<div class="mw-900  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center  c-grey03">{{ page.title }}</h1>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey04"><em>{{ page.details }}</em></p>
+    <p class="as-h3  u-textAlign-center  c-grey04">I’m interested in formalism, abstraction, architecture, urban landscapes, and nature. If you’re intrested in prints, editorial, or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey03">&#8757;</p>
 </div>
-
 <div class="Grid  Grid--withGutters  Grid--alignMiddle">
     <div class="Grid-cell  u-size1of2">
         <figure>
