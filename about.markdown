@@ -3,9 +3,11 @@ title: About — Justin Alm — A designer from Vancouver, Canada.
 date: 2016-09-12 22:19:00 -07:00
 ---
 
-# __About__
-
-I’m a designer from Vancouver, Canada. I currently work at Jostle. This page is similar to my [LinkedIn profile](https://www.linkedin.com/in/justin-alm-8611b412/).
+<div class="mw-900  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">About</h1>
+    <p class="as-h3  u-textAlign-center">I’m a designer from Vancouver, Canada. I work at Jostle. Ready yourself for a potential déjà vu of my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
+    <p class="as-h3  u-textAlign-center  u-mar-b05">🙇</p>
+</div>
 
 ## __Skills__:
 

@@ -8,10 +8,10 @@ summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 published: true
 ---
 <div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center  c-grey03">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey04"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center  c-grey04">At Steamclock Software, we designed and developed Devmonitor.io for <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a>. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey03">&#8757;</p>
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
+    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3  u-textAlign-center">At Steamclock Software, we designed and developed Devmonitor.io for <a href="http://www.wipfactory.com/" target="_blank">WIP Factory</a>. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 <figure>
     <img src="/uploads/devmonitor-home.jpg"/>

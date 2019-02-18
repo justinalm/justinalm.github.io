@@ -7,10 +7,10 @@ video: /uploads/photos/photography-thumbnail.mp4
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
 <div class="mw-900  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b01  u-textAlign-center  c-grey03">{{ page.title }}</h1>
-    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey04"><em>{{ page.details }}</em></p>
-    <p class="as-h3  u-textAlign-center  c-grey04">I gravitate toward formalism, abstraction, architecture, urban landscapes, and nature. Intrested in prints, editorial, or exhibition opportunities? <a href="mailto:almjustin@gmail.com" target="_blank">Contact me</a>.</p>
-    <p class="as-h5  u-textAlign-center  u-mar-b05  c-grey03">&#8757;</p>
+    <h1 class="u-noMargin u-mar-b01  u-textAlign-center">{{ page.title }}</h1>
+    <p class="as-h5  u-textAlign-center  u-mar-b05"><em>{{ page.details }}</em></p>
+    <p class="as-h3  u-textAlign-center">I gravitate toward formalism, abstraction, architecture, urban landscapes, and nature. Intrested in prints, editorial, or exhibition opportunities? <a href="mailto:almjustin@gmail.com" target="_blank">Contact me</a>.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 <div class="Grid  Grid--withGutters  Grid--alignMiddle">
     <div class="Grid-cell  u-size1of2">
