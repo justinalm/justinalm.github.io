@@ -143,7 +143,7 @@ published: true
     <figcaption>Read more pagination</figcaption>
 </figure>
 
-<div class="mw-700  u-mar-auto">
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Author_listing_91"></a>Author listing</h2>
     <p>On the author pages, we improved the sizing and spacing of the avatar, title, and bio.</p>
 </div>
@@ -163,17 +163,10 @@ published: true
     </div>
 </div>
 
-<div class="mw-700  u-mar-auto">
-    <h2><a id="An_easier_publishing_workflow_100"></a>An easier publishing workflow</h2>
-    <p>These design changes also made it easier to publish an article. There used to be several required fields to make the old templates work but now the author only has to enter in the meta description and add an optional featured image.</p>
-    <h2><a id="Thoughts_or_questions_104"></a>Thoughts or questions?</h2>
-    <p>Don’t hesitate to <a href="mailto:almjustin@gmail.com">reach out to me</a> if you have thoughts or questions about anything I’ve shared here!</p>
-</div>
-
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Footer_53"></a>Footer</h2>
     <p>We styled the footer to be more consistent with <a href="http://jostle.me">jostle.me</a>. We also shortened the copyright and trademark noticed and moved the subscription form from the bottom of each article into the footer. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then outlined with a subtle marquee effect so you don’t miss it in the journey.</p>
-</div> 
+</div>
 
 <div class="Grid  Grid--withGutters  u-mar-b05">
     <div class="Grid-cell  u-size1of2">
@@ -191,9 +184,20 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
+    <h2><a id="An_easier_publishing_workflow_100"></a>An easier publishing workflow</h2>
+    <p>These design changes also made it easier to publish an article. There used to be several required fields to make the old templates work but now the author only has to enter in the meta description and add an optional featured image.</p>
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
         <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail.mp4"></video>
     </div>
     <p class="bp1-u-textAlign-center">A short video highlighting most of what I just shared.</p>
 </div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
+    <h2><a id="Thoughts_or_questions_104"></a>Thoughts or questions?</h2>
+    <p>Don’t hesitate to <a href="mailto:almjustin@gmail.com">reach out to me</a> if you have thoughts or questions about anything I’ve shared here!</p>
+</div>
+
 <p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>
