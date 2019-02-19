@@ -57,7 +57,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
-        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/design-process.mp4"></video>
+        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/design-process-compressed.mp4"></video>
     </div>
     <p class="bp1-u-textAlign-center  as-h5  c-grey03"><em>Snapshots of the design process</em></p>
 </div>
