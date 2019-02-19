@@ -151,3 +151,4 @@ published: true
     <img src="/uploads/jostle-illustrations/five-for-fiday.png"/>
     <figcaption><a href="https://blog.jostle.me/blog/five-for-friday-future-of-work" title="Five for Friday series">Five for Friday</a></figcaption>
 </figure>
+<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

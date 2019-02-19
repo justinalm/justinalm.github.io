@@ -65,3 +65,4 @@ published: true
     <img src="/uploads/kiAwards.jpg"/>
     <figcaption>The publication won an <a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1" target="_blank">Applied Arts Award 2012</a> for Design/Editorial – Single.</figcaption>
 </figure>
+<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

@@ -42,3 +42,4 @@ published: true
     <img src="/uploads/devmonitor-dates.jpg"/>
     <figcaption>Filter <em>Analytics</em> by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.</figcaption>
 </figure>
+<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

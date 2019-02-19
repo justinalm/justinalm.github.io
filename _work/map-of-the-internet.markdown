@@ -55,3 +55,4 @@ summary: A 3D visualization of the internet that was featured on CNN Money.
     <img src="/uploads/peer1-appstore.jpg"/>
     <figcaption>I designed App Store assets in collaboration with <a href="https://allenpike.com/" title="The blog of Allen Pike">Allen Pike</a>.</figcaption>
 </figure>
+<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

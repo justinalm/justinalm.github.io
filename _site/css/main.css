@@ -224,7 +224,9 @@ img {
   height: auto; }
 
 figure, .vendor {
-  margin: 0 0 32px 0; }
+  margin: 0 0 32px 0;
+  color: #607D8B;
+  font-style: italic; }
 
 .Guide-main {
   padding: 24px;
@@ -235,9 +237,9 @@ figure, .vendor {
   background-color: #ffffff;
   padding: 0;
   margin: 0;
-  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); }
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
 
 .Guide-nav a {
   text-decoration: none;
@@ -630,6 +632,14 @@ hr,
   border-color: #ECEFF1; }
 
 /* Fat light borders */
+/* 
+ * Border radius
+ */
+.u-rounded-corners {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px; }
+
 /**
  * Buttons
  * This class works with <buttons> or anchor tags
@@ -3286,6 +3296,11 @@ figure.active {
     animation: unset !important;
     -webkit-transition: none !important;
     transition: none !important; } }
+.u-shadow {
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
+
 @media all and (min-width: 479px) {
   ul.work-list li {
     display: inline-block;
@@ -3344,4 +3359,4 @@ figure.active {
     margin-right: 0; }
 
   figure, .vendor {
-    margin: 0 0 64px 0; } }
+    margin: 0 0 32px 0; } }

@@ -36,3 +36,13 @@ hr,
 .u-bor { border-color: $grey04; } /* Dark borders */
 .u-bor-light { border-color: $grey02; } /* Light borders */
 .u-bor-fatlight { border-color: $grey01; } /* Fat light borders */
+
+
+/* 
+ * Border radius
+ */
+.u-rounded-corners {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
