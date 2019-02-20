@@ -150,6 +150,14 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
+    <p>I also added a an alternate layout for the article header for articles that don’t have a featured image.</p>
+    <figure class="u-textAlign-center  u-mar-t05">
+        <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/new-article-header-no-image.jpg" alt="Alternate layout for articles without an image.">
+        <figcaption>Alternate layout for articles without an image.</figcaption>
+    </figure>
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <p>Comments and the comment form got restyled, improving hierarchy, font-size, spacing, colour, threading—all in adherence to our style guide.</p>
 </div>
 
