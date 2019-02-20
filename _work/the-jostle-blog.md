@@ -17,7 +17,7 @@ published: true
 
 <figure>
     <img src="/uploads/the-jostle-blog/the-jostle-blog-overview.jpg"/>
-    <figcaption>Visit <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a> to see how all this pulls together or read-on for the detailed teardown.</figcaption>
+    <figcaption>Visit <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a> to see how all this pulls together or read-on for the detailed case study.</figcaption>
 </figure>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
@@ -63,7 +63,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>The following is a teardown of what changed.</p>
+    <p>Here’s a detailed teardown of each component that changed.</p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
