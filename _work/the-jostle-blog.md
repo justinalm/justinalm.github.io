@@ -75,7 +75,7 @@ published: true
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/old-nav.png" alt="Old nav">
+            <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/old-nav.jpg" alt="Old nav">
             <figcaption>Old nav</figcaption>
         </figure>
     </div>
@@ -90,10 +90,8 @@ published: true
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Listing_pages_62"></a>Listing pages</h2>
     <p>For the listings pages, I changed the design to use our 16x9 featured images, which are used in the header of the article. This way, we no longer needed a secondary, small, square asset. Less to prep, maintain, and mess up in the future.</p>
+    <img class="u-mar-t05  u-mar-b05" src="/uploads/the-jostle-blog/image-sizing.jpg" alt="Image sizing">
     <p>I added some variation to listings page to make them more engaging. These larger and smaller article summaries enabled us to focus attention on recent articles, then futher down the list of articles, and highlighting other useful resources and popular articles. The goal was to direct attention, increase awareness of other resources, without overloading the reader.</p>
-    <p>I also designed a variant for articles without featured images, which features big type for the titles. This gives articles without images equal presence to articles with images.</p>
-    <p>I also restyled the pagination so they aligned with The Jostle Style Guide—making them easier to read and tap.</p>
-    <p>Jostle uses Open Sans across all of our brand touchpoints. I added Open Sans Condensed for the titles on the blog, which provides a few more characters per line, better wrapping, and improved contrast from excerpts.</p>
 </div>
 
 <div class="Grid  Grid--withGutters">
@@ -109,6 +107,24 @@ published: true
             <figcaption>New listing</figcaption>
         </figure>
     </div>
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
+    <p>I also designed a variant for articles without featured images, which features big type for the titles. This gives articles without images equal presence to articles with images.</p>
+    <figure class="u-mar-t05">
+        <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/alternate-layout.jpg" alt="Alternate layout">
+        <figcaption>Layout for artricles without images</figcaption>
+    </figure>
+    <p>I also changed the pagination so you can only page between older and newer listings. We used to offer an “All” button that crashed your browser as it loaded 450 article summaries with images. For this reason, we offer search.</p>
+    <figure class="u-textAlign-center  u-mar-t05">
+        <img class="w-auto  u-rounded-corners  u-shadow" style="width: 241px;" src="/uploads/the-jostle-blog/new-pagination.jpg" alt="New pagination">
+        <figcaption>New pagination</figcaption>
+    </figure>
+</div>
+
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
+    <p>Jostle uses Open Sans across all of our brand touchpoints. I added Open Sans Condensed for the titles on the blog, which provides a few more characters per line, better wrapping, and improved contrast from excerpts.</p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
