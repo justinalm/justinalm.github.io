@@ -42,38 +42,42 @@
  * Margin utilities
  */
 
-.u-noMargin { margin: 0; }
-
 .u-mar-auto  { margin: auto; }
 .u-mar-tauto { margin-top: auto; }
 .u-mar-rauto { margin-right: auto; }
 .u-mar-bauto { margin-bottom: auto; }
 .u-mar-lauto { margin-left: auto; }
 
+
+.u-noMargin { margin: 0; }
 .u-mar01 { margin: $spacing-unit;  }
 .u-mar02 { margin: $spacing-unit*2; }
 .u-mar03 { margin: $spacing-unit*3; }
 .u-mar04 { margin: $spacing-unit*4; }
 .u-mar05 { margin: $spacing-unit*5; }
 
+.u-mar-t00 { margin-top: 0px;  }
 .u-mar-t01 { margin-top: $spacing-unit;  }
 .u-mar-t02 { margin-top: $spacing-unit*2; }
 .u-mar-t03 { margin-top: $spacing-unit*3; }
 .u-mar-t04 { margin-top: $spacing-unit*4; }
 .u-mar-t05 { margin-top: $spacing-unit*5; }
 
+.u-mar-b00 { margin-bottom: 0px;  }
 .u-mar-b01 { margin-bottom: $spacing-unit;  }
 .u-mar-b02 { margin-bottom: $spacing-unit*2; }
 .u-mar-b03 { margin-bottom: $spacing-unit*3; }
 .u-mar-b04 { margin-bottom: $spacing-unit*4; }
 .u-mar-b05 { margin-bottom: $spacing-unit*5; }
 
+.u-mar-r00 { margin-right: 0px;  }
 .u-mar-r01 { margin-right: $spacing-unit;  }
 .u-mar-r02 { margin-right: $spacing-unit*2; }
 .u-mar-r03 { margin-right: $spacing-unit*3; }
 .u-mar-r04 { margin-right: $spacing-unit*4; }
 .u-mar-r05 { margin-right: $spacing-unit*5; }
 
+.u-mar-l00 { margin-left: 0px;  }
 .u-mar-l01 { margin-left: $spacing-unit;  }
 .u-mar-l02 { margin-left: $spacing-unit*2; }
 .u-mar-l03 { margin-left: $spacing-unit*3; }

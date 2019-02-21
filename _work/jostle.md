@@ -2,7 +2,7 @@
 title: Jostle
 date: 2018-02-04 21:11:00 -07:00
 layout: workPost
-thumbnail: /uploads/know-ideas-thumb.jpg
+thumbnail: https://via.placeholder.com/824x464
 categories: Product&nbsp;Design,&nbsp;Marketing&nbsp;Design,&nbsp;Front-end Dev
 summary: Since January 2015, I’ve been working at Jostle Corporation as a UX Designer.
 published: false

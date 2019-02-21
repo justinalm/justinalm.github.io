@@ -375,7 +375,7 @@ figure, .vendor {
   width: 66.6666%; }
 
 .u-size1of4 {
-  width: 25%; }
+  width: 50%; }
 
 .u-size2of4 {
   width: 50%; }
@@ -479,9 +479,6 @@ figure, .vendor {
 /**
  * Margin utilities
  */
-.u-noMargin {
-  margin: 0; }
-
 .u-mar-auto {
   margin: auto; }
 
@@ -496,6 +493,9 @@ figure, .vendor {
 
 .u-mar-lauto {
   margin-left: auto; }
+
+.u-noMargin {
+  margin: 0; }
 
 .u-mar01 {
   margin: 8px; }
@@ -512,6 +512,9 @@ figure, .vendor {
 .u-mar05 {
   margin: 40px; }
 
+.u-mar-t00 {
+  margin-top: 0px; }
+
 .u-mar-t01 {
   margin-top: 8px; }
 
@@ -526,6 +529,9 @@ figure, .vendor {
 
 .u-mar-t05 {
   margin-top: 40px; }
+
+.u-mar-b00 {
+  margin-bottom: 0px; }
 
 .u-mar-b01 {
   margin-bottom: 8px; }
@@ -542,6 +548,9 @@ figure, .vendor {
 .u-mar-b05 {
   margin-bottom: 40px; }
 
+.u-mar-r00 {
+  margin-right: 0px; }
+
 .u-mar-r01 {
   margin-right: 8px; }
 
@@ -556,6 +565,9 @@ figure, .vendor {
 
 .u-mar-r05 {
   margin-right: 40px; }
+
+.u-mar-l00 {
+  margin-left: 0px; }
 
 .u-mar-l01 {
   margin-left: 8px; }
@@ -641,6 +653,14 @@ hr,
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px; }
+
+/* 
+ * Border radius
+ */
+.u-round {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%; }
 
 /**
  * Buttons
@@ -3322,6 +3342,9 @@ figure.active {
   .u-size1of3 {
     width: 33.3333%; }
 
+  .u-size1of4 {
+    width: 50%; }
+
   .bp1-u-textAlign-center {
     text-align: center; }
 
@@ -3361,4 +3384,7 @@ figure.active {
     margin-right: 0; }
 
   figure, .vendor {
-    margin: 0 0 32px 0; } }
+    margin: 0 0 32px 0; }
+
+  .u-size1of4 {
+    width: 25%; } }

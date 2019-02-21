@@ -46,3 +46,12 @@ hr,
     -moz-border-radius: 8px;
     border-radius: 8px;
 }
+
+/* 
+ * Border radius
+ */
+.u-round {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
