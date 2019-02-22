@@ -33,7 +33,7 @@ published: true
     <p><strong>Corey</strong>: I have a ~special project~ in mind, but it’s by no means a priority. I was thinking the blog masthead could use a new look. What do you think?</p>
     <p><strong>Justin</strong>: The blog masthead does need some love. It’s been that way for years. I’d be down to take on the work.</p>
     <p><strong>Corey</strong>: Nice. I don’t really like any of our competitors’ blog mastheads. They all just have “The Intranet Blog” over a stock photo. [YIKES!]</p>
-    <p><strong>Justin</strong>: Yeah. Our competitors are not inspiring. [Such is the nature of the intranet marketplace] I would like to redesign the entire blog. The whole thing is feeling dated and unconsidered. In the listings pages, it would be great to showcase bigger images and ditch those big-ass read more links.</p>
+    <p><strong>Justin</strong>: Yeah. Our competitors are not inspiring. [Such is the nature of the intranet marketplace] I would like to redesign the entire blog. The whole thing is feeling dated and unconsidered. On the listings pages, it would be great to showcase bigger images and ditch those big-ass read more links.</p>
     <p><strong>Corey</strong>: Agreed. That’s a much larger project though, right?</p>
     <p><strong>Justin</strong>: Yup.</p>
     <p><strong>Corey</strong>: Let me run this by Dustin [Jostle’s Director of Growth Marketing] and see what he thinks.</p>
@@ -90,7 +90,7 @@ published: true
     <h2><a id="Listing_pages_62"></a>Listing pages</h2>
     <p>For the listings pages, we changed the design to use our 16x9 featured images, which are used in the header of the article. This way, we no longer needed a secondary, small, square asset. Less to prep, maintain, and mess up in the future. Also, the full glory of our illustrations get exposed for the world to enjoy!</p>
     <img class="u-mar-t05  u-mar-b05" src="/uploads/the-jostle-blog/image-sizing.jpg" alt="Image sizing">
-    <p>We added some variation to listings page to make it more engaging. Varying the size of article summaries enabled us to highlight recent articles, then direct attention futher down the listings, and surface useful resources and popular articles on the right—content outside the chronology of the feed.</p>
+    <p>We added some variation to the listings pages to make them more engaging. Varying the size of each listing enabled us to highlight recent articles, then direct attention futher down the list, and surface useful resources and popular articles on the right—content outside the chronology of the feed.</p>
 </div>
 
 <div class="Grid  Grid--withGutters">
@@ -109,12 +109,12 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>We also designed a variant for articles without featured images, which features big type for titles. This gives articles without images equal presence to articles with images.</p>
+    <p>We also designed a variant for articles without featured images, which features big title type. This gives articles without images equal presence to articles with images.</p>
     <figure class="u-mar-t05">
         <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/alternate-layout.jpg" alt="Alternate layout">
         <figcaption>Layout for artricles without images</figcaption>
     </figure>
-    <p>We also changed the pagination so you can only page between 10 posts at a time. We used to offer an “All” button as part of the pagination but it crashed your browser, loading 450+ article summaries and images at once. Needless to say, this is why we have search in the haeder nav.</p>
+    <p>We also changed the pagination so you can only page between 10 posts at a time. We used to offer an “All” button as part of the pagination but when clicked, your browser would crash, loading 450+ article summaries and images at once. Needless to say, this is why we offer search in the header nav.</p>
     <figure class="u-textAlign-center  u-mar-t05">
         <img class="w-auto  u-rounded-corners  u-shadow" style="width: 241px;" src="/uploads/the-jostle-blog/new-pagination.jpg" alt="New pagination">
         <figcaption>New pagination</figcaption>
@@ -123,13 +123,13 @@ published: true
 
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>Jostle uses Open Sans across all of our product and marketing assets. We added Open Sans Condensed to the blog because it provides a few more characters per line, better wrapping, and improved contrast for titles against the excerpts.</p>
+    <p>Jostle uses Open Sans across all of our product and marketing assets. We added Open Sans Condensed to the blog because it provides a few more characters per line, better wrapping, and improved contrast for titles against the excerpts. After the success of implementing this first on JostleTV, then the blog, we’re now considering using the condensed style across our platform.</p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Articles_69"></a>Articles</h2>
     <p>We added a “Back to blog” button to the top-left corner so people always have a clear path back to the listings page. I split the top fold of article so you see the title, summary, metadata, and image above the fold. I improved the styling of the author credit at the top of the article so it’s consistent with the styling at the bottom of the article. I also generally improved the sizing, colours, and spacing of the author credit so it adheres to our style guide.</p>
-    <p>We removed Sumo share buttons that floated on the left-hand side of the page, which didn’t get clicked, exposed low engagement numbers, and were a distraction while reading. We still needed to offer a way for people to share on social media so I added social buttons top-right and bottom-right of the article. I gave the social buttons a more subtle treatment so they didn’t compete with the brand, illustrations, or content. I also improved the interaction of these buttons, making sharing a little more novel.</p>
+    <p>We removed the Sumo share buttons that floated on the left-hand side of the page, which didn’t get clicked, exposed low engagement numbers, and were a distraction while reading. We still needed to offer a way for people to share on social media so we added social buttons top-right and bottom-right of the article. I gave the social buttons a more subtle treatment so they didn’t compete with our brand, illustrations, or content. I also improved the interaction of these buttons, making sharing a little more novel.</p>
     <p>We added an “Image Credit” so the artist gets props!</p>
 </div>
 
@@ -149,7 +149,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>We added an alternate layout for the article header for articles that don’t have a featured image.</p>
+    <p>We added an alternate layout for articles without a featured image.</p>
     <figure class="u-textAlign-center  u-mar-t05">
         <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/new-article-header-no-image.jpg" alt="Alternate layout for articles without an image.">
         <figcaption>Alternate layout for articles without an image.</figcaption>
@@ -157,7 +157,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>Comments and the comment form got restyled, improving hierarchy, font-size, spacing, colour, threading—all in adherence to our style guide.</p>
+    <p>The comments section was completely restyled, improving hierarchy, font-sizing, spacing, colour, threading—all in adherence to our style guide.</p>
 </div>
 
 <div class="Grid  Grid--withGutters">
@@ -176,7 +176,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p>At the bottom of each article, we added “Read more” pagination with links to the previous/next articles in the blog (based on publish date). This enables the reader to discover more content after surfing in from Google or social media.</p>
+    <p>At the bottom of each article, we added “Read more” pagination with links to the previous and next articles in the blog timeline. This offers the reader more content to discover; encouraging a continuation of the journey.</p>
 </div>
 
 <figure class="bp1-u-textAlign-center">
@@ -186,7 +186,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Author_listing_91"></a>Author listing</h2>
-    <p>On the author pages, we improved the sizing and spacing of the avatar, title, and bio. In the old author page, the author’s avatar and bio resembled one of the blog posts in the list.</p>
+    <p>On the author listings, we improved the sizing and spacing of the avatar, title, and bio. On the previous version, the author’s avatar and bio too closely resembled one of the blog posts in the list.</p>
 </div>
 
 <div class="Grid  Grid--withGutters">
@@ -206,7 +206,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="Footer_53"></a>Footer</h2>
-    <p>We styled the footer to be more consistent with our main marketing site, shortening copyright and trademark notices. We also moved the subscription form into the footer, which used to appear at the bottom of each article. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then outlined with a subtle marquee effect.</p>
+    <p>We styled the footer to be more consistent with our main marketing site, shortening copyright and trademark notices. We also moved the subscription form into the footer, which used to appear at the bottom of each article. Now it’s at the bottom of every page. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then highlighted with a subtle marquee CSS animation.</p>
 </div>
 
 <div class="Grid  Grid--withGutters  u-mar-b05">

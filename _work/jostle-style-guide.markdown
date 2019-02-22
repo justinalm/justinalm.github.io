@@ -4,7 +4,7 @@ date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 thumbnail: /uploads/jostle-style-guide/jostle-style-guide-thumbnail.jpg
 details: Design System, Efficiency, Teamwork
-summary: A design system to help bring consistency across product and brand touchpoints.
+summary: A design system to help bring consistency across all of Jostle’s product.
 published: false
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
@@ -17,7 +17,7 @@ published: false
 <img src="/uploads/jostle-style-guide/jostle-style-guide-hero.jpg" alt="Jostle Style Guide">
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id="Why_did_we_build_the_Style_Guide_4"></a>Why did we build the Style Guide?</h2>
+    <h2><a id="Why_did_we_build_the_Style_Guide_4"></a>Why a style guide?</h2>
     <p>A style guide contains the rules and pieces of a system collected and codified in a single place. The <em>Jostle Style Guide (Style Guide)</em> originated with <a href="https://platform.jostle.us/jostle-prod/#~b~:5:1:2795:~p~:1:185326">Justin Alm</a>, <a href="https://platform.jostle.us/jostle-prod/#~b~:5:1:2795:~p~:1:191168">Grey Vaisius</a>, <a href="https://www.linkedin.com/in/nheaney">Noel Heaney</a> and was created to meet the need to have a easy way to replicate and assemble consistent design deliverables. The Style Guide proved to be very useful for designers joining our team, as it empowered new designers to make more impactful decisions faster. It was a living system and we continued to improve its minor details and debated how to refine and extend it throughout my time at Jostle.</p>
 </div>
 
@@ -55,15 +55,15 @@ published: false
 </div>
 
 <div class="mw-900  u-mar-auto">
-    <div class="Grid  Grid--withGutters">
+    <div class="Grid  Grid--withGutters  u-textAlign-center">
         <div class="Grid-cell  u-size1of3">
-            <img class="u-rounded-corners  u-shadow" src="/uploads/jostle-style-guide/before-guide-1.jpg" alt="Grey Vaisius">
+            <img src="/uploads/jostle-style-guide/before-guide-1.jpg" alt="Grey Vaisius">
         </div>
         <div class="Grid-cell  u-size1of3">
-            <img class="u-rounded-corners  u-shadow" src="/uploads/jostle-style-guide/before-guide-2.jpg" alt="Justin Alm">
+            <img src="/uploads/jostle-style-guide/before-guide-2.jpg" alt="Justin Alm">
         </div>
         <div class="Grid-cell  u-size1of3">
-            <img class="u-rounded-corners  u-shadow" src="/uploads/jostle-style-guide/before-guide-3.jpg" alt="Noel Heaney">
+            <img src="/uploads/jostle-style-guide/before-guide-3.jpg" alt="Noel Heaney">
         </div>
         <div class="Grid-cell">
             <p class="bp1-u-textAlign-center  as-h5  c-grey03"><em>Some “choice” product pre-style guide. Note the varying styles.</em></p>
