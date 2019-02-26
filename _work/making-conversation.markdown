@@ -14,6 +14,27 @@ published: true
     <p class="as-h3" style="max-width: 100%;">An interviews podcast I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>; uncovering trade secrets and backstories in the artist’s or designer’s creative journey.</p>
     <p class="as-h5  u-mar-b05">&#8757;</p>
 </div>
+
+<div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">
+    <div class="Grid-cell  u-size1of3">
+        <img src="/uploads/making-conversation/makingConversationLogo.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <img src="/uploads/making-conversation/makingConversationProcess.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <img src="/uploads/making-conversation/makingConversationResponsiveShowcase.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <img src="/uploads/making-conversation/makingConversationTwitter.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <img src="/uploads/making-conversation/makingConversationiTunes.jpg"/>
+    </div>
+</div>
+
+<hr class="u-mar-t00  u-mar-b05">
+
 <div class="mw-700  u-mar-auto">
     <div class="u-pad-b03  u-mar-b05  u-bor-width-nrml-b">
         <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="studio-faculty"></a>Ep.1 – “What’s the name of this podcast?” with Studio Faculty</h2>
@@ -157,38 +178,18 @@ published: true
         </ul>
     </div>
     <div class="u-mar-b00">
-        <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="ross-milne"></a>Ep.11 – “The most important developments in humanity” with Working Format</h2>
+        <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="ross-milne"></a>Ep.11 – “The most important developments in humanity” with Ross Milne</h2>
         <audio controls preload="metadata">
           <source src="/uploads/making-conversation/audio/making-conversation-ep11-rossmilne.mp3" type="audio/mpeg">
         Your browser does not support the audio element but you can still <a href="/uploads/making-conversation/audio/making-conversation-ep11-rossmilne.mp3">download</a> the show.
         </audio>
-        <p>For Episode 11, we chatted with <a href="https://www.rossmilne.ca/">Ross Milne</a> of Working Format. We discussed Mr. Milne’s experience studying type design in the <a href="http://www.kabk.nl/pageEN.php?id=16">Type and Media Masters program</a> at <a href="http://www.kabk.nl/">The Royal Academy of Art</a> in The Hague. We talked about the founding of Working Format, how they named the company, and their design mentality of, “let’s just do this”. We discussed the work Ross has done on the fonts <a href="https://www.typotheque.com/fonts/charlie">Charlie</a>, <a href="https://commercialtype.com/typefaces/publico">Publico</a>, and <a href="https://commercialtype.com/typefaces/stag">Stag</a>. We talked about the practice of font naming, font marketing, how people use fonts, Australia’s love for Ross’ work, and how fonts live in the software ecosystem. We talked about Working Format’s community oriented initiative <a href="http://www.theplatformgallery.ca/">The Platform Gallery</a> and their ambition to get art and design into the everyday lives of Vancouverites.</p>
+        <p>For Episode 11, we chatted with <a href="https://www.rossmilne.ca/">Ross Milne</a>. We discussed Mr. Milne’s experience studying type design in the <a href="http://www.kabk.nl/pageEN.php?id=16">Type and Media Masters program</a> at <a href="http://www.kabk.nl/">The Royal Academy of Art</a> in The Hague. We talked about the founding of Working Format, how they named the company, and their design mentality of, “let’s just do this”. We discussed the work Ross has done on the fonts <a href="https://www.typotheque.com/fonts/charlie">Charlie</a>, <a href="https://commercialtype.com/typefaces/publico">Publico</a>, and <a href="https://commercialtype.com/typefaces/stag">Stag</a>. We talked about the practice of font naming, font marketing, how people use fonts, Australia’s love for Ross’ work, and how fonts live in the software ecosystem. We talked about Working Format’s community oriented initiative <a href="http://www.theplatformgallery.ca/">The Platform Gallery</a> and their ambition to get art and design into the everyday lives of Vancouverites.</p>
         <h3 class="as-h5  u-mar-t00  u-mar-b00"><strong>Contact Ross:</strong></h3>
         <ul>
             <li><a href="https://www.rossmilne.ca/">Ross’s Website</a></li>
             <li><a href="http://www.instagram.com/milne.ross">Ross on Instagram</a></li>
             <li><a href="mailto:milne.ross@gmail.com">Ross’s email</a></li>
         </ul>
-    </div>
-</div>
-
-<hr class="u-mar-t05  u-mar-b05">
-
-<div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">
-    <div class="Grid-cell  u-size1of3">
-        <img src="/uploads/making-conversation/makingConversationLogo.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of3">
-        <img src="/uploads/making-conversation/makingConversationProcess.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of3">
-        <img src="/uploads/making-conversation/makingConversationResponsiveShowcase.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <img src="/uploads/making-conversation/makingConversationTwitter.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <img src="/uploads/making-conversation/makingConversationiTunes.jpg"/>
     </div>
 </div>
 
