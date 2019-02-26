@@ -111,7 +111,7 @@ published: true
 </div>
 
 <figure class="u-textAlign-center">
-    <img class="u-rounded-corners  u-shadow" style="max-width: 1208px;" src="/uploads/jostle-style-guide/application-jostle-extended-colours.jpg" alt="Extended palette used in our marketing collateral">
+    <img class="u-rounded-corners  u-shadow" style="max-width: 700px;" src="/uploads/jostle-style-guide/application-jostle-extended-colours.jpg" alt="Extended palette used in our marketing collateral">
     <figcaption>Extended palette applied to marketing collateral.</figcaption>
 </figure>
 
