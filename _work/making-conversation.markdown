@@ -1,6 +1,6 @@
 ---
 title: Making Conversation
-date: 2016-06-14 23:57:00 -07:00
+date: 2019-02-19
 layout: workPost
 thumbnail: /uploads/making-conversation/making-conversation-thumb.jpg
 details: Podcast, Indentity, Community

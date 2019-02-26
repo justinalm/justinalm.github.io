@@ -226,6 +226,9 @@ ul.work-list li .media {
   object-fit: cover;
   box-sizing: border-box; }
 
+audio {
+  width: 100%; }
+
 img {
   box-sizing: border-box;
   width: 100%;
