@@ -1,6 +1,6 @@
 ---
 title: Know Ideas
-date: 2016-06-12 21:11:00 -07:00
+date: 2019-02-21
 layout: workPost
 thumbnail: /uploads/know-ideas-thumb.jpg
 details: Book Design, Print Production, Writing

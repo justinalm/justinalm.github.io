@@ -1,6 +1,6 @@
 ---
 title: The Jostle Blog
-date: 2016-06-11 22:23:00 -07:00
+date: 2019-02-25
 layout: workPost
 video: /uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
 details: Web Design, Content Marketing, Front-end Dev
@@ -233,12 +233,7 @@ published: true
     <div class="media  u-rounded-corners  u-shadow">
         <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4"></video>
     </div>
-    <p class="bp1-u-textAlign-center  as-h5  c-grey03"><em>Highlights from what I just shared</em></p>
+    <p class="u-textAlign-center  c-grey03" style="font-size: 16px;"><em>Highlights from what I just shared</em></p>
 </div>
 
 <p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>
-
-<div class="mw-700  u-mar-auto  u-mar-b05  u-textAlign-center  u-pad05  u-pad-t00  u-rounded-corners  bgc-grey01">
-    <h2 class="u-pad-t05"><a id="Thoughts_or_questions_104"></a>Feedback?</h2>
-    <p>Don’t hesitate to <a href="mailto:almjustin@gmail.com">reach out to me</a> if you have thoughts or questions!</p>
-</div>

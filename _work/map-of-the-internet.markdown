@@ -1,6 +1,6 @@
 ---
 title: Map of the Internet
-date: 2016-06-12 22:12:00 -07:00
+date: 2019-02-23
 layout: workPost
 details: UX/UI, iOS, Android
 video: /uploads/peer1-map-of-the-internet-thumbnail.mp4

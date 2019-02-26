@@ -1,6 +1,6 @@
 ---
 title: Photography
-date: 2016-09-12 22:12:00 -07:00
+date: 2019-02-19
 layout: workPost
 details: Art, Print Production, Self-indulgence
 video: /uploads/photos/photography-thumbnail.mp4

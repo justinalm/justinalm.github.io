@@ -1,6 +1,6 @@
 ---
 title: Jostle Illustrations
-date: 2016-09-12 22:12:00 -07:00
+date: 2019-02-20
 layout: workPost
 details: Illustration, Commercial Art, Marketing
 thumbnail: /uploads/jostle-illustrations/jostle-illustrations-thumb.jpg

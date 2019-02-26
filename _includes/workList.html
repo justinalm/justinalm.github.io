@@ -1,5 +1,5 @@
 <ul class="work-list u-mar-b04">
-    {% for work in site.work %}
+    {% for work in site.work reversed %}
     <li>
         <a href="{{ work.url }}" title="{{ work.title }}">
             {% if work.thumbnail %}
