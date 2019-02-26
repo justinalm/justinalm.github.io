@@ -143,7 +143,7 @@ published: true
         </ul>
     </div>
     <div class="u-pad-b03  u-mar-b05  u-bor-width-nrml-b">
-        <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="clou-studio"></a>Ep. 10 – “… is like MasterChef Junior” with Clou Studio Inc.</h2>
+        <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="clou-studio"></a>Ep. 10 – “Our practice is like MasterChef Junior” with Clou Studio Inc.</h2>
         <audio controls preload="metadata">
           <source src="/uploads/making-conversation/audio/making-conversation-ep10-cloustudio.mp3" type="audio/mpeg">
         Your browser does not support the audio element but you can still <a href="/uploads/making-conversation/audio/making-conversation-ep10-cloustudio.mp3">download</a> the show.
