@@ -60,7 +60,7 @@ published: true
     <div class="Grid-cell  u-size1of2">
         <figure class="u-mar-b02">
             <img src="/uploads/DevMonitorBrandGuidelines.jpg"/>
-            <figcaption>A rudementary style guide for WIP Factory to reference.</figcaption>
+            <figcaption>A rudimentary style guide for WIP Factory to reference.</figcaption>
         </figure>
     </div>
 </div>
