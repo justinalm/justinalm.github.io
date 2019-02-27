@@ -1,6 +1,6 @@
 ---
 title: Making Conversation
-date: 2019-02-19
+date: 2019-02-18
 layout: workPost
 thumbnail: /uploads/making-conversation/making-conversation-thumb.jpg
 details: Podcast, Indentity, Community
@@ -12,7 +12,7 @@ published: true
     <h1 class="u-noMargin u-mar-b01"><a id="home"></a>{{ page.title }}</h1>
     <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3" style="max-width: 100%;">An interviews podcast I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>; uncovering trade secrets and backstories in the artist’s or designer’s creative journey.</p>
-    <p class="as-h5  u-mar-b05">&#8757;</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 
 <div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">

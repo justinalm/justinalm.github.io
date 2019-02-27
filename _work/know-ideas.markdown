@@ -2,7 +2,7 @@
 title: Know Ideas
 date: 2019-02-21
 layout: workPost
-thumbnail: /uploads/know-ideas-thumb.jpg
+video: /uploads/know-ideas/know-ideas-compressed.mp4
 details: Book Design, Print Production, Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
@@ -10,59 +10,192 @@ published: true
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
     <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote a 130 page book about Internet culture. Interactive features of the book include: Gate folds, French folds, acetate, and mirror paper. An exploration of medium and message.</p>
-    <p class="as-h5  u-mar-b05">&#8757;</p>
+    <p class="as-h3" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote and designed an award winning 130 page book about Internet culture. The book is a Mcluhanesque exploration of the Internet using printed experiments.</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
-<figure>
-    <img src="/uploads/kiscroll.jpg"/>
-</figure>
+
+<div class="u-mar-auto  u-mar-b05">
+    <div class="media">
+        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/know-ideas/know-ideas-in-article2.mp4"></video>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/know-ideas-cover.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/know-ideas-back-cover.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/ki-93.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/know-ideas-pages.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of4">
+        <figure>
+            <img src="/uploads/know-ideas/ki-11.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of4">
+        <figure>
+            <img src="/uploads//know-ideas/ki-12.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of4">
+        <figure>
+            <img src="/uploads/know-ideas/ki-13.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of4">
+        <figure>
+            <img src="/uploads//know-ideas/ki-14.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/ki-43.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/ki-44.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-32.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads//know-ideas/ki-33.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-34.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/ki-28.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/ki-29.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-49.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads//know-ideas/ki-50.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-51.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/ki-54.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/ki-55.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-19.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads//know-ideas/ki-21.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/ki-24.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads/know-ideas/ki-58.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of2">
+        <figure>
+            <img src="/uploads//know-ideas/ki-76.jpg"/>
+        </figure>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads//know-ideas/know-ideas-process.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/know-ideas-full-cover.jpg"/>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <figure>
+            <img src="/uploads/know-ideas/know-ideas-exhibition-space.jpg"/>
+        </figure>
+    </div>
+</div>
 
 <figure>
-    <img src="/uploads/ki4-1024x682.jpg"/>
-    <figcaption>The cover spans the front and back, traversing the spine of the book.</figcaption>
+    <img src="/uploads/know-ideas/know-ideas-applied-arts-award.jpg"/>
+    <figcaption>Know Ideas won an <a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1" target="_blank">Applied Arts Award 2012</a> for Design/Editorial – Single.</figcaption>
 </figure>
 
-<figure>
-    <img src="/uploads/ki5-1024x682.jpg"/>
-    <figcaption>The back cover.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki10-1024x682.jpg"/>
-    <figcaption>Common elements found in the body of a web page map to the human body.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki11-1024x682.jpg"/>
-</figure>
-
-<figure>
-    <img src="/uploads/ki9-1024x682.jpg"/>
-    <figcaption>Language and consciousness experiments using acetate.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki14-1024x682.jpg"/>
-    <figcaption>The mirror screen. The screen is a reflection of the self.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki12-1024x682.jpg"/>
-    <figcaption>Explorations around why we are captivated by the screen, the Internet, and conciousness.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki8-1024x682.jpg"/>
-    <figcaption>Opening French folds to find hidden meaning.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/ki7-1024x682.jpg"/>
-    <figcaption>Language moves you to interact with the page. Meaning is in the interaction.</figcaption>
-</figure>
-
-<figure>
-    <img src="/uploads/kiAwards.jpg"/>
-    <figcaption>The publication won an <a href="http://www.appliedartsmag.com/winners_gallery/student/?id=981&year=2012&clip=1" target="_blank">Applied Arts Award 2012</a> for Design/Editorial – Single.</figcaption>
-</figure>
 <p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

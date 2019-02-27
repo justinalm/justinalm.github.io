@@ -12,7 +12,7 @@ published: true
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
     <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3" style="max-width: 100%;">I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.</p>
-    <p class="as-h5  u-mar-b05">&#8757;</p>
+    <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 
 <figure>

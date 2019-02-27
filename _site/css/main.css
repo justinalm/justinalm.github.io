@@ -235,7 +235,7 @@ img {
   height: auto; }
 
 figure, .vendor {
-  margin: 0 0 32px 0;
+  margin: 0 auto 32px auto;
   color: #607D8B;
   font-style: italic; }
 
@@ -489,7 +489,7 @@ figure, .vendor {
  * Margin utilities
  */
 .u-mar-auto {
-  margin: auto; }
+  margin: 0 auto; }
 
 .u-mar-tauto {
   margin-top: auto; }
@@ -3393,7 +3393,7 @@ figure.active {
     margin-right: 0; }
 
   figure, .vendor {
-    margin: 0 0 40px 0; }
+    margin: 0 auto 40px auto; }
 
   .Grid--withGutters {
     margin-left: -40px;
