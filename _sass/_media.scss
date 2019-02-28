@@ -46,7 +46,8 @@ img {
 }
 
 figure, .vendor {
-    margin: 0 auto $spacing-unit*4 auto;
+    margin: 0 auto;
     color: $grey03;
     font-style: italic;
+    line-height: 0;
 }

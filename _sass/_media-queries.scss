@@ -53,10 +53,6 @@
         margin-right: 0;
     }
 
-    figure, .vendor {
-        margin: 0 auto $spacing-unit*5 auto;
-    }
-
     .Grid--withGutters {
         margin-left: -$spacing-unit*5;
         margin-bottom: -$spacing-unit*5;
@@ -68,4 +64,6 @@
     }
 
     .u-size1of4 { width: 25%; }
+
+    .grid-caption { margin-top: -24px; }
 }

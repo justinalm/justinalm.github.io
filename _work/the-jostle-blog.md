@@ -23,7 +23,7 @@ published: true
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="A_blog_with_lots_of_legacy_5"></a>A blog with lots of legacy</h2>
     <p>In 2015, The Jostle Blog moved from our self-hosted WordPress to Marketo. About a year later, the blog moved from Marketo to HubSpot. To close the deal with Jostle, HubSpot’s developers replicated our site on their platform. A clever sales move that wins over non-technical marketing people.</p>
-    <img src="/uploads/the-jostle-blog/cms-jumping.jpg" alt="WordPress to Marketo to HubSpot">
+    <img class="u-mar-t05  u-mar-b05" src="/uploads/the-jostle-blog/cms-jumping.jpg" alt="WordPress to Marketo to HubSpot">
     <p>Needless to say, the blog was jumping from CMS to CMS with the intention of improving our marketing efforts. In the process, the user experience was getting kicked around. We kept migrating the site without investing time and energy into understanding how to execute design on our latest and greatest platform. This was partially a breakdown in communication within our team and partially the reality that our design team was swamped with product needs.</p>
     <p>Over the years, hundreds of articles were being publishing into crufty layouts. Our writers wanted their words presented in the best way possible but no one wanted to bother the design team with requests to make things better. Our readers suffered with some janky experience and our content marketing efforts weren’t as effective as they could be.</p>
     <h2><a id="Design_started_with_a_need_17"></a>The redesign started with a desire to make things better</h2>
@@ -108,9 +108,9 @@ published: true
     </div>
 </div>
 
-<div class="mw-700  u-mar-auto  u-mar-b05">
+<div class="mw-700  u-mar-auto  u-mar-t05  u-mar-b05">
     <p>We also designed a variant for articles without featured images, which features big title type. This gives articles without images equal presence to articles with images.</p>
-    <figure class="u-mar-t05">
+    <figure class="u-mar-t05  u-mar-b05">
         <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/alternate-layout.jpg" alt="Alternate layout">
         <figcaption>Layout for artricles without images</figcaption>
     </figure>
@@ -140,7 +140,7 @@ published: true
             <figcaption>Old article top fold</figcaption>
         </figure>
     </div>
-    <div class="Grid-cell  u-size1of2">
+    <div class="Grid-cell  u-size1of2  u-mar-b05">
         <figure>
             <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/new-article-header.jpg" alt="New article">
             <figcaption>New article top fold</figcaption>
@@ -167,7 +167,7 @@ published: true
             <figcaption>Old comments</figcaption>
         </figure>
     </div>
-    <div class="Grid-cell  u-size1of2">
+    <div class="Grid-cell  u-size1of2  u-mar-b05">
         <figure>
             <img class="u-rounded-corners  u-shadow" src="/uploads/the-jostle-blog/new-comments.jpg" alt="New article">
             <figcaption>New comments</figcaption>

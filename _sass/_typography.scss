@@ -54,7 +54,9 @@ a:hover {
   text-align: left;
 }
 
-figcaption {
+figcaption,
+.grid-caption {
   text-align: center;
-  margin-top: $spacing-unit;
+  line-height: 1.45;
+  margin-top: $spacing-unit*2;
 }

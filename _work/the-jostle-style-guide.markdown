@@ -14,7 +14,9 @@ published: true
     <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 
-<img style="max-width: 1556px;" src="/uploads/jostle-style-guide/jostle-style-guide-hero.jpg" alt="Jostle Style Guide">
+<div class="u-textAlign-center  u-mar-b05">
+    <img style="max-width: 1556px;" src="/uploads/jostle-style-guide/jostle-style-guide-hero.jpg" alt="Jostle Style Guide">
+</div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r05  u-pad-l05  u-rounded-corners  c-grey04  bgc-grey01">
     <p><strong>Note</strong>: July 2017, <a href="/uploads/jostle-style-guide/jostle-style-guide.pdf" title="Jostle Style Guide presentation slides">we presented</a> this to the entire team at Jostle. This piece is an adaptation of an article I cowrote with <a href="http://greyvy.com/" title="Grey Vaisius Website">Grey Vaisius</a> at Jostle, which we posted to our internal Jostle intranet for existing company and new hires to reference.</p>
@@ -70,7 +72,7 @@ published: true
             <img class="u-rounded-corners  u-shadow" src="/uploads/jostle-style-guide/before-guide-3.jpg" alt="Product before Jostle Style Guide">
         </div>
         <div class="Grid-cell">
-            <p class="bp1-u-textAlign-center  as-h5  c-grey03  u-mar-t00"><em>Some screenshots of Jostle’s eclectic product before The Style Guide.</em></p>
+            <p class="bp1-u-textAlign-center  as-h5  c-grey03  u-mar-t00  u-mar-b00  grid-caption"><em>Some screenshots of Jostle’s eclectic product before The Style Guide.</em></p>
         </div>
     </div>
 </div>
@@ -82,14 +84,14 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p>We use a naming convention and methodology inspired by <a href="http://bradfrost.com/blog/post/atomic-web-design/">Brad Frosts’ Atomic design</a>. This is an extensible approach to us, allowing us to stop at a small set of building blocks (atoms) or logically expand to modules (molecules) and further into layouts (organisms) if so required.</p>
-    <img class="u-mar-b02" src="/uploads/jostle-style-guide/atomic.svg" alt="Atomic approach to a style guide">
+    <img class="u-mar-t03  u-mar-b03" src="/uploads/jostle-style-guide/atomic.svg" alt="Atomic approach to a style guide">
     <p>Having a single point of reference helps us find answers to questions regarding style and enables our team of independent people conceptualize, design, and build products that feel like variations on a cohesive theme. When cohesion or integration issues arise, there is a clear point of reference to trace back to. This point can be modified or extended and all future projects benefit from the expansion.</p>
     <p>Our system has become an entity in the organization and identifying and discussing inconsistencies has become easier. The benefits of the Style Guide extend beyond our internal experience of designing and building products. As the principles and rules of our system are applied, the experience people have working with our product has also become more consistent, stable, and enjoyable.</p>
     <h2><a id="how-we-use-it"></a>How we use it</h2>
     <p>Jostle’s Design Team uses the Style Guide to great effect. It allows us to work independently, on an increasingly large number of projects, and still achieve a high level of consistency. For example, figuring out how far 1 element should be from another element requires less problem solving with a limited set of variables to choose from (5 possible choices in the case of the Style Guide 👍). In fact, I’ve discovered over time that our most successful designs for new features use 3 or less spacing units, colours, line-qualities, and type sizes.</p>
 </div>
 
-<figure class="u-textAlign-center  u-mar-t05">
+<figure class="u-textAlign-center  u-mar-t05  u-mar-b05">
         <img class="u-rounded-corners  u-shadow" src="/uploads/jostle-style-guide/jostle-complexity.jpg" alt="Jostle Complexity">
         <figcaption>The Style Guide helps with increased complexity.</figcaption>
 </figure>
@@ -102,7 +104,7 @@ published: true
 </div>
 
 
-<figure class="u-textAlign-center  u-mar-t05">
+<figure class="u-textAlign-center  u-mar-t05  u-mar-b05">
     <img style="max-width: 700px;" src="/uploads/jostle-style-guide/colours-extended.jpg" alt="Jostle Colours">
 </figure>
 
@@ -110,7 +112,7 @@ published: true
     <p>As our brand and identity have evolved, we extended our colours to enable more expression in blog images, online ads, and gated pieces of content. We still consider it best practice to constrain new designs to the primary colour palette and we try to use the extended palette only when needed. Although we initially extended the colours for use on the marketing website, we have found these darker hues to be useful for product design as well. More on that to come.</p>
 </div>
 
-<figure class="u-textAlign-center">
+<figure class="u-textAlign-center  u-mar-b05">
     <img class="u-rounded-corners  u-shadow" style="max-width: 700px;" src="/uploads/jostle-style-guide/application-jostle-extended-colours.jpg" alt="Extended palette used in our marketing collateral">
     <figcaption>Extended palette applied to marketing collateral.</figcaption>
 </figure>
@@ -149,7 +151,7 @@ published: true
 </div>
 
 
-<figure class="u-textAlign-center">
+<figure class="u-textAlign-center  u-mar-b05">
     <img style="max-width: 700px;" src="/uploads/jostle-style-guide/borders.jpg" alt="Borders">
 </figure>
 
@@ -166,7 +168,7 @@ published: true
     <p><strong>States</strong><br>We have 3 classes of buttons: Neutral, Destructive, and Confirm. Each class of button can be disabled. The hover and active states for each class step 1 colour darker in the palette. For focus states, we apply a 2px border using the darker hue in the pallet. All buttons have a border-radius of 4px.</p>
 </div>
 
-<figure class="u-textAlign-center">
+<figure class="u-textAlign-center  u-mar-b05">
     <img style="max-width: 700px;" src="/uploads/jostle-style-guide/button-states.jpg" alt="Button states">
 </figure>
 

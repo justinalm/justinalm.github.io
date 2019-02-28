@@ -103,9 +103,11 @@ a:hover {
 .u-textAlign-left {
   text-align: left; }
 
-figcaption {
+figcaption,
+.grid-caption {
   text-align: center;
-  margin-top: 8px; }
+  line-height: 1.45;
+  margin-top: 16px; }
 
 ul, ol {
   padding-left: 16px; }
@@ -235,9 +237,10 @@ img {
   height: auto; }
 
 figure, .vendor {
-  margin: 0 auto 32px auto;
+  margin: 0 auto;
   color: #607D8B;
-  font-style: italic; }
+  font-style: italic;
+  line-height: 0; }
 
 .Guide-main {
   padding: 24px;
@@ -3392,9 +3395,6 @@ figure.active {
   ul.work-list li:nth-child(3n+3) {
     margin-right: 0; }
 
-  figure, .vendor {
-    margin: 0 auto 40px auto; }
-
   .Grid--withGutters {
     margin-left: -40px;
     margin-bottom: -40px; }
@@ -3404,4 +3404,7 @@ figure.active {
     padding-bottom: 40px; }
 
   .u-size1of4 {
-    width: 25%; } }
+    width: 25%; }
+
+  .grid-caption {
+    margin-top: -24px; } }
