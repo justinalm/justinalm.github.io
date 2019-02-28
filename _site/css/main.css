@@ -147,7 +147,7 @@ body {
 
 ul.work-list {
   padding: 0;
-  margin: 0;
+  margin: 40px auto 0 auto;
   list-style: none; }
 
 ul.work-list li {
