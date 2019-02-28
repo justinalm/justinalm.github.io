@@ -6,7 +6,7 @@
                 <img src="{{ work.thumbnail }}"/>
             {% else work.video %}
                 <div class="media">
-                    <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="{{ work.video }}"></video>
+                    <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="{{ work.video }}" poster="{{ work.videoposter }}"></video>
                 </div>
             {% endif %}
             <h3><strong>{{ work.title }}</strong></h3>

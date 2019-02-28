@@ -3,6 +3,7 @@ title: The Jostle Blog
 date: 2019-02-25
 layout: workPost
 video: /uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
+videoposter: /uploads/the-jostle-blog/the-jostle-blog-video-poster.jpg
 details: Web Design, Content Marketing, Front-end Dev
 summary: A blog on workplace issues visited by thousands of people everyday.
 published: true
@@ -57,7 +58,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
-        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/design-process-compressed.mp4"></video>
+        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/design-process-compressed.mp4" poster="/uploads/the-jostle-blog/design-process-video-poster.jpg"></video>
     </div>
     <p class="bp1-u-textAlign-center  as-h5  c-grey03"><em>Snapshots of the design process</em></p>
 </div>
@@ -231,7 +232,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
-        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4"></video>
+        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4" poster="/uploads/the-jostle-blog/the-jostle-blog-video-poster.jpg"></video>
     </div>
     <p class="u-textAlign-center  c-grey03" style="font-size: 16px;"><em>Highlights from what I just shared</em></p>
 </div>

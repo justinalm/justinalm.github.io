@@ -4,6 +4,7 @@ date: 2019-02-23
 layout: workPost
 details: UX/UI, iOS, Android
 video: /uploads/peer1-map-of-the-internet-thumbnail.mp4
+videoposter: /uploads/map-of-the-internet-video-poster.jpg
 summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

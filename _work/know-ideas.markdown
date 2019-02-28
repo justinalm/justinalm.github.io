@@ -3,6 +3,7 @@ title: Know Ideas
 date: 2019-02-21
 layout: workPost
 video: /uploads/know-ideas/know-ideas-compressed.mp4
+videoposter: /uploads/know-ideas/know-ideas-video-poster.jpg
 details: Book Design, Print Production, Writing
 summary: Award winning exploration of the Internet using printed experiments.
 published: true
@@ -17,7 +18,7 @@ published: true
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1">
         <div class="media">
-            <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/know-ideas/know-ideas-in-article2.mp4"></video>
+            <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/know-ideas/know-ideas-in-article2.mp4" poster="/uploads/know-ideas/know-ideas-video-poster.jpg"></video>
         </div>
     </div>
     <div class="Grid-cell  u-size1of2">

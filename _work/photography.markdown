@@ -4,6 +4,7 @@ date: 2019-02-19
 layout: workPost
 details: Art, Print Production, Self-indulgence
 video: /uploads/photos/photography-thumbnail.mp4
+videoposter: /uploads/photos/photogrpahy-video-poster.jpg
 summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
