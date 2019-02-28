@@ -16,7 +16,7 @@ summary: A 3D visualization of the internet that was featured on CNN Money.
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
 </figure>
 
-<div class="Grid  Grid--withGutters  Grid--alignMiddle">
+<div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of2">
         <figure>
             <img src="/uploads/peer1-iphone-firstuse.jpg"/>
