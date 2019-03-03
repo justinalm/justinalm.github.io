@@ -18,7 +18,7 @@ published: true
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1">
         <div class="media">
-            <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/know-ideas/know-ideas-in-article2.mp4" poster="/uploads/know-ideas/know-ideas-video-poster.jpg"></video>
+            <video autoplay="true" loop="true" muted="true" playsinline="true" type="video/mp4" src="/uploads/know-ideas/know-ideas-in-article2.mp4" poster="/uploads/know-ideas/know-ideas-video-poster.jpg"></video>
         </div>
     </div>
     <div class="Grid-cell  u-size1of2">
@@ -168,5 +168,3 @@ published: true
         </figure>
     </div>
 </div>
-
-<p class="u-mar-t05  u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

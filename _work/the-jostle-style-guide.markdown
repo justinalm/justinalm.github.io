@@ -256,5 +256,3 @@ published: true
     <h2><a id="conclusion"></a>Conclusion</h2>
     <p>Jostle applies a lean development philosophy. The Style Guide hasn’t been created to go back and fix everything that was stylistically flawed. Instead, as we moved forward, all the product we ship is expected to hold true to the system we have designed. Although the full impact of The Style Guide is yet to be realized throughout Jostle’s platform, it has brought immediate benefits to the Design Team. We are able to move forward in a unified voice—communicating a shared vision for the product together.</p>
 </div>
-
-<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

@@ -221,5 +221,3 @@ published: true
         </figure>
     </div>
 </div>
-
-<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

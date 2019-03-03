@@ -58,7 +58,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
-        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/design-process-compressed.mp4" poster="/uploads/the-jostle-blog/design-process-video-poster.jpg"></video>
+        <video autoplay="true" loop="true" muted="true" playsinline="true" type="video/mp4" src="/uploads/the-jostle-blog/design-process-compressed.mp4" poster="/uploads/the-jostle-blog/design-process-video-poster.jpg"></video>
     </div>
     <p class="bp1-u-textAlign-center  as-h5  c-grey03"><em>Snapshots of the design process</em></p>
 </div>
@@ -232,9 +232,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="media  u-rounded-corners  u-shadow">
-        <video autoplay="" loop="" muted="" playsinline="" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4" poster="/uploads/the-jostle-blog/the-jostle-blog-video-poster.jpg"></video>
+        <video autoplay="true" loop="true" muted="true" playsinline="true" type="video/mp4" src="/uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4" poster="/uploads/the-jostle-blog/the-jostle-blog-video-poster.jpg"></video>
     </div>
     <p class="u-textAlign-center  c-grey03" style="font-size: 16px;"><em>Highlights from what I just shared</em></p>
 </div>
-
-<p class="u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

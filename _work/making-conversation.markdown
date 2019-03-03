@@ -192,5 +192,3 @@ published: true
         </ul>
     </div>
 </div>
-
-<p class="u-mar-t05  u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>

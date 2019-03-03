@@ -67,5 +67,3 @@ summary: A 3D visualization of the internet that was featured on CNN Money.
         </figure>
     </div>
 </div>
-
-<p class="u-mar-t05  u-mar-b05  u-textAlign-center u-mar-b05">&#8281;</p>
