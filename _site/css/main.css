@@ -384,7 +384,7 @@ figure, .vendor {
   width: 100%; }
 
 .u-size2of3 {
-  width: 66.6666%; }
+  width: 100%; }
 
 .u-size1of4 {
   width: 50%; }
@@ -3353,6 +3353,9 @@ figure.active {
 
   .u-size1of3 {
     width: 33.3333%; }
+
+  .u-size2of3 {
+    width: 66.6666%; }
 
   .u-size1of4 {
     width: 50%; }

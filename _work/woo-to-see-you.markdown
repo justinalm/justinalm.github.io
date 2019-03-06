@@ -4,7 +4,7 @@ date: 2016-06-12 23:58:00 -07:00
 layout: workPost
 details: Identity, Branding, Full-service
 thumbnail: /uploads/wootoseeyou/wootoseeyou-thumb.jpg
-summary: From buttons to buttons, pixels to bricks, tags to tags, and picks to picks.
+summary: From buttons to .btn’s, pixels to bricks, tags to hangtags, and picks to pics.
 published: true
 ---
 
@@ -139,62 +139,37 @@ published: true
     <div class="Grid-cell  u-size1of2">
         <img src="/uploads/wootoseeyou/wootoseeyou-spaces-4.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of2">
-        <div class="Grid  Grid--withGutters">
-            <div class="Grid-cell  u-size1of2">
-                <img src="/uploads/wootoseeyou/wootoseeyou-spaces-10.jpg"/>
-            </div>
-            <div class="Grid-cell  u-size1of2">
-                <img src="/uploads/wootoseeyou/wootoseeyou-spaces-8.jpg"/>
-            </div>
-            <div class="Grid-cell  u-size1of2">
-                <img src="/uploads/wootoseeyou/wootoseeyou-spaces-6.jpg"/>
-            </div>
-            <div class="Grid-cell  u-size1of2">
-                <img src="/uploads/wootoseeyou/wootoseeyou-spaces-5.jpg"/>
-            </div>
-        </div>
+    <div class="Grid-cell  u-size1of4">
+        <img src="/uploads/wootoseeyou/wootoseeyou-spaces-10.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of2">
+    <div class="Grid-cell  u-size1of4">
+        <img src="/uploads/wootoseeyou/wootoseeyou-spaces-8.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of4">
+        <img src="/uploads/wootoseeyou/wootoseeyou-spaces-6.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of4">
+        <img src="/uploads/wootoseeyou/wootoseeyou-spaces-5.jpg"/>
+    </div>
+    <div class="Grid-cell  u-size1of3">
         <img src="/uploads/wootoseeyou/wootoseeyou-spaces-9.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of2">
+    <div class="Grid-cell  u-size1of3">
         <img src="/uploads/wootoseeyou/wootoseeyou-spaces-7.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of2">
+    <div class="Grid-cell  u-size1of3">
         <img src="/uploads/wootoseeyou/wootoseeyou-spaces-11.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size3of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-5.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-6.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-7.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-9.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of4">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-10.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of2">
         <img src="/uploads/wootoseeyou/wootoseeyou-people-1.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of2">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-2.jpg"/>
+        <img src="/uploads/wootoseeyou/wootooseeyou-people-2.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of3">
+    <div class="Grid-cell  u-size1of2">
         <img src="/uploads/wootoseeyou/wootoseeyou-people-3.jpg"/>
     </div>
-    <div class="Grid-cell  u-size1of3">
-        <img src="/uploads/wootoseeyou/wootoseeyou-people-8.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of3">
+    <div class="Grid-cell  u-size1of2">
         <img src="/uploads/wootoseeyou/wootoseeyou-people-4.jpg"/>
     </div>
 </div>
