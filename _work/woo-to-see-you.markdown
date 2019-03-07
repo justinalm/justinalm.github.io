@@ -2,7 +2,7 @@
 title: Woo To See You
 date: 2016-06-12 23:58:00 -07:00
 layout: workPost
-details: Identity, Branding, Full-service
+details: Identity, UX, CX
 thumbnail: /uploads/wootoseeyou/wootoseeyou-thumb.jpg
 summary: From buttons to .btn’s, pixels to bricks, tags to hangtags, and picks to pics.
 published: true
