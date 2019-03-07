@@ -390,10 +390,10 @@ figure, .vendor {
   width: 50%; }
 
 .u-size2of4 {
-  width: 50%; }
+  width: 100%; }
 
 .u-size3of4 {
-  width: 75%; }
+  width: 100%; }
 
 /**
  * Padding utilities
@@ -3358,7 +3358,7 @@ figure.active {
     width: 66.6666%; }
 
   .u-size1of4 {
-    width: 50%; }
+    width: 25%; }
 
   .bp1-u-textAlign-center {
     text-align: center; }
@@ -3406,8 +3406,20 @@ figure.active {
     padding-left: 40px;
     padding-bottom: 40px; }
 
+  .u-size1of1 {
+    width: 100%; }
+
+  .u-size1of2 {
+    width: 50%; }
+
   .u-size1of4 {
     width: 25%; }
+
+  .u-size2of4 {
+    width: 50%; }
+
+  .u-size3of4 {
+    width: 75%; }
 
   .grid-caption {
     margin-top: -24px; } }
