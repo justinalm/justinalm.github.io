@@ -5,7 +5,7 @@ date: 2016-09-12 22:19:00 -07:00
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01">About</h1>
-    <p class="as-h3">I’m a designer from Vancouver, Canada. I work at Jostle. Ready yourself for a potential déjà vu of my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
+    <p class="as-h3">I’m a product designer from Vancouver, Canada. Ready yourself for a potential déjà vu of my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
     <p class="as-h3  u-textAlign-center  u-mar-b05">🙇</p>
 </div>
 
@@ -33,7 +33,7 @@ As a user experience designer at Jostle Corporation, I’ve been involved with s
 
 I’ve collaborated with the rest of the design team to define [The Jostle Style Guide](/work/the-jostle-style-guide/)—an atomic design system that helps our team deliver consistent, high quality, product at scale.
 
-I‘ve lead design on several product teams: Discussions (Chat), Library (File sharing), JostleTV (Your intranet in TV format), Calls (1-on-1 and Broadcast video calls), Teams (Dynamic org charts), several platform-wide components, and more.
+I‘ve lead design on several product teams: Discussions (Chat), Library (File sharing), JostleTV (Your intranet in TV format), Calls (1-on-1 and Broadcast video calls), Teams (Dynamic org charts), Search, several platform-wide components, and more.
 
 I’ve supported our Marketing Team with design and dev for our core marketing site, design and dev and [weekly illustrations](/work/jostle-illustrations/) for [The Jostle Blog](/work/the-jostle-blog/), and other print marketing materials of various formats.
 
