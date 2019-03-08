@@ -1,6 +1,6 @@
 ---
 title: Devmonitor.io
-date: 2019-02-22
+date: 2019-02-21
 layout: workPost
 thumbnail: /uploads/devmonitor/wip-dev-monitor-thumb.jpg
 details: UX/UI, Branding, Web

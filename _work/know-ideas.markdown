@@ -1,6 +1,6 @@
 ---
 title: Know Ideas
-date: 2019-02-21
+date: 2019-02-22
 layout: workPost
 video: /uploads/know-ideas/know-ideas-compressed.mp4
 videoposter: /uploads/know-ideas/know-ideas-video-poster.jpg
