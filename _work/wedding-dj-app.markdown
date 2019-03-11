@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/weddingdj/weddingdj-website-thumb.jpg
 details: UI/UX, Front-end Dev, Web
 summary: A single page marketing site for a universal iOS app.
+published: false
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>

@@ -130,6 +130,9 @@ body {
 .w-auto {
   width: auto; }
 
+.mw-500 {
+  max-width: 500px; }
+
 .mw-600 {
   max-width: 600px; }
 
@@ -166,11 +169,10 @@ ul.work-list li a {
 
 ul.work-list li h3,
 ul.work-list li p {
-  margin: 0; }
+  margin: 0 0 8px 0; }
 
 ul.work-list li img,
-ul.work-list li .media,
-ul.work-list li p {
+ul.work-list li .media {
   margin-top: 0;
   margin-bottom: 16px; }
 

@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/bravado/bravado2-thumb.jpg
 details: UI/UX, Front-end Dev, Web
 summary: We reshaped content and Bravado Magazine became “high gloss pixels”.
+published: false
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>

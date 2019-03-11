@@ -5,6 +5,7 @@ layout: workPost
 thumbnail: /uploads/mozilla-stumbler/mozilla-stumbler-concept-thumb.jpg
 details: UI/UX, Android, Mobile
 summary: A Pokémon GO style game to help expand Mozilla’s geolocation services.
+published: false
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
