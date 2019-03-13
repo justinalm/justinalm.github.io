@@ -18,6 +18,12 @@ published: true
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1">
         <figure class="u-mar-b02">
+            <img src="/uploads/jostle-illustrations/how-to-give-and-receive-feedback.jpg"/>
+            <figcaption>How to give and receive feedback</figcaption>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of1">
+        <figure class="u-mar-b02">
             <img src="/uploads/jostle-illustrations/workplace-rules-16x9.png"/>
             <figcaption><a href="https://blog.jostle.me/blog/7-workplace-rules-that-need-to-go" title="7 workplace rules that need to go">7 workplace rules that are holding back your organization</a></figcaption>
         </figure>

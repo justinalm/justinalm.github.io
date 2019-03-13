@@ -11,7 +11,7 @@ date: 2016-09-12 22:19:00 -07:00
 
 ## __Values__
 
-I believe all great products have a well defined purpose; a product’s longevity is determined by its performance, how well it’s crafted, the delight it brings into people’s lives, and how it meets real needs. I’m passionate about designing products that reflect these values and having fun on the way!
+I believe all great products have a well defined __purpose__ that meets a __real need__; a product’s longevity is determined by its __performance__, how well it’s __crafted__, and its moments of unexpected __delight__. I’m passionate about designing products that reflect these values and I want to have __fun__ on the way!
 
 ## __Skills__
 
