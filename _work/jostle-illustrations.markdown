@@ -19,7 +19,7 @@ published: true
     <div class="Grid-cell  u-size1of1">
         <figure class="u-mar-b02">
             <img src="/uploads/jostle-illustrations/how-to-give-and-receive-feedback.jpg"/>
-            <figcaption>How to give and receive feedback</figcaption>
+            <figcaption><a href="https://blog.jostle.me/blog/how-to-give-and-receive-constructive-feedback" title="How to give and receive constructive feedback">How to give and receive constructive feedback</a></figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of1">
