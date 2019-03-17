@@ -5,9 +5,11 @@ date: 2016-09-12 22:19:00 -07:00
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01">About</h1>
-    <p class="as-h3">I’m a product designer from Vancouver, Canada. This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>. Download <a href="/uploads/justin-alm-resume.pdf" title="Resume of Justin Alm">my resume</a>!</p>
+    <p class="as-h3">I’m a Product Designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow.</p>
     <p class="as-h3  u-textAlign-center  u-mar-b05">🙇</p>
 </div>
+
+<p class="bp1-u-textAlign-center">This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>. Download <a href="/uploads/justin-alm-resume.pdf" title="Resume of Justin Alm">my resume</a>!</p>
 
 ## __Values__
 
