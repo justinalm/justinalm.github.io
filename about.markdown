@@ -23,7 +23,7 @@ __Software__: Figma, Sketch, Adobe CC, Principle, iMovie, Final Cut Pro, iWork S
 
 __Code__: HTML, CSS & SASS, JS (Prototyping), jQuery (Prototyping), Git, Github, Gitlabs, WordPress, Jekyll, Contributed to Node.js, Laravel, and iOS apps.
 
-## __Work Experience__:
+## __Work Experience__
 
 ### User Experience Designer – Jostle Corporation
 
@@ -61,7 +61,7 @@ During my research assistantship with the Social + Interactive Media and Stereos
 
 I was one of a team of Emily Carr faculty and students who investigated technology options for creating the ebook, Learning, Freedom and the Web. We built a free ebook for tablets and desktop computers. We designed it to take advantage of the navigation and multimedia opportunities the web and a tablet could provide. Working with Vancouver-based Steamclock Software, our team built the book in HTML, Javascript and CSS.
 
-## __Recommendations__:
+## __Recommendations__
 
 
 <blockquote class="u-noMargin  u-mar-t03  u-mar-b05  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</em><br><span class="as-h6"><strong>Sandra Dametto, Project Manager, S3D & SIM Centres</strong></span></blockquote>
@@ -74,7 +74,7 @@ I was one of a team of Emily Carr faculty and students who investigated technolo
 
 <blockquote class="u-noMargin  u-mar-t03  u-mar-b05  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“I have learned much from working with Justin, and he showed me what being a designer is really all about. Not only is Justin incredible with both hand-drawn and digital design, he is also a proficient web developer. Furthermore, Justin’s insight and thorough understanding of iOS and Android design patterns have helped us created many awesome products.”</em><br><span class="as-h6"><strong>Jeremy Chiang, iOS & Android Developer, Steamclock Software</strong></span></blockquote>
 
-## __Education__:
+## __Education__
 
 ### Emily Carr University of Art & Design – B.Des — Interaction Design
 
@@ -90,13 +90,13 @@ Co-created Know Ideas, an award winning book on Internet culture. Grad Exhibitio
 
 Cold War, 19th & 20th Century European History, Imperialism, and Development.
 
-## __Honours & Awards__:
+## __Honours & Awards__
 
 OPUS Bursary & Millenium Scholarships, 2009-2011.
 
 Applied Arts Student Awards 2012, Design/Editorial – Single, for _Know Ideas_.
 
-## __Interests__:
+## __Interests__
 
 I’m a stereotypical Xennial. I like long walks on the beach, neighbourhoods, nature, books, podcasts, food, coffee, travel, and quality time with my wife.
 
