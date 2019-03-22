@@ -5,7 +5,7 @@ layout: workPost
 thumbnail: /uploads/bravado/bravado2-thumb.jpg
 details: UI/UX, Front-end Dev, Web
 summary: We reshaped content and Bravado Magazine became “high gloss pixels”.
-published: false
+published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
@@ -16,27 +16,27 @@ published: false
 
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/bravado1.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/bravado1.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/bravado2.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/bravado2.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/bravado3.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/bravado3.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/brav1-1024x604.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/brav1-1024x604.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/brav3-1024x604.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/brav3-1024x604.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/brav4-1024x604.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/brav4-1024x604.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/bravado-search.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/bravado-search.jpg"/>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024  u-rounded-corners  u-shadow" src="/uploads/bravado/bravado-about.jpg"/>
+        <img class="mw-1024" src="/uploads/bravado/bravado-about.jpg"/>
     </div>
 </div>
