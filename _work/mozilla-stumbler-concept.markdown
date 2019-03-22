@@ -22,14 +22,14 @@ published: true
         <p>Tap, “Turn On Stumbler” to start syncing and play the game.</p>
     </div>
     <div class="Grid-cell  u-size1of3">
-        <img class="u-rounded-corners  u-shadow"  src="/uploads/mozilla-stumbler/mozilla-stumbler-star-pick-up@2x.jpg"/>
-        <h2 class="as-h4  u-mar-t02"><strong>Collecting tokens</strong></h2>
-        <p>Collect items by walking around the map. When picked up, they grow, chime, and disappear from the map.</p>
-    </div>
-    <div class="Grid-cell  u-size1of3">
         <img class="u-rounded-corners  u-shadow"  src="/uploads/mozilla-stumbler/mozilla-stumbler-map@2x.jpg"/>
         <h2 class="as-h4  u-mar-t02"><strong>Clusters and rainbows</strong></h2>
         <p>Stars cluster where people haven’t ‘stumbled’. Rainbows appear at the far edge of a cluster and are worth 50 points. You need to walk further to collect them.</p>
+    </div>
+    <div class="Grid-cell  u-size1of3">
+        <img class="u-rounded-corners  u-shadow"  src="/uploads/mozilla-stumbler/mozilla-stumbler-star-pick-up@2x.jpg"/>
+        <h2 class="as-h4  u-mar-t02"><strong>Collecting tokens</strong></h2>
+        <p>Collect items by walking around the map. When picked up, they grow, chime, and disappear from the map.</p>
     </div>
     <!-- Second row -->
     <div class="Grid-cell  u-size1of3">
