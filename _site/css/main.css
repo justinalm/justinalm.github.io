@@ -20,10 +20,10 @@
   color: #263238; }
 
 .c-blue {
-  color: #5790E5; }
+  color: #0A2EB9; }
 
 .c-blue02 {
-  color: #0A2EB9; }
+  color: #5790E5; }
 
 /**
  * Background colour utilities
@@ -44,10 +44,10 @@
   background-color: #263238; }
 
 .bgc-blue {
-  background-color: #5790E5; }
-
-.bgc-blue {
   background-color: #0A2EB9; }
+
+.bgc-blue-hover {
+  background-color: #5790E5; }
 
 /**
  * Basic styling
@@ -92,7 +92,7 @@ h6, .as-h6, small, .text_small {
   font-size: 0.889em; }
 
 a {
-  color: #5790E5; }
+  color: #0A2EB9; }
 
 a:hover {
   text-decoration: none; }
@@ -712,7 +712,7 @@ hr,
 
 .Btn:focus {
   outline: 0;
-  box-shadow: 0 0 0 2px #5790E5; }
+  box-shadow: 0 0 0 2px #0A2EB9; }
 
 .Btn:active {
   outline: 0;
@@ -736,17 +736,17 @@ button.Btn--block {
 
 .Btn--confirm {
   color: #ffffff;
-  background-color: #5790E5;
+  background-color: #0A2EB9;
   font-weight: 700;
-  border: 1px solid #5790E5; }
+  border: 1px solid #0A2EB9; }
 
 .Btn--confirm:hover {
   color: #ffffff;
-  background-color: #0A2EB9;
+  background-color: #5790E5;
   font-weight: 700; }
 
 .Btn--confirm:focus {
-  box-shadow: 0 0 0 2px #0A2EB9; }
+  box-shadow: 0 0 0 2px #5790E5; }
 
 .Btn--destructive {
   color: #ffffff;
@@ -785,8 +785,8 @@ button.Btn--block {
 
 .Input:focus {
   outline: 0;
-  border-color: #5790E5;
-  box-shadow: 0 0 0 1px #5790E5; }
+  border-color: #0A2EB9;
+  box-shadow: 0 0 0 1px #0A2EB9; }
 
 .Input--block {
   display: block;
@@ -894,7 +894,7 @@ nav .pages p {
   padding: 16px; }
 
 nav a:hover, nav a:active, nav a.selected {
-  color: #5790E5; }
+  color: #0A2EB9; }
 
 figure.active {
   border: 0px solid transparent; }
