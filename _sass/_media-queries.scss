@@ -1,4 +1,25 @@
-@media all and (min-width: 479px) {
+@media all and (min-width: 770px) {
+    nav a.menu {
+        display: none;
+    }
+
+    nav.header-nav {
+        display: inline-block;
+        float: right;
+        position: relative;
+        width: auto;
+    }
+
+    footer nav.header-nav {
+        display: block;
+        width: auto;
+        float: right;
+    }
+
+    footer nav p {
+        text-align: left;
+        padding: 8px 0;
+    }
 
     ul.work-list li {
         display: inline-block;
@@ -23,11 +44,14 @@
 
     .bp1-u-textAlign-left { text-align: left; }
 
+    footer nav p {
+        width: 170px;
+    }
 }
 
 @media all and (min-width: 1020px) {
-    
-    body { margin: $spacing-unit*2 $spacing-unit*4; }
+
+    body { margin: $spacing-unit*2 $spacing-unit*5; }
     
     h1, .as-h1 {font-size: 3.157em;}
 

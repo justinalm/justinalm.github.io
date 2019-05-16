@@ -1,6 +1,6 @@
 body {
-    padding: $spacing-unit*2;
-    margin: 0;
+    padding: 0;
+    margin: $spacing-unit*2;
 }
 
 .absolute-center {
@@ -35,4 +35,8 @@ body {
 
 .mw-1024 {
     max-width: 1024px;
+}
+
+.mh-500 {
+    max-height: 500px;
 }

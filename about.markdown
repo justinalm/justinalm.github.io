@@ -1,19 +1,15 @@
 ---
-title: About — Justin Alm — A designer from Vancouver, Canada.
+title: About — Justin Alm — A product designer from Vancouver, Canada.
 date: 2016-09-12 22:19:00 -07:00
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin  u-mar-b01">About</h1>
+    <h1 class="u-noMargin  u-mar-b01"><strong>About</strong></h1>
     <p class="as-h3">I’m a Product Designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow.</p>
-    <p class="as-h3  u-textAlign-center  u-mar-b05">🙇</p>
+    <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">🙇</p>
 </div>
 
 <p class="bp1-u-textAlign-center">This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>. Download <a href="/uploads/justin-alm-resume.pdf" title="Resume of Justin Alm">my resume</a>!</p>
-
-## __Values__
-
-I believe all great products have a well defined __purpose__ that meets a __real need__; a product’s longevity is determined by its __performance__, how well it’s __crafted__, and its moments of unexpected __delight__. I’m passionate about designing products that reflect these values and I want to have __fun__ on the way!
 
 ## __Skills__
 

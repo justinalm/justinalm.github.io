@@ -1,23 +1,67 @@
 nav {
-    display: table;
-    vertical-align: middle;
     width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
-nav a {
+nav a, nav p {
+    color: $grey05;
+    padding: $spacing-unit  $spacing-unit*2;
+    @include border-radius
+}
+
+nav a:hover, nav a:active, nav a.selected {
+    color: $blue01;
+}
+
+nav.header-nav {
+    display: none;
+    margin: 8px 0;
+}
+
+nav.header-nav a {
+    display: inline-block;
     color: $grey05;
     text-decoration: none;
+    padding: 8px 16px;
+    margin-right: 4px;
     transition: all 0.2s ease;
+    @include border-radius;
+    cursor: pointer;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+nav.header-nav a:last-child {
+    margin-right: 0;
+}
+
+
+nav a:hover {
+    color: $blue01;
+    background-color: $grey01;
 }
 
 nav a.logo {
-    display: table-cell;
-    vertical-align: middle;
+    float: left;
+    padding: 0;
+    margin: 8px 0;
     border: 0 !important;
+    border-radius: none;
+}
+
+nav a.logo:hover {
+    background-color: transparent;
 }
 
 nav .logo {
-    width: 66px;
+    display: inline-block;
+    width: 40px;
     border-radius: 50%;
 }
 
@@ -25,22 +69,72 @@ nav a.logo img {
     vertical-align: middle;
 }
 
-nav .pages {
-    display: table-cell;
-    vertical-align: middle;
+nav a.menu {
+    float: right;
+    margin: 8px 0;
+}
+
+.hide {
+    opacity: 0;
+}
+
+nav.mobile-nav {
+    position: fixed;
+    right: 16px;
+    width: auto;
     text-align: right;
+    background-color: $white;
+    @include box-shadow;
+    @include border-radius;
+    transition: all ease 0.2s;
 }
 
-nav .pages a,
-nav .pages p {
+nav.mobile-nav a {
+    display: block;
+    text-align: left;
     color: $grey05;
-    padding: $spacing-unit*2;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 4px;
+    transition: all 0.2s ease;
+    @include border-radius;
+    cursor: pointer;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
 
-nav a:hover, nav a:active, nav a.selected {
+nav.mobile-nav a:last-child {
+    margin-bottom: 4px;
+}
+
+nav.mobile-nav a:hover {
     color: $blue01;
 }
 
 figure.active {
     border: 0px solid transparent;
+}
+
+footer nav.header-nav {
+    display: block;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+footer nav p {
+    display: block;
+    text-align: center;
+    padding: 8px 16px;
+    margin: 8px 0;
+}
+
+nav a.active {
+    color: $blue01;
+    background-color: $grey01;
 }

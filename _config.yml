@@ -11,6 +11,9 @@ collections:
   work:
     title: Work
     output: true
+  experience:
+    title: Experience
+    output: true
 defaults:
 - scope:
     path: ''
