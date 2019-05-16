@@ -214,7 +214,7 @@ summary: Formalism, abstraction, architecture, urban landscapes, and nature.
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
-        <figure class="u-mar-b02">
+        <figure class="u-mar-b00">
             <img src="/uploads/photos/airplane-framed.jpg"/>
             <figcaption><strong>Airplane</strong><br>Paper 16" x 16" / Artwork 8" x 8"</figcaption>
         </figure>

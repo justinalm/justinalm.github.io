@@ -46,7 +46,7 @@ published: true
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
-        <figure class="u-mar-b02">
+        <figure class="u-mar-b00">
             <img src="/uploads/devmonitor/devmonitor-dates.jpg"/>
             <figcaption>Filter <em>Analytics</em> by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.</figcaption>
         </figure>

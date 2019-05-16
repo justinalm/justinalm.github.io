@@ -221,7 +221,7 @@ published: true
         </figure>
     </div>
     <div class="Grid-cell  u-size1of1">
-        <figure class="u-mar-b02">
+        <figure class="u-mar-b00">
             <img src="/uploads/jostle-illustrations/five-for-fiday.png"/>
             <figcaption><a href="https://blog.jostle.me/blog/five-for-friday-future-of-work" title="Five for Friday series">Five for Friday</a></figcaption>
         </figure>

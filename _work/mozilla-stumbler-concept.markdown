@@ -61,6 +61,6 @@ published: true
     <div class="Grid-cell  u-size1of3">
         <img class="u-rounded-corners  u-shadow"  src="/uploads/mozilla-stumbler/mozilla-stumbler-settings@2x.jpg"/>
         <h2 class="as-h4  u-mar-t02"><strong>Settings</strong></h2>
-        <p>In Settings, you can change your nickname, toggle “Upload only on WiFi” and “Persistent Scanning”, send feedback, disable Stumbler, and learn more.</p>
+        <p class="u-mar-b00">In Settings, you can change your nickname, toggle “Upload only on WiFi” and “Persistent Scanning”, send feedback, disable Stumbler, and learn more.</p>
     </div>
 </div>
