@@ -1023,7 +1023,8 @@ nav.mobile-nav a:hover {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(245, 247, 254, 0.5); }
+  background: rgba(245, 247, 254, 0.5);
+  transition: all ease 0.2s; }
 
 figure.active {
   border: 0px solid transparent; }
