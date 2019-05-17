@@ -69,7 +69,8 @@ body {
   line-height: 1.45;
   color: #333; }
 
-p {
+p, blockquote {
+  line-height: 1.6;
   margin-bottom: 1.25em; }
 
 h1, h2, h3, h4, h5 {
@@ -112,7 +113,7 @@ a:hover {
 figcaption,
 .grid-caption {
   text-align: center;
-  line-height: 1.45;
+  line-height: 1.6;
   margin-top: 16px; }
 
 ul, ol {
