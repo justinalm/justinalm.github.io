@@ -2,7 +2,15 @@
 
 $("nav a.menu").click(function(){
   $("nav.mobile-nav").toggleClass("hide");
+  $("div.overlay").toggleClass("hide");
 });
+
+$("div.overlay").click(function(){
+  $("nav.mobile-nav").toggleClass("hide");
+  $("div.overlay").toggleClass("hide");
+});
+
+/* Active class for nav links */
 
 $(function(){
   $('a').each(function() {
@@ -11,6 +19,9 @@ $(function(){
     }
   });
 });
+
+
+/* FitVids */
 
 $(".vendor").fitVids();
 

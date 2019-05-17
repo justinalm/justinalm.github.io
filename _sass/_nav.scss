@@ -7,7 +7,10 @@ nav {
 nav a, nav p {
     color: $grey05;
     padding: $spacing-unit  $spacing-unit*2;
-    @include border-radius
+    -webkit-border-radius: $spacing-unit/2;
+       -moz-border-radius: $spacing-unit/2;
+            border-radius: $spacing-unit/2;
+    cursor: pointer;
 }
 
 nav a:hover, nav a:active, nav a.selected {
@@ -26,7 +29,9 @@ nav.header-nav a {
     padding: 8px 16px;
     margin-right: 4px;
     transition: all 0.2s ease;
-    @include border-radius;
+    -webkit-border-radius: $spacing-unit/2;
+       -moz-border-radius: $spacing-unit/2;
+            border-radius: $spacing-unit/2;
     cursor: pointer;
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -72,16 +77,32 @@ nav a.logo img {
 nav a.menu {
     float: right;
     margin: 8px 0;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+nav a.menu:active, nav a.menu:hover {
+    color: $grey05;
+    background-color: $grey01;
 }
 
 .hide {
+    visibility: hidden;
     opacity: 0;
 }
 
 nav.mobile-nav {
     position: fixed;
+    z-index: 10;
     right: 16px;
     width: auto;
+    min-width: 152px;
+    margin-top: -$spacing-unit;
     text-align: right;
     background-color: $white;
     @include box-shadow;
@@ -97,7 +118,9 @@ nav.mobile-nav a {
     padding: 8px 16px;
     margin: 4px;
     transition: all 0.2s ease;
-    @include border-radius;
+    -webkit-border-radius: $spacing-unit/2;
+       -moz-border-radius: $spacing-unit/2;
+            border-radius: $spacing-unit/2;
     cursor: pointer;
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -114,6 +137,16 @@ nav.mobile-nav a:last-child {
 
 nav.mobile-nav a:hover {
     color: $blue01;
+}
+
+.overlay {
+    position: fixed;
+    z-index: 9;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: hsla(228, 90%, 98%, 0.5);;
 }
 
 figure.active {
@@ -134,7 +167,8 @@ footer nav p {
     margin: 8px 0;
 }
 
-nav a.active {
+nav.header-nav a.active,
+nav.mobile-nav a.active {
     color: $blue01;
     background-color: $grey01;
 }
