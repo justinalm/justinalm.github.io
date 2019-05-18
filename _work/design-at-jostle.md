@@ -3,14 +3,13 @@ title: UX Design at Jostle
 date: 2019-03-08
 layout: workPost
 thumbnail: https://via.placeholder.com/824x464
-details: Culture, Process, Work Product 
+details: Case study
 summary: Jostle’s design culture and what’s been keeping me busy as a UX Designer.
 published: false
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b01">{{ page.title }}</h1>
-    <p class="as-h5  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3">Since January 2015, I’ve been working as a UX Designer at Jostle—a company of 70 people, building a SaaS intranet, located in Vancouver, Canada.</p>
     <p class="as-h5  u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>

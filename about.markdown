@@ -69,7 +69,7 @@ __Code__: HTML, CSS & SASS, JS (Prototyping), jQuery (Prototyping), Git, Github,
 
 <h2><strong>Honours &amp; Awards</strong></h2>
 
-<p class="u-mar-t00  u-mar-b00">OPUS Bursary & Millenium Scholarships, 2009-2011.</p>
+<p class="u-mar-t00  u-mar-b01">OPUS Bursary & Millenium Scholarships, 2009-2011.</p>
 <p class="u-mar-t00  u-mar-b00">Applied Arts Student Awards 2012, Design/Editorial – Single, for <em>Know Ideas.</em></p>
 
 <h2><strong>Interests</strong></h2>

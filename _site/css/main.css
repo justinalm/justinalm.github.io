@@ -178,10 +178,10 @@ ul.work-list li a {
   text-decoration: none; }
 
 ul.work-list li h3 {
-  margin: 0 0 8px 0; }
+  margin: 0 0 4px 0; }
 
 ul.work-list li p {
-  margin: 0 0 8px 0; }
+  margin: 0; }
 
 ul.work-list li img,
 ul.work-list li .media {
@@ -408,6 +408,12 @@ figure, .vendor {
 
 .u-size3of4 {
   width: 100%; }
+
+.u-size1of5 {
+  width: 20%; }
+
+.u-size2of5 {
+  width: 40%; }
 
 /**
  * Padding utilities

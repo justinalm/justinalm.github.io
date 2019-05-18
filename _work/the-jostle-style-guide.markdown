@@ -3,13 +3,12 @@ title: Jostle Style Guide
 date: 2019-02-24
 layout: workPost
 thumbnail: /uploads/jostle-style-guide/jostle-style-guide-thumbnail.jpg
-details: Design System, Efficiency, Teamwork
+details: Tooling
 summary: A design system to help bring consistency across all of Jostle’s product.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b00"><a id="home"></a><strong>{{ page.title }}</strong></h1>
-    <p class="as-h5  c-grey03  u-mar-t01  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3" style="max-width: 100%;">Alongside the Design Team at Jostle, I helped create The Jostle Style Guide—a design system that enables us to create, replicate, and assemble consistently.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>

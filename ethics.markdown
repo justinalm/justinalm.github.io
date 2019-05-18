@@ -18,11 +18,11 @@ layout: workPost
         <div class="Grid  Grid--withGutters">
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Requirements gathering</strong></h3>
-                <p class="u-noMargin">Understand the problem, the customer, and need. Be sure the problem is worth solving.</p>
+                <p class="u-noMargin">Understand the problem, customer, and need. Is problem is worth solving?</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Exploration</strong></h3>
-                <p class="u-noMargin">Think of all the possibilities. Discover several viable options and review them collaboratively.</p>
+                <p class="u-noMargin">Explore possibilities, discover viable options, and review them collectively.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Refine and iterate</strong></h3>
@@ -30,23 +30,26 @@ layout: workPost
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Align</strong></h3>
-                <p class="u-noMargin">Involve all key stakeholders. Review your design and iterate based on feedback.</p>
+                <p class="u-noMargin">Involve key stakeholders. Review your design and iterate based on feedback.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Build</strong></h3>
-                <p class="u-noMargin">Big rocks are moved and the team can efficiently and effectively build. Collaborate through dev.</p>
+                <p class="u-noMargin">Big rocks are moved. The team can effectively build. Collaborate during dev.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Test</strong></h3>
-                <p class="u-noMargin">We’ve reached MVP. Break the product and find holes. Adapt and fix broken experiences.</p>
+                <p class="u-noMargin">Reached MVP! Now break the product. Adapt and fix broken experiences.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Ship</strong></h3>
-                <p class="u-noMargin">Product is verified QA. Sign-off that the product maintains the vision set out in design. Ship!</p>
+                <p class="u-noMargin">Product is verified. Sign-off that the product is true to the vision. Ship!</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Iterate</strong></h3>
-                <p class="u-noMargin">Ideally, users are included throughout the process but now it’s real. Begin again.</p>
+                <p class="u-noMargin">Users are included throughout the process but now it’s real. Begin again.</p>
+            </div>
+            <div class="Grid-cell u-size1of1">
+                <img src="/uploads/ethics/divergent-and-convergent-thinking.svg" alt="Divergent and convergent thinking">
             </div>
         </div>
     </div>
@@ -61,7 +64,7 @@ layout: workPost
         <div class="Grid  Grid--withGutters">
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Beauty is the key</strong></h3>
-                <p class="u-noMargin">Makers and users should love what is made for a long time. Beauty isn’t a luxury.</p>
+                <p class="u-noMargin">People should love what is made for a long time. Beauty isn’t luxury.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Minimalism improves use</strong></h3>
@@ -69,11 +72,11 @@ layout: workPost
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Ambiguity has utility</strong></h3>
-                <p class="u-noMargin">Avoid constraints early in the process, allowing seemingly improbable ideas to surface.</p>
+                <p class="u-noMargin">Avoid constraints early, allowing seemingly improbable ideas to surface.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>There’s more than 1 way</strong></h3>
-                <p class="u-noMargin">There are many solutions to every problem. The 1st solution usually isn’t the best.</p>
+                <p class="u-noMargin">There are many solutions to every problem. The 1st usually isn’t the best.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Forget attractiveness</strong></h3>
@@ -81,15 +84,15 @@ layout: workPost
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Least effort</strong></h3>
-                <p class="u-noMargin">Choose the easiest path to accomplish a goal. The outcome should feel effortless.</p>
+                <p class="u-noMargin">Choose the easiest path to accomplish a goal. Outcomes should feel effortless.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Modularity</strong></h3>
-                <p class="u-noMargin">Design independent parts with standard interfaces so poeple can customize and contribute.</p>
+                <p class="u-noMargin">Design indpendent parts, with standard interfaces so people can customize and contribute.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Unity</strong></h3>
-                <p class="u-noMargin">Design should cohesively fit together, which improves UX and helps teams build.</p>
+                <p class="u-noMargin">Design should cohesively fit together to improve UX and help teams build.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Design sustainably</strong></h3>
@@ -107,39 +110,39 @@ layout: workPost
         <div class="Grid  Grid--withGutters">
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>The golden rule</strong></h3>
-                <p class="u-noMargin">Treat others as you would have them treat you. Harmonious relationships are more imporant than individual gain.</p>
+                <p class="u-noMargin">Treat others as you would have them treat you.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Meaningful work</strong></h3>
-                <p class="u-noMargin">Meaningful work increases performance, commitment, and satisfaction in work.</p>
+                <p class="u-noMargin">Meaning increases performance, commitment, and satisfaction.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Impact</strong></h3>
-                <p class="u-noMargin">Work should have a positive impact on my workplace, our customers, and the world.</p>
+                <p class="u-noMargin">Work should positively impact your workplace, customers, and the world.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Fairness</strong></h3>
-                <p class="u-noMargin">We should be impartial and just without playing favorites or discriminating.</p>
+                <p class="u-noMargin">Be impartial and just without playing favorites or discriminating.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Humility</strong></h3>
-                <p class="u-noMargin">We should be grounded in self-awareness and be able to admit our faults.</p>
+                <p class="u-noMargin">Be grounded in self-awareness and able to admit our faults.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Forgiveness</strong></h3>
-                <p class="u-noMargin">We should extend forgiveness if someone admits wrong-doing and is willing to change.</p>
+                <p class="u-noMargin">Extend forgiveness if someone admits wrong-doing and is willing to change.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Agency</strong></h3>
-                <p class="u-noMargin">We should have influence in our work so that our vision, if correct, can be actualized.</p>
+                <p class="u-noMargin">Have influence in your work so that your vision, if correct, can be actualized.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Autonomy</strong></h3>
-                <p class="u-noMargin">We should be able to execute our ideas, even if that means we have to live with mistakes.</p>
+                <p class="u-noMargin">Be able to execute ideas, even if that means we have to live with mistakes.</p>
             </div>
             <div class="Grid-cell  u-size1of3">
                 <h3 class="as-h5 u-noMargin  u-mar-b01"><strong>Thoroughness</strong></h3>
-                <p class="u-noMargin">Do the work required to finish a job correctly, otherwise we incure debt to pay later.</p>
+                <p class="u-noMargin">Do the work required to finish a job correctly or we incure debt to pay later.</p>
             </div>
         </div>
     </div>

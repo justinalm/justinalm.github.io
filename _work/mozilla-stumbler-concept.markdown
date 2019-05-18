@@ -3,13 +3,12 @@ title: Mozilla Stumbler Concept
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 thumbnail: /uploads/mozilla-stumbler/mozilla-stumbler-concept-thumb.jpg
-details: UI/UX, Android, Mobile
+details: App
 summary: A Pokémon GO style game to help expand Mozilla’s geolocation services.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h5  c-grey03  u-mar-t01  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3">At Steamclock Software, we built a POC for Mozilla Stumbler—a gamified app for Android users to scan open-source wireless networks—designed to collect GPS, mobile, and wireless network data for Mozilla’s crowd-sourced location database.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>

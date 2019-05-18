@@ -2,7 +2,7 @@
 title: Woo To See You
 date: 2019-02-22 23:58:00 -07:00
 layout: workPost
-details: Identity, UX, CX
+details: End-to-end retail
 thumbnail: /uploads/wootoseeyou/wootoseeyou-thumb.jpg
 summary: From buttons to .btn’s, pixels to bricks, tags to hangtags, and picks to pics.
 published: true
@@ -10,8 +10,7 @@ published: true
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h5  c-grey03  u-mar-t01  u-mar-b05"><em>{{ page.details }}</em></p>
-    <p class="as-h3">Since 2012, I’ve designed for <a href="http://wootoseeyou.com/">Woo To See You</a>, developing their identity online and in brick-and-mortar. We’ve created an experience that facilitates curation and inclusivity. Avante-garde fun.</p>
+    <p class="as-h3">I delivered <a href="http://wootoseeyou.com/">Woo To See You</a>, an identity, website, and interior design strategy for their two brick-and-mortar stores—facilitating curation, inclusivity, and Avante-garde fun.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 

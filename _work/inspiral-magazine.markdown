@@ -3,7 +3,7 @@ title: Inspiral Magazine
 date: 2016-06-12 23:57:00 -07:00
 layout: workPost
 thumbnail: /uploads/inspiralMagazineThumb.jpg
-categories: UX/UI, Responsive, WordPress
+categories: Website
 summary: A publishing system designed to take on a life of its own.
 published: false
 ---
@@ -11,7 +11,6 @@ published: false
 	<div class="vh-100 dt w-100 bg-black white cover pt5 pb6 ph4 bb b--black-10" style="background:url(/uploads/inspiralCover.jpg) no-repeat center; background-size: cover;">
     	<div class="dtc v-mid">
       		<h1 class="f2 f2-m f-subheadline-l measure lh-title fw1 mb0">Inspiral Magazine</h1>
-      		<p class="measure f6 f5-ns lh-copy i">UX/UI, Responsive, WordPress</p>
     	</div>
 	</div>
 

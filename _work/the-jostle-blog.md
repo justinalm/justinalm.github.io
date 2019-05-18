@@ -4,14 +4,13 @@ date: 2019-02-25
 layout: workPost
 video: /uploads/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
 videoposter: /uploads/the-jostle-blog/the-jostle-blog-video-poster.jpg
-details: Web Design, Content Marketing, Front-end Dev
+details: Website
 summary: A blog on workplace issues visited by thousands of people everyday.
 published: true
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h5  c-grey03  u-mar-t01  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3" style="max-width: 100%;">I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>

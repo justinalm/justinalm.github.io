@@ -2,14 +2,13 @@
 title: Map of the Internet
 date: 2019-02-23
 layout: workPost
-details: UX/UI, iOS, Android
+details: App
 video: /uploads/peer1-map-of-the-internet-thumbnail.mp4
 videoposter: /uploads/map-of-the-internet-video-poster.jpg
 summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h5  c-grey03  u-mar-t01  u-mar-b05"><em>{{ page.details }}</em></p>
     <p class="as-h3" style="max-width: 100%;">At <a href="http://www.steamclock.com/" target="_blank">Steamclock Software</a>, I led design of the user interface, app icons, and App Store and Play Store assets for Peer 1’s <a href="https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&mt=8" target="_blank">Map of the Internet</a>. Concept by Peer 1. Design and dev by Steamclock.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
