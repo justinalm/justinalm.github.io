@@ -48,14 +48,13 @@ date: 2016-09-12 22:19:00 -07:00
         <img src="/assets/steamclock-overview.jpg" alt="Steamclock office" />
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Steamclock (Steamclock Software)</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>UX/UI Deisgner, 2 years and 3 months (Oct ’12 — Dec ’15)</em></p>
-        <p class="u-mar-t01  u-mar-b00">At Steamclock Software, my work involved strategy, information architecture, wireframing, user interface design, branding, and marketing for app on iOS and Android. Half of my time at Steamclock was spent designing the products WeddingDJ and PartyMonster. The other half of my time was spent designing various iOS, Android, and web products for clients. I cut my teeth in product design and front-end development. Steamclock gave me the freedom to take risks, learn, and evolve my process. Company and employee benefitted from that trust.</p>
-        <!-- <p class="u-mar-t02  u-mar-b02"><a href="/work/steamclock-software/" class="Btn">View selected work from Steamclock&nbsp;&nbsp;⟩</a></p> -->
+        <p class="u-mar-t01  u-mar-b02">At Steamclock Software, my work involved strategy, information architecture, wireframing, user interface design, branding, and marketing for app on iOS and Android. Half of my time at Steamclock was spent designing the products WeddingDJ and PartyMonster. The other half of my time was spent designing various iOS, Android, and web products for clients. I cut my teeth in product design and front-end development. Steamclock gave me the freedom to take risks, learn, and evolve my process. Company and employee benefitted from that trust.</p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/free-agency-creative-overview.jpg" alt="Free Agency Creative office" />
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>FAC (Free Agency Creative)</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>Contract Designer, 3 months (Aug—Oct ’12)</em></p>
-        <p class="u-mar-t01  u-mar-b00">At FAC, I handled design and production of point of purchase displays and materials for Nintendo of America, large scale in-mall and direct mail marketing campaigns for Park Royal Shopping Centre, advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for Marketplace Events – a company that produces some of the largest and longest-running home show events in North America.</p>
+        <p class="u-mar-t01  u-mar-b02">At FAC, I handled design and production of point of purchase displays and materials for Nintendo of America, large scale in-mall and direct mail marketing campaigns for Park Royal Shopping Centre, advertising, signage, video and marketing collateral for some of Vancouver’s most successful real estate developers, and print and digital collateral for Marketplace Events – a company that produces some of the largest and longest-running home show events in North America.</p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/ecuad-overview.jpg" alt="Emily Carr University on Granville Island" />
