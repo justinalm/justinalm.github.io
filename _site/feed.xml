@@ -4,9 +4,1694 @@
     <title>Justin Alm – Product Designer from Vancouver, Canada.</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 May 2019 15:59:07 -0700</pubDate>
-    <lastBuildDate>Sat, 18 May 2019 15:59:07 -0700</lastBuildDate>
+    <pubDate>Mon, 20 May 2019 23:50:08 -0700</pubDate>
+    <lastBuildDate>Mon, 20 May 2019 23:50:08 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>The Jostle Blog</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;The Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;I redesigned and developed &lt;a href=&quot;https://blog.jostle.me&quot;&gt;The Jostle Blog&lt;/a&gt;; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/the-jostle-blog/the-jostle-blog-overview.jpg&quot; /&gt;
+    &lt;figcaption&gt;Visit &lt;a href=&quot;https://blog.jostle.me/blog&quot; title=&quot;The Jostle Blog&quot;&gt;The Jostle Blog&lt;/a&gt; to see how all this pulls together or read-on for the detailed case study.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;A_blog_with_lots_of_legacy_5&quot;&gt;&lt;/a&gt;A blog with lots of legacy&lt;/h2&gt;
+    &lt;p&gt;In 2015, The Jostle Blog moved from our self-hosted WordPress to Marketo. About a year later, the blog moved from Marketo to HubSpot. To close the deal with Jostle, HubSpot’s developers replicated our site on their platform. A clever sales move that wins over non-technical marketing people.&lt;/p&gt;
+    &lt;img class=&quot;u-mar-t05  u-mar-b05&quot; src=&quot;/assets/the-jostle-blog/cms-jumping.jpg&quot; alt=&quot;WordPress to Marketo to HubSpot&quot; /&gt;
+    &lt;p&gt;Needless to say, the blog was jumping from CMS to CMS with the intention of improving our marketing efforts. In the process, the user experience was getting kicked around. We kept migrating the site without investing time and energy into understanding how to execute design on our latest and greatest platform. This was partially a breakdown in communication within our team and partially the reality that our design team was swamped with product needs.&lt;/p&gt;
+    &lt;p&gt;Over the years, hundreds of articles were being publishing into crufty layouts. Our writers wanted their words presented in the best way possible but no one wanted to bother the design team with requests to make things better. Our readers suffered with some janky experience and our content marketing efforts weren’t as effective as they could be.&lt;/p&gt;
+    &lt;h2&gt;&lt;a id=&quot;Design_started_with_a_need_17&quot;&gt;&lt;/a&gt;The redesign started with a desire to make things better&lt;/h2&gt;
+    &lt;p&gt;New coworkers bring a lot of benefits through asking tough questions and a willingness to make change happen. June 2018, Corey Moseley joined Jostle as a Content Marketing Specialist. In addition to his other content duties, Corey writes and publishes 2 articles a week to the blog. A few months after Corey joined Jostle, we started to notice a serious increase in visitor numbers on the blog. As these numbers started to bump, several of us started to ask the question, “Why aren’t we improving our blog?”&lt;/p&gt;
+    &lt;p&gt;Here’s a paraphrased version of the chat Corey and I had on &lt;a href=&quot;https://www.jostle.me/&quot;&gt;Jostle&lt;/a&gt;—the place where our collective desire to make change happened:&lt;/p&gt;
+    &lt;p&gt;---&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Corey&lt;/strong&gt;: I have a ~special project~ in mind, but it’s by no means a priority. I was thinking the blog masthead could use a new look. What do you think?&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Justin&lt;/strong&gt;: The blog masthead does need some love. It’s been that way for years. I’d be down to take on the work.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Corey&lt;/strong&gt;: Nice. I don’t really like any of our competitors’ blog mastheads. They all just have “The Intranet Blog” over a stock photo. [YIKES!]&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Justin&lt;/strong&gt;: Yeah. Our competitors are not inspiring. [Such is the nature of the intranet marketplace] I would like to redesign the entire blog. The whole thing is feeling dated and unconsidered. On the listings pages, it would be great to showcase bigger images and ditch those big-ass read more links.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Corey&lt;/strong&gt;: Agreed. That’s a much larger project though, right?&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Justin&lt;/strong&gt;: Yup.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Corey&lt;/strong&gt;: Let me run this by Dustin [Jostle’s Director of Growth Marketing] and see what he thinks.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Justin&lt;/strong&gt;: I’m going to layup some ideas and we’ll see where things go.&lt;/p&gt;
+    &lt;p&gt;---&lt;/p&gt;
+    &lt;p&gt;Obviously, Dustin gave the project the go ahead. I mean, that’s why &lt;em&gt;this&lt;/em&gt; case study exists.😉 I’d like to note that Corey came to me with a desire to improve the masthead on the blog but we dug a little deeper and decided to tackle a more pervasive problem, which improved the whole system—to the benefit of all of our visitors and the marketing team.&lt;/p&gt;
+    &lt;h2&gt;&lt;a id=&quot;Scope_32&quot;&gt;&lt;/a&gt;Vision and scoping&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;“Unbox” our content and do a better job showcase our writing, illustration, and brand.&lt;/li&gt;
+    &lt;li&gt;Make it easier for our readers to respond to articles.&lt;/li&gt;
+    &lt;li&gt;Remove clutter and distractions to provide a better reading experience (i.e. social sharing widgets, subscription pop-ups, etc.).&lt;/li&gt;
+    &lt;li&gt;Tastefully give visitors the opportunity to read more from our resources, popular articles, newer or older content.&lt;/li&gt;
+    &lt;li&gt;Improve subscribing for updates.&lt;/li&gt;
+    &lt;li&gt;Offer links to jostle.me—our home base for marketing our product.&lt;/li&gt;
+    &lt;li&gt;Make it easier for our marketing team to publish articles (i.e. fewer fields and checkboxes to manage when publishing an article).&lt;/li&gt;
+    &lt;li&gt;Bring the design of the blog in-line with The Jostle Style Guide to increase consistency across our marketing assets.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;&lt;a id=&quot;Scope_32&quot;&gt;&lt;/a&gt;Design process&lt;/h2&gt;
+    &lt;p&gt;I followed a fairly predictable design process for the project. Starting with explorations in my sketchbook and in Figma. Taking those ideas through concept and design reviews with the broader team. Then building up a staging site in HubSpot for futher review—live on the web.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;media  u-rounded-corners  u-shadow&quot;&gt;
+        &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/the-jostle-blog/design-process-compressed.mp4&quot; poster=&quot;/assets/the-jostle-blog/design-process-video-poster.jpg&quot;&gt;&lt;/video&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;bp1-u-textAlign-center  as-h5  c-grey03&quot;&gt;&lt;em&gt;Snapshots of the design process&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;Still with me? Here’s the detailed teardown of how the blog changed.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;Global_nav_44&quot;&gt;&lt;/a&gt;Nav&lt;/h2&gt;
+    &lt;p&gt;We removed the large masthead. We added a unique “Blog” link beside the Jostle logo to provide context for visitors. This also gave us the ability to keep the Jostle logo as a link to jostle.me and also provide a link to the blog home base. In an effort to connect blog visitors to jostle.me, we added links to our Product and Resources pages. The CTA to “Subscribe” had similar proportions to the search input so we repositioned it as a link in the nav. We then widened the search input and moved it to the right.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-nav.jpg&quot; alt=&quot;Old nav&quot; /&gt;
+            &lt;figcaption&gt;Old nav&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-nav.jpg&quot; alt=&quot;New nav&quot; /&gt;
+            &lt;figcaption&gt;New nav&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;Listing_pages_62&quot;&gt;&lt;/a&gt;Listing pages&lt;/h2&gt;
+    &lt;p&gt;For the listings pages, we changed the design to use our 16x9 featured images, which are used in the header of the article. This way, we no longer needed a secondary, small, square asset. Less to prep, maintain, and mess up in the future. Also, the full glory of our illustrations get exposed for the world to enjoy!&lt;/p&gt;
+    &lt;img class=&quot;u-mar-t05  u-mar-b05&quot; src=&quot;/assets/the-jostle-blog/image-sizing.jpg&quot; alt=&quot;Image sizing&quot; /&gt;
+    &lt;p&gt;We added some variation to the listings pages to make them more engaging. Varying the size of each listing enabled us to highlight recent articles, then direct attention futher down the list, and surface useful resources and popular articles on the right—content outside the chronology of the feed.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-listing.jpg&quot; alt=&quot;Old listing&quot; /&gt;
+            &lt;figcaption&gt;Old listing&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-listing.jpg&quot; alt=&quot;New listing&quot; /&gt;
+            &lt;figcaption&gt;New listing&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-t05  u-mar-b05&quot;&gt;
+    &lt;p&gt;We also designed a variant for articles without featured images, which features big title type. This gives articles without images equal presence to articles with images.&lt;/p&gt;
+    &lt;figure class=&quot;u-mar-t05  u-mar-b05&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/alternate-layout.jpg&quot; alt=&quot;Alternate layout&quot; /&gt;
+        &lt;figcaption&gt;Layout for artricles without images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+    &lt;p&gt;We also changed the pagination so you can only page between 10 posts at a time. We used to offer an “All” button as part of the pagination but when clicked, your browser would crash, loading 450+ article summaries and images at once. Needless to say, this is why we offer search in the header nav.&lt;/p&gt;
+    &lt;figure class=&quot;u-textAlign-center  u-mar-t05&quot;&gt;
+        &lt;img class=&quot;w-auto  u-rounded-corners  u-shadow&quot; style=&quot;width: 241px;&quot; src=&quot;/assets/the-jostle-blog/new-pagination.jpg&quot; alt=&quot;New pagination&quot; /&gt;
+        &lt;figcaption&gt;New pagination&lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;Jostle uses Open Sans across all of our product and marketing assets. We added Open Sans Condensed to the blog because it provides a few more characters per line, better wrapping, and improved contrast for titles against the excerpts. After the success of implementing this first on JostleTV, then the blog, we’re now considering using the condensed style across our platform.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;Articles_69&quot;&gt;&lt;/a&gt;Articles&lt;/h2&gt;
+    &lt;p&gt;We added a “Back to blog” button to the top-left corner so people always have a clear path back to the listings page. I split the top fold of article so you see the title, summary, metadata, and image above the fold. I improved the styling of the author credit at the top of the article so it’s consistent with the styling at the bottom of the article. I also generally improved the sizing, colours, and spacing of the author credit so it adheres to our style guide.&lt;/p&gt;
+    &lt;p&gt;We removed the Sumo share buttons that floated on the left-hand side of the page, which didn’t get clicked, exposed low engagement numbers, and were a distraction while reading. We still needed to offer a way for people to share on social media so we added social buttons top-right and bottom-right of the article. I gave the social buttons a more subtle treatment so they didn’t compete with our brand, illustrations, or content. I also improved the interaction of these buttons, making sharing a little more novel.&lt;/p&gt;
+    &lt;p&gt;We added an “Image Credit” so the artist gets props!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-article-header.jpg&quot; alt=&quot;Old article&quot; /&gt;
+            &lt;figcaption&gt;Old article top fold&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2  u-mar-b05&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-article-header.jpg&quot; alt=&quot;New article&quot; /&gt;
+            &lt;figcaption&gt;New article top fold&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;We added an alternate layout for articles without a featured image.&lt;/p&gt;
+    &lt;figure class=&quot;u-textAlign-center  u-mar-t05&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-article-header-no-image.jpg&quot; alt=&quot;Alternate layout for articles without an image.&quot; /&gt;
+        &lt;figcaption&gt;Alternate layout for articles without an image.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;The comments section was completely restyled, improving hierarchy, font-sizing, spacing, colour, threading—all in adherence to our style guide.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-comments.jpg&quot; alt=&quot;Old article&quot; /&gt;
+            &lt;figcaption&gt;Old comments&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2  u-mar-b05&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-comments.jpg&quot; alt=&quot;New article&quot; /&gt;
+            &lt;figcaption&gt;New comments&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;At the bottom of each article, we added “Read more” pagination with links to the previous and next articles in the blog timeline. This offers the reader more content to discover; encouraging a continuation of the journey.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;bp1-u-textAlign-center&quot;&gt;
+    &lt;img class=&quot;mw-600  u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/read-more-pagination.jpg&quot; alt=&quot;Read more pagination&quot; /&gt;
+    &lt;figcaption&gt;Read more pagination&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;Author_listing_91&quot;&gt;&lt;/a&gt;Author listing&lt;/h2&gt;
+    &lt;p&gt;On the author listings, we improved the sizing and spacing of the avatar, title, and bio. On the previous version, the author’s avatar and bio too closely resembled one of the blog posts in the list.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-author-listing.jpg&quot; alt=&quot;Old author listing&quot; /&gt;
+            &lt;figcaption&gt;Old author listing&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-author-listing.jpg&quot; alt=&quot;New author listing&quot; /&gt;
+            &lt;figcaption&gt;New author listing&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;Footer_53&quot;&gt;&lt;/a&gt;Footer&lt;/h2&gt;
+    &lt;p&gt;We styled the footer to be more consistent with our main marketing site, shortening copyright and trademark notices. We also moved the subscription form into the footer, which used to appear at the bottom of each article. Now it’s at the bottom of every page. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then highlighted with a subtle marquee CSS animation.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-footer.jpg&quot; alt=&quot;Old footer&quot; /&gt;
+            &lt;figcaption&gt;Old footer&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-footer.jpg&quot; alt=&quot;New footer&quot; /&gt;
+            &lt;figcaption&gt;New footer&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;An_easier_publishing_workflow_100&quot;&gt;&lt;/a&gt;An easier publishing workflow&lt;/h2&gt;
+    &lt;p&gt;All of these design changes also improved the publishing workflow. There used to be several required fields to make the old templates work but now the author only has to enter in the meta description and add an optional featured image.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;media  u-rounded-corners  u-shadow&quot;&gt;
+        &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4&quot; poster=&quot;/assets/the-jostle-blog/the-jostle-blog-video-poster.jpg&quot;&gt;&lt;/video&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;u-textAlign-center  c-grey03&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Highlights from what I just shared&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/jostle/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/the-jostle-blog/</guid>
+        
+        
+        <category>Jostle</category>
+        
+      </item>
+    
+      <item>
+        <title>Jostle Style Guide</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;Alongside the Design Team at Jostle, I helped create The Jostle Style Guide—a design system that enables us to create, replicate, and assemble consistently.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+    &lt;img style=&quot;max-width: 1556px;&quot; src=&quot;/assets/jostle-style-guide/jostle-style-guide-hero.jpg&quot; alt=&quot;Jostle Style Guide&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r05  u-pad-l05  u-rounded-corners  c-grey04  bgc-grey01&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: July 2017, &lt;a href=&quot;/assets/jostle-style-guide/jostle-style-guide.pdf&quot; title=&quot;Jostle Style Guide presentation slides&quot;&gt;we presented&lt;/a&gt; this to the entire team at Jostle. This piece is an adaptation of an article I cowrote with &lt;a href=&quot;http://greyvy.com/&quot; title=&quot;Grey Vaisius Website&quot;&gt;Grey Vaisius&lt;/a&gt; at Jostle, which we posted to our internal Jostle intranet for existing company and new hires to reference.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;why-we-built-a-style-guide&quot;&gt;&lt;/a&gt;Why we built a style guide&lt;/h2&gt;
+    &lt;p&gt;A style guide contains the rules and pieces of a system collected and codified in a single place. The &lt;em&gt;Jostle Style Guide (Style Guide)&lt;/em&gt; originated with &lt;a href=&quot;/&quot;&gt;Justin Alm&lt;/a&gt;, &lt;a href=&quot;http://greyvy.com/&quot;&gt;Grey Vaisius&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/nheaney&quot;&gt;Noel Heaney&lt;/a&gt; and was created to meet the need to have a easy way to replicate and assemble consistent design deliverables. The Style Guide has proved to be very useful for designers joining our team, as it empowers new designers to make more impactful decisions faster. It is a living system and we continue to improve its minor details and debate how it should be refined and extended.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-900  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;figure class=&quot;u-mar-b00&quot;&gt;
+                &lt;img class=&quot;u-round&quot; style=&quot;width:75%;&quot; src=&quot;/assets/jostle-style-guide/grey-vaisius.jpg&quot; alt=&quot;Grey Vaisius&quot; /&gt;
+                &lt;figcaption&gt;Grey Vaisius&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;figure class=&quot;u-mar-b00&quot;&gt;
+                &lt;img class=&quot;u-round&quot; style=&quot;width:75%;&quot; src=&quot;/assets/jostle-style-guide/justin-alm.jpg&quot; alt=&quot;Justin Alm&quot; /&gt;
+                &lt;figcaption&gt;Justin Alm&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;figure class=&quot;u-mar-b00&quot;&gt;
+                &lt;img class=&quot;u-round&quot; style=&quot;width:75%;&quot; src=&quot;/assets/jostle-style-guide/noel-heaney.jpg&quot; alt=&quot;Noel Heaney&quot; /&gt;
+                &lt;figcaption&gt;Noel Heaney&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;figure class=&quot;u-mar-b00&quot;&gt;
+                &lt;img class=&quot;u-round&quot; style=&quot;width:75%;&quot; src=&quot;/assets/jostle-style-guide/elliot-mah.jpg&quot; alt=&quot;Elliot Mah&quot; /&gt;
+                &lt;figcaption&gt;Elliot Mah&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;As our design team has grown, our need for shared principles and rules for measuring the success of design has also increased. When I arrived at Jostle, the product was filled with a variety of font-sizes, capitalization treatements, 500 shades of grey, and a seemingly infinite number of spacing units. Given this product landscape and lack of principles or clear cut styles, we found it difficult to evaluate each other’s product design. Nothing was technically right or wrong.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-900  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/before-guide-1.jpg&quot; alt=&quot;Product before Jostle Style Guide&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/before-guide-2.jpg&quot; alt=&quot;Product before Jostle Style Guide&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/before-guide-3.jpg&quot; alt=&quot;Product before Jostle Style Guide&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell&quot;&gt;
+            &lt;p class=&quot;bp1-u-textAlign-center  as-h5  c-grey03  u-mar-t00  u-mar-b00  grid-caption&quot;&gt;&lt;em&gt;Some screenshots of Jostle’s eclectic product before The Style Guide.&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;atomic-design&quot;&gt;&lt;/a&gt;Atomic design&lt;/h2&gt;
+    &lt;p&gt;For these reasons, the foundation of The Style Guide is a set of extremely basic building blocks: colours, a defined and flexible typographic hierarchy, spacing units, and a few practical use elements (form elements, dividers, buttons, etc.).&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;We use a naming convention and methodology inspired by &lt;a href=&quot;http://bradfrost.com/blog/post/atomic-web-design/&quot;&gt;Brad Frosts’ Atomic design&lt;/a&gt;. This is an extensible approach to us, allowing us to stop at a small set of building blocks (atoms) or logically expand to modules (molecules) and further into layouts (organisms) if so required.&lt;/p&gt;
+    &lt;img class=&quot;u-mar-t03  u-mar-b03&quot; src=&quot;/assets/jostle-style-guide/atomic.svg&quot; alt=&quot;Atomic approach to a style guide&quot; /&gt;
+    &lt;p&gt;Having a single point of reference helps us find answers to questions regarding style and enables our team of independent people conceptualize, design, and build products that feel like variations on a cohesive theme. When cohesion or integration issues arise, there is a clear point of reference to trace back to. This point can be modified or extended and all future projects benefit from the expansion.&lt;/p&gt;
+    &lt;p&gt;Our system has become an entity in the organization and identifying and discussing inconsistencies has become easier. The benefits of the Style Guide extend beyond our internal experience of designing and building products. As the principles and rules of our system are applied, the experience people have working with our product has also become more consistent, stable, and enjoyable.&lt;/p&gt;
+    &lt;h2&gt;&lt;a id=&quot;how-we-use-it&quot;&gt;&lt;/a&gt;How we use it&lt;/h2&gt;
+    &lt;p&gt;Jostle’s Design Team uses the Style Guide to great effect. It allows us to work independently, on an increasingly large number of projects, and still achieve a high level of consistency. For example, figuring out how far 1 element should be from another element requires less problem solving with a limited set of variables to choose from (5 possible choices in the case of the Style Guide 👍). In fact, I’ve discovered over time that our most successful designs for new features use 3 or less spacing units, colours, line-qualities, and type sizes.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center  u-mar-t05  u-mar-b05&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
+        &lt;figcaption&gt;The Style Guide helps with increased complexity.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;That’s enough concept. You‘re probably wondering, what these atomic elements are.&lt;/p&gt;
+    &lt;h2&gt;&lt;a id=&quot;atomic-elements&quot;&gt;&lt;/a&gt;Atomic elements&lt;/h2&gt;
+    &lt;h3&gt;&lt;a id=&quot;colour&quot;&gt;&lt;/a&gt;Colour&lt;/h3&gt;
+    &lt;p&gt;We primarily use 5 colours. These colours are pulled from the Jostle logo. We also have 5 shades of grey.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center  u-mar-t05  u-mar-b05&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/colours-extended.jpg&quot; alt=&quot;Jostle Colours&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;As our brand and identity have evolved, we extended our colours to enable more expression in blog images, online ads, and gated pieces of content. We still consider it best practice to constrain new designs to the primary colour palette and we try to use the extended palette only when needed. Although we initially extended the colours for use on the marketing website, we have found these darker hues to be useful for product design as well. More on that to come.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+    &lt;img class=&quot;u-rounded-corners  u-shadow&quot; style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/application-jostle-extended-colours.jpg&quot; alt=&quot;Extended palette used in our marketing collateral&quot; /&gt;
+    &lt;figcaption&gt;Extended palette applied to marketing collateral.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;We use our of greys to bring focus within a Primary View. The view hierarchy moves from left to right and dark to light. That said, we do run into instances when we have to break our rule of “dark-to-light” to maintain contrast within a view. This was especially true when our customer’s brand is applied to the product. At that point, we do our best to constrain the application of colour but it’s kinda open season.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/application-jostle-greys.jpg&quot; alt=&quot;Greys applied to application to bring hierarchy&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;typography&quot;&gt;&lt;/a&gt;Typography&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;Family&lt;/strong&gt;&lt;br /&gt;Across our product and marketing materials, we use &lt;a href=&quot;https://fonts.google.com/specimen/Open+Sans&quot;&gt;Open Sans&lt;/a&gt; by Steve Matteson. Open Sans is optimized for print, web, and mobile interfaces, and has excellent legibility characteristics in its letterforms. We use the Regular (400), Regular Italic (400), Bold (700), and Bold Italic (700) weights in our UI.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Sizing&lt;/strong&gt;&lt;br /&gt;Most type within the UI is set at a font size of 14px with a line-height of 1.6. This font size strikes a balance between legibility and efficient use of screen real estate. For longform reading, such as chat Timelines and the body of an Article, Event, or Classified, we use a 16px font size to improve the reading experience. Links are blue and underlined. When you hover over a link, the underline is removed. We use pixels because it translates easiest into our design software. In terms of vertically integrating these sizes into the product, we’d probably advise the use of ems or rems.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Weights&lt;/strong&gt;&lt;br /&gt;Generally speaking, we use larger or bolder sized type to indicate a new section of content or controls. For example, the font size for a title of a form is styled larger than the font size of an input label. The largest type in our application is 32px and the smallest is 12px. By default, headers are regular weight but can be bold.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/typography.jpg&quot; alt=&quot;Typography&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;spacing-units&quot;&gt;&lt;/a&gt;Spacing units&lt;/h3&gt;
+    &lt;p&gt;We use larger spacing units to delineate sections of content or controls. Smaller spacing units are used to space elements that make up a section of content or cluster of controls. For example, the padding for the container of a view is often larger than the margins between an input and label. To keep consistent padding and margins on elements throughout our application, we use spacing units divisible by 8 (i.e. 8px, 16px, 24px, 32px, and 40px). This helps us maintain consistent vertical and horizontal rhythm throughout all of the components that make up the UI.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/spacing-units.jpg&quot; alt=&quot;Spacing Units&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;borders&quot;&gt;&lt;/a&gt;Borders&lt;/h3&gt;
+    &lt;p&gt;We consider it best practice to build hierarchy within a view &lt;em&gt;without borders&lt;/em&gt; but if you require another element to delineate a block of content or set of actions, they can be useful. Most of our borders have a border-width of 1px. Our Fat-light border is 5px wide and is used sparingly.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/borders.jpg&quot; alt=&quot;Borders&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;Below you can see an application of border styles. From left-to-right, through sub-sections within a Primary View, lighter and darker shades of grey are applied to fills and borders to support hierarchy and indicate related groups of content.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/application-jostle-borders.jpg&quot; alt=&quot;Applying borders in the product&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;buttons&quot;&gt;&lt;/a&gt;Buttons&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;States&lt;/strong&gt;&lt;br /&gt;We have 3 classes of buttons: Neutral, Destructive, and Confirm. Each class of button can be disabled. The hover and active states for each class step 1 colour darker in the palette. For focus states, we apply a 2px border using the darker hue in the pallet. All buttons have a border-radius of 4px.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/button-states.jpg&quot; alt=&quot;Button states&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Relative sizing&lt;/strong&gt;&lt;br /&gt;The size of buttons and input elements is determined by the font-size, line-height, and padding of text within the button. For most of our buttons we used “font-size: 14px/1.6; font-weight: 700; padding: 8px 16px;”.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 417px;&quot; src=&quot;/assets/jostle-style-guide/relative-button-sizing.jpg&quot; alt=&quot;Relative button sizing&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;inputs&quot;&gt;&lt;/a&gt;Inputs&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;States&lt;/strong&gt;&lt;br /&gt;All inputs have a solid, 1px, grey02(#ccc) border and their corners are rounded with a border-radius of 4px. We label all of our inputs top-left using a bold 14px font. Placeholder text is expected to direct the user by example and is coloured grey03 (#9ba3a5). Some data requires a character limit so a counter is placed above the top-right corner of the input. The input’s focus state has a blue 2px border. The input’s disabled state has a light-grey background and the CSS property “cursor: not-allowed“.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 883px;&quot; src=&quot;/assets/jostle-style-guide/inputs.jpg&quot; alt=&quot;Inputs and states&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Relative sizing&lt;/strong&gt;&lt;br /&gt;Inputs are also proportionally sized by the font-size and padding within the input. We also use “font-size 14px/1.6; padding 8px 16px;” for inputs.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 559px;&quot; src=&quot;/assets/jostle-style-guide/inputs-spacing-diagram.jpg&quot; alt=&quot;Inputs&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h3&gt;&lt;a id=&quot;icons&quot;&gt;&lt;/a&gt;Icons&lt;/h3&gt;
+    &lt;p&gt;When I started at Jostle, there were a broad range of icon styles, varying in size, fill, and stroke. The icons had the same problem of randomness that the colours and font-sizing had. They contributed to the feeling of disconnection and weakness throughout the product.&lt;/p&gt;
+    &lt;p&gt;Grey Vaisius lead the initial push on improving our icon set, redrawing the majority of the existing icons in the application. He established the size and general art direction for the set. Over the years, I’ve contributed to the set, adding several icons for new features and tweaking other icons so we maintain consistent optics across the set. We recognize there’s further room for improvement but we’re in a much better place than we were in 2015.&lt;/p&gt;
+    &lt;p&gt;General constraints for drawing icons are:&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Use square corners and stroke terminals.&lt;/li&gt;
+    &lt;li&gt;Draw within a 17px x 17px frame.&lt;/li&gt;
+    &lt;li&gt;Horizontally and vertically centre art within a 40px x 40px container to provide adequate affordance.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;u-textAlign-center&quot;&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/jostle-icons.jpg&quot; alt=&quot;Jostle icons&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;no-components&quot;&gt;&lt;/a&gt;No components&lt;/h2&gt;
+    &lt;p&gt;You may be wondering, why we stopped describing things at the atomic level. The Design Team discussed the pros and cons of building an “atomic style guide” or fully detailing the components we use throughout the application. After several rounds of debate, we agreed not to take on that task of further detailing UI patterns for the following reasons:&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Having a detailed component based library like Bootstrap, Foundation, or Pure CSS, does not in and of itself guarantee a polished user experience.&lt;/li&gt;
+    &lt;li&gt;Too much detailed explanation is required to describe the molecular structures that comprise our common views. Agreeing on this detail will slow down the design and development process and not provide the return on investment that the atomic styles offer.&lt;/li&gt;
+    &lt;li&gt;The Style Guide leans more toward a system for design as it is not fully integrated into the application. That means that the more detail we add, the higher the likelihood the guide will become outdated and require maintenance. Again, resulting in diminishing returns.&lt;/li&gt;
+    &lt;li&gt;Designers and Developers need to work together to define components to ensure there is adoption, effective implementation, and a shared need for maintenance.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h2&gt;&lt;a id=&quot;shared-tools&quot;&gt;&lt;/a&gt;Shared tools&lt;/h2&gt;
+    &lt;p&gt;The Style Guide exists as a shared library among our Design Team in Figma. We also built a Jekyll website and deployed it to style.jostle.us. Unfortunately, this site is only accessible via Jostle’s VPN but I’ve got a fork of this project on &lt;a href=&quot;https://github.com/justinalm/jostle-styleguide&quot;&gt;my personal Github&lt;/a&gt;. This online resource is a valuable asset for both our Design and Dev Teams. HTML and CSS makes our design system “real” as it shares the same material as our product. We use git for version control and collaborate on the project over Jostle’s Gitlabs.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/figma.jpg&quot; alt=&quot;Our shared Design Team Figma Library&quot; /&gt;
+            &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Figma&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jekyll-build.jpg&quot; alt=&quot;Jekyll .scss&quot; /&gt;
+            &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Jekyll&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/git-labs.jpg&quot; alt=&quot;Style Guide repo on Jostle’s Gitlabs&quot; /&gt;
+            &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Gitlabs&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jekyll-site.jpg&quot; alt=&quot;Jekyll website&quot; /&gt;
+            &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;style.jostle.us&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a id=&quot;downsides&quot;&gt;&lt;/a&gt;Downsides&lt;/h2&gt;
+    &lt;p&gt;Without total vertical integration, tracking changes from the Style Guide to all of the instances where styles are implemented, has made for a less than perfect outcome. There are many ways to try and deal with this problem but everyone is always balancing cost vs benefit on the production pipeline. Since our Style Guide is not totally integrated into the development process, it requires our UI Developers and QA Teams to know and understand font-sizes, spacing units, colours, and rules for form controls. Ironically, abstracting all of that detailed information into more human language &lt;em&gt;is the value proposition&lt;/em&gt; of the Style Guide. This shared ‘human’ language hasn’t steeped throughout the organization yet but it’s slowly getting better. We are still trying to solve the problem of lack of adoption throughout the Dev Team. Most likely, this will be solved with a few champions setting a standard of use moving forward and integrating our styles into the dev environment. In the end, we have had positive response. The struggle is making change happen.&lt;/p&gt;
+    &lt;h2&gt;&lt;a id=&quot;response&quot;&gt;&lt;/a&gt;Response&lt;/h2&gt;
+    &lt;blockquote class=&quot;u-noMargin  u-pad-l03  as-h4  c-grey03&quot; style=&quot;border-left: 4px solid #eceff1;&quot;&gt;&lt;em&gt;In my 15+ years in software development, a designer has never explained to this level what the style of the product should be. For a person that cares about design and consistency (but does not have your expertise) this is really huge. Thanks so much.&lt;/em&gt;&lt;br /&gt;&lt;span class=&quot;as-h6&quot;&gt;&lt;strong&gt;Darren John, Test Team Lead at Jostle&lt;/strong&gt;&lt;/span&gt;&lt;/blockquote&gt;
+    &lt;h2&gt;&lt;a id=&quot;conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+    &lt;p&gt;Jostle applies a lean development philosophy. The Style Guide hasn’t been created to go back and fix everything that was stylistically flawed. Instead, as we moved forward, all the product we ship is expected to hold true to the system we have designed. Although the full impact of The Style Guide is yet to be realized throughout Jostle’s platform, it has brought immediate benefits to the Design Team. We are able to move forward in a unified voice—communicating a shared vision for the product together.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/jostle/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/the-jostle-style-guide/</guid>
+        
+        
+        <category>Jostle</category>
+        
+      </item>
+    
+      <item>
+        <title>Map of the Internet</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;At &lt;a href=&quot;http://www.steamclock.com/&quot; target=&quot;_blank&quot;&gt;Steamclock Software&lt;/a&gt;, I led design of the user interface, app icons, and App Store and Play Store assets for Peer 1’s &lt;a href=&quot;https://itunes.apple.com/us/app/map-internet-by-peer-1-hosting/id605924222?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;Map of the Internet&lt;/a&gt;. Concept by Peer 1. Design and dev by Steamclock.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+&lt;figure class=&quot;mw-900  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+    &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-iphone-firstuse.jpg&quot; /&gt;
+            &lt;figcaption&gt;First use tutorial.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-iphone-globe-3dgrid-node.jpg&quot; /&gt;
+            &lt;figcaption&gt;Globe view, network view, and a focused node.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-iphone-search-traceroute-results.jpg&quot; /&gt;
+            &lt;figcaption&gt;Perform a traceroute between ISPs. Swipe up to view details.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-ipad-node.jpg&quot; /&gt;
+            &lt;figcaption&gt;On an iPad details appear in a popover pegged to the node.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-ipad-traceroute.jpg&quot; /&gt;
+            &lt;figcaption&gt;The height of the popover expands as details render in view.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-ipad-timeline.jpg&quot; /&gt;
+            &lt;figcaption&gt;Tap the “Timeline” icon to scrub the history of the Internet.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-ipad-timeline-globe.jpg&quot; /&gt;
+            &lt;figcaption&gt;The Timeline works for both the Network and Globe visualizations.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/peer1-appstore.jpg&quot; /&gt;
+            &lt;figcaption&gt;I designed App Store assets in collaboration with &lt;a href=&quot;https://allenpike.com/&quot; title=&quot;The blog of Allen Pike&quot;&gt;Allen Pike&lt;/a&gt;.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/steamclock/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/map-of-the-internet/</guid>
+        
+        
+        <category>Steamclock</category>
+        
+      </item>
+    
+      <item>
+        <title>Woo To See You</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot;&gt;I delivered &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;, an identity, website, and interior design strategy for their two brick-and-mortar stores—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-hero.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-1.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;ƒ
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-2.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-3.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-4.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-5.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-6.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-7.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-2.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-1.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-4.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-5.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-3.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-26.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-24.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-25.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-6.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-9.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-7.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-8.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-12.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-11.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-13.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-14.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-17.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-16.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-15.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-18.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-19.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-20.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-21.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-22.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-23.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-10.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-1.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-2.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-3.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-4.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-10.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-8.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-6.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-5.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-9.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-7.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-11.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-1.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootooseeyou-people-2.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-3.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-4.jpg&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 22 Feb 2019 22:58:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/freelance/woo-to-see-you/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/freelance/woo-to-see-you/</guid>
+        
+        
+        <category>Freelance</category>
+        
+      </item>
+    
+      <item>
+        <title>Know Ideas</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;a href=&quot;http://greyvy.com/&quot; target=&quot;_blank&quot;&gt;Grey Vaisius&lt;/a&gt; and I wrote and designed an award winning 130 page book about Internet culture. The book is a Mcluhanesque exploration of the Internet using printed experiments.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;div class=&quot;media&quot;&gt;
+            &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/know-ideas/know-ideas-in-article2.mp4&quot; poster=&quot;/assets/know-ideas/know-ideas-video-poster.jpg&quot;&gt;&lt;/video&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/know-ideas-cover.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/know-ideas-back-cover.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-93.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/know-ideas-pages.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-11.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-12.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-13.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-14.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-43.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-44.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-32.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-33.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-34.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-28.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-29.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-49.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-50.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-51.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-54.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-55.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-19.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-21.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-24.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/ki-58.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/ki-76.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets//know-ideas/know-ideas-process.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/know-ideas-full-cover.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/know-ideas-exhibition-space.jpg&quot; /&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure&gt;
+            &lt;img src=&quot;/assets/know-ideas/know-ideas-applied-arts-award.jpg&quot; /&gt;
+            &lt;figcaption&gt;Know Ideas won an &lt;a href=&quot;http://www.appliedartsmag.com/winners_gallery/student/?id=981&amp;amp;year=2012&amp;amp;clip=1&quot; target=&quot;_blank&quot;&gt;Applied Arts Award 2012&lt;/a&gt; for Design/Editorial – Single.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/ecuad/know-ideas/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ecuad/know-ideas/</guid>
+        
+        
+        <category>ECUAD</category>
+        
+      </item>
+    
+      <item>
+        <title>Devmonitor.io</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot;&gt;At Steamclock Software, we designed and developed Devmonitor.io for &lt;a href=&quot;http://www.wipfactory.com/&quot; target=&quot;_blank&quot;&gt;WIP Factory&lt;/a&gt;. The web app enabled you to track and respond to questions about your product on sites like Stackoverflow and Github.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-home.jpg&quot; /&gt;
+            &lt;figcaption&gt;Public home highlighting &lt;em&gt;log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt;.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-signup.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt; journeys.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-blocked.jpg&quot; /&gt;
+            &lt;figcaption&gt;Forgot password journey.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-questions.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Questions&lt;/em&gt; is a dynamic and ranked feed of questions. From the feed, reply to questions and remove questions you’ve addressed.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-analytics.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Analytics&lt;/em&gt; helps you to gauge developer sentiment about your product. We built this view leveraging &lt;a href=&quot;http://www.chartjs.org/&quot; target=&quot;_blank&quot;&gt;Charts.js&lt;/a&gt;.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b00&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-dates.jpg&quot; /&gt;
+            &lt;figcaption&gt;Filter &lt;em&gt;Analytics&lt;/em&gt; by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 21 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/steamclock/devmonitor-dot-io/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/devmonitor-dot-io/</guid>
+        
+        
+        <category>Steamclock</category>
+        
+      </item>
+    
+      <item>
+        <title>Jostle Illustrations</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;I drew these illustrations for &lt;a href=&quot;https://blog.jostle.me/blog&quot; title=&quot;The Jostle Blog&quot;&gt;The Jostle Blog&lt;/a&gt;. Although my primary role at Jostle is Product Designer, I support Marketing with illustration for articles published twice a week.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/how-to-give-and-receive-feedback.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-to-give-and-receive-constructive-feedback&quot; title=&quot;How to give and receive constructive feedback&quot;&gt;How to give and receive constructive feedback&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/workplace-rules-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/7-workplace-rules-that-need-to-go&quot; title=&quot;7 workplace rules that need to go&quot;&gt;7 workplace rules that are holding back your organization&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/how-to-break-down-silos.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-to-break-down-silos&quot; title=&quot;Working in silos? Here's how to break them how-to-break-down-silos&quot;&gt;Working in silos? Here's how to break them how-to-break-down-silos&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/5-workplace-trends-of-2019-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-workplace-trends-2019&quot; title=&quot;Five for Friday: Workplace trends to look out for in 2019&quot;&gt;Five for Friday: Workplace trends to look out for in 2019&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/learning-styles-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-to-manage-multiple-learning-styles&quot; title=&quot;5 companies with great internal communications&quot;&gt;How to manage multiple learning styles&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/companies-with-great-internal-communications-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/companies-with-great-internal-communications&quot; title=&quot;5 companies with great internal communications&quot;&gt;5 companies with great internal communications&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/coffee-breaks-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/benefits-of-coffee-breaks&quot; title=&quot;A word on coffee breaks&quot;&gt;A word on coffee breaks&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/cross-functional-teams-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-cross-functional-teams-can-improve-company-culture&quot; title=&quot;How cross-functional teams can improve company culture&quot;&gt;How cross-functional teams can improve company culture&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/how-an-intranet-fits-into-your-digital-workplace-strategy-16x9@2x.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-an-intranet-fits-into-your-digital-workplace-strategy&quot; title=&quot;How an intranet fits into your digital workplace strategy&quot;&gt;How an intranet fits into your digital workplace strategy&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/all-aboard-new-hires-your-company-skills-values-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/improve-your-employee-onboarding-process&quot; title=&quot;All aboard: how to improve your employee onboarding process&quot;&gt;All aboard: how to improve your employee onboarding process&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/8-ways-to-completely-destroy-your-company-culture-16x9@2x.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/8-ways-to-completely-destroy-your-company-culture-2/&quot; title=&quot;8 ways to completely destroy your company culture&quot;&gt;8 ways to completely destroy your company culture&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/7-reasons-why-organizational-culture-is-important-16x9@2x.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/why-is-organizational-culture-important&quot; title=&quot;7 reasons why organizational culture is important&quot;&gt;7 reasons why organizational culture is important&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/6-examples-of-bad-leadership-16x9@2x.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/6-examples-of-bad-leadership&quot; title=&quot;6 examples of bad leadership&quot;&gt;6 examples of bad leadership&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/what-are-social-intranet-features-16x9@2x.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/social-intranet-features&quot; title=&quot;What are social intranet features (and do you want them)?&quot;&gt;What are social intranet features (and do you want them)?&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/conflict-in-the-workplace-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-giving-feedback&quot; title=&quot;Giving feedback&quot;&gt;Giving feedback&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/get-a-raise-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-get-a-raise&quot; title=&quot;Get a raise&quot;&gt;Get a raise&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/concentration-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-concentration&quot; title=&quot;Concentration&quot;&gt;Concentration&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/a-case-for-kindness-in-the-workplace-16x9.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/a-case-for-kindness-in-the-workplace&quot; title=&quot;A case for kindness in the workplace&quot;&gt;A case for kindness in the workplace&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/office-space.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-office-space&quot; title=&quot;Office space&quot;&gt;Office space&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/5-ways-managers-can-make-or-break-a-team.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/5-ways-managers-can-make-or-break-a-team&quot; title=&quot;5 ways managers can make (or break) a team&quot;&gt;5 ways managers can make (or break) a team&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/how-3-organizations-achieve-effective-workplace-communication.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/how-3-organizations-get-outstanding-internal-communication-results&quot; title=&quot;How 3 organizations achieve effective workplace communication&quot;&gt;How 3 organizations achieve effective workplace communication&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/3-reasons-you-think-your-colleague-does-nothing-all-day.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/seriously-what-does-she-do-all-day/&quot; title=&quot;3 reasons you think your colleague does nothing all day&quot;&gt;3 reasons you think your colleague does nothing all day&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/5-workplace-communication-mistakes-you-should-stop-making.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/5-workplace-communications-mistakes-you-should-stop-making&quot; title=&quot;5 workplace communication mistakes you should stop making&quot;&gt;5 workplace communication mistakes you should stop making&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/trust-in-the-workplace.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-trust-in-the-workplace&quot; title=&quot;Trust in the workplace&quot;&gt;Trust in the workplace&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/5-benefits-of-employee-engagement-software.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/5-benefits-of-employee-engagement-software&quot; title=&quot;5 benefits of employee engagement software&quot;&gt;5 benefits of employee engagement software&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/5-ways-to-combat-seasonal-affective-disorder-in-the-workplace.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/combat-seasonal-affective-disorder-at-work&quot; title=&quot;5 ways to combat Seasonal Affective Disorder in the workplace&quot;&gt;5 ways to combat Seasonal Affective Disorder in the workplace&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/10-easy-ways-to-make-your-intranet-fail.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/10-easy-ways-intranet-fail&quot; title=&quot;10 easy ways to make your intranet fail&quot;&gt;10 easy ways to make your intranet fail&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/motivation-in-the-workplace.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-motivation-workplace&quot; title=&quot;Motivation in the workplace&quot;&gt;Motivation in the workplace&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/bringing-positive-psychology-to-the-workplace.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/bringing-positive-psychology-to-the-workplace&quot; title=&quot;Bringing positive psychology to the workplace&quot;&gt;Bringing positive psychology to the workplace&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/making-meetings-more-efficient.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/making-meetings-more-efficient&quot; title=&quot;Making meetings more efficient&quot;&gt;Making meetings more efficient&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/people-or-strategy-first.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-people-or-strategy-first&quot; title=&quot;People or strategy first?&quot;&gt;People or strategy first?&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/body-language.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-body-language&quot; title=&quot;Body language&quot;&gt;Body language&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/is-the-org-chart-really-dead.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/is-the-org-chart-really-dead&quot; title=&quot;Is the org chart really dead?&quot;&gt;Is the org chart really dead?&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/why-enterprise-social-networks-fail.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/why-enterprise-social-intranets-fail/&quot; title=&quot;Why enterprise social networks fail&quot;&gt;Why enterprise social networks fail&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+        &lt;figure class=&quot;u-mar-b00&quot;&gt;
+            &lt;img src=&quot;/assets/jostle-illustrations/five-for-fiday.png&quot; /&gt;
+            &lt;figcaption&gt;&lt;a href=&quot;https://blog.jostle.me/blog/five-for-friday-future-of-work&quot; title=&quot;Five for Friday series&quot;&gt;Five for Friday&lt;/a&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/jostle/jostle-illustrations/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/jostle-illustrations/</guid>
+        
+        
+        <category>Jostle</category>
+        
+      </item>
+    
+      <item>
+        <title>Photography</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Photography&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot;&gt;I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please &lt;a href=&quot;mailto:almjustin@gmail.com&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/yaletown-sunset-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Vancouver Sunset&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 11&quot; x 8.25&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/window-washer-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Window Washer&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/whytecliff-rocks-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Whytecliff Rocks&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 18&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/victory-square-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Victory Square&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/towers-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Towers&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/tokyo-sunset-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Tokyo Sunset&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/tokyo-staircase-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Tokyo Staircase&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/tokyo-house-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Tokyo House&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/suseong-lake-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Suseong Lake&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/suburbs-of-calgary-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Calgary&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/street-art-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Street Art&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16s&quot; / Artwork 15&quot; x 11&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/stanley-park-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Stanley Park&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/pool-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Pool&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/palm-trees-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Palm Trees&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; xs 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/over-the-northern-pacific-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Over the Northern Pacific&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/offices-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Offices&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/mom-and-dads-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Mom and Dad’s&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/macmillan-bloedel-building-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;MacMillan Bloedel Building&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/landing-incheon-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Landing in Incheon&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/gallery-steps-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Steps&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/english-bay-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;English Bay&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/english-bay-fog-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;English Bay Fog&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/english-bay-beach-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;English Bay Beach&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/en-route-daegu-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;En Route Daegu&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/dog-mountain-sunset-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Dog Mountain Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/deep-cove-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Deep Cove&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 7.5&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/daegu-sunset-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Daegu Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 12&quot; x 16&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/daegu-apartments-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Daegu Apartments&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/construction-crane-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Construction Crane&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 10&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/cloud-wave-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Cloud Wave&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/cloud-array-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Cloud Array&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/cloud-array-2-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Cloud Array 2&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/photos/ambleside-sunset-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Ambleside Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;figure class=&quot;u-mar-b00&quot;&gt;
+            &lt;img src=&quot;/assets/photos/airplane-framed.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;strong&gt;Airplane&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/personal-projects/photography/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/personal-projects/photography/</guid>
+        
+        
+        <category>personal-projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Making Conversation</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Making Conversation&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;Making Conversation was an interviews podcast that I co-hosted with &lt;a href=&quot;http://5am.co/&quot; title=&quot;Website of Shawn Choi&quot;&gt;Shawn Choi&lt;/a&gt;; uncovering trade secrets and backstories in the artist’s or designer’s creative journey.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters  u-pad-t00  u-pad-b04&quot;&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/making-conversation/makingConversationLogo.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/making-conversation/makingConversationProcess.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img src=&quot;/assets/making-conversation/makingConversationResponsiveShowcase.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/making-conversation/makingConversationTwitter.jpg&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+        &lt;img src=&quot;/assets/making-conversation/makingConversationiTunes.jpg&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr class=&quot;u-mar-t00  u-mar-b05&quot; /&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;studio-faculty&quot;&gt;&lt;/a&gt;Ep.1 – “What’s the name of this podcast?” with Studio Faculty&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep1-studiofaculty.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep1-studiofaculty.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;We learn about how Vince and Alvin met in “jail” and struggle to define ‘work’ as graphic designers. Alvin’s grandmother doesn’t understand his occupation. They tell us how they name their typefaces and how some of their fonts are unfortunately used. We learn about the conception of Commute App; Alvin doesn’t know the name of our podcast and Studio Faculty ranks #1 on Google for.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Studio Faculty:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://studiofaculty.com/&quot;&gt;Studio Faculty&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://instagram.com/studiofaculty&quot;&gt;Studio Faculty on Instagram&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/vincelo&quot;&gt;Vince Lo&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/_alvinkwan&quot;&gt;Alvin Kwan&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;trim-projects&quot;&gt;&lt;/a&gt;Ep.2 – “Hastag Respect” with Trim Projects&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep2-trimprojects.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep2-trimprojects.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;Kriza is a designer, art director, ad-person, publication designer, and founder of Trim Projects. She doesn’t know where she’s from and neither does Shawn. Shawn just applied for Canadian citizenship, so he has to tone down his jokes.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5 u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Trim Projects:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://trim-projects.com/&quot;&gt;Trim Projects&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/TrimProjects&quot;&gt;Trim Projects on Facebook&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://instagram.com/trim_projects&quot;&gt;Trim Projects on Instagram&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;karston-smith&quot;&gt;&lt;/a&gt;Ep.3 – “You don’t do yoga. You are yoga” with Karston Smith from LuLuLemon&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep3-karstonsmith.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep3-karstonsmith.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;Karston Smith is a graphic designer and more at LuLuLemon. We talk about getting building permits at City Hall and how wack their yellow highlighters are. We come to the conclusion that when you’re learning something you’re interested in, learning isn’t painful. Justin realizes Sketch.app is great for UI design but not architectural drawings. We talk about acronyms, doing redneck things, design process at LuLuLemon, kombucha, crazy things yogis say, the art and design scene in Calgary, Karston’s art practice, and his upcoming exhibition.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Karston:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.karston.ca/&quot;&gt;Karston’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;mailto:karstonsmith@gmail.com&quot;&gt;Karston’s Email&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/karstonsmith&quot;&gt;Karston’s Twitter&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;albert-law&quot;&gt;&lt;/a&gt;Ep.4 – “Jeff Wall! Don’t listen to this podcast!” with Albert Law&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep4-albertlaw.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep4-albertlaw.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;Albert Law is an independant photographer and graphic designer from Vancouver, Canada. During this episode, we celebrate the explicit tag, learn that Shawn and Justin were chubby in high school, where questions for the podcast are written, how Albert got into art, photography, and design, how to fake being a designer or developer by sending your work to India, Albert’s process for taking pictures and working with clients, Albert’s fascination with LA and hot places, not hanging out with Charlie Sheen, taking photographs of Jeff Wall, life in the military, and his interest to do an exhibition about the armed forces.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Albert:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.albertlaw.ca/&quot;&gt;Albert’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;mailto:albert@albertlaw.ca&quot;&gt;Albert’s Email&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://instagram.com/airscape&quot;&gt;Albert’s Instagram&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;peter-cocking&quot;&gt;&lt;/a&gt;Ep.5 – “Nobody would ever sleep with the 2 in Univers” with Peter Cocking of PeterCo Design&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep5-petercocking.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep5-petercocking.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;We sat down with Peter Cocking in the beautiful studio of Greystone Books. We talked about Peter’s childhood passion for drawing comics and making mistakes as a junior designer. He told us tales of designing on the 1st generation Mac and being one of the first registered users of PageMaker. He revealed his inspiration for teaching, the experience teaching his first class, and how he classifies a good student. He let us know what it felt like to receive the Ian Wallace Award for Teaching Excellence. After he educated us on education, we talked shop and found out where exactly Peter is working, how he deals with clients, the pleasures and pains of design process, sexless typography, whether or not ebooks are capable of magic, his favourite screen fonts, discontent, and how he would like to be remembered.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Peter:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/peterco&quot;&gt;Peter’s LinkedIn&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.petercodesign.com/&quot;&gt;Peter’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;mailto:cockingp@ecuad.ca&quot;&gt;Peter’s Email&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;jane-koo&quot;&gt;&lt;/a&gt;Ep.6 – “I had to kill my salami!” with Jane Koo&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep6-janekoo.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep6-janekoo.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;We sat down with Jane Koo at the Making Conversation Studio. We talked about Jane’s childhood growing up in Seoul – surrounded by barf and protests. We talked about her first memories of design, how she submitted her portfolio to get into design school, and how she set out for a career. She told us how she worked as an in-house designer at Lush Cosmetics and came to the conclusion that she needed to move on. We talked about travelling back-and-forth between Vancouver and South Korea and solutions for dealing with jet-lag. Jane shared about her new found freedom in freelance, the joy of working on the road, the importance of style, her passion for food, and the one project she feels most proud of in her portfolio. Jane designs for some of Vancouver’s most iconic publications and community events.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Jane:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://janekoo.com/&quot;&gt;Jane’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;mailto:kookoo@gmail.com&quot;&gt;Jane’s Email&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/janekoo/&quot;&gt;Jane’s Twitter&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;jace-kim&quot;&gt;&lt;/a&gt;Ep.7 – “I am a tool” with Jace Kim&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep7-jacekim.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep7-jacekim.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;Jace shares with us about about his passion for comics, his search for originality as an artist, failing to get into art school and then getting into art school to realize his conception of art was wrong. We chatted about his work at The Sequence Group and what it means to be a digital artist. We wrap by discussing his teaching practice, participating in community art events, his discontent, and how he would like to be remembered.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Jace:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.behance.net/apologies&quot;&gt;Jace’s Painting&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://jacethekim.blogspot.ca/&quot;&gt;Jace’s Illustration&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://instagram.com/jacethekim&quot;&gt;Jace’s Instagram&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;tom-chung&quot;&gt;&lt;/a&gt;Ep. 8 – “We have to do this.” with Tom Chung of Umbra Shift&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep8-tomchung.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep8-tomchung.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;For Episode 8, we chat with Tom Chung, a designer working for &lt;a href=&quot;http://www.umbra.com/&quot;&gt;Umbra&lt;/a&gt;, a Toronto-based homeware design company. He is the creative lead of their product line &lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt; that will be launching in Vancouver August 5th, 2014, at &lt;a href=&quot;http://vanspecial.com/&quot;&gt;Vancouver Special&lt;/a&gt;. We talked about Tom’s childhood growing up in the Vancouver neighbourhood of Kitsilano; his adolescent interest in architecture and working for &lt;a href=&quot;http://www.camposleckie.ca/&quot;&gt;Campos Leckie&lt;/a&gt;; when he realized industrial design was actually a ‘thing’ and his industrial design education at &lt;a href=&quot;http://www.ecuad.ca/&quot;&gt;Emily Carr University&lt;/a&gt;. Tom shared with us about how he hyped himself on the Internet while battling the flu, leaving Vancouver to work in Toronto, and the difference between the Toronto and Vancouver art and design scenes. We spent the second half of our chat talking about Umbra. We talked Umbra Shift and got the low down on Tom’s two week sourcing adventure through Vietnam, Philippines, Taiwan, and Thailand. He dished details on how they selected designers to work on the collaboration. We also talked about the trials and tribulations of getting the booth setup at the &lt;a href=&quot;http://www.icff.com/&quot;&gt;International Contemporary Furniture Fair&lt;/a&gt;(ICFF) and how it felt to win the Editor’s Award for Accessories.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Tom:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://tomchung.net/&quot;&gt;Tom’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://instagram.com/tom__chung&quot;&gt;Tom’s Instagram&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;post-projects&quot;&gt;&lt;/a&gt;Ep. 9 – “What? You did that?” with Post Projects&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep9-postprojects.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep9-postprojects.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;For Episode 9, we chat with &lt;a href=&quot;https://twitter.com/alexnelson&quot;&gt;Alex Nelson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/BeauHouse&quot;&gt;Beau House&lt;/a&gt; of &lt;a href=&quot;https://twitter.com/Post_Projects&quot;&gt;Post Projects&lt;/a&gt;. We chat about how they met, started a design company, and decided to call it &lt;em&gt;Post Projects&lt;/em&gt;. We talk about their design values, the Post Projects studio space, and ‘good guy’ rates. We discussed their work for &lt;a href=&quot;http://brassneck.ca/&quot;&gt;Brassneck Brewery&lt;/a&gt;, &lt;a href=&quot;http://revolvercoffee.ca/&quot;&gt;Revolver Coffee&lt;/a&gt;, and &lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt;. We ended our conversation chatting about the most memorable project they’ve worked on, the three words they want people to use when describing their work, their current level of satisfaction, and the kind of projects they’d like to work on in the future.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Post Projects:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://post-projects.com/&quot;&gt;Post Projects’ Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/PostProjects&quot;&gt;Post Projects’ on Facebook&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/Post_Projects&quot;&gt;Post Projects’ on Twitter&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;clou-studio&quot;&gt;&lt;/a&gt;Ep. 10 – “Our practice is like MasterChef Junior” with Clou Studio Inc.&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep10-cloustudio.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep10-cloustudio.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;For Episode 10, we chat with &lt;a href=&quot;http://www.ryanromero.ca/&quot;&gt;Ryan Romero&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/traviscollier&quot;&gt;Travis Collier&lt;/a&gt; of &lt;a href=&quot;http://www.cloustudioinc.com/&quot;&gt;Clou Studio Inc.&lt;/a&gt;. We cracked beers and discussed how they met, started a design company, and realized their practice is like MasterChef Junior. We talk about their design values, where they find inspiration, and their process when working with clients. We discussed their work for &lt;a href=&quot;http://anitasikma.com/&quot;&gt;Anita Sikma&lt;/a&gt;, &lt;a href=&quot;http://radiclejuice.com/&quot;&gt;Radicle Juice Shop&lt;/a&gt;, and &lt;a href=&quot;http://thelabmagazine.com/&quot;&gt;The Lab Magazine&lt;/a&gt;. We ended our conversation chatting about the most memorable project they’ve worked on and their level of satisfaction.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Post Projects:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.cloustudioinc.com/&quot;&gt;Clou Studio’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://twitter.com/Cloustudio&quot;&gt;Clou Studio on Twitter&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ClouStudio&quot;&gt;Clou Studio on Facebook&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;u-mar-b00&quot;&gt;
+        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;ross-milne&quot;&gt;&lt;/a&gt;Ep.11 – “The most important developments in humanity” with Ross Milne&lt;/h2&gt;
+        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep11-rossmilne.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep11-rossmilne.mp3&quot;&gt;download&lt;/a&gt; the show.
+        &lt;/audio&gt;
+        &lt;p&gt;For Episode 11, we chatted with &lt;a href=&quot;https://www.rossmilne.ca/&quot;&gt;Ross Milne&lt;/a&gt;. We discussed Mr. Milne’s experience studying type design in the &lt;a href=&quot;http://www.kabk.nl/pageEN.php?id=16&quot;&gt;Type and Media Masters program&lt;/a&gt; at &lt;a href=&quot;http://www.kabk.nl/&quot;&gt;The Royal Academy of Art&lt;/a&gt; in The Hague. We talked about the founding of Working Format, how they named the company, and their design mentality of, “let’s just do this”. We discussed the work Ross has done on the fonts &lt;a href=&quot;https://www.typotheque.com/fonts/charlie&quot;&gt;Charlie&lt;/a&gt;, &lt;a href=&quot;https://commercialtype.com/typefaces/publico&quot;&gt;Publico&lt;/a&gt;, and &lt;a href=&quot;https://commercialtype.com/typefaces/stag&quot;&gt;Stag&lt;/a&gt;. We talked about the practice of font naming, font marketing, how people use fonts, Australia’s love for Ross’ work, and how fonts live in the software ecosystem. We talked about Working Format’s community oriented initiative &lt;a href=&quot;http://www.theplatformgallery.ca/&quot;&gt;The Platform Gallery&lt;/a&gt; and their ambition to get art and design into the everyday lives of Vancouverites.&lt;/p&gt;
+        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Ross:&lt;/strong&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;https://www.rossmilne.ca/&quot;&gt;Ross’s Website&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;http://www.instagram.com/milne.ross&quot;&gt;Ross on Instagram&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;mailto:milne.ross@gmail.com&quot;&gt;Ross’s email&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://0.0.0.0:4000/personal-projects/making-conversation/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/personal-projects/making-conversation/</guid>
+        
+        
+        <category>personal-projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Mozilla Stumbler Concept</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Mozilla Stumbler Concept&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3&quot;&gt;At Steamclock Software, we built a POC for Mozilla Stumbler—a gamified app for Android users to scan open-source wireless networks—designed to collect GPS, mobile, and wireless network data for Mozilla’s crowd-sourced location database.&lt;/p&gt;
+    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+    &lt;!-- First row --&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-sync-off@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Sync turned off&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;Tap, “Turn On Stumbler” to start syncing and play the game.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-map@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Clusters and rainbows&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;Stars cluster where people haven’t ‘stumbled’. Rainbows appear at the far edge of a cluster and are worth 50 points. You need to walk further to collect them.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-star-pick-up@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Collecting tokens&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;Collect items by walking around the map. When picked up, they grow, chime, and disappear from the map.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;!-- Second row --&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-gather-on-path@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Objects Along The Path&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;For your current session, your path traces across the map. Your point total is displayed at the bottom of the view.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-gold-coin-bonus@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Gold coin bonus&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;If you collect two rainbows in a day, you are rewarded with a bonus of 100 points. This incentivizes more ‘stumbling’.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Your stats and rank&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;On the Leaderboard tab, you can see totals for the number of stars, rainbows, and gold coins you’ve collected on the map. Your rank appears above the Leaderboard.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;!-- Third row --&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard-ranking@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Top 10 on the Leaderboard&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;For your current session, your path traces across the map. Your point total is displayed at the bottom of the view.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard-date-range@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Filtering by date&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;There is a Android spinner above “Your Stats”. View your stats for “Last Week” or “All Time”.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-settings@2x.jpg&quot; /&gt;
+        &lt;h2 class=&quot;as-h4  u-mar-t02&quot;&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p class=&quot;u-mar-b00&quot;&gt;In Settings, you can change your nickname, toggle “Upload only on WiFi” and “Persistent Scanning”, send feedback, disable Stumbler, and learn more.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:4000/steamclock/mozilla-stumbler-concept/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/mozilla-stumbler-concept/</guid>
+        
+        
+        <category>Steamclock</category>
+        
+      </item>
     
   </channel>
 </rss>

@@ -76,9 +76,16 @@ html { overflow-y: scroll; }
   border: 1px solid $grey01;
 }
 
-.carousel-cell.is-selected > img {
-  display: block;
-  height: auto;
+.carousel-cell-image {
+  opacity: 0;
+  -webkit-transition: opacity 0.4s;
+          transition: opacity 0.4s;
+}
+
+/* fade in lazy loaded image */
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+  opacity: 1;
 }
 
 /* ---- flickity-button ---- */
@@ -120,8 +127,8 @@ html { overflow-y: scroll; }
 
 .flickity-prev-next-button {
   top: 50%;
-  width: $spacing-unit*3;
-  height: $spacing-unit*3;
+  width: $spacing-unit*4;
+  height: $spacing-unit*4;
   border-radius: 50%;
   /* vertically center */
   transform: translateY(-100%);
@@ -152,7 +159,7 @@ html { overflow-y: scroll; }
   display: none;
 }
 .flickity-enabled.is-fullscreen .flickity-prev-next-button {
-  margin-top: $spacing-unit*0.75;
+  margin-top: $spacing-unit*2;
 }
 
 /* right to left */
@@ -279,6 +286,7 @@ html.is-flickity-fullscreen {
   max-width: 100vw;
   height: auto;
   max-height: 100vh;
+  padding: $spacing-unit*5 $spacing-unit*2;
 }
 
 /* flickity-fade */

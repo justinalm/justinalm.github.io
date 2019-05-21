@@ -1,29 +1,4 @@
 ---
 title: Justin Alm – Product Designer from Vancouver, Canada.
 timezone: America/Los_Angeles
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-  work:
-    title: Work
-    output: true
-  experience:
-    title: Experience
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+permalink: /:categories/:title/

@@ -17,6 +17,7 @@
     border: 1px solid $grey02;
     border-radius: $spacing-unit/2;
     -webkit-appearance: none;
+    transition: all ease 0.2s;
 }
 
 .Btn[disabled],
@@ -34,7 +35,7 @@
 }
 
 .Btn:hover {
-    background-color: $grey01;
+    @include box-shadow;
 }
 
 .Btn:focus {
@@ -45,8 +46,9 @@
 .Btn:active {
     outline: 0;
     box-shadow: none;
-    background: $white;
+    background: $grey01;
     border: 1px solid $grey02;
+    box-shadow: none;
 }
 
 .Btn[disabled]:focus,

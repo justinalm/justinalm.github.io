@@ -619,7 +619,7 @@ figure, .vendor {
 hr,
 .is-hr {
   border: 0;
-  border-top: 1px solid #B0BEC5; }
+  border-top: 1px solid #ECEFF1; }
 
 /**
   * Border style
@@ -671,7 +671,7 @@ hr,
 
 /* Dark borders */
 .u-bor-light {
-  border-color: #B0BEC5; }
+  border-color: #ECEFF1; }
 
 /* Light borders */
 .u-bor-fatlight {
@@ -702,7 +702,7 @@ hr,
   display: inline-block;
   color: #263238;
   background-color: #ffffff;
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 1.4;
@@ -711,7 +711,8 @@ hr,
   padding: 8px 16px;
   border: 1px solid #B0BEC5;
   border-radius: 4px;
-  -webkit-appearance: none; }
+  -webkit-appearance: none;
+  transition: all ease 0.2s; }
 
 .Btn[disabled],
 .Btn.is-disabled {
@@ -726,7 +727,9 @@ hr,
   box-shadow: none; }
 
 .Btn:hover {
-  background-color: #ECEFF1; }
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
 
 .Btn:focus {
   outline: 0;
@@ -735,8 +738,9 @@ hr,
 .Btn:active {
   outline: 0;
   box-shadow: none;
-  background: #ffffff;
-  border: 1px solid #B0BEC5; }
+  background: #ECEFF1;
+  border: 1px solid #B0BEC5;
+  box-shadow: none; }
 
 .Btn[disabled]:focus,
 .Btn.is-disabled:focus {
@@ -786,7 +790,7 @@ button.Btn--block {
  * For text, date, etc. inputs
  */
 .Input {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
   font-size: 14px;
   line-height: 1;
   padding: 8px 12px;
@@ -3558,9 +3562,15 @@ html {
   transition: all ease 0.2s;
   border: 1px solid #ECEFF1; }
 
-.carousel-cell.is-selected > img {
-  display: block;
-  height: auto; }
+.carousel-cell-image {
+  opacity: 0;
+  -webkit-transition: opacity 0.4s;
+  transition: opacity 0.4s; }
+
+/* fade in lazy loaded image */
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+  opacity: 1; }
 
 /* ---- flickity-button ---- */
 .flickity-button {
@@ -3593,8 +3603,8 @@ html {
 /* ---- previous/next buttons ---- */
 .flickity-prev-next-button {
   top: 50%;
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   /* vertically center */
   transform: translateY(-100%);
@@ -3624,7 +3634,7 @@ html {
   display: none; }
 
 .flickity-enabled.is-fullscreen .flickity-prev-next-button {
-  margin-top: 6px; }
+  margin-top: 16px; }
 
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
@@ -3737,7 +3747,8 @@ html.is-flickity-fullscreen {
   width: auto;
   max-width: 100vw;
   height: auto;
-  max-height: 100vh; }
+  max-height: 100vh;
+  padding: 40px 16px; }
 
 /* flickity-fade */
 .flickity-enabled.is-fade .flickity-slider > * {

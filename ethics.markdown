@@ -49,7 +49,7 @@ layout: workPost
                 <p class="u-noMargin">Users are included throughout the process but now it’s real. Begin again.</p>
             </div>
             <div class="Grid-cell u-size1of1">
-                <img src="/uploads/ethics/divergent-and-convergent-thinking.svg" alt="Divergent and convergent thinking">
+                <img src="/assets/ethics/divergent-and-convergent-thinking.svg" alt="Divergent and convergent thinking">
             </div>
         </div>
     </div>

@@ -1,16 +1,25 @@
 <ul class="work-list u-mar-b04">
-    {% for work in site.work reversed %}
+    {% for post in site.posts %}
     <li>
-        <a href="{{ work.url }}" title="{{ work.title }}">
-            {% if work.thumbnail %}
-                <img src="{{ work.thumbnail }}"/>
-            {% else work.video %}
+        <a href="{{ post.url }}" title="{{ post.title }}">
+            {% if post.thumbnail %}
+                <img src="{{ post.thumbnail }}"/>
+            {% else post.video %}
                 <div class="media">
-                    <video autoplay loop muted playsinline type="video/mp4" src="{{ work.video }}" poster="{{ work.videoposter }}"></video>
+                    <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
                 </div>
             {% endif %}
-            <h3 class="as-h4"><strong>{{ work.title }}</strong></h3>
-            <p class="u-mar-b00  c-grey03"><em>{{ work.details }}</em></p>
+            <h3 class="as-h4"><strong>{{ post.title }}</strong></h3>
+            <p class="u-mar-b00  c-grey03"><em>{{ post.details }}</em></p>
         </a>
     {% endfor %}
 </ul>
+
+{% for posts in site.posts %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
