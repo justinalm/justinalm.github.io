@@ -2,7 +2,7 @@
 title: Ethics
 description: My process, principles, values, and mission. I bring these ideas into every team I collaborate with—a compass for my pursuit of excellence in all things.
 date: 2016-09-12 22:19:00 -07:00
-layout: workPost
+layout: default
 permalink: /about/ethics/
 ---
 
@@ -143,3 +143,5 @@ permalink: /about/ethics/
 <h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto"><strong>Mission</strong></h2>
 
 <p class="mw-1024  as-h3  u-mar-t00  u-mar-auto">I’m passionate about bringing vision to reality, focused on meaningful ideas, applying excellence in craft, to build impactful experiences, that help business grow, and make the world a better place.</p>
+
+<div class="u-mar-b05">&nbsp;</div>
