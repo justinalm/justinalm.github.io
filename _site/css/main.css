@@ -111,6 +111,10 @@ a {
 a:hover {
   text-decoration: none; }
 
+.u-cleanLink {
+  color: inherit;
+  font-weight: inherit; }
+
 .u-textAlign-center {
   text-align: center; }
 

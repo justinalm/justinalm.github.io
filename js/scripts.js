@@ -38,9 +38,9 @@ $(document).ready(function() {
           c +
           '<span class="moreellipses">' +
           ellipsestext +
-          '&nbsp;&nbsp;<a href="" class="moreless more" style="display: block; font-style: normal; margin: 8px 0 16px 0;">Show more</a></span></span></div><div class="truncate-text" style="display:none">' +
+          '&nbsp;&nbsp;<a href="" class="moreless more  u-cleanLink" style="font-style: normal; margin: 8px 0 16px 0;">More</a></span></span></div><div class="truncate-text" style="display:none">' +
           h +
-          '&nbsp;&nbsp;<a href="" class="moreless less" style="display: block; font-style: normal; margin: 8px 0 16px 0;">Show less</a></span></div>';
+          '&nbsp;&nbsp;<a href="" class="moreless less  u-cleanLink" style="font-style: normal; margin: 8px 0 16px 0;">Less</a></span></div>';
 
         $(this).html(html);
       }
@@ -53,7 +53,7 @@ $(document).ready(function() {
 
       if (thisEl.hasClass("less")) {
         cT.prev(tX).toggle();
-        cT.slideToggle();
+        cT.toggle();
       } else {
         cT.toggle();
         cT.next(tX).fadeToggle();
