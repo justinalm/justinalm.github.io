@@ -86,7 +86,7 @@ date: 2016-09-12 22:19:00 -07:00
             <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“It’s been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I'm excited to see his future success as he takes on more leadership and tackles new challenges.”</em></p><p class="as-h6  u-mar-t01"><strong>Allen Pike. CEO, Steamclock<br> January 14, 2015, Allen managed me directly</strong></p></blockquote>
         </div>
         <div class="Grid-cell  u-size1of1">
-            <p class="u-noMargin"><a href="/recommendations/" class="Btn">Read more kind words from my leaders and peers&nbsp;&nbsp;&rarr;</a></p>
+            <p class="u-noMargin"><a href="/recommendations/" class="Btn">Read more from my leaders and peers&nbsp;&nbsp;&rarr;</a></p>
         </div>
     </div>
 </div>
