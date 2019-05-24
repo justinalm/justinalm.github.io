@@ -6,7 +6,7 @@ layout: workPost
 permalink: /about/ethics/
 ---
 
-<div id="ethics" class="mw-700  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+<div id="ethics" class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>Ethics</strong></h1>
     <p class="as-h3">My process, principles, values, and mission. I bring these ideas into every team I collaborate with—a compass for my pursuit of excellence in all things.</p>
     <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">💡</p>
