@@ -73,6 +73,13 @@ p, blockquote {
   line-height: 1.6;
   margin-bottom: 1.25em; }
 
+blockquote {
+  padding-left: 24px;
+  border-left: 4px solid #ECEFF1; }
+
+blockquote p {
+  margin: 0; }
+
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1rem;
   font-weight: 400;
@@ -109,6 +116,9 @@ a:hover {
 
 .u-textAlign-left {
   text-align: left; }
+
+.u-lineHeight-120 {
+  line-height: 1.2; }
 
 figcaption,
 .grid-caption {
@@ -707,7 +717,7 @@ hr,
   font-weight: 700;
   line-height: 1.4;
   text-decoration: none;
-  white-space: nowrap;
+  white-space: normal;
   padding: 8px 16px;
   border: 1px solid #B0BEC5;
   border-radius: 4px;
@@ -784,6 +794,12 @@ button.Btn--block {
 
 .Btn--destructive:focus {
   box-shadow: 0 0 0 2px red; }
+
+.morecontent span {
+  display: none; }
+
+.morelink {
+  display: block; }
 
 /*
  * Inputs
@@ -3512,7 +3528,8 @@ html {
   overflow: hidden;
   position: relative;
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  transition: height 0.2s; }
 
 .flickity-slider {
   position: absolute;

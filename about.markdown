@@ -7,7 +7,7 @@ date: 2016-09-12 22:19:00 -07:00
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>About</strong></h1>
     <p class="as-h3">I’m a Product Designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow.</p>
-    <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">🙇</p>
+    <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">👨‍💻</p>
 </div>
 
 <div class="mw-700  u-mar-auto">
@@ -42,7 +42,7 @@ date: 2016-09-12 22:19:00 -07:00
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Jostle Corporation</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>UX Designer, 4 years and 4 months (Jan ’15 — Apr ’19)</em></p>
         <p class="u-mar-t01  u-mar-b00">I designed features for Jostle’s SaaS intranet platform, which helps people connect and communicate in the workplace. Design spanned desktop web, iOS, Android, and Android TV clients. Alongside the Design Team, I helped define The Jostle Style Guide—an atomic design system. I lead design for Discussions (Chat), Library (File sharing), JostleTV (Your intranet steaming on TV), Calls (1-on-1 and Broadcast video calls), Teams (Jostle’s patented tech for content distribution), and several components, a complete redesign and build of The Jostle Blog, and more…</p>
-        <p class="u-mar-t02  u-mar-b02"><a href="/work/jostle/" class="Btn">View selected work from Jostle&nbsp;&nbsp;⟩</a></p>
+        <p class="u-mar-t02  u-mar-b02"><a href="/work/jostle/" class="Btn">View selected work from Jostle&nbsp;&nbsp;&rarr;</a></p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/about/steamclock-overview.jpg" alt="Steamclock office" />
@@ -61,22 +61,37 @@ date: 2016-09-12 22:19:00 -07:00
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Emily Carr University of Art + Design</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b00"><em>Research Assistant, 2 years part-time (Mar ’11 — Apr ’12)</em></p>
         <p class="u-mar-t01  u-mar-b00">2008 to 2012, I was a student of the Interaction Design Degree Program at Emily Carr University of Art + Design. I consider the last 2 years of this program the start of my professional career. The SIM Centre opened up opportunities for me to work with Mozilla, Steamclock Software, and other ECUAD faculty and students. In my fourth year, I was able to work on a website for Bravado Magazine and an award winning experimental print publication about internet culture called <em>Know Ideas</em>.</p>
-        <p class="u-mar-t02  u-mar-b00"><a href="/work/ecuad/" class="Btn">View selected work from ECUAD&nbsp;&nbsp;⟩</a></p>
+        <p class="u-mar-t02  u-mar-b00"><a href="/work/ecuad/" class="Btn">View selected work from ECUAD&nbsp;&nbsp;&rarr;</a></p>
       </div>
     </div>
 </div>
 
-<h2 class="mw-700  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b00  u-mar-auto"><strong>Recommendations</strong></h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b00  u-mar-auto"><strong>Recommendations</strong></h2>
 
-<div class="mw-700  u-mar-auto">
-    <blockquote class="u-noMargin  u-mar-t03  u-mar-b03  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“Justin is a talented designer who consistently demonstrates a high level of knowledge, skill and commitment in his work.”</em><br><span class="as-h6"><strong>Sandra Dametto, Project Manager, S3D & SIM Centres</strong></span></blockquote>
-    <blockquote class="u-noMargin  u-mar-t03  u-mar-b03  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“It’s been a pleasure working with Justin. He’s proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I’m excited to see his future success as he takes on more leadership and tackles new challenges.”</em><br><span class="as-h6"><strong>Allen Pike, Co-founder, Steamclock Software</strong></span></blockquote>
-    <blockquote class="u-noMargin  u-mar-t03  u-mar-b03  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“Justin Alm is one of those rare designers who is just as concerned with the functionality of a website as he is with it’s form, and has the talents and experience to fully deliver both. He is able to produce innovative web design while working within the project’s limitations and deadlines. He is a delight to work with, and I hope to one day be fortunate enough to work with him again.”</em><br><span class="as-h6"><strong>Alley Kurgan, Designer & Photographer</strong></span></blockquote>
-    <blockquote class="u-noMargin  u-mar-t03  u-mar-b03  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“Justin and I worked together on a variety of projects at Steamclock Software. Justin is an extremely talented individual who is full of creative energy. We’ve had many fantastic coffee fuelled brainstorming sessions which always left me feeling invigorated and confident that our project was headed in the right direction. He’s a great person to work with and I hope I get the chance to collaborate with him again in the future.”</em><br><span class="as-h6"><strong>Robert MacEachern, Mobile Software Engineer, Steamclock Software</strong></span></blockquote>
-    <blockquote class="u-noMargin  u-mar-t03  u-mar-b03  u-pad-l03  as-h5 c-grey03" style="border-left: 4px solid #eceff1;"><em>“I have learned much from working with Justin, and he showed me what being a designer is really all about. Not only is Justin incredible with both hand-drawn and digital design, he is also a proficient web developer. Furthermore, Justin’s insight and thorough understanding of iOS and Android design patterns have helped us created many awesome products.”</em><br><span class="as-h6"><strong>Jeremy Chiang, iOS & Android Developer, Steamclock Software</strong></span></blockquote>
+<h3 class="mw-1024  as-h4  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Leadership</strong></h3>
+
+<div class="mw-1024  u-mar-auto">
+    <div class="Grid  Grid--withGutters  u-pad-b03">
+        <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p><em>“Justin reported directly to me during his time at Jostle. Together we brought many product innovations to market, helping us become the top-rated employee intranet platform. Justin did a great job of understanding both user needs and technical realities, such that we were able to deliver robust and useable solutions to our diverse install base. His passion and craftsmanship were always strong. He left Jostle on great terms, with us all wishing him the best.”</em></p><p class="as-h6  u-mar-t01  u-mar-b01"><strong>Brad Palmer, CEO at Jostle<br> March 26, 2019, Brad managed me directly</strong></p></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“I worked with Justin for almost 4 years at Jostle. As a member of the marketing/brand team, we relied heavily on Justin's talents and ideas to help us create and complete our marketing assets and campaigns. This ranged from artwork for our blog to full blog redesign, to e-books, to trade show booth materials - and pretty much everything else in between! I appreciated Justin's candour and creativity. He made me think about things differently, and consider a better way to move forward. His knowledge and appreciation of design principles, helped me gain a deeper understanding of the user/audience impact of our branded materials. Justin is a passionate, dedicated, and sensitive human, who will bring the utmost of care to every project, team, or business that he aligns with. As a graduate of Jostle's 12-month leadership program, he has demonstrated the capacity for deeper self-awareness, humility, and openness to improve. I'll miss Justin's many and varied contributions to our team. His new team will be fortunate to have someone who isn't afraid to speak their mind, and make the team stronger in doing so.”</em></p><p class="as-h6  u-mar-t01"><strong>Bev Attfield, Director - Brand | CX | EX at Jostle<br>March 30, 2019, Bev worked with me in the same group</strong></p></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“Justin moved our design process into the digital world and better aligned with our SW development team. I learnt a lot from his diligence ensuring that a design focus on accomplishing the user's end goals in the most straight forward and easily discovered way possible. Justin will bring great design to whatever projects he ends up working on. I wish him luck in his new endeavours.”</em></p>
+            <p class="as-h6  u-mar-t01  u-mar-b01"><strong>Bruce Milton, VP Development at Jostle<br>May 3, 2019, Bruce managed me directly</strong></p></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“It’s been a pleasure working with Justin and seeing him grow from a recent grad to a multi-talented app designer. At Steamclock Justin proved himself highly adaptable, tackling a wide variety of tasks across web and apps, digital and print, internally and for clients. He challenged us to level up our design process, while also engaging in the more technical side of the business. I'm excited to see his future success as he takes on more leadership and tackles new challenges.”</em></p><p class="as-h6  u-mar-t01"><strong>Allen Pike. CEO, Steamclock<br> January 14, 2015, Allen managed me directly</strong></p></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <p class="u-noMargin"><a href="/recommendations/" class="Btn">Read more kind words from my leaders and peers&nbsp;&nbsp;&rarr;</a></p>
+        </div>
+    </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto"><strong>Education</strong></h2>
+<h2 class="mw-1024  u-pad-t00  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto"><strong>Education</strong></h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -84,7 +99,7 @@ date: 2016-09-12 22:19:00 -07:00
             <img src="/assets/about/about-ecuad.jpg" alt="Know Ideas at the Grad Exhibition" />
             <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Emily Carr University of Art + Design</strong></h3>
             <p class="c-grey03  u-mar-t01  u-mar-b01"><em>B.Des — Interaction Design, 2008 — 2012</em></p>
-            <p class="u-mar-t01  u-mar-b00">Co-created Know Ideas, an award winning book on Internet culture. Grad Exhibitions, 2011 & 2012. Research Assistant for the SIM and S3D Centres.</p>
+            <p class="u-mar-t01  u-mar-b00">Co-created <em>Know Ideas</em>, an award winning book on Internet culture. Grad Exhibitions, 2011 & 2012. Research Assistant for the SIM and S3D Centres.</p>
         </div>
         <div class="Grid-cell  u-size1of2">
             <img src="/assets/about/about-uofs.jpg" alt="Know Ideas at the Grad Exhibition" />

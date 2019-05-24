@@ -16,6 +16,7 @@ html { overflow-y: scroll; }
   position: relative;
   height: 100%;
   width: 100%;
+  transition: height 0.2s;
 }
 
 .flickity-slider {

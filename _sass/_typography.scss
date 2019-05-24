@@ -24,6 +24,15 @@ p, blockquote {
   margin-bottom: 1.25em;
 }
 
+blockquote {
+  padding-left: $spacing-unit*3; 
+  border-left: $spacing-unit*0.5 solid $grey01;
+}
+
+blockquote p {
+  margin: 0;
+}
+
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1rem;
   font-weight: 400;
@@ -60,6 +69,10 @@ a:hover {
 
 .u-textAlign-left {
   text-align: left;
+}
+
+.u-lineHeight-120 {
+  line-height: 1.2;
 }
 
 figcaption,

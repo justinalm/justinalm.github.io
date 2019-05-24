@@ -12,7 +12,7 @@
     font-weight: $font-weight-bold;
     line-height: $line-height02;
     text-decoration: none;
-    white-space: nowrap;
+    white-space: normal;
     padding: $spacing-unit $spacing-unit*2;
     border: 1px solid $grey02;
     border-radius: $spacing-unit/2;
@@ -100,4 +100,12 @@ button.Btn--block { /* cheats for button elements */
 
 .Btn--destructive:focus {
     box-shadow: 0 0 0 2px red;
+}
+
+.morecontent span {
+    display: none;
+}
+
+.morelink {
+    display: block;
 }
