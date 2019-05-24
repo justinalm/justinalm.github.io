@@ -87,7 +87,7 @@ date: 2016-09-12 22:19:00 -07:00
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Marketing, Customer Success, and Operations coworkers</strong></h2>
+<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Marketing, Customer Success, and Operations</strong></h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
