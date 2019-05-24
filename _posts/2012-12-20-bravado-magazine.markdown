@@ -2,7 +2,7 @@
 title: Bravado Magazine
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: ECUAD
+categories: [Work, ECUAD]
 thumbnail: /assets/bravado/bravado2-thumb.jpg
 details: Website
 summary: 2011, I redesigned Bravado Magazine’s brand and website. We moved Bravado from a lacklustre Joomla to a WordPress theme of “high gloss pixels”.

@@ -4,8 +4,8 @@
     <title>Justin Alm – Product Designer from Vancouver, Canada.</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 May 2019 12:02:37 -0700</pubDate>
-    <lastBuildDate>Fri, 24 May 2019 12:02:37 -0700</lastBuildDate>
+    <pubDate>Fri, 24 May 2019 13:04:21 -0700</pubDate>
+    <lastBuildDate>Fri, 24 May 2019 13:04:21 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -237,9 +237,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/jostle/the-jostle-blog/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/the-jostle-blog/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-blog/</guid>
         
+        
+        <category>Work</category>
         
         <category>Jostle</category>
         
@@ -494,9 +496,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/jostle/the-jostle-style-guide/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/the-jostle-style-guide/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</guid>
         
+        
+        <category>Work</category>
         
         <category>Jostle</category>
         
@@ -565,9 +569,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/steamclock/map-of-the-internet/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/map-of-the-internet/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</guid>
         
+        
+        <category>Work</category>
         
         <category>Steamclock</category>
         
@@ -577,7 +583,7 @@
         <title>Woo To See You</title>
         <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot;&gt;I delivered &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;, an identity, website, and interior design strategy for their two brick-and-mortar stores—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
+    &lt;p class=&quot;as-h3&quot;&gt;An identity, website, and interior design strategy for &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
     &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -741,9 +747,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 22:58:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/freelance/woo-to-see-you/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/freelance/woo-to-see-you/</guid>
+        <link>http://0.0.0.0:4000/work/freelance/woo-to-see-you/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/freelance/woo-to-see-you/</guid>
         
+        
+        <category>Work</category>
         
         <category>Freelance</category>
         
@@ -912,9 +920,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/ecuad/know-ideas/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/ecuad/know-ideas/</guid>
+        <link>http://0.0.0.0:4000/work/ecuad/know-ideas/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/ecuad/know-ideas/</guid>
         
+        
+        <category>Work</category>
         
         <category>ECUAD</category>
         
@@ -968,9 +978,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/steamclock/devmonitor-dot-io/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/devmonitor-dot-io/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</guid>
         
+        
+        <category>Work</category>
         
         <category>Steamclock</category>
         
@@ -1198,9 +1210,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/jostle/jostle-illustrations/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/jostle/jostle-illustrations/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/jostle-illustrations/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/jostle-illustrations/</guid>
         
+        
+        <category>Work</category>
         
         <category>Jostle</category>
         
@@ -1422,9 +1436,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/personal-projects/photography/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/personal-projects/photography/</guid>
+        <link>http://0.0.0.0:4000/work/personal-projects/photography/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/photography/</guid>
         
+        
+        <category>Work</category>
         
         <category>personal-projects</category>
         
@@ -1617,11 +1633,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 18 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/personal-projects/making-conversation/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/personal-projects/making-conversation/</guid>
+        <link>http://0.0.0.0:4000/work/personal-projects/making-conversation/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/making-conversation/</guid>
         
         
-        <category>personal-projects</category>
+        <category>Work</category>
+        
+        <category>Personal-Projects</category>
         
       </item>
     
@@ -1685,9 +1703,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/steamclock/mozilla-stumbler-concept/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/steamclock/mozilla-stumbler-concept/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/mozilla-stumbler-concept/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/mozilla-stumbler-concept/</guid>
         
+        
+        <category>Work</category>
         
         <category>Steamclock</category>
         

@@ -1,12 +1,12 @@
 ---
 title: Know Ideas
+description: Award winning exploration of the Internet using printed experiments.
 date: 2019-02-22
 layout: workPost
-categories: ECUAD
+categories: [Work, ECUAD]
 video: /assets/know-ideas/know-ideas-compressed.mp4
 videoposter: /assets/know-ideas/know-ideas-video-poster.jpg
 details: Publication
-summary: Award winning exploration of the Internet using printed experiments.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

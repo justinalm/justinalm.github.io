@@ -1,7 +1,9 @@
 ---
-title: Ethics — Justin Alm — product designer from Vancouver, Canada.
+title: Ethics
+description: My process, principles, values, and mission. I bring these ideas into every team I collaborate with—a compass for my pursuit of excellence in all things.
 date: 2016-09-12 22:19:00 -07:00
 layout: workPost
+permalink: /about/ethics/
 ---
 
 <div id="ethics" class="mw-700  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

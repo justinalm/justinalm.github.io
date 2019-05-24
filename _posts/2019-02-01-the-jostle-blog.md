@@ -1,12 +1,12 @@
 ---
 title: The Jostle Blog
+description: I redesigned and developed The Jostle Blog, one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.
 date: 2019-02-25
 layout: workPost
-categories: Jostle
+categories: [Work, Jostle]
 video: /assets/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
 videoposter: /assets/the-jostle-blog/the-jostle-blog-video-poster.jpg
 details: Website
-summary: A blog on workplace issues visited by thousands of people everyday.
 published: true
 ---
 

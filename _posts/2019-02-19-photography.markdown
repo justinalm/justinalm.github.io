@@ -1,12 +1,12 @@
 ---
 title: Photography
+description: My photography is driven by formalism, abstraction, architecture, urban landscapes, and nature.
 date: 2019-02-19
 layout: workPost
-categories: personal-projects
+categories: [Work, personal-projects]
 details: Photography
 video: /assets/photos/photography-thumbnail.mp4
 videoposter: /assets/photos/photogrpahy-video-poster.jpg
-summary: Formalism, abstraction, architecture, urban landscapes, and nature.
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>

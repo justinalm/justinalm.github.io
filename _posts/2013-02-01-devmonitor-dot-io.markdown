@@ -1,11 +1,11 @@
 ---
 title: Devmonitor.io
+description: A web app for ‘devangelists’ to track questions from Stackoverflow.
 date: 2019-02-21
 layout: workPost
-categories: Steamclock
+categories: [Work, Steamclock]
 thumbnail: /assets/devmonitor/wip-dev-monitor-thumb.jpg
 details: Web app
-summary: A web app for ‘devangelists’ to track questions from Stackoverflow.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

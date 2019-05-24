@@ -1,11 +1,11 @@
 ---
 title: Mozilla Stumbler Concept
+description: A Pokémon GO style game to help expand Mozilla’s geolocation services.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: Steamclock
+categories: [Work, Steamclock]
 thumbnail: /assets/mozilla-stumbler/mozilla-stumbler-concept-thumb.jpg
 details: App
-summary: A Pokémon GO style game to help expand Mozilla’s geolocation services.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

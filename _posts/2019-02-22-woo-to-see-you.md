@@ -1,17 +1,17 @@
 ---
 title: Woo To See You
+description: An identity, website, and interior design strategy for Woo To See You—facilitating curation, inclusivity, and Avante-garde fun.
 date: 2019-02-22 23:58:00 -07:00
 layout: workPost
-categories: Freelance
+categories: [Work, Freelance]
 details: End-to-end retail
 thumbnail: /assets/wootoseeyou/wootoseeyou-thumb.jpg
-summary: From buttons to .btn’s, pixels to bricks, tags to hangtags, and picks to pics.
 published: true
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3">I delivered <a href="http://wootoseeyou.com/">Woo To See You</a>, an identity, website, and interior design strategy for their two brick-and-mortar stores—facilitating curation, inclusivity, and Avante-garde fun.</p>
+    <p class="as-h3">An identity, website, and interior design strategy for <a href="http://wootoseeyou.com/">Woo To See You</a>—facilitating curation, inclusivity, and Avante-garde fun.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 

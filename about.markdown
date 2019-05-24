@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About — Justin Alm — A product designer from Vancouver, Canada.
+title: About
+description: Learn about my skills, work experience, education, honours, awards, and interests.
 date: 2016-09-12 22:19:00 -07:00
 ---
 
@@ -84,7 +85,7 @@ date: 2016-09-12 22:19:00 -07:00
             <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“I worked with Justin for almost 4 years at Jostle. As a member of the marketing/brand team, we relied heavily on Justin's talents and ideas to help us create and complete our marketing assets and campaigns. This ranged from artwork for our blog to full blog redesign, to e-books, to trade show booth materials - and pretty much everything else in between! I appreciated Justin's candour and creativity. He made me think about things differently, and consider a better way to move forward. His knowledge and appreciation of design principles, helped me gain a deeper understanding of the user/audience impact of our branded materials. Justin is a passionate, dedicated, and sensitive human, who will bring the utmost of care to every project, team, or business that he aligns with. As a graduate of Jostle's 12-month leadership program, he has demonstrated the capacity for deeper self-awareness, humility, and openness to improve. I'll miss Justin's many and varied contributions to our team. His new team will be fortunate to have someone who isn't afraid to speak their mind, and make the team stronger in doing so.”</em></p><p class="as-h6  u-mar-t01"><strong><a href="https://www.linkedin.com/in/bevattfield/" class="u-cleanLink">Bev Attfield</a>, Director - Brand | CX | EX at Jostle<br>March 30, 2019, Bev worked with me in the same group</strong></p></blockquote>
         </div>
         <div class="Grid-cell  u-size1of1">
-            <p class="u-noMargin"><a href="/good-words/" class="Btn">Read more good words&nbsp;&nbsp;&rarr;</a></p>
+            <p class="u-noMargin"><a href="/about/good-words/" class="Btn">Read more good words&nbsp;&nbsp;&rarr;</a></p>
         </div>
     </div>
 </div>

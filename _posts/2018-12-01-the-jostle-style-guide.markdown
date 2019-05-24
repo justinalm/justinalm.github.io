@@ -1,11 +1,11 @@
 ---
 title: Jostle Style Guide
+description: A design system to help bring consistency across all of Jostle’s product.
 date: 2019-02-24
 layout: workPost
-categories: Jostle
+categories: [Work, Jostle]
 thumbnail: /assets/jostle-style-guide/jostle-style-guide-thumbnail.jpg
 details: Tooling
-summary: A design system to help bring consistency across all of Jostle’s product.
 published: true
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">

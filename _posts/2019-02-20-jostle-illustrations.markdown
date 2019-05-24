@@ -1,11 +1,11 @@
 ---
 title: Jostle Illustrations
+description: A selection of illustrations I drew for The Jostle Blog.
 date: 2019-02-20
 layout: workPost
-categories: Jostle
+categories: [Work, Jostle]
 details: Illustration
 thumbnail: /assets/jostle-illustrations/jostle-illustrations-thumb.jpg
-summary: A selection of illustrations I drew for The Jostle Blog.
 published: true
 ---
 

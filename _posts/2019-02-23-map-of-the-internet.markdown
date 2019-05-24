@@ -1,12 +1,12 @@
 ---
 title: Map of the Internet
+description: A 3D visualization of the internet that was featured on CNN Money.
 date: 2019-02-23
 layout: workPost
-categories: Steamclock
+categories: [Work, Steamclock]
 details: App
 video: /assets/peer1-map-of-the-internet-thumbnail.mp4
 videoposter: /assets/map-of-the-internet-video-poster.jpg
-summary: A 3D visualization of the internet that was featured on CNN Money.
 ---
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>

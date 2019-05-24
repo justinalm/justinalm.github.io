@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Good words — Justin Alm — A product designer from Vancouver, Canada.
+title: Good words
+description: Good words from people I’ve been blessed to collaborate with throughout my career.
 date: 2016-09-12 22:19:00 -07:00
+permalink: /about/good-words/
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>Good words</strong></h1>
-    <p class="as-h3">My career has been blessed with much collaboration, working closely with dozens of talented people, across multiple teams.</p>
+    <p class="as-h3">I’ve been fortunate to work with many great people throughout my career and I feel blessed to have received these good words.</p>
     <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">🙇</p>
 </div>
 

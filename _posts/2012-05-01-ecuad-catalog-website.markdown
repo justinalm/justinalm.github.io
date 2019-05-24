@@ -1,11 +1,11 @@
 ---
 title: ECUAD 2012 Catalog
+description: Online catalog of art & design by Emily Carr University grads.
+details: Website
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: ECUAD
+categories: [Work, ECUAD]
 thumbnail: /assets/2012-emilycarr-catalogue-thumb.jpg
-details: Website
-summary: Online catalog of art & design by Emily Carr University grads.
 published: false
 ---
 <article>

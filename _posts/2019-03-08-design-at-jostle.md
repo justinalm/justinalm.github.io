@@ -1,11 +1,11 @@
 ---
 title: UX Design at Jostle
+description: Jostle’s design culture and what’s been keeping me busy as a UX Designer.
 date: 2019-03-08
 layout: workPost
 thumbnail: https://via.placeholder.com/824x464
 details: Case study
-categories: work, jostle
-summary: Jostle’s design culture and what’s been keeping me busy as a UX Designer.
+categories: [Work, Jostle]
 published: false
 ---
 
