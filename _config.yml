@@ -2,6 +2,7 @@
 title: Justin Alm – Product Designer from Vancouver, Canada.
 description: For 8+ years, I’ve designed delightful experiences for companies in enterprise SaaS, consumer mobile apps, retail, and creative services—going beyond customer wants and business needs.
 timezone: America/Los_Angeles
+url: https://www.justinalm.com
 permalink: /:categories/:title/
 plugins:
   - jekyll-seo-tag
