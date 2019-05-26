@@ -4,6 +4,7 @@ description: A catalog platform for ECUAD to approve and share hundreds of proje
 date: 2016-06-12 22:36:00 -07:00
 layout: workPost
 categories: [Work, Steamclock]
+workplace: Steamclock Software
 details: App
 thumbnail: /assets/ecuad2013-thumb.jpg
 published: false

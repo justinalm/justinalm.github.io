@@ -1,17 +1,19 @@
 ---
 title: Photography
-description: My photography is driven by formalism, abstraction, architecture, urban landscapes, and nature.
+description: I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.
 date: 2019-02-19
 layout: workPost
 categories: [Work, Personal-projects]
+workplace: Personal Projects
 details: Photography
 video: /assets/photos/photography-thumbnail.mp4
 videoposter: /assets/photos/photogrpahy-video-poster.jpg
 ---
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3">I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please <a href="mailto:almjustin@gmail.com" target="_blank">contact me</a>.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#personal-projects">{{ page.workplace }}</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
 </div>
 
 <div class="Grid  Grid--withGutters  Grid--alignMiddle">

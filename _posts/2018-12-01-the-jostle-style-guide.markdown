@@ -1,17 +1,36 @@
 ---
 title: Jostle Style Guide
-description: A design system to help bring consistency across all of Jostle’s product.
+description: The design system used by the Jostle’s Design and Dev Teams.
 date: 2019-02-24
 layout: workPost
 categories: [Work, Jostle]
+workplace: Jostle Corporation
 thumbnail: /assets/jostle-style-guide/jostle-style-guide-thumbnail.jpg
 details: Tooling
 published: true
 ---
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><a id="home"></a><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3" style="max-width: 100%;">Alongside the Design Team at Jostle, I helped create The Jostle Style Guide—a design system that enables us to create, replicate, and assemble consistently.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#jostle-projects">Jostle</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Enable the Design, Dev, and Marketing Teams to create, replicate, and assemble consistently.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm<br>Grey Vaisius<br>Noel Heaney<br>Elliot Mah</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Dev</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Grey Vaisius<br>Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Still seeking adoption and vertical integration.   </p>
+        </div>
+    </div>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">

@@ -11,7 +11,7 @@ published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
-    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/work/steamclock-software/">Steamclock Software</a>&nbsp;〉</small></p>
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#steamclock-software-projects">{{ page.workplace }}</a>&nbsp;〉</small></p>
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
     <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
@@ -20,16 +20,16 @@ published: true
             <p class="u-noMargin  u-mar-b02">Design and build a website for Wedding DJ—highlighting features across iPhone and iPad—directing traffic to download on the App Store.</p>
         </div>
         <div>
-            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design, Dev</strong>:</h2>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design &amp; Dev</strong>:</h2>
             <p class="u-noMargin  u-mar-b02">Justin Alm</p>
         </div>
         <div>
-            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM:</strong></h2>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM</strong>:</h2>
             <p class="u-noMargin  u-mar-b02">Allen Pike</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Sunset</p>
+            <p class="u-noMargin  u-mar-b02">Sunset.</p>
         </div>
     </div>
 </div>

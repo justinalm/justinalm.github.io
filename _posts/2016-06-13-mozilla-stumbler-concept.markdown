@@ -1,17 +1,41 @@
 ---
 title: Mozilla Stumbler Concept
-description: A Pokémon GO style game to help expand Mozilla’s geolocation services.
+description: A proof of concept, Pokémon GO style game, to help expand Mozilla’s geolocation services.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work, Steamclock]
+workplace: Steamclock Software
 thumbnail: /assets/mozilla-stumbler/mozilla-stumbler-concept-thumb.jpg
 details: App
 published: true
 ---
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#steamclock-software-projects">{{ page.workplace }}</a>&nbsp;〉</small></p>
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3">At Steamclock Software, we built a POC for Mozilla Stumbler—a gamified app for Android users to scan open-source wireless networks—designed to collect GPS, mobile, and wireless network data for Mozilla’s crowd-sourced location database.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Entice Android phone users to help Mozilla grow their geo-location service.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Dev</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Jeremy Chiang</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>QA</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Allen Pike<br>Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM &amp; QA</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Allen Pike</p>
+        </div>
+    </div>
 </div>
 
 <div class="Grid  Grid--withGutters">

@@ -4,14 +4,14 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 May 2019 00:26:27 -0700</pubDate>
-    <lastBuildDate>Sun, 26 May 2019 00:26:27 -0700</lastBuildDate>
+    <pubDate>Sun, 26 May 2019 01:41:11 -0700</pubDate>
+    <lastBuildDate>Sun, 26 May 2019 01:41:11 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/work/jostle/&quot;&gt;Jostle&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#jostle-projects&quot;&gt;Jostle Corporation&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
     &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -24,16 +24,16 @@
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Marlon Hort&lt;br /&gt;Wilson Wong&lt;br /&gt;Artem Jeman&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Bruce Milton&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -98,10 +98,28 @@
     
       <item>
         <title>The Jostle Blog</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;The Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;I redesigned and developed &lt;a href=&quot;https://blog.jostle.me&quot;&gt;The Jostle Blog&lt;/a&gt;; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#jostle-projects&quot;&gt;Jostle&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;The Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;I redesigned and developed &lt;a href=&quot;https://blog.jostle.me&quot;&gt;The Jostle Blog&lt;/a&gt;; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Improve UX for our visitors and increase views, subscriptions, and engagement with our community.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design &amp;amp; Dev&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt; Corey Moseley&lt;br /&gt;Dustin Tsyick&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;figure&gt;
@@ -337,10 +355,28 @@
     
       <item>
         <title>Jostle Style Guide</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;Alongside the Design Team at Jostle, I helped create The Jostle Style Guide—a design system that enables us to create, replicate, and assemble consistently.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#jostle-projects&quot;&gt;Jostle&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;The design system used by the Jostle’s Design and Dev Teams.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Enable the Design, Dev, and Marketing Teams to create, replicate, and assemble consistently.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Grey Vaisius&lt;br /&gt;Noel Heaney&lt;br /&gt;Elliot Mah&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Grey Vaisius&lt;br /&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Still seeking adoption and vertical integration.   &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
@@ -597,7 +633,7 @@
       <item>
         <title>Map of the Internet</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/work/steamclock-software/&quot;&gt;Steamclock Software&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#steamclock-software-projects&quot;&gt;Steamclock Software&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
     &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;3D, universal, iOS and Android apps that model the structure of the internet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -610,16 +646,16 @@
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;br /&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -692,10 +728,28 @@
     
       <item>
         <title>Woo To See You</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#freelance-projects&quot;&gt;Freelance&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot;&gt;An identity, website, and interior design strategy for &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An identity, website, and interior design strategy for &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Provide Woo To See You the collateral to effectively operate and scale as an online and brick-and-mortar retailer.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Concept&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Hans Woo&lt;br /&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design, Dev, PM&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
@@ -870,10 +924,32 @@
     
       <item>
         <title>Know Ideas</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#emily-carr-university-projects&quot;&gt;Emily Carr University&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;a href=&quot;http://greyvy.com/&quot; target=&quot;_blank&quot;&gt;Grey Vaisius&lt;/a&gt; and I wrote and designed an award winning 130 page book about Internet culture. The book is a Mcluhanesque exploration of the Internet using printed experiments.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An award winning, 130 page, McLuhanesque exploration of the Internet in printed experiments.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Increase critical thinking about the internet.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, PMs&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Grey Vaisius&lt;br /&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Print Production&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Total Graphics&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Binding&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Rasmussen Bindery&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;On bookshelves.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
@@ -1044,15 +1120,9 @@
       <item>
         <title>Devmonitor.io</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;Steamclock Software&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
-            &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Devmonitor.io is a WIP Factory web app that helps dev evangelists connect with the dev community.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#steamclock-software-projects&quot;&gt;Steamclock Software&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Devmonitor.io is a WIP Factory web app that helps dev evangelists connect with the dev community.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1063,11 +1133,11 @@
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;WIP Factory&lt;br /&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Chani Armitage&lt;br /&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM:&lt;/strong&gt;&lt;/h2&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
@@ -1129,10 +1199,28 @@
     
       <item>
         <title>Jostle Illustrations</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;I drew these illustrations for &lt;a href=&quot;https://blog.jostle.me/blog&quot; title=&quot;The Jostle Blog&quot;&gt;The Jostle Blog&lt;/a&gt;. Although my primary role at Jostle is Product Designer, I support Marketing with illustration for articles published twice a week.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#jostle-projects&quot;&gt;Jostle&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Artwork produced for the Jostle blog, website, social media channels, and presentations.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Support the Jostle Marketing Team, making our SaaS tech company more approachable.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Art Direction&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Grey Vaisius&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Illustrators&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Grey Vaisius&lt;br /&gt;Justin Alm&lt;br /&gt;Elliot Mah&lt;br /&gt;Tiffany Tsai&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;All over the web.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
@@ -1361,10 +1449,10 @@
     
       <item>
         <title>Photography</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Photography&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot;&gt;I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please &lt;a href=&quot;mailto:almjustin@gmail.com&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#personal-projects&quot;&gt;Personal Projects&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Photography&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please &lt;a href=&quot;mailto:almjustin@gmail.com&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
@@ -1587,10 +1675,28 @@
     
       <item>
         <title>Making Conversation</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin u-mar-b00&quot;&gt;&lt;strong&gt;Making Conversation&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3&quot; style=&quot;max-width: 100%;&quot;&gt;Making Conversation was an interviews podcast that I co-hosted with &lt;a href=&quot;http://5am.co/&quot; title=&quot;Website of Shawn Choi&quot;&gt;Shawn Choi&lt;/a&gt;; uncovering trade secrets and backstories in the artist’s or designer’s creative journey.&lt;/p&gt;
-    &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#personal-projects&quot;&gt;Personal Projects&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Making Conversation&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An interviews podcast that I co-hosted with &lt;a href=&quot;http://5am.co/&quot; title=&quot;Website of Shawn Choi&quot;&gt;Shawn Choi&lt;/a&gt;.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Uncover trade secrets and backstories in the creative journey of the artist or designer.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Creator &amp;amp; Producer&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Hosts&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Shawn Choi&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Archived on this page.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters  u-pad-t00  u-pad-b04&quot;&gt;

@@ -1,18 +1,37 @@
 ---
 title: Making Conversation
-description: Making Conversation was an interviews podcast that I co-hosted with Shawn Choi—uncovering trade secrets and backstories in the artist’s or designer’s creative journey.
+description: An interviews podcast that I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>.
 date: 2019-02-18
 layout: workPost
 categories: [Work, Personal-projects]
+workplace: Personal Projects
 thumbnail: /assets/making-conversation/making-conversation-thumb.jpg
 details: Podcast
 published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3" style="max-width: 100%;">Making Conversation was an interviews podcast that I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>; uncovering trade secrets and backstories in the artist’s or designer’s creative journey.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#personal-projects">{{ page.workplace }}</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Uncover trade secrets and backstories in the creative journey of the artist or designer.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Creator &amp; Producer</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Hosts</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm<br>Shawn Choi</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Archived on this page.</p>
+        </div>
+    </div>
 </div>
 
 <div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">

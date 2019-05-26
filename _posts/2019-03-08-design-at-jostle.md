@@ -6,6 +6,7 @@ layout: workPost
 thumbnail: https://via.placeholder.com/824x464
 details: Case study
 categories: [Work, Jostle]
+workplace: Jostle Corporation
 published: false
 ---
 

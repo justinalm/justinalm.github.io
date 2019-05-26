@@ -1,18 +1,42 @@
 ---
 title: Know Ideas
-description: Award winning exploration of the Internet using printed experiments.
+description: An award winning, 130 page, McLuhanesque exploration of the Internet in printed experiments.
 date: 2019-02-22
 layout: workPost
 categories: [Work, ECUAD]
+workplace: Emily Carr University
 video: /assets/know-ideas/know-ideas-compressed.mp4
 videoposter: /assets/know-ideas/know-ideas-video-poster.jpg
 details: Publication
 published: true
 ---
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#emily-carr-university-projects">{{ page.workplace }}</a>&nbsp;〉</small></p>
     <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3" style="max-width: 100%;"><a href="http://greyvy.com/" target="_blank">Grey Vaisius</a> and I wrote and designed an award winning 130 page book about Internet culture. The book is a Mcluhanesque exploration of the Internet using printed experiments.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Increase critical thinking about the internet.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Concept, Design, PMs</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Grey Vaisius<br>Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Print Production</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Total Graphics</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Binding</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Rasmussen Bindery</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">On bookshelves.</p>
+        </div>
+    </div>
 </div>
 
 <div class="Grid  Grid--withGutters">

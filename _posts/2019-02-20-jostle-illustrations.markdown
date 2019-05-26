@@ -1,18 +1,37 @@
 ---
 title: Jostle Illustrations
-description: A selection of illustrations I drew for The Jostle Blog.
+description: Artwork produced for the Jostle blog, website, social media channels, and presentations.
 date: 2019-02-20
 layout: workPost
 categories: [Work, Jostle]
+workplace: Jostle Corporation
 details: Illustration
 thumbnail: /assets/jostle-illustrations/jostle-illustrations-thumb.jpg
 published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3" style="max-width: 100%;">I drew these illustrations for <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a>. Although my primary role at Jostle is Product Designer, I support Marketing with illustration for articles published twice a week.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#jostle-projects">Jostle</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Support the Jostle Marketing Team, making our SaaS tech company more approachable.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Art Direction</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm<br>Grey Vaisius</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Illustrators</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Grey Vaisius<br>Justin Alm<br>Elliot Mah<br>Tiffany Tsai</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">All over the web.</p>
+        </div>
+    </div>
 </div>
 
 <div class="Grid  Grid--withGutters">

@@ -1,19 +1,38 @@
 ---
 title: The Jostle Blog
-description: I redesigned and developed The Jostle Blog, one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.
+description: I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.
 date: 2019-02-25
 layout: workPost
 categories: [Work, Jostle]
+workplace: Jostle Corporation
 video: /assets/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
 videoposter: /assets/the-jostle-blog/the-jostle-blog-video-poster.jpg
 details: Website
 published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3" style="max-width: 100%;">I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/#jostle-projects">Jostle</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Improve UX for our visitors and increase views, subscriptions, and engagement with our community.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design &amp; Dev</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PMs</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02"> Corey Moseley<br>Dustin Tsyick</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">In production.</p>
+        </div>
+    </div>
 </div>
 
 <figure>
