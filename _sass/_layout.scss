@@ -40,3 +40,27 @@ body {
 .mh-500 {
     max-height: 500px;
 }
+
+/* Flexbox */
+
+.project-metadata {
+    display: block;
+    align-items: stretch;
+}
+
+.project-metadata div {  
+  flex: 15%;
+  align-self: flex-start;
+  margin: 0 $spacing-unit*4 0 0;
+  text-align: left;
+  width: 100%;
+}
+
+.project-metadata div.objective {
+  -webkit-flex-basis: 500px; /* Safari 6.1+ */
+  flex-basis: 500px;
+}
+
+.project-metadata div:last-child {
+  margin-right: 0;
+}

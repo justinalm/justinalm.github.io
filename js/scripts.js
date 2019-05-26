@@ -20,7 +20,6 @@ $(function(){
   });
 });
 
-
 /* Show more and Show less */
 
 $(document).ready(function() {

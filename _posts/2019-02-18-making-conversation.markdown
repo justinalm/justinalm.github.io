@@ -3,7 +3,7 @@ title: Making Conversation
 description: Making Conversation was an interviews podcast that I co-hosted with Shawn Choi—uncovering trade secrets and backstories in the artist’s or designer’s creative journey.
 date: 2019-02-18
 layout: workPost
-categories: [Work, Personal-Projects]
+categories: [Work, Personal-projects]
 thumbnail: /assets/making-conversation/making-conversation-thumb.jpg
 details: Podcast
 published: true

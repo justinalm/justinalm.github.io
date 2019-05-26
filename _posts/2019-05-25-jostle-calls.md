@@ -1,13 +1,13 @@
 ---
-title: Map of the Internet
-description: A 3D visualization of the internet that was featured on CNN Money.
-date: 2019-02-23
+title: Calls
+description: Video calls without leaving your company’s Jostle intranet.
+date: 2019-05-25
 layout: workPost
-categories: [Work, Steamclock]
-workplace: Steamclock
-details: App
-video: /assets/peer1-map-of-the-internet-thumbnail.mp4
-videoposter: /assets/map-of-the-internet-video-poster.jpg
+thumbnail: /assets/jostle/calls-thumb.jpg
+details: Product
+categories: [Work, Jostle]
+workplace: Jostle
+published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
@@ -44,57 +44,49 @@ videoposter: /assets/map-of-the-internet-video-poster.jpg
     </div>
 </div>
 
-<figure class="mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor">    <iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
-    <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
-</figure>
-
+<div class="mw-1024  u-mar-auto  u-mar-b03">
+    <figure>
+        <div class="media" style="padding-top: 54.75%;">
+            <video class="u-bor-width-nrml" autoplay loop muted playsinline type="video/mp4" src="/assets/jostle/calls.mp4" poster="/assets/jostle/calls-video-poster.jpg"></video>
+        </div>
+        <figcaption>Principle prototype.</figcaption>
+    </figure>
+</div>
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-iphone-firstuse.jpg"/>
-            <figcaption>First use tutorial.</figcaption>
+            <img src="/assets/jostle/calls-2.jpg" alt="Incoming call" />
+            <figcaption>Incoming call.</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-iphone-globe-3dgrid-node.jpg"/>
-            <figcaption>Globe view, network view, and a focused node.</figcaption>
+            <img src="/assets/jostle/calls-6.jpg" alt="Neutral Call state" />
+            <figcaption>Neutral state of call window.</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-iphone-search-traceroute-results.jpg"/>
-            <figcaption>Perform a traceroute between ISPs. Swipe up to view details.</figcaption>
+            <img src="/assets/jostle/calls-1.jpg" alt="Jostle Calls" />
+            <figcaption>Controls appear on hover.</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-ipad-node.jpg"/>
-            <figcaption>On an iPad details appear in a popover pegged to the node.</figcaption>
+            <img src="/assets/jostle/calls-3.jpg" alt="UI detail" />
+            <figcaption>UI detail.</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-ipad-traceroute.jpg"/>
-            <figcaption>The height of the popover expands as details render in view.</figcaption>
+            <img src="/assets/jostle/calls-4.jpg" alt="Feedback form after call" />
+            <figcaption>Feedback form displays after a call.</figcaption>
         </figure>
     </div>
     <div class="Grid-cell  u-size1of2">
         <figure>
-            <img src="/assets/peer1-ipad-timeline.jpg"/>
-            <figcaption>Tap the “Timeline” icon to scrub the history of the Internet.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-ipad-timeline-globe.jpg"/>
-            <figcaption>The Timeline works for both the Network and Globe visualizations.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-appstore.jpg"/>
-            <figcaption>I designed App Store assets in collaboration with <a href="https://allenpike.com/" title="The blog of Allen Pike">Allen Pike</a>.</figcaption>
+            <img src="/assets/jostle/calls-5.jpg" alt="Sumo Dashboard" />
+            <figcaption>We used SUMO to store data and feedback and monitor up-time.</figcaption>
         </figure>
     </div>
 </div>

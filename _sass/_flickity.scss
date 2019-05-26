@@ -131,7 +131,7 @@ html { overflow-y: scroll; }
   height: $spacing-unit*4;
   border-radius: 50%;
   /* vertically center */
-  transform: translateY(-100%);
+  transform: translateY(-50%);
   background: transparent;
   transition: ease all 0.2s;
   opacity: 0.4;
@@ -157,9 +157,6 @@ html { overflow-y: scroll; }
 /* hide disabled button */
 .flickity-prev-next-button:disabled {
   display: none;
-}
-.flickity-enabled.is-fullscreen .flickity-prev-next-button {
-  margin-top: $spacing-unit*2;
 }
 
 /* right to left */

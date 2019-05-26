@@ -5,14 +5,35 @@ layout: workPost
 categories: [Work, ECUAD]
 thumbnail: /assets/bravado/bravado2-thumb.jpg
 details: Website
-summary: 2011, I redesigned Bravado Magazine’s brand and website. We moved Bravado from a lacklustre Joomla to a WordPress theme of “high gloss pixels”.
+workplace: Emily Carr University or Art + Design
+description: A total redesign of Bravado’s brand and website, in an ethos of “high gloss pixels”.
 published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin u-mar-b00"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3">2011, I redesigned Bravado Magazine’s brand and website. We moved Bravado from a lacklustre Joomla to a WordPress theme of “high gloss pixels”.</p>
-    <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of2">
+            <p class="as-h4  u-noMargin  c-grey03"><small>{{ page.workplace }}&nbsp;〉</small></p>
+            <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+        </div>
+    </div>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Reflect Bravado’s values in their identity, increase presence in a competitive market, unquiely shape content on the web, and ease high-frequency publishing.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Concept, Design, Dev</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Sunset.</p>
+        </div>
+    </div>
 </div>
 
 <div class="Grid  Grid--withGutters">

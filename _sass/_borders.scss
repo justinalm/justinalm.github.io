@@ -16,11 +16,11 @@ hr,
   */
 
 /* Normal border widths */
-.u-bor-width-nrml { border-width: 1px; }
-.u-bor-width-nrml-t { border-top: 1px solid $grey02; }
-.u-bor-width-nrml-r { border-right: 1px solid $grey02; }
-.u-bor-width-nrml-b { border-bottom: 1px solid $grey02; }
-.u-bor-width-nrml-l { border-left: 1px solid $grey02; }
+.u-bor-width-nrml { border: 1px solid $grey01; }
+.u-bor-width-nrml-t { border-top: 1px solid $grey01; }
+.u-bor-width-nrml-r { border-right: 1px solid $grey01; }
+.u-bor-width-nrml-b { border-bottom: 1px solid $grey01; }
+.u-bor-width-nrml-l { border-left: 1px solid $grey01; }
 
 /* Fat border widths */
 .u-bor-width-fat { border-width: 5px; }
