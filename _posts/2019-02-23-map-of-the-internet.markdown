@@ -1,6 +1,6 @@
 ---
 title: Map of the Internet
-description: A 3D visualization of the internet that was featured on CNN Money.
+description: 3D, universal, iOS and Android apps that model the structure of the internet.
 date: 2019-02-23
 layout: workPost
 categories: [Work, Steamclock]
@@ -11,31 +11,25 @@ videoposter: /assets/map-of-the-internet-video-poster.jpg
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
-    <div class="Grid  Grid--withGutters">
-        <div class="Grid-cell  u-size1of2">
-            <p class="as-h4  u-noMargin  c-grey03"><small>{{ page.workplace }}&nbsp;〉</small></p>
-            <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-        </div>
-        <div class="Grid-cell  u-size1of2">
-            <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
-        </div>
-    </div>
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/work/steamclock-software/">Steamclock Software</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Offer people real-time connection, the ability to present ideas, and close the gap between remote coworkers.</p>
+            <p class="u-noMargin  u-mar-b02">See and explore the structure of the internet in your hand. Help Peer1 reach more people as an ISP through interactive art.</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+            <p class="u-noMargin  u-mar-b02">Angelina Fabbro<br>Allen Pike<br>Nigel Brooke<br>Justin Alm</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Dev:</strong></h2>
-            <p class="u-noMargin  u-mar-b02">Marlon Hort<br>Wilson Wong<br>Artem Jeman</p>
+            <p class="u-noMargin  u-mar-b02">Angelina Fabbro<br>Allen Pike<br>Nigel Brooke</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM:</strong></h2>
-            <p class="u-noMargin  u-mar-b02">Bruce Milton</p>
+            <p class="u-noMargin  u-mar-b02">Allen Pike</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>

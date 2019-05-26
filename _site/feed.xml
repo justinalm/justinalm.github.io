@@ -4,22 +4,16 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 17:32:44 -0700</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 17:32:44 -0700</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 18:09:11 -0700</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 18:09:11 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;Jostle&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
-            &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/work/jostle/&quot;&gt;Jostle&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -603,31 +597,25 @@
       <item>
         <title>Map of the Internet</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;Steamclock&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
-            &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A 3D visualization of the internet that was featured on CNN Money.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
+    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/work/steamclock-software/&quot;&gt;Steamclock Software&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;3D, universal, iOS and Android apps that model the structure of the internet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Offer people real-time connection, the ability to present ideas, and close the gap between remote coworkers.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;See and explore the structure of the internet in your hand. Help Peer1 reach more people as an ISP through interactive art.&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;br /&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev:&lt;/strong&gt;&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Marlon Hort&lt;br /&gt;Wilson Wong&lt;br /&gt;Artem Jeman&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM:&lt;/strong&gt;&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Bruce Milton&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;

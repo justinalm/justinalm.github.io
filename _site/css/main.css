@@ -115,6 +115,10 @@ a:hover {
   color: inherit;
   font-weight: inherit; }
 
+.u-cleanLink:hover,
+.u-text-noUnderline:hover {
+  text-transform: underline; }
+
 .u-text-noUnderline {
   text-decoration: none; }
 

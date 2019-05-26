@@ -11,15 +11,9 @@ published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
-    <div class="Grid  Grid--withGutters">
-        <div class="Grid-cell  u-size1of2">
-            <p class="as-h4  u-noMargin  c-grey03"><small>{{ page.workplace }}&nbsp;〉</small></p>
-            <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
-        </div>
-        <div class="Grid-cell  u-size1of2">
-            <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
-        </div>
-    </div>
+    <p class="as-h4  u-noMargin  c-grey03"><small><a class="u-cleanLink  u-text-noUnderline" href="/">Work</a>&nbsp;〉&nbsp;<a class="u-cleanLink  u-text-noUnderline" href="/work/jostle/">Jostle</a>&nbsp;〉</small></p>
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
