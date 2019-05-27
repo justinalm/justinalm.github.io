@@ -50,7 +50,7 @@ date: 2016-09-12 22:19:00 -07:00
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Steamclock Software</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>UX/UI Deisgner, 2 years and 3 months (Oct ’12 — Dec ’15)</em></p>
         <p class="u-mar-t01  u-mar-b02">At Steamclock Software, my work involved strategy, information architecture, wireframing, user interface design, branding, and marketing for app on iOS and Android. Half of my time at Steamclock was spent designing the products WeddingDJ and PartyMonster. The other half of my time was spent designing various iOS, Android, and web products for clients. I cut my teeth in product design and front-end development. Steamclock gave me the freedom to take risks, learn, and evolve my process. Company and employee benefitted from that trust.</p>
-        <p class="u-mar-t02  u-mar-b00"><a href="/work/steamclock-software/" class="Btn">View selected work from Steamclock&nbsp;&nbsp;&rarr;</a></p>
+        <p class="u-mar-t02  u-mar-b02"><a href="/work/steamclock-software/" class="Btn">View selected work from Steamclock&nbsp;&nbsp;&rarr;</a></p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/about/free-agency-creative-overview.jpg" alt="Free Agency Creative office" />

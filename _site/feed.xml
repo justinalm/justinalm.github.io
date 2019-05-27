@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Alm</title>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 May 2019 01:46:50 -0700</pubDate>
-    <lastBuildDate>Sun, 26 May 2019 01:46:50 -0700</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 May 2019 21:42:27 -0700</pubDate>
+    <lastBuildDate>Sun, 26 May 2019 21:42:27 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -86,8 +86,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/jostle/jostle-calls/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle/jostle-calls/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/jostle-calls/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/jostle-calls/</guid>
         
         
         <category>Work</category>
@@ -343,8 +343,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/jostle/the-jostle-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-blog/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-blog/</guid>
         
         
         <category>Work</category>
@@ -620,8 +620,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/jostle/the-jostle-style-guide/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-style-guide/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</guid>
         
         
         <category>Work</category>
@@ -716,8 +716,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/steamclock/map-of-the-internet/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/steamclock/map-of-the-internet/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</guid>
         
         
         <category>Work</category>
@@ -912,8 +912,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 22:58:00 -0800</pubDate>
-        <link>http://localhost:4000/work/freelance/woo-to-see-you/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/freelance/woo-to-see-you/</guid>
+        <link>http://0.0.0.0:4000/work/freelance/woo-to-see-you/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/freelance/woo-to-see-you/</guid>
         
         
         <category>Work</category>
@@ -1107,8 +1107,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/ecuad/know-ideas/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/ecuad/know-ideas/</guid>
+        <link>http://0.0.0.0:4000/work/ecuad/know-ideas/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/ecuad/know-ideas/</guid>
         
         
         <category>Work</category>
@@ -1187,8 +1187,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/steamclock/devmonitor-dot-io/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/steamclock/devmonitor-dot-io/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</guid>
         
         
         <category>Work</category>
@@ -1437,8 +1437,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/jostle/jostle-illustrations/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle/jostle-illustrations/</guid>
+        <link>http://0.0.0.0:4000/work/jostle/jostle-illustrations/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/jostle-illustrations/</guid>
         
         
         <category>Work</category>
@@ -1663,8 +1663,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/personal-projects/photography/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/personal-projects/photography/</guid>
+        <link>http://0.0.0.0:4000/work/personal-projects/photography/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/photography/</guid>
         
         
         <category>Work</category>
@@ -1878,8 +1878,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 18 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/personal-projects/making-conversation/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/personal-projects/making-conversation/</guid>
+        <link>http://0.0.0.0:4000/work/personal-projects/making-conversation/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/making-conversation/</guid>
         
         
         <category>Work</category>
