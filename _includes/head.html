@@ -9,7 +9,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="{{ site.title }} — Product Designer">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }} — Product Designer">
-  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="https://www.justinalm.com">
   <meta name="twitter:site" content="@justinalm">
@@ -17,7 +17,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} — Product Designer">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:image" content="{{ site.url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
   
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">  
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}"/>
