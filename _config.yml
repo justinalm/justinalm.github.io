@@ -5,5 +5,4 @@ timezone: America/Los_Angeles
 url: https://www.justinalm.com
 permalink: /:categories/:title/
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap

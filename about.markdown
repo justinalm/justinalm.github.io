@@ -3,6 +3,7 @@ layout: default
 title: About
 description: Learn about my skills, work experience, education, honours, awards, and interests.
 date: 2016-09-12 22:19:00 -07:00
+thumbnail: /assets/know-ideas/know-ideas-cover.jpg
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">

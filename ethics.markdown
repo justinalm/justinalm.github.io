@@ -4,6 +4,7 @@ description: My process, principles, values, and mission. I bring these ideas in
 date: 2016-09-12 22:19:00 -07:00
 layout: default
 permalink: /about/ethics/
+thumbnail: /assets/ethics/divergent-and-convergent-thinking.svg
 ---
 
 <div id="ethics" class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
