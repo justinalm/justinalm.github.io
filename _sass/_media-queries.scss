@@ -10,6 +10,11 @@
         width: auto;
     }
 
+    .index-banner {
+        padding: $spacing-unit*2 $spacing-unit*10; 
+        margin: $spacing-unit*2 (-$spacing-unit*5) $spacing-unit*5 (-$spacing-unit*5);
+    }
+
     .project-metadata {
         display: flex;
     }

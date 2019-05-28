@@ -147,6 +147,15 @@ body {
   padding: 0;
   margin: 16px; }
 
+.index-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  background-color: #0A2EB9;
+  padding: 40px 16px;
+  margin: 16px -16px 40px -16px; }
+
 .absolute-center {
   margin: auto;
   position: absolute;
@@ -3822,6 +3831,10 @@ html.is-flickity-fullscreen {
     float: right;
     position: relative;
     width: auto; }
+
+  .index-banner {
+    padding: 16px 80px;
+    margin: 16px -40px 40px -40px; }
 
   .project-metadata {
     display: flex; }
