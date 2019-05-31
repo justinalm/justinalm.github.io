@@ -4,14 +4,14 @@
     <title>Justin Alm</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2019 15:51:08 -0700</pubDate>
-    <lastBuildDate>Fri, 31 May 2019 15:51:08 -0700</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 16:04:12 -0700</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 16:04:12 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Jostle overview</title>
+        <title>Jostle</title>
         <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle overview&lt;/strong&gt;&lt;/h1&gt;
+  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle&lt;/strong&gt;&lt;/h1&gt;
   &lt;p class=&quot;as-h3&quot;&gt;For 4+ years, I led design on 5 product teams, shipping interfaces across &lt;a href=&quot;https://jostle.me/product/&quot; title=&quot;Jostle&quot;&gt;Jostle’s&lt;/a&gt; web, mobile, and TV platform—a SaaS intranet that helps people connect and communicate in the workplace.&lt;/p&gt;
   &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
 &lt;/div&gt;
@@ -188,8 +188,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 30 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/jostle-overview/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/jostle-overview/</guid>
+        <link>http://0.0.0.0:4000/collection/jostle/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/collection/jostle/</guid>
         
         
         <category>Collection</category>
@@ -197,9 +197,9 @@
       </item>
     
       <item>
-        <title>Steamclock overview</title>
+        <title>Steamclock Software</title>
         <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Steamclock overview&lt;/strong&gt;&lt;/h1&gt;
+  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Steamclock Software&lt;/strong&gt;&lt;/h1&gt;
   &lt;p class=&quot;as-h3&quot;&gt;For 2+ years at &lt;a href=&quot;https://www.steamclock.com&quot;&gt;Steamclock&lt;/a&gt;, I led design for our DJ apps WeddingDJ and PartyMonster. The other half of my time was spent designing iOS, Android, and web products for clients.&lt;/p&gt;
   &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
 &lt;/div&gt;
@@ -245,8 +245,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 29 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/steamclock-overview/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/steamclock-overview/</guid>
+        <link>http://0.0.0.0:4000/collection/steamclock-software/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/collection/steamclock-software/</guid>
         
         
         <category>Collection</category>
@@ -254,10 +254,10 @@
       </item>
     
       <item>
-        <title>ECUAD overview</title>
+        <title>ECUAD</title>
         <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;ECUAD overview&lt;/strong&gt;&lt;/h1&gt;
-  &lt;p class=&quot;as-h3&quot;&gt;During my Interaction Design Degree at Emily Carr University I worked on these significant projects. I worked for the SIM and S3D Research Centres during my 3rd and 4th years.&lt;/p&gt;
+  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;ECUAD&lt;/strong&gt;&lt;/h1&gt;
+  &lt;p class=&quot;as-h3&quot;&gt;During my Interaction Design Degree at Emily Carr University of Art + Design I worked on these significant projects. During my 3rd and 4th years, I worked for the SIM and S3D Centres.&lt;/p&gt;
   &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -336,8 +336,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 29 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/ecuad-overview/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/ecuad-overview/</guid>
+        <link>http://0.0.0.0:4000/collection/ecuad/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/collection/ecuad/</guid>
         
         
         <category>Collection</category>

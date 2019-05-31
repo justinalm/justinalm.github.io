@@ -1,6 +1,6 @@
 ---
 layout: collectionPost
-title: Steamclock overview
+title: Steamclock Software
 description: For 2+ years at <a href="https://www.steamclock.com">Steamclock</a>, I led design for our DJ apps WeddingDJ and PartyMonster. The other half of my time was spent designing iOS, Android, and web products for clients.
 thumbnail: /assets/steamclock/design-at-steamclock-thumb.jpg
 details: Collection
