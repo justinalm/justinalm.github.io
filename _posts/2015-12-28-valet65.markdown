@@ -1,0 +1,69 @@
+---
+title: Valet65
+description: An iOS app, web app, and printed ticket system that streamlines management of valet parking and improves customer experience.
+date: 2019-05-28
+layout: workPost
+categories: [Work, Steamclock]
+workplace: Steamclock Software
+thumbnail: /assets/steamclock/valet65-thumb.jpg
+details: App and platform
+published: true
+---
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
+        <div class="objective">
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Dev</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Jeremy Chiang<br>Nigel Brooke</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>QA</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Allen Pike<br>Justin Alm</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Allen Pike</p>
+        </div>
+        <div>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
+            <p class="u-noMargin  u-mar-b02">Sunset.</p>
+        </div>
+    </div>
+</div>
+
+<div class="Grid  Grid--withGutters">
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-1.jpg" alt="Valet65 iOS customer facing iOS app" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-2.jpg" alt="Valet65 iOS company facing iOS app" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-3.jpg" alt="Valet65 identity" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-4.jpg" alt="Valet65 wireframes" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-5.jpg" alt="Valet65 ticket design" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-6.jpg" alt="Valet65 company admin site" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-7.jpg" alt="Valet65 marketing website" />
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <img class="mw-1024" src="/assets/steamclock/valet65-8.jpg" alt="Valet65 App Store listing" />
+    </div>
+</div>

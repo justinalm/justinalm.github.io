@@ -8,7 +8,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>About</strong></h1>
-    <p class="as-h3">I’m a Product Designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow.</p>
+    <p class="as-h3">I’m a product designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow.</p>
     <p class="as-h3  bp1-u-textAlign-center  u-mar-b05">👨‍💻</p>
 </div>
 
@@ -44,14 +44,14 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Jostle Corporation</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>UX Designer, 4 years and 4 months (Jan ’15 — Apr ’19)</em></p>
         <p class="u-mar-t01  u-mar-b00">I designed features for Jostle’s SaaS intranet platform, which helps people connect and communicate in the workplace. Design spanned desktop web, iOS, Android, and Android TV clients. Alongside the Design Team, I helped define The Jostle Style Guide—an atomic design system. I lead design for Discussions (Chat), Library (File sharing), JostleTV (Your intranet steaming on TV), Calls (1-on-1 and Broadcast video calls), Teams (Jostle’s patented tech for content distribution), and several components, a complete redesign and build of The Jostle Blog, and more…</p>
-        <p class="u-mar-t02  u-mar-b02"><a href="/work/jostle/design-at-jostle/" class="Btn">View selected work from Jostle&nbsp;&nbsp;&rarr;</a></p>
+        <p class="u-mar-t02  u-mar-b02"><a href="/collection/jostle-overview/" class="Btn">View selected work from Jostle&nbsp;&nbsp;&rarr;</a></p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/about/steamclock-overview.jpg" alt="Steamclock office" />
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Steamclock Software</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b01"><em>UX/UI Deisgner, 2 years and 3 months (Oct ’12 — Dec ’15)</em></p>
         <p class="u-mar-t01  u-mar-b02">At Steamclock Software, my work involved strategy, information architecture, wireframing, user interface design, branding, and marketing for app on iOS and Android. Half of my time at Steamclock was spent designing the products WeddingDJ and PartyMonster. The other half of my time was spent designing various iOS, Android, and web products for clients. I cut my teeth in product design and front-end development. Steamclock gave me the freedom to take risks, learn, and evolve my process. Company and employee benefitted from that trust.</p>
-        <p class="u-mar-t02  u-mar-b02"><a href="/work/steamclock/design-at-steamclock/" class="Btn">View selected work from Steamclock&nbsp;&nbsp;&rarr;</a></p>
+        <p class="u-mar-t02  u-mar-b02"><a href="/collection/steamclock-overview/" class="Btn">View selected work from Steamclock&nbsp;&nbsp;&rarr;</a></p>
       </div>
       <div class="Grid-cell  u-size1of2">
         <img src="/assets/about/free-agency-creative-overview.jpg" alt="Free Agency Creative office" />
@@ -64,7 +64,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
         <h3 class="as-h4  u-mar-t02  u-mar-b00"><strong>Emily Carr University of Art + Design</strong></h3>
         <p class="c-grey03  u-mar-t01  u-mar-b00"><em>Research Assistant, 2 years part-time (Mar ’11 — Apr ’12)</em></p>
         <p class="u-mar-t01  u-mar-b00">2008 to 2012, I was a student of the Interaction Design Degree Program at Emily Carr University of Art + Design. I consider the last 2 years of this program the start of my professional career. The SIM Centre opened up opportunities for me to work with Mozilla, Steamclock Software, and other ECUAD faculty and students. In my fourth year, I was able to work on a website for Bravado Magazine and an award winning experimental print publication about internet culture called <em>Know Ideas</em>.</p>
-        <p class="u-mar-t02  u-mar-b00"><a href="/work/ecuad/" class="Btn">View selected work from ECUAD&nbsp;&nbsp;&rarr;</a></p>
+        <p class="u-mar-t02  u-mar-b00"><a href="/collection/ecuad-overview/" class="Btn">View selected work from ECUAD&nbsp;&nbsp;&rarr;</a></p>
       </div>
     </div>
 </div>

@@ -1,14 +1,17 @@
 ---
-layout: default
-title: Emily Carr University
-description: Samples of work produced during my education at Emily Carr University of Art + Design.
-permalink: /work/ecuad/
-thumbnail: /assets/know-ideas/know-ideas-cover.jpg
+layout: collectionPost
+title: ECUAD overview
+description: During my Interaction Design Degree at Emily Carr University I worked on these significant projects. I worked for the SIM and S3D Research Centres during my 3rd and 4th years.
+thumbnail: /assets/ecuad/ecuad-projects-thumb.jpg
+details: Collection
+categories: [Collection]
+workplace: Emily Carr University
+published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
-  <h1 class="u-noMargin  u-mar-b01"><strong>ECUAD</strong></h1>
-  <p class="as-h3">During my Interaction Design Degree at Emily Carr University I worked on these significant projects. I worked for the SIM and S3D Research Centres during my 3rd and 4th years.</p>
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05">
+  <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
+  <p class="as-h3">{{ page.description }}</p>
   <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 
@@ -24,7 +27,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     <p class="u-mar-t00  u-mar-b01"><strong>Print Production</strong>: Total Graphics</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Binding</strong>: Rasmussen Bindery</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Status</strong>: On bookshelves.</p>
-    <p class="u-mar-t02"><a href="/work/ecuad/know-ideas/" class="Btn">See more of Know Ideas&nbsp;&nbsp;⟩</a>
+    <p class="u-mar-t02"><a href="/work/ecuad/know-ideas/" class="Btn">See more&nbsp;&nbsp;⟩</a></p>
   </div>
   <div class="Grid-cell  u-size2of3  u-mar-b05">
     <div class="media">
@@ -43,22 +46,10 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     <p class="u-mar-t00  u-mar-b01"><strong>Objective</strong>: Reflect Bravado’s values in their identity, increase presence in a competitive market, unquiely shape content on the web, and ease high-frequency publishing.</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Concept, Design, Dev, and PM</strong>: Justin Alm</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Status</strong>: Sunset.</p>
-    <p class="u-mar-t02"><a href="/work/ecuad/bravado-magazine/" class="Btn">See more of Bravado Magazine&nbsp;&nbsp;⟩</a>
+    <p class="u-mar-t02"><a href="/work/ecuad/bravado-magazine/" class="Btn">See more&nbsp;&nbsp;⟩</a></p>
   </div>
   <div class="Grid-cell  u-size2of3  u-mar-b05">
-      <!-- Flickity HTML init -->
-      <div class="carousel"
-        data-flickity='{ "adaptiveHeight": true, "imagesLoaded": true, "wrapAround": true, "fullscreen": true, "lazyLoad": 2, "dragThreshol": 10 }'>
-        <img class="carousel-cell-image" data-flickity-lazyload="/assets/ecuad/bravado-magazine-1.jpg" alt="Bravado Mag Overview" />
-        <img class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/bravado1.jpg" alt="Bravado Mag Logo" />
-        <img class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/bravado2.jpg" alt="Bravado Mag Home  " />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/bravado3.jpg" alt="Bravado Mag Art and Fashion pages" />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/brav1-1024x604.jpg" alt="Bravado Mag Music and Culture pages" />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/brav3-1024x604.jpg" alt="Bravado Mag Article" />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/brav4-1024x604.jpg" alt="Bravado Mag Article" />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/bravado-search.jpg" alt="Bravado Mag Search" />
-        <img class="carousel-cell-image" class="carousel-cell-image" data-flickity-lazyload="/assets/bravado/bravado-about.jpg" alt="Bravado Mag About" />
-      </div>
+      <img src="/assets/ecuad/bravado-magazine-1.jpg" alt="Bravado Mag Overview" />
   </div>
 </div>
 

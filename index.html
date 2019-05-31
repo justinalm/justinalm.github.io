@@ -7,8 +7,48 @@ thumbnail: /assets/jostle/calls-thumb.jpg
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>Work</strong></h1>
-    <p class="as-h3">For {{ site.time | date: '%Y' | minus:2011 }}+ years, I’ve designed delightful experiences for companies in <a href="{{ site.url }}/work/jostle/design-at-jostle" title="Jostle">enterprise SaaS</a>, <a href="{{ site.url }}/work/steamclock/design-at-steamclock/" title="Steamclock Software">consumer mobile apps</a>, <a href="{{ site.url }}/work/freelance/woo-to-see-you/" title="Woo To See You">retail</a>, and creative services—going beyond customer wants and business needs.</p>
+    <p class="as-h3">For {{ site.time | date: '%Y' | minus:2011 }}+ years, I’ve used design to simplify complexity, exceed expectations, and deliver unexpected delight for <a href="{{ site.url }}/collection/jostle-overview/" title="Jostle">enterprise SaaS</a>, <a href="{{ site.url }}/collection/steamclock-overview/" title="Steamclock Software">consumer mobile</a>, <a href="{{ site.url }}/work/freelance/woo-to-see-you/" title="Woo To See You">retail</a>, and <a href="{{ site.url }}/collection/ecuad-overview/" title="Woo To See You">large institutional</a> products.</p>
     <p class="as-h5  bp1-u-textAlign-center  u-mar-b00">&#8757;</p>
 </div>
 
-{% include workListSimple.html %}
+<div class="Grid  Grid--withGutters  u-pad-b03">
+    {% for post in site.posts %}
+        {% if post.categories contains 'Collection' %}
+            <div class="Grid-cell  u-size1of3">
+                <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
+                    {% if post.thumbnail %}
+                        <img src="{{ post.thumbnail }}"/>
+                    {% else post.video %}
+                        <div class="media">
+                            <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
+                        </div>
+                    {% endif %}
+                    <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                    <p class="c-grey03  u-noMargin  u-mar-b04"><em>{{ post.details }}</em></p>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<div class="Grid  Grid--withGutters">
+    {% for post in site.posts %}
+        {% if post.categories contains "Jostle" or post.categories contains "Steamclock" or post.categories contains "ECUAD" %}
+            <div class="Grid-cell  u-size1of3">
+                <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
+                    {% if post.thumbnail %}
+                        <img src="{{ post.thumbnail }}"/>
+                    {% else post.video %}
+                        <div class="media">
+                            <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
+                        </div>
+                    {% endif %}
+                    <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                    <p class="c-grey03  u-noMargin  u-mar-b04"><em>{{ post.details }}</em></p>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!-- include workListSimple.html -->

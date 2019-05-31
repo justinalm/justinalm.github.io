@@ -1,0 +1,10 @@
+{% assign crumbs = page.url | remove:'/en' | split: '/' %}
+
+{% for crumb in crumbs offset: 1 %}
+  {% if forloop.first %}
+      <span style="letter-spacing: 4px; margin: 0 12px 0 0;">{{ crumb | replace:'-',' ' | remove:'.html' | upcase }}</span>〉
+  {% elsif forloop.last %}
+  {% else %}
+      <span style="letter-spacing: 4px; margin: 0 12px;">{{ crumb | replace:'-',' ' | remove:'.html' | upcase }}</span>〉
+  {% endif %}
+{% endfor %}

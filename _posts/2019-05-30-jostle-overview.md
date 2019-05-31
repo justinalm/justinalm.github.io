@@ -1,15 +1,15 @@
 ---
-layout: default
-title: Design at Jostle
+layout: collectionPost
+title: Jostle overview
 description: For 4+ years, I led design on 5 product teams, shipping interfaces across <a href="https://jostle.me/product/" title="Jostle">Jostle’s</a> web, mobile, and TV platform—a SaaS intranet that helps people connect and communicate in the workplace. 
-thumbnail: /assets/jostle/design-at-jostle-thumb.jpg
-details: Overview
-categories: [Work, Jostle]
+thumbnail: /assets/jostle/jostle-overview-thumb.jpg
+details: Collection
+categories: [Collection]
 workplace: Jostle Corporation
 published: true
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
+<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05">
   <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
   <p class="as-h3">{{ page.description }}</p>
   <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
