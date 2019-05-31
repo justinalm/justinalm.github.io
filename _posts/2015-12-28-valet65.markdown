@@ -6,7 +6,7 @@ layout: workPost
 categories: [Work, Steamclock]
 workplace: Steamclock Software
 thumbnail: /assets/steamclock/valet65-thumb.jpg
-details: App and platform
+details: App
 published: true
 ---
 

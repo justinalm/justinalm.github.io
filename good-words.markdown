@@ -63,6 +63,9 @@ permalink: /about/good-words/
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
         <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p><em>“I worked with Justin over 4 years at Jostle, some working directly with him in one of the core views of Jostle product. Justin is able to fully comprehend the requirements of a task from both a top down and bottom up perspective and come up with a comprehensive yet simple and usable design. He would be a great asset to any project of which he is a part. I wish him the best in his future endeavors.”</em></p><p class="as-h6  u-mar-t01"><strong><a href="https://www.linkedin.com/in/len-takeuchi-2b8388b/" class="u-cleanLink">Len Takeuchi</a>, Director of System Architecture<br>May 31, 2019, Len and I worked in the same group</strong></p></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of2">
             <blockquote class="as-h5  c-grey03  u-noMargin"><p><em>”It was such a pleasure working with Justin. He not only has a ton of experience with UI/UX and web application design as a whole, but is also a great communicator. He’s always very patient with developers and other stakeholders, always listens to their input and concerns, and tries to come up with an approach that works for everyone. Justin is very professional and is super passionate about his work, which makes working with him so easy and enjoyable.”</em></p><p class="as-h6  u-mar-t01"><strong><a href="https://www.linkedin.com/in/joe-hu-01103039/" class="u-cleanLink">Joe Hu</a>, Team Lead at Jostle<br>March 25, 2019, Joe and I worked in the same group</strong></p></blockquote>
         </div>
         <div class="Grid-cell  u-size1of2">
