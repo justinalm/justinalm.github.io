@@ -4,9 +4,288 @@
     <title>Justin Alm</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 May 2019 10:03:31 -0700</pubDate>
-    <lastBuildDate>Tue, 28 May 2019 10:03:31 -0700</lastBuildDate>
+    <pubDate>Thu, 30 May 2019 19:52:15 -0700</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 19:52:15 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Design at Jostle</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05&quot;&gt;
+  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design at Jostle&lt;/strong&gt;&lt;/h1&gt;
+  &lt;p class=&quot;as-h3&quot;&gt;For 4+ years, I led design on 5 product teams, shipping interfaces across &lt;a href=&quot;https://jostle.me/product/&quot; title=&quot;Jostle&quot;&gt;Jostle’s&lt;/a&gt; web, mobile, and TV platform—a SaaS intranet that helps people connect and communicate in the workplace.&lt;/p&gt;
+  &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Calls --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t01 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-noMargin  u-mar-b01&quot;&gt;Video calls without leaving your company intranet.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Connect in real-time, present ideas, and close the gap between remote coworkers.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Marlon Hort, Wilson Wong&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Bruce Milton, Brad Palmer&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-calls/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;media&quot;&gt;
+      &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Style Guide --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;The design system used by the Jostle’s Design Team.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Enable the Design, Dev, and Marketing Teams to create, replicate, and assemble consistently.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm, Grey Vaisius, Noel Heaney, Elliot Mah&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Grey Vaisius, Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Still seeking adoption and vertical integration.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/the-jostle-style-guide/&quot; class=&quot;Btn&quot;&gt;Read the case study&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/style-guide-1.jpg&quot; alt=&quot;Jostle style guide&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Components --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Components&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;I designed several components for our desktop and mobile apps.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Build modularity and reuse into our design system and code-base, improving UX and speed to delivery of features.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Developers on various teams.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Multiple QA engineers.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In dev and production.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/components-1.jpg&quot; alt=&quot;Jostle components&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Discussions --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Discussions&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Jostle‘s chat tool.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Connect with colleagues over real-time messaging. Share files and reduce email.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Aary Girish, Zhan Yap, Yvonne Liu, Aman Sarai&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino, Bruce Milton, Brad Palmer&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/discussions-1.jpg&quot; alt=&quot;Jostle Discussions&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Library --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Library&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;File sharing in Jostle.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a go-to place for “official” content, with clear ownership and access.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Kaylyn Garnett, Len Takeuchi, Marco Gonzalez, Paul Grewal&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Tatiane Ferreira&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/library-1.jpg&quot; alt=&quot;Jostle Library&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Search --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Search&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Platform-wide search, including within documents and profiles.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Help people find what they’re looking for any place or time.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Zhan Yap, Aman Sarai&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman, Darren John&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/search-1.jpg&quot; alt=&quot;Jostle Search&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- JostleTV --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;JostleTV&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Stream your intranet to a TV, displaying the news and announcements, as they occur.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Communicate to employees without desktop or mobile access.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm, Gray Vaisius&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Billy Lau, Zhan Yap, Chark Wong, Felipe Gasparino&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Darren John&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/jostletv-1.jpg&quot; alt=&quot;JostleTV&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- The Jostle Blog --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Jostle’s primary content marketing channel.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Improve UX for our visitors and increase views, subscriptions, and engagement with our community.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design &amp;amp; Dev&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Corey Moseley, Dustin Tsyick&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/the-jostle-blog/&quot; class=&quot;Btn&quot;&gt;Read the case study&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/jostle-blog-1.jpg&quot; alt=&quot;The Jostle Blog&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Jostle Marketing Illustrations --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Marketing Illustrations&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Artwork produced for the Jostle blog, website, social media channels, and presentations.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Support the Jostle Marketing Team, making our SaaS tech company more approachable.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Art Direction&lt;/strong&gt;: Justin Alm, Grey Vaisius&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Illustrators&lt;/strong&gt;: Grey Vaisius, Justin Alm, Elliot Mah, Tiffany Tsai (All illustrations on this website by me).&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: All over the web.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-illustrations/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+    &lt;img src=&quot;/assets/jostle/marketing-illustrations-1.jpg&quot; alt=&quot;Jostle Marketing Illustrations&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 30 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:4000/work/jostle/design-at-jostle/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/design-at-jostle/</guid>
+        
+        
+        <category>Work</category>
+        
+        <category>Jostle</category>
+        
+      </item>
+    
+      <item>
+        <title>Design at Steamclock</title>
+        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05&quot;&gt;
+  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design at Steamclock&lt;/strong&gt;&lt;/h1&gt;
+  &lt;p class=&quot;as-h3&quot;&gt;For 2+ years at &lt;a href=&quot;https://www.steamclock.com&quot;&gt;Steamclock&lt;/a&gt;, I led design for our DJ apps WeddingDJ and PartyMonster. The other half of my time was spent designing iOS, Android, and web products for clients.&lt;/p&gt;
+  &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- Valet65 --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;An iOS, web app, and printed ticketing system.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Jeremy Chiang, Nigel Brooke.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Justin Alm.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;: Allen Pike&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Never launched!&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/steamclock/valet65/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+      &lt;!-- Flickity HTML init --&gt;
+      &lt;div class=&quot;carousel&quot; data-flickity=&quot;{ &amp;quot;imagesLoaded&amp;quot;: true, &amp;quot;wrapAround&amp;quot;: true, &amp;quot;fullscreen&amp;quot;: true, &amp;quot;lazyLoad&amp;quot;: 2, &amp;quot;adaptiveHeight&amp;quot;: true }&quot;&gt;
+        &lt;div&gt;
+          &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-1.jpg&quot; alt=&quot;Valet65 iOS customer facing iOS app&quot; /&gt;
+          &lt;!-- &lt;div class=&quot;image-caption&quot;&gt;Valet65 iOS customer facing iOS app&lt;/div&gt; --&gt;
+        &lt;/div&gt;
+
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-2.jpg&quot; alt=&quot;Valet65 iOS company facing iOS app&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-3.jpg&quot; alt=&quot;Valet65 identity&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-4.jpg&quot; alt=&quot;Valet65 wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-5.jpg&quot; alt=&quot;Valet65 ticket design&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-6.jpg&quot; alt=&quot;Valet65 company admin site&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-7.jpg&quot; alt=&quot;Valet65 marketing website&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/valet65-8.jpg&quot; alt=&quot;Valet65 App Store listing&quot; /&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- WeddingDJ iPad --&gt;
+
+&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
+  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
+    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;WeddingDJ iPad&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Queuing of multiple playlists for weddings and other events.&lt;/p&gt;
+    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Extend iPhone app to a universal iOS app, utilizing iPad features, so easy to use, grandma can rock your wedding.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Rob MacEachern, Allen Pike&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Rob MacEachern, Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;: Allen Pike&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
+      &lt;!-- Flickity HTML init --&gt;
+      &lt;div class=&quot;carousel&quot; data-flickity=&quot;{ &amp;quot;imagesLoaded&amp;quot;: true, &amp;quot;wrapAround&amp;quot;: true, &amp;quot;fullscreen&amp;quot;: true, &amp;quot;lazyLoad&amp;quot;: 2, &amp;quot;adaptiveHeight&amp;quot;: true, &amp;quot;pageDots&amp;quot;: false }&quot;&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-1.jpg&quot; alt=&quot;WeddingDJ iPad app&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-2.jpg&quot; alt=&quot;WeddingDJ iPad app user journeys&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-3.jpg&quot; alt=&quot;WeddingDJ iPad app sketching&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-4.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-5.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-6.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-7.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-8.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-10.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-9.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-11.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-12.jpg&quot; alt=&quot;WeddingDJ iPad app website&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-13.jpg&quot; alt=&quot;WeddingDJ iPad app website&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-14.jpg&quot; alt=&quot;WeddingDJ iPad app website&quot; /&gt;
+        &lt;img class=&quot;carousel-cell-image&quot; data-flickity-lazyload=&quot;/assets/steamclock/weddingdj-ipad-15.jpg&quot; alt=&quot;WeddingDJ iPad app App Store listing&quot; /&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 29 May 2019 00:00:00 -0700</pubDate>
+        <link>http://0.0.0.0:4000/work/steamclock/design-at-steamclock/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/design-at-steamclock/</guid>
+        
+        
+        <category>Work</category>
+        
+        <category>Steamclock</category>
+        
+      </item>
     
       <item>
         <title>Calls</title>
@@ -1444,447 +1723,6 @@
         <category>Work</category>
         
         <category>Jostle</category>
-        
-      </item>
-    
-      <item>
-        <title>Photography</title>
-        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#personal-projects&quot;&gt;Personal Projects&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Photography&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;I gravitate towards formalism, abstraction, architecture, the human made, and the organic. If you’re intrested in prints or have editorial or exhibition opportunities, please &lt;a href=&quot;mailto:almjustin@gmail.com&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/yaletown-sunset-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Vancouver Sunset&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 11&quot; x 8.25&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/window-washer-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Window Washer&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/whytecliff-rocks-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Whytecliff Rocks&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 18&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/victory-square-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Victory Square&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/towers-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Towers&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/tokyo-sunset-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Tokyo Sunset&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/tokyo-staircase-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Tokyo Staircase&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/tokyo-house-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Tokyo House&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/suseong-lake-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Suseong Lake&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/suburbs-of-calgary-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Calgary&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/street-art-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Street Art&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16s&quot; / Artwork 15&quot; x 11&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/stanley-park-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Stanley Park&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/pool-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Pool&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/palm-trees-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Palm Trees&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; xs 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/over-the-northern-pacific-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Over the Northern Pacific&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/offices-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Offices&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/mom-and-dads-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Mom and Dad’s&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/macmillan-bloedel-building-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;MacMillan Bloedel Building&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/landing-incheon-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Landing in Incheon&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8.25&quot; x 11&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/gallery-steps-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Steps&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/english-bay-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;English Bay&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/english-bay-fog-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;English Bay Fog&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/english-bay-beach-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;English Bay Beach&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/en-route-daegu-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;En Route Daegu&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/dog-mountain-sunset-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Dog Mountain Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/deep-cove-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Deep Cove&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 7.5&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/daegu-sunset-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Daegu Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 12&quot; x 16&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/daegu-apartments-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Daegu Apartments&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 14&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/construction-crane-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Construction Crane&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 10&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/cloud-wave-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Cloud Wave&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/cloud-array-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Cloud Array&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/cloud-array-2-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Cloud Array 2&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 20&quot; / Artwork 8&quot; x 10&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/photos/ambleside-sunset-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Ambleside Sunset&lt;/strong&gt;&lt;br /&gt;Paper 20&quot; x 16&quot; / Artwork 18&quot; x 14&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b00&quot;&gt;
-            &lt;img src=&quot;/assets/photos/airplane-framed.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;strong&gt;Airplane&lt;/strong&gt;&lt;br /&gt;Paper 16&quot; x 16&quot; / Artwork 8&quot; x 8&quot;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 19 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/personal-projects/photography/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/photography/</guid>
-        
-        
-        <category>Work</category>
-        
-        <category>Personal-projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Making Conversation</title>
-        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;as-h4  u-noMargin  c-grey03&quot;&gt;&lt;small&gt;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/&quot;&gt;Work&lt;/a&gt;&amp;nbsp;〉&amp;nbsp;&lt;a class=&quot;u-cleanLink  u-text-noUnderline&quot; href=&quot;/#personal-projects&quot;&gt;Personal Projects&lt;/a&gt;&amp;nbsp;〉&lt;/small&gt;&lt;/p&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Making Conversation&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An interviews podcast that I co-hosted with &lt;a href=&quot;http://5am.co/&quot; title=&quot;Website of Shawn Choi&quot;&gt;Shawn Choi&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
-        &lt;div class=&quot;objective&quot;&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Uncover trade secrets and backstories in the creative journey of the artist or designer.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Creator &amp;amp; Producer&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Hosts&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Shawn Choi&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Archived on this page.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters  u-pad-t00  u-pad-b04&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/making-conversation/makingConversationLogo.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/making-conversation/makingConversationProcess.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/making-conversation/makingConversationResponsiveShowcase.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/making-conversation/makingConversationTwitter.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/making-conversation/makingConversationiTunes.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr class=&quot;u-mar-t00  u-mar-b05&quot; /&gt;
-
-&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;studio-faculty&quot;&gt;&lt;/a&gt;Ep.1 – “What’s the name of this podcast?” with Studio Faculty&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep1-studiofaculty.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep1-studiofaculty.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;We learn about how Vince and Alvin met in “jail” and struggle to define ‘work’ as graphic designers. Alvin’s grandmother doesn’t understand his occupation. They tell us how they name their typefaces and how some of their fonts are unfortunately used. We learn about the conception of Commute App; Alvin doesn’t know the name of our podcast and Studio Faculty ranks #1 on Google for.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Studio Faculty:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://studiofaculty.com/&quot;&gt;Studio Faculty&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://instagram.com/studiofaculty&quot;&gt;Studio Faculty on Instagram&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/vincelo&quot;&gt;Vince Lo&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/_alvinkwan&quot;&gt;Alvin Kwan&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;trim-projects&quot;&gt;&lt;/a&gt;Ep.2 – “Hastag Respect” with Trim Projects&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep2-trimprojects.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep2-trimprojects.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;Kriza is a designer, art director, ad-person, publication designer, and founder of Trim Projects. She doesn’t know where she’s from and neither does Shawn. Shawn just applied for Canadian citizenship, so he has to tone down his jokes.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5 u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Trim Projects:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://trim-projects.com/&quot;&gt;Trim Projects&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/TrimProjects&quot;&gt;Trim Projects on Facebook&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://instagram.com/trim_projects&quot;&gt;Trim Projects on Instagram&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;karston-smith&quot;&gt;&lt;/a&gt;Ep.3 – “You don’t do yoga. You are yoga” with Karston Smith from LuLuLemon&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep3-karstonsmith.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep3-karstonsmith.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;Karston Smith is a graphic designer and more at LuLuLemon. We talk about getting building permits at City Hall and how wack their yellow highlighters are. We come to the conclusion that when you’re learning something you’re interested in, learning isn’t painful. Justin realizes Sketch.app is great for UI design but not architectural drawings. We talk about acronyms, doing redneck things, design process at LuLuLemon, kombucha, crazy things yogis say, the art and design scene in Calgary, Karston’s art practice, and his upcoming exhibition.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Karston:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.karston.ca/&quot;&gt;Karston’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;mailto:karstonsmith@gmail.com&quot;&gt;Karston’s Email&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/karstonsmith&quot;&gt;Karston’s Twitter&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;albert-law&quot;&gt;&lt;/a&gt;Ep.4 – “Jeff Wall! Don’t listen to this podcast!” with Albert Law&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep4-albertlaw.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep4-albertlaw.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;Albert Law is an independant photographer and graphic designer from Vancouver, Canada. During this episode, we celebrate the explicit tag, learn that Shawn and Justin were chubby in high school, where questions for the podcast are written, how Albert got into art, photography, and design, how to fake being a designer or developer by sending your work to India, Albert’s process for taking pictures and working with clients, Albert’s fascination with LA and hot places, not hanging out with Charlie Sheen, taking photographs of Jeff Wall, life in the military, and his interest to do an exhibition about the armed forces.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Albert:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.albertlaw.ca/&quot;&gt;Albert’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;mailto:albert@albertlaw.ca&quot;&gt;Albert’s Email&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://instagram.com/airscape&quot;&gt;Albert’s Instagram&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;peter-cocking&quot;&gt;&lt;/a&gt;Ep.5 – “Nobody would ever sleep with the 2 in Univers” with Peter Cocking of PeterCo Design&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep5-petercocking.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep5-petercocking.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;We sat down with Peter Cocking in the beautiful studio of Greystone Books. We talked about Peter’s childhood passion for drawing comics and making mistakes as a junior designer. He told us tales of designing on the 1st generation Mac and being one of the first registered users of PageMaker. He revealed his inspiration for teaching, the experience teaching his first class, and how he classifies a good student. He let us know what it felt like to receive the Ian Wallace Award for Teaching Excellence. After he educated us on education, we talked shop and found out where exactly Peter is working, how he deals with clients, the pleasures and pains of design process, sexless typography, whether or not ebooks are capable of magic, his favourite screen fonts, discontent, and how he would like to be remembered.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Peter:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/peterco&quot;&gt;Peter’s LinkedIn&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.petercodesign.com/&quot;&gt;Peter’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;mailto:cockingp@ecuad.ca&quot;&gt;Peter’s Email&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;jane-koo&quot;&gt;&lt;/a&gt;Ep.6 – “I had to kill my salami!” with Jane Koo&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep6-janekoo.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep6-janekoo.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;We sat down with Jane Koo at the Making Conversation Studio. We talked about Jane’s childhood growing up in Seoul – surrounded by barf and protests. We talked about her first memories of design, how she submitted her portfolio to get into design school, and how she set out for a career. She told us how she worked as an in-house designer at Lush Cosmetics and came to the conclusion that she needed to move on. We talked about travelling back-and-forth between Vancouver and South Korea and solutions for dealing with jet-lag. Jane shared about her new found freedom in freelance, the joy of working on the road, the importance of style, her passion for food, and the one project she feels most proud of in her portfolio. Jane designs for some of Vancouver’s most iconic publications and community events.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Jane:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://janekoo.com/&quot;&gt;Jane’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;mailto:kookoo@gmail.com&quot;&gt;Jane’s Email&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/janekoo/&quot;&gt;Jane’s Twitter&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;jace-kim&quot;&gt;&lt;/a&gt;Ep.7 – “I am a tool” with Jace Kim&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep7-jacekim.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep7-jacekim.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;Jace shares with us about about his passion for comics, his search for originality as an artist, failing to get into art school and then getting into art school to realize his conception of art was wrong. We chatted about his work at The Sequence Group and what it means to be a digital artist. We wrap by discussing his teaching practice, participating in community art events, his discontent, and how he would like to be remembered.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Jace:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.behance.net/apologies&quot;&gt;Jace’s Painting&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://jacethekim.blogspot.ca/&quot;&gt;Jace’s Illustration&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://instagram.com/jacethekim&quot;&gt;Jace’s Instagram&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;tom-chung&quot;&gt;&lt;/a&gt;Ep. 8 – “We have to do this.” with Tom Chung of Umbra Shift&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep8-tomchung.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep8-tomchung.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;For Episode 8, we chat with Tom Chung, a designer working for &lt;a href=&quot;http://www.umbra.com/&quot;&gt;Umbra&lt;/a&gt;, a Toronto-based homeware design company. He is the creative lead of their product line &lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt; that will be launching in Vancouver August 5th, 2014, at &lt;a href=&quot;http://vanspecial.com/&quot;&gt;Vancouver Special&lt;/a&gt;. We talked about Tom’s childhood growing up in the Vancouver neighbourhood of Kitsilano; his adolescent interest in architecture and working for &lt;a href=&quot;http://www.camposleckie.ca/&quot;&gt;Campos Leckie&lt;/a&gt;; when he realized industrial design was actually a ‘thing’ and his industrial design education at &lt;a href=&quot;http://www.ecuad.ca/&quot;&gt;Emily Carr University&lt;/a&gt;. Tom shared with us about how he hyped himself on the Internet while battling the flu, leaving Vancouver to work in Toronto, and the difference between the Toronto and Vancouver art and design scenes. We spent the second half of our chat talking about Umbra. We talked Umbra Shift and got the low down on Tom’s two week sourcing adventure through Vietnam, Philippines, Taiwan, and Thailand. He dished details on how they selected designers to work on the collaboration. We also talked about the trials and tribulations of getting the booth setup at the &lt;a href=&quot;http://www.icff.com/&quot;&gt;International Contemporary Furniture Fair&lt;/a&gt;(ICFF) and how it felt to win the Editor’s Award for Accessories.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Tom:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://tomchung.net/&quot;&gt;Tom’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://instagram.com/tom__chung&quot;&gt;Tom’s Instagram&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;post-projects&quot;&gt;&lt;/a&gt;Ep. 9 – “What? You did that?” with Post Projects&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep9-postprojects.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep9-postprojects.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;For Episode 9, we chat with &lt;a href=&quot;https://twitter.com/alexnelson&quot;&gt;Alex Nelson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/BeauHouse&quot;&gt;Beau House&lt;/a&gt; of &lt;a href=&quot;https://twitter.com/Post_Projects&quot;&gt;Post Projects&lt;/a&gt;. We chat about how they met, started a design company, and decided to call it &lt;em&gt;Post Projects&lt;/em&gt;. We talk about their design values, the Post Projects studio space, and ‘good guy’ rates. We discussed their work for &lt;a href=&quot;http://brassneck.ca/&quot;&gt;Brassneck Brewery&lt;/a&gt;, &lt;a href=&quot;http://revolvercoffee.ca/&quot;&gt;Revolver Coffee&lt;/a&gt;, and &lt;a href=&quot;http://www.umbrashift.com/&quot;&gt;Umbra Shift&lt;/a&gt;. We ended our conversation chatting about the most memorable project they’ve worked on, the three words they want people to use when describing their work, their current level of satisfaction, and the kind of projects they’d like to work on in the future.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Post Projects:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://post-projects.com/&quot;&gt;Post Projects’ Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/PostProjects&quot;&gt;Post Projects’ on Facebook&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/Post_Projects&quot;&gt;Post Projects’ on Twitter&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-pad-b03  u-mar-b05  u-bor-width-nrml-b&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;clou-studio&quot;&gt;&lt;/a&gt;Ep. 10 – “Our practice is like MasterChef Junior” with Clou Studio Inc.&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep10-cloustudio.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep10-cloustudio.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;For Episode 10, we chat with &lt;a href=&quot;http://www.ryanromero.ca/&quot;&gt;Ryan Romero&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/traviscollier&quot;&gt;Travis Collier&lt;/a&gt; of &lt;a href=&quot;http://www.cloustudioinc.com/&quot;&gt;Clou Studio Inc.&lt;/a&gt;. We cracked beers and discussed how they met, started a design company, and realized their practice is like MasterChef Junior. We talk about their design values, where they find inspiration, and their process when working with clients. We discussed their work for &lt;a href=&quot;http://anitasikma.com/&quot;&gt;Anita Sikma&lt;/a&gt;, &lt;a href=&quot;http://radiclejuice.com/&quot;&gt;Radicle Juice Shop&lt;/a&gt;, and &lt;a href=&quot;http://thelabmagazine.com/&quot;&gt;The Lab Magazine&lt;/a&gt;. We ended our conversation chatting about the most memorable project they’ve worked on and their level of satisfaction.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Post Projects:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.cloustudioinc.com/&quot;&gt;Clou Studio’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://twitter.com/Cloustudio&quot;&gt;Clou Studio on Twitter&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ClouStudio&quot;&gt;Clou Studio on Facebook&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;u-mar-b00&quot;&gt;
-        &lt;h2 class=&quot;as-h3  u-mar-t00 u-mar-b03&quot;&gt;&lt;a id=&quot;ross-milne&quot;&gt;&lt;/a&gt;Ep.11 – “The most important developments in humanity” with Ross Milne&lt;/h2&gt;
-        &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-          &lt;source src=&quot;/assets/making-conversation/audio/making-conversation-ep11-rossmilne.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-        Your browser does not support the audio element but you can still &lt;a href=&quot;/assets/making-conversation/audio/making-conversation-ep11-rossmilne.mp3&quot;&gt;download&lt;/a&gt; the show.
-        &lt;/audio&gt;
-        &lt;p&gt;For Episode 11, we chatted with &lt;a href=&quot;https://www.rossmilne.ca/&quot;&gt;Ross Milne&lt;/a&gt;. We discussed Mr. Milne’s experience studying type design in the &lt;a href=&quot;http://www.kabk.nl/pageEN.php?id=16&quot;&gt;Type and Media Masters program&lt;/a&gt; at &lt;a href=&quot;http://www.kabk.nl/&quot;&gt;The Royal Academy of Art&lt;/a&gt; in The Hague. We talked about the founding of Working Format, how they named the company, and their design mentality of, “let’s just do this”. We discussed the work Ross has done on the fonts &lt;a href=&quot;https://www.typotheque.com/fonts/charlie&quot;&gt;Charlie&lt;/a&gt;, &lt;a href=&quot;https://commercialtype.com/typefaces/publico&quot;&gt;Publico&lt;/a&gt;, and &lt;a href=&quot;https://commercialtype.com/typefaces/stag&quot;&gt;Stag&lt;/a&gt;. We talked about the practice of font naming, font marketing, how people use fonts, Australia’s love for Ross’ work, and how fonts live in the software ecosystem. We talked about Working Format’s community oriented initiative &lt;a href=&quot;http://www.theplatformgallery.ca/&quot;&gt;The Platform Gallery&lt;/a&gt; and their ambition to get art and design into the everyday lives of Vancouverites.&lt;/p&gt;
-        &lt;h3 class=&quot;as-h5  u-mar-t00  u-mar-b00&quot;&gt;&lt;strong&gt;Contact Ross:&lt;/strong&gt;&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&quot;https://www.rossmilne.ca/&quot;&gt;Ross’s Website&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;http://www.instagram.com/milne.ross&quot;&gt;Ross on Instagram&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&quot;mailto:milne.ross@gmail.com&quot;&gt;Ross’s email&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 18 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/personal-projects/making-conversation/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/personal-projects/making-conversation/</guid>
-        
-        
-        <category>Work</category>
-        
-        <category>Personal-projects</category>
         
       </item>
     

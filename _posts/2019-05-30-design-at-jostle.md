@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Jostle Corporation
-description: Samples of work designed while working at Jostle Corporation.
-permalink: /work/jostle/
-thumbnail: /assets/jostle/calls-thumb.jpg
+title: Design at Jostle
+description: For 4+ years, I led design on 5 product teams, shipping interfaces across <a href="https://jostle.me/product/" title="Jostle">Jostle’s</a> web, mobile, and TV platform—a SaaS intranet that helps people connect and communicate in the workplace. 
+thumbnail: /assets/jostle/design-at-jostle-thumb.jpg
+details: Overview
+categories: [Work, Jostle]
+workplace: Jostle Corporation
+published: true
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
-  <h1 class="u-noMargin  u-mar-b01"><strong>Jostle</strong></h1>
-  <p class="as-h3">Jostle’s <a href="https://jostle.me/product/" title="Jostle">SaaS intranet</a> helps people connect and communicate in the workplace. For 4+ years, I led design on product teams that shipped UI features across web, mobile, and TV interfacess.</p>
+  <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
+  <p class="as-h3">{{ page.description }}</p>
   <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 

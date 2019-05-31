@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Steamclock Software
-description: Samples of work designed while working at Steamclock Software.
-permalink: /work/steamclock-software/
-thumbnail: /assets/steamclock/valet65-1.jpg
+title: Design at Steamclock
+description: For 2+ years at <a href="https://www.steamclock.com">Steamclock</a>, I led design for our DJ apps WeddingDJ and PartyMonster. The other half of my time was spent designing iOS, Android, and web products for clients.
+thumbnail: /assets/steamclock/design-at-steamclock-thumb.jpg
+details: Overview
+categories: [Work, Steamclock]
+published: true
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
-  <h1 class="u-noMargin  u-mar-b01"><strong>Steamclock Software</strong></h1>
-  <p class="as-h3">At Steamclock, half of my time was spent designing our products WeddingDJ and PartyMonster. The other half was spent designing various iOS, Android, and web products for clients.</p>
+  <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
+  <p class="as-h3">{{ page.description }}</p>
   <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 
