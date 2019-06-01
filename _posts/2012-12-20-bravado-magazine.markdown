@@ -4,7 +4,7 @@ description: A total redesign of Bravadoâ€™s brand and website, in an ethos of â
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work, ECUAD]
-thumbnail: /assets/bravado/bravado2-thumb.jpg
+thumbnail: /assets/bravado/bravado-thumb.jpg
 details: Website
 workplace: Emily Carr University
 published: true

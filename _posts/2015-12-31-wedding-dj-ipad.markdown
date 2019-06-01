@@ -39,6 +39,14 @@ published: true
 
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <figure class="mw-1024">
+            <div class="media" style="padding-top: 75.75%;">
+                <video class="u-bor-width-nrml" controls type="video/mp4" src="/assets/weddingdj/weddingdj-ipad-app-preview-ipad-compressed.mp4" poster="/assets/weddingdj/weddingdj-ipad-video-poster.jpg"></video>
+            </div>
+            <figcaption>Final product as seen in this app preview video I made for the App Store.</figcaption>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-1.jpg" alt="WeddingDJ iPad app" />
             <figcaption>A few screens detailing inferfaces in WeddingDJ iPad.</figcaption>
