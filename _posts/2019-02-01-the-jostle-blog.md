@@ -134,7 +134,7 @@ published: true
         <figcaption>Layout for artricles without images</figcaption>
     </figure>
     <p>We also changed the pagination so you can only page between 10 posts at a time. We used to offer an “All” button as part of the pagination but when clicked, your browser would crash, loading 450+ article summaries and images at once. Needless to say, this is why we offer search in the header nav.</p>
-    <figure class="u-textAlign-center  u-mar-t05">
+    <figure class="bp1-u-textAlign-center  u-mar-t05">
         <img class="w-auto  u-rounded-corners  u-shadow" style="width: 241px;" src="/assets/the-jostle-blog/new-pagination.jpg" alt="New pagination">
         <figcaption>New pagination</figcaption>
     </figure>
@@ -252,5 +252,5 @@ published: true
     <div class="media  u-rounded-corners  u-shadow">
         <video autoplay loop muted playsinline type="video/mp4" src="/assets/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4" poster="/assets/the-jostle-blog/the-jostle-blog-video-poster.jpg"></video>
     </div>
-    <p class="u-textAlign-center  c-grey03" style="font-size: 16px;"><em>Highlights from what I just shared</em></p>
+    <p class="bp1-u-textAlign-center  c-grey03" style="font-size: 16px;"><em>Highlights from what I just shared</em></p>
 </div>

@@ -133,7 +133,7 @@ a:hover {
 
 figcaption,
 .grid-caption {
-  text-align: center;
+  text-align: left;
   line-height: 1.6;
   margin-top: 16px; }
 
@@ -3879,7 +3879,11 @@ html.is-flickity-fullscreen {
     text-align: left; }
 
   footer nav p {
-    width: 170px; } }
+    width: 170px; }
+
+  figcaption,
+  .grid-caption {
+    text-align: center; } }
 @media all and (min-width: 1020px) {
   body {
     margin: 16px 40px; }

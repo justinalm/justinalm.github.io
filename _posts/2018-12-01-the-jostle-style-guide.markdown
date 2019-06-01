@@ -50,25 +50,25 @@ published: true
         <div class="Grid-cell  u-size1of4">
             <figure class="u-mar-b00">
                 <img class="u-round" style="width:75%;" src="/assets/jostle-style-guide/grey-vaisius.jpg" alt="Grey Vaisius">
-                <figcaption>Grey Vaisius</figcaption>
+                <figcaption class="u-textAlign-center  u-mar-b02">Grey Vaisius</figcaption>
             </figure>
         </div>
         <div class="Grid-cell  u-size1of4">
             <figure class="u-mar-b00">
                 <img class="u-round" style="width:75%;" src="/assets/jostle-style-guide/justin-alm.jpg" alt="Justin Alm">
-                <figcaption>Justin Alm</figcaption>
+                <figcaption class="u-textAlign-center  u-mar-b02">Justin Alm</figcaption>
             </figure>
         </div>
         <div class="Grid-cell  u-size1of4">
             <figure class="u-mar-b00">
                 <img class="u-round" style="width:75%;" src="/assets/jostle-style-guide/noel-heaney.jpg" alt="Noel Heaney">
-                <figcaption>Noel Heaney</figcaption>
+                <figcaption class="u-textAlign-center">Noel Heaney</figcaption>
             </figure>
         </div>
         <div class="Grid-cell  u-size1of4">
             <figure class="u-mar-b00">
                 <img class="u-round" style="width:75%;" src="/assets/jostle-style-guide/elliot-mah.jpg" alt="Elliot Mah">
-                <figcaption>Elliot Mah</figcaption>
+                <figcaption class="u-textAlign-center">Elliot Mah</figcaption>
             </figure>
         </div>
     </div>
