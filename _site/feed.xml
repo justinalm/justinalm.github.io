@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2019 17:38:06 -0700</pubDate>
-    <lastBuildDate>Fri, 31 May 2019 17:38:06 -0700</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 17:59:04 -0700</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 17:59:04 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -43,7 +43,7 @@
 &lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
   &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
     &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;The design system used by the Jostle’s Design Team.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;The design system used by Jostle’s Design Team.&lt;/p&gt;
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Enable the Design, Dev, and Marketing Teams to create, replicate, and assemble consistently.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm, Grey Vaisius, Noel Heaney, Elliot Mah&lt;/p&gt;
@@ -381,13 +381,13 @@
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-1.jpg&quot; alt=&quot;Valet65 iOS customer facing iOS app&quot; /&gt;
-            &lt;figcaption&gt;A few screens from the customer facing iOS app.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Screens from the customer facing iOS app.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-2.jpg&quot; alt=&quot;Valet65 iOS company facing iOS app&quot; /&gt;
-            &lt;figcaption&gt;A few screens from the company facing iOS app.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Screens from the company facing iOS app.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
@@ -399,31 +399,31 @@
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-4.jpg&quot; alt=&quot;Valet65 wireframes&quot; /&gt;
-            &lt;figcaption&gt;A few slides from the wireframing and visual design deck presented to Valet65.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Slides from the wireframing and visual design deck presented to Valet65.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-5.jpg&quot; alt=&quot;Valet65 ticket design&quot; /&gt;
-            &lt;figcaption&gt;Technical diagram sent to printers for quotes on QR code tickets.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Technical diagram sent to printers for quotes on tickets with QR codes.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-6.jpg&quot; alt=&quot;Valet65 company admin site&quot; /&gt;
-            &lt;figcaption&gt;A couple screens from the valet company web app for checking earnings and adjusting rates.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Screens from the valet company web app for checking earnings and adjusting rates.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-7.jpg&quot; alt=&quot;Valet65 marketing website&quot; /&gt;
-            &lt;figcaption&gt;I designed and built a simple responsive marketing website to direct traffic to the App Store.&lt;/figcaption&gt;
+            &lt;figcaption&gt;Simple responsive marketing website to direct traffic to the App Store.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-8.jpg&quot; alt=&quot;Valet65 App Store listing&quot; /&gt;
-            &lt;figcaption&gt;I also handled design for the app icon and App Store listing.&lt;/figcaption&gt;
+            &lt;figcaption&gt;App icon and App Store listing.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
 &lt;/div&gt;
