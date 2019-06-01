@@ -23,10 +23,10 @@ published: true
     <p class="c-grey02  u-mar-t00  u-mar-b01">—</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Objective</strong>: Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.</p>
     <p class="u-mar-t00  u-mar-b01"><strong>Design</strong>: Justin Alm</p>
-    <p class="u-mar-t00  u-mar-b01"><strong>Dev</strong>: Jeremy Chiang, Nigel Brooke.</p>
-    <p class="u-mar-t00  u-mar-b01"><strong>QA</strong>: Allen Pike, Justin Alm.</p>
+    <p class="u-mar-t00  u-mar-b01"><strong>Dev</strong>: Jeremy Chiang, Nigel Brooke</p>
+    <p class="u-mar-t00  u-mar-b01"><strong>QA</strong>: Allen Pike, Justin Alm</p>
     <p class="u-mar-t00  u-mar-b01"><strong>PM</strong>: Allen Pike</p>
-    <p class="u-mar-t00  u-mar-b01"><strong>Status</strong>: Sunset.</p>
+    <p class="u-mar-t00  u-mar-b01"><strong>Status</strong>: Sunset</p>
     <p class="u-mar-t02"><a href="/work/steamclock/valet65/" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
   </div>
   <div class="Grid-cell  u-size2of3  u-mar-b05">

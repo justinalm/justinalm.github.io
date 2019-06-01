@@ -27,10 +27,6 @@ published: true
             <p class="u-noMargin  u-mar-b02">Jeremy Chiang</p>
         </div>
         <div>
-            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>QA</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Allen Pike<br>Justin Alm</p>
-        </div>
-        <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM &amp; QA</strong>:</h2>
             <p class="u-noMargin  u-mar-b02">Allen Pike</p>
         </div>

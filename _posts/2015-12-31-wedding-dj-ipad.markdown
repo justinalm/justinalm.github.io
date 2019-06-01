@@ -20,7 +20,7 @@ published: true
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Justin Alm<br>Allen Pike   </p>
+            <p class="u-noMargin  u-mar-b02">Justin Alm<br>Allen Pike</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Dev</strong>:</h2>
@@ -32,7 +32,7 @@ published: true
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Sunset.</p>
+            <p class="u-noMargin  u-mar-b02">Sunset</p>
         </div>
     </div>
 </div>

@@ -27,7 +27,7 @@ published: true
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Still seeking adoption and vertical integration.   </p>
+            <p class="u-noMargin  u-mar-b02">Seeking adoption and vertical integration</p>
         </div>
     </div>
 </div>

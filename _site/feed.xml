@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2019 17:59:04 -0700</pubDate>
-    <lastBuildDate>Fri, 31 May 2019 17:59:04 -0700</lastBuildDate>
+    <pubDate>Fri, 31 May 2019 18:09:02 -0700</pubDate>
+    <lastBuildDate>Fri, 31 May 2019 18:09:02 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -28,7 +28,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Marlon Hort, Wilson Wong&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Bruce Milton, Brad Palmer&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-calls/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -65,10 +65,10 @@
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Build modularity and reuse into our design system and code-base, improving UX and speed to delivery of features.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Developers on various teams.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Multiple QA engineers.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Developers on various teams&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Multiple QA engineers&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In dev and production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In dev and production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/jostle/components-1.jpg&quot; alt=&quot;Jostle components&quot; /&gt;
@@ -87,7 +87,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Aary Girish, Zhan Yap, Yvonne Liu, Aman Sarai&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino, Bruce Milton, Brad Palmer&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/jostle/discussions-1.jpg&quot; alt=&quot;Jostle Discussions&quot; /&gt;
@@ -106,7 +106,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Kaylyn Garnett, Len Takeuchi, Marco Gonzalez, Paul Grewal&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Tatiane Ferreira&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/jostle/library-1.jpg&quot; alt=&quot;Jostle Library&quot; /&gt;
@@ -125,7 +125,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Zhan Yap, Aman Sarai&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman, Darren John&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/jostle/search-1.jpg&quot; alt=&quot;Jostle Search&quot; /&gt;
@@ -144,7 +144,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Billy Lau, Zhan Yap, Chark Wong, Felipe Gasparino&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Darren John&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/jostle/jostletv-1.jpg&quot; alt=&quot;JostleTV&quot; /&gt;
@@ -161,7 +161,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Improve UX for our visitors and increase views, subscriptions, and engagement with our community.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design &amp;amp; Dev&lt;/strong&gt;: Justin Alm&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Corey Moseley, Dustin Tsyick&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/the-jostle-blog/&quot; class=&quot;Btn&quot;&gt;Read the case study&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -178,8 +178,8 @@
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Support the Jostle Marketing Team, making our SaaS tech company more approachable.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Art Direction&lt;/strong&gt;: Justin Alm, Grey Vaisius&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Illustrators&lt;/strong&gt;: Grey Vaisius, Justin Alm, Elliot Mah, Tiffany Tsai (All illustrations on this website by me).&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: All over the web.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Illustrators&lt;/strong&gt;: Grey Vaisius, Justin Alm, Elliot Mah, Tiffany Tsai (All illustrations on this website by me)&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: All over the web&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-illustrations/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -213,10 +213,10 @@
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Jeremy Chiang, Nigel Brooke.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Justin Alm.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Jeremy Chiang, Nigel Brooke&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Justin Alm&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;: Allen Pike&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/steamclock/valet65/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -272,7 +272,7 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, PMs&lt;/strong&gt;: Grey Vaisius, Justin Alm&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Print Production&lt;/strong&gt;: Total Graphics&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Binding&lt;/strong&gt;: Rasmussen Bindery&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: On bookshelves.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: On bookshelves&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/ecuad/know-ideas/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;⟩&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -291,7 +291,7 @@
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Reflect Bravado’s values in their identity, increase presence in a competitive market, unquiely shape content on the web, and ease high-frequency publishing.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, Dev, and PM&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
     &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/ecuad/bravado-magazine/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;⟩&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
@@ -306,10 +306,10 @@
     &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;2012 Grad Exhibition Website&lt;/strong&gt;&lt;/h3&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;A WordPress website to display 250 Grad Exhibition projects.&lt;/p&gt;
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;Receive, manage, and display the 250 student submissions on the web.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Receive, manage, and display the 250 student submissions on the web.&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, Dev, and PM&lt;/strong&gt;: Justin Alm&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Production Assistant&lt;/strong&gt;: Grey Vaisius&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/ecuad/2012-grad-exhibtion-catalog-website-1.jpg&quot; alt=&quot;Learning, Freedom, and the Web&quot; /&gt;
@@ -324,11 +324,11 @@
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Mozilla’s experimental HTML5 ebook—in partnership with ECUAD.&lt;/p&gt;
     &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Create a media-rich ebook experience with web tech.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept &amp;amp; Design&lt;/strong&gt;: Briana Guerelli, Danielle Hall, Amy Wang, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Allen Pike, Justin Alm&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept &amp;amp; Design&lt;/strong&gt;: Justin Alm, Briana Guerelli, Danielle Hall, Amy Wang&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Allen Pike, Justin Alm  &lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Alexandra Samuel, Justin Alm&lt;/p&gt;
     &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Jonathan Aitken, Alexandra Samuel, Celeste Martin&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production.&lt;/p&gt;
+    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
     &lt;img src=&quot;/assets/ecuad/learning-freedom-and-the-web-1.jpg&quot; alt=&quot;Learning, Freedom, and the Web&quot; /&gt;
@@ -463,7 +463,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -546,7 +546,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -802,7 +802,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Still seeking adoption and vertical integration.   &lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Seeking adoption and vertical integration&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -1082,7 +1082,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -1173,7 +1173,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -1372,7 +1372,7 @@
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;On bookshelves.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;On bookshelves&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;

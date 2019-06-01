@@ -28,7 +28,7 @@ published: true
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Archived on this page.</p>
+            <p class="u-noMargin  u-mar-b02">Archived on this page</p>
         </div>
     </div>
 </div>
