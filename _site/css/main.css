@@ -280,7 +280,13 @@ ul.work-list li .media {
   width: 100%;
   border-radius: inherit;
   object-fit: cover;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  outline: none;
+  border: none; }
+
+video:focus {
+  outline: none;
+  border: none; }
 
 audio {
   width: 100%; }
