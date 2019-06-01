@@ -1,7 +1,7 @@
 ---
 title: Know Ideas
 description: An award winning, 130 page, McLuhanesque exploration of the Internet in printed experiments.
-date: 2019-02-22
+date: 2019-02-21
 layout: workPost
 categories: [Work, ECUAD]
 workplace: Emily Carr University

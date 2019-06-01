@@ -1,7 +1,7 @@
 ---
 title: Devmonitor.io
 description: Devmonitor.io is a WIP Factory web app that helps dev evangelists connect with the dev community.
-date: 2019-02-21
+date: 2019-02-22
 layout: workPost
 categories: [Work, Steamclock]
 workplace: Steamclock Software
@@ -27,7 +27,7 @@ published: true
             <p class="u-noMargin  u-mar-b02">Justin Alm<br>Chani Armitage<br>Allen Pike</p>
         </div>
         <div>
-            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM</strong>:</h2>
+            <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>PM &amp; QA</strong>:</h2>
             <p class="u-noMargin  u-mar-b02">Allen Pike</p>
         </div>
         <div>

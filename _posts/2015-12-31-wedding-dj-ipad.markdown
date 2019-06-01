@@ -5,7 +5,8 @@ date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work, Steamclock]
 workplace: Steamclock Software
-thumbnail: /assets/steamclock/wedding-dj-ipad-thumb.jpg
+video: /assets/weddingdj/weddingdj-ipad-thumbnail.mp4
+videoposter: /assets/weddingdj/weddingdj-ipad-thumb.jpg
 details: App
 published: true
 ---
@@ -38,14 +39,6 @@ published: true
 </div>
 
 <div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <figure class="mw-1024">
-            <div class="media" style="padding-top: 75.75%;">
-                <video class="u-bor-width-nrml" controls type="video/mp4" src="/assets/weddingdj/weddingdj-ipad-app-preview-ipad-compressed.mp4" poster="/assets/weddingdj/weddingdj-ipad-video-poster.jpg"></video>
-            </div>
-            <figcaption>Final product as seen in this app preview video I made for the App Store.</figcaption>
-        </figure>
-    </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-1.jpg" alt="WeddingDJ iPad app" />
@@ -110,6 +103,14 @@ published: true
         <figure>
             <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-11.jpg" alt="WeddingDJ iPad app wireframes" />
             <figcaption>Detailing visual transitions between cues. This was 2013, now I’d do this work in Principle.</figcaption>
+        </figure>
+    </div>
+    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+        <figure class="mw-1024">
+            <div class="media" style="padding-top: 75%;">
+                <video class="u-bor-width-nrml" controls type="video/mp4" src="/assets/weddingdj/weddingdj-app-preview-video.mp4" poster="/assets/weddingdj/weddingdj-ipad-video-poster.jpg"></video>
+            </div>
+            <figcaption>App preview video I made for the App Store.</figcaption>
         </figure>
     </div>
 </div>

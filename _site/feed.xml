@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Jun 2019 12:43:07 -0700</pubDate>
-    <lastBuildDate>Sat, 01 Jun 2019 12:43:07 -0700</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2019 15:52:24 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2019 15:52:24 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -361,10 +361,6 @@
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Jeremy Chiang&lt;br /&gt;Nigel Brooke&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;br /&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
@@ -1349,196 +1345,81 @@
       </item>
     
       <item>
-        <title>Know Ideas</title>
+        <title>Devmonitor.io</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An award winning, 130 page, McLuhanesque exploration of the Internet in printed experiments.&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Devmonitor.io is a WIP Factory web app that helps dev evangelists connect with the dev community.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Increase critical thinking about the internet.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Enable Devangelists to collate questions from sites, respond, then analyze developer sentiment for their product.&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, PMs&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Grey Vaisius&lt;br /&gt;Justin Alm&lt;/p&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;WIP Factory&lt;br /&gt;Justin Alm&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Print Production&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Total Graphics&lt;/p&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Chani Armitage&lt;br /&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Binding&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Rasmussen Bindery&lt;/p&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM &amp;amp; QA&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;On bookshelves&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Sunset&lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
-        &lt;div class=&quot;media&quot;&gt;
-            &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/know-ideas/know-ideas-in-article2.mp4&quot; poster=&quot;/assets/know-ideas/know-ideas-video-poster.jpg&quot;&gt;&lt;/video&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/know-ideas-cover.jpg&quot; /&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-home.jpg&quot; /&gt;
+            &lt;figcaption&gt;Public home highlighting &lt;em&gt;log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt;.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/know-ideas-back-cover.jpg&quot; /&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-signup.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt; journeys.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-93.jpg&quot; /&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-blocked.jpg&quot; /&gt;
+            &lt;figcaption&gt;Forgot password journey.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/know-ideas-pages.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-11.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-12.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-13.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-14.jpg&quot; /&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-questions.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Questions&lt;/em&gt; is a dynamic and ranked feed of questions. From the feed, reply to questions and remove questions you’ve addressed.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-43.jpg&quot; /&gt;
+        &lt;figure class=&quot;u-mar-b02&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-analytics.jpg&quot; /&gt;
+            &lt;figcaption&gt;&lt;em&gt;Analytics&lt;/em&gt; helps you to gauge developer sentiment about your product. We built this view leveraging &lt;a href=&quot;http://www.chartjs.org/&quot; target=&quot;_blank&quot;&gt;Charts.js&lt;/a&gt;.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
     &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-44.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-32.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-33.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-34.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-28.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-29.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-49.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-50.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-51.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-54.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-55.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-19.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-21.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-24.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/ki-58.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/ki-76.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets//know-ideas/know-ideas-process.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/know-ideas-full-cover.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/know-ideas-exhibition-space.jpg&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/know-ideas/know-ideas-applied-arts-award.jpg&quot; /&gt;
-            &lt;figcaption&gt;Know Ideas won an &lt;a href=&quot;http://www.appliedartsmag.com/winners_gallery/student/?id=981&amp;amp;year=2012&amp;amp;clip=1&quot; target=&quot;_blank&quot;&gt;Applied Arts Award 2012&lt;/a&gt; for Design/Editorial – Single.&lt;/figcaption&gt;
+        &lt;figure class=&quot;u-mar-b00&quot;&gt;
+            &lt;img src=&quot;/assets/devmonitor/devmonitor-dates.jpg&quot; /&gt;
+            &lt;figcaption&gt;Filter &lt;em&gt;Analytics&lt;/em&gt; by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/ecuad/know-ideas/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/ecuad/know-ideas/</guid>
+        <link>http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</guid>
         
         
         <category>Work</category>
         
-        <category>ECUAD</category>
+        <category>Steamclock</category>
         
       </item>
     
