@@ -43,27 +43,51 @@ published: true
 
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-1.jpg" alt="Valet65 iOS customer facing iOS app" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-1.jpg" alt="Valet65 iOS customer facing iOS app" />
+            <figcaption>A few screens from the customer facing iOS app.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-2.jpg" alt="Valet65 iOS company facing iOS app" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-2.jpg" alt="Valet65 iOS company facing iOS app" />
+            <figcaption>A few screens from the company facing iOS app.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-3.jpg" alt="Valet65 identity" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-3.jpg" alt="Valet65 identity" />
+            <figcaption>Outcome from exploration on identity for Valet65.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-4.jpg" alt="Valet65 wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-4.jpg" alt="Valet65 wireframes" />
+            <figcaption>A few slides from the wireframing and visual design deck presented to Valet65.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-5.jpg" alt="Valet65 ticket design" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-5.jpg" alt="Valet65 ticket design" />
+            <figcaption>Technical diagram sent to printers for quotes on QR code tickets.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-6.jpg" alt="Valet65 company admin site" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-6.jpg" alt="Valet65 company admin site" />
+            <figcaption>A couple screens from the valet company web app for checking earnings and adjusting rates.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-7.jpg" alt="Valet65 marketing website" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-7.jpg" alt="Valet65 marketing website" />
+            <figcaption>I designed and built a simple responsive marketing website to direct traffic to the App Store.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/valet65-8.jpg" alt="Valet65 App Store listing" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/valet65-8.jpg" alt="Valet65 App Store listing" />
+            <figcaption>I also handled design for the app icon and App Store listing.</figcaption>
+        </figure>
     </div>
 </div>

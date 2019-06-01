@@ -39,48 +39,69 @@ published: true
 
 <div class="Grid  Grid--withGutters">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-1.jpg" alt="WeddingDJ iPad app" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-1.jpg" alt="WeddingDJ iPad app" />
+            <figcaption>A few screens detailing inferfaces in WeddingDJ iPad.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-2.jpg" alt="WeddingDJ iPad app user journeys" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-2.jpg" alt="WeddingDJ iPad app user journeys" />
+            <figcaption>Mapping user journeys to quickly uncover complexity.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-3.jpg" alt="WeddingDJ iPad app sketching" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-3.jpg" alt="WeddingDJ iPad app sketching" />
+            <figcaption>Rough sketches to explore how the WeddingDJ iPhone interface translates to the iPad.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-4.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-4.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Wireframing to futher explore layouts for building playlists and audio player controls.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-5.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-5.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Wireframes used to debate options for advancing between playlists.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-6.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-6.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Detailed wireframes after we settled on the macro-layout and interactions.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-7.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-7.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Applying colour, album art, fonts, and other visual assets to detail visual design for the interface.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-8.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-8.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Exploring visual transitions when advancing to the next playlist.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-10.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-10.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>A 2nd option for the transition when advancing to the next playlist.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-9.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-9.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>A 3rd option for the transition when advancing to the next playlist.</figcaption>
+        </figure>
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-11.jpg" alt="WeddingDJ iPad app wireframes" />
-    </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-12.jpg" alt="WeddingDJ iPad app wireframes" />
-    </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-13.jpg" alt="WeddingDJ iPad app wireframes" />
-    </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-14.jpg" alt="WeddingDJ iPad app wireframes" />
-    </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
-        <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-15.jpg" alt="WeddingDJ iPad app wireframes" />
+        <figure>
+            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-11.jpg" alt="WeddingDJ iPad app wireframes" />
+            <figcaption>Detailing visual transitions between cues. This was 2013, now I’d do this work in Principle.</figcaption>
+        </figure>
     </div>
 </div>
