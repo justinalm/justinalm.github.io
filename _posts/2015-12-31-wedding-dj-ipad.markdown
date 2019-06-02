@@ -5,7 +5,7 @@ date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work, Steamclock]
 workplace: Steamclock Software
-video: /assets/weddingdj/weddingdj-ipad-thumbnail.mp4
+video: /assets/weddingdj/weddingdj-ipad-thumbnail-compressed.mp4
 videoposter: /assets/weddingdj/weddingdj-ipad-thumb.jpg
 details: App
 published: true
