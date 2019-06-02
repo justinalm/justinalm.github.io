@@ -2,6 +2,7 @@
  * Text colour utilities
  */
 
+.c-white { color: $white; }
 .c-grey01 { color: $grey01; }
 .c-grey02 { color: $grey02; }
 .c-grey03 { color: $grey03; }
@@ -16,7 +17,7 @@
  */
 
 .bgc-grey01 { background-color: $grey01; }
-.bgc-grey02 { background-color: $grey02;    }
+.bgc-grey02 { background-color: $grey02; }
 .bgc-grey03 { background-color: $grey03; }
 .bgc-grey04 { background-color: $grey04; }
 .bgc-grey05 { background-color: $grey05; }

@@ -5,6 +5,9 @@
  * Text colour utilities
  */
 @import url("https://rsms.me/inter/inter.css");
+.c-white {
+  color: #ffffff; }
+
 .c-grey01 {
   color: #ECEFF1; }
 
@@ -142,6 +145,10 @@ ul, ol {
 
 li {
   margin-bottom: 8px; }
+
+ul.cleanList, ol.cleanList {
+  list-style: none;
+  padding-left: 0; }
 
 body {
   padding: 0;
