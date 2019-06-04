@@ -1,6 +1,6 @@
 ---
 title: The Jostle Blog
-description: I redesigned and developed <a href="https://blog.jostle.me">The Jostle Blog</a>; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.
+description: A better home for content on Jostle’s primary marketing channel.
 date: 2019-02-25
 layout: workPost
 categories: [Work, Jostle]
@@ -34,10 +34,12 @@ published: true
     </div>
 </div>
 
-<figure>
-    <img src="/assets/the-jostle-blog/the-jostle-blog-overview.jpg"/>
-    <figcaption>Visit <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a> to see how all this pulls together or read-on for the detailed case study.</figcaption>
-</figure>
+<div class="mw-1024  u-mar-auto">
+    <figure>
+        <img src="/assets/the-jostle-blog/the-jostle-blog-overview.jpg"/>
+        <figcaption>Visit <a href="https://blog.jostle.me/blog" title="The Jostle Blog">The Jostle Blog</a> to see how all this pulls together or read-on for the detailed case study.</figcaption>
+    </figure>
+</div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id="A_blog_with_lots_of_legacy_5"></a>A blog with lots of legacy</h2>
@@ -90,18 +92,20 @@ published: true
     <p>We removed the large masthead. We added a unique “Blog” link beside the Jostle logo to provide context for visitors. This also gave us the ability to keep the Jostle logo as a link to jostle.me and also provide a link to the blog home base. In an effort to connect blog visitors to jostle.me, we added links to our Product and Resources pages. The CTA to “Subscribe” had similar proportions to the search input so we repositioned it as a link in the nav. We then widened the search input and moved it to the right.</p>
 </div>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-nav.jpg" alt="Old nav">
-            <figcaption>Old nav</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-nav.jpg" alt="New nav">
-            <figcaption>New nav</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-nav.jpg" alt="Old nav">
+                <figcaption>Old nav</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-nav.jpg" alt="New nav">
+                <figcaption>New nav</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 
@@ -112,18 +116,20 @@ published: true
     <p>We added some variation to the listings pages to make them more engaging. Varying the size of each listing enabled us to highlight recent articles, then direct attention futher down the list, and surface useful resources and popular articles on the right—content outside the chronology of the feed.</p>
 </div>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-listing.jpg" alt="Old listing">
-            <figcaption>Old listing</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-listing.jpg" alt="New listing">
-            <figcaption>New listing</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of2">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-listing.jpg" alt="Old listing">
+                <figcaption>Old listing</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-listing.jpg" alt="New listing">
+                <figcaption>New listing</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 
@@ -152,18 +158,20 @@ published: true
     <p>We added an “Image Credit” so the artist gets props!</p>
 </div>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-article-header.jpg" alt="Old article">
-            <figcaption>Old article top fold</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2  u-mar-b05">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-article-header.jpg" alt="New article">
-            <figcaption>New article top fold</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-article-header.jpg" alt="Old article">
+                <figcaption>Old article top fold</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1  u-mar-b05">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-article-header.jpg" alt="New article">
+                <figcaption>New article top fold</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 
@@ -179,18 +187,20 @@ published: true
     <p>The comments section was completely restyled, improving hierarchy, font-sizing, spacing, colour, threading—all in adherence to our style guide.</p>
 </div>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-comments.jpg" alt="Old article">
-            <figcaption>Old comments</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2  u-mar-b05">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-comments.jpg" alt="New article">
-            <figcaption>New comments</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of2">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-comments.jpg" alt="Old article">
+                <figcaption>Old comments</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of2  u-mar-b05">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-comments.jpg" alt="New article">
+                <figcaption>New comments</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 
@@ -208,18 +218,20 @@ published: true
     <p>On the author listings, we improved the sizing and spacing of the avatar, title, and bio. On the previous version, the author’s avatar and bio too closely resembled one of the blog posts in the list.</p>
 </div>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-author-listing.jpg" alt="Old author listing">
-            <figcaption>Old author listing</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-author-listing.jpg" alt="New author listing">
-            <figcaption>New author listing</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-author-listing.jpg" alt="Old author listing">
+                <figcaption>Old author listing</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-author-listing.jpg" alt="New author listing">
+                <figcaption>New author listing</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 
@@ -228,18 +240,20 @@ published: true
     <p>We styled the footer to be more consistent with our main marketing site, shortening copyright and trademark notices. We also moved the subscription form into the footer, which used to appear at the bottom of each article. Now it’s at the bottom of every page. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then highlighted with a subtle marquee CSS animation.</p>
 </div>
 
-<div class="Grid  Grid--withGutters  u-mar-b05">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-footer.jpg" alt="Old footer">
-            <figcaption>Old footer</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-footer.jpg" alt="New footer">
-            <figcaption>New footer</figcaption>
-        </figure>
+<div class="mw-700  u-mar-auto">
+    <div class="Grid  Grid--withGutters  u-mar-b05">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/old-footer.jpg" alt="Old footer">
+                <figcaption>Old footer</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img class="u-rounded-corners  u-shadow" src="/assets/the-jostle-blog/new-footer.jpg" alt="New footer">
+                <figcaption>New footer</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
 

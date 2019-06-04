@@ -1,7 +1,7 @@
 ---
 title: Map of the Internet
-description: 3D, universal, iOS and Android apps that model the structure of the internet.
-date: 2019-02-23
+description: iOS and Android apps model the structure of the internet in 3D.
+date: 2019-02-25
 layout: workPost
 categories: [Work, Steamclock]
 workplace: Steamclock Software
@@ -41,53 +41,55 @@ videoposter: /assets/map-of-the-internet-video-poster.jpg
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
 </figure>
 
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-iphone-firstuse.jpg"/>
-            <figcaption>First use tutorial.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-iphone-globe-3dgrid-node.jpg"/>
-            <figcaption>Globe view, network view, and a focused node.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-iphone-search-traceroute-results.jpg"/>
-            <figcaption>Perform a traceroute between ISPs. Swipe up to view details.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-ipad-node.jpg"/>
-            <figcaption>On an iPad details appear in a popover pegged to the node.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-ipad-traceroute.jpg"/>
-            <figcaption>The height of the popover expands as details render in view.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-ipad-timeline.jpg"/>
-            <figcaption>Tap the “Timeline” icon to scrub the history of the Internet.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-ipad-timeline-globe.jpg"/>
-            <figcaption>The Timeline works for both the Network and Globe visualizations.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/peer1-appstore.jpg"/>
-            <figcaption>I designed App Store assets in collaboration with <a href="https://allenpike.com/" title="The blog of Allen Pike">Allen Pike</a>.</figcaption>
-        </figure>
+<div class="mw-1024  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-iphone-firstuse.jpg"/>
+                <figcaption>First use tutorial.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-iphone-globe-3dgrid-node.jpg"/>
+                <figcaption>Globe view, network view, and a focused node.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-iphone-search-traceroute-results.jpg"/>
+                <figcaption>Perform a traceroute between ISPs. Swipe up to view details.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-ipad-node.jpg"/>
+                <figcaption>On an iPad details appear in a popover pegged to the node.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-ipad-traceroute.jpg"/>
+                <figcaption>The height of the popover expands as details render in view.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-ipad-timeline.jpg"/>
+                <figcaption>Tap the “Timeline” icon to scrub the history of the Internet.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-ipad-timeline-globe.jpg"/>
+                <figcaption>The Timeline works for both the Network and Globe visualizations.</figcaption>
+            </figure>
+        </div>
+        <!-- <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/peer1-appstore.jpg"/>
+                <figcaption>I designed App Store assets in collaboration with <a href="https://allenpike.com/" title="The blog of Allen Pike">Allen Pike</a>.</figcaption>
+            </figure>
+        </div> -->
     </div>
 </div>

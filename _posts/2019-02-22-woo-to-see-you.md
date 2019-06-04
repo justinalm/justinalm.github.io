@@ -7,7 +7,7 @@ categories: [Work, Freelance]
 workplace: Freelance
 details: End-to-end retail
 thumbnail: /assets/wootoseeyou/wootoseeyou-thumb.jpg
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

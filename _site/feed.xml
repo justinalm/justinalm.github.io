@@ -2,353 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Alm</title>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jun 2019 12:04:00 -0700</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2019 12:04:00 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 Jun 2019 13:06:34 -0700</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2019 13:06:34 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
-    
-      <item>
-        <title>Jostle</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle&lt;/strong&gt;&lt;/h1&gt;
-  &lt;p class=&quot;as-h3&quot;&gt;For 4+ years, I led design on 5 product teams, shipping interfaces across &lt;a href=&quot;https://jostle.me/product/&quot; title=&quot;Jostle&quot;&gt;Jostle’s&lt;/a&gt; web, mobile, and TV platform—a SaaS intranet that helps people connect and communicate in the workplace.&lt;/p&gt;
-  &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Calls --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t01 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-noMargin  u-mar-b01&quot;&gt;Video calls without leaving your company intranet.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Connect in real-time, present ideas, and close the gap between remote coworkers.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Marlon Hort, Wilson Wong&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Bruce Milton, Brad Palmer&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-calls/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;media&quot;&gt;
-      &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Style Guide --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;The design system used by Jostle’s Design Team.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Enable the Design, Dev, and Marketing Teams to create, replicate, and assemble consistently.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm, Grey Vaisius, Noel Heaney, Elliot Mah&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Grey Vaisius, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Still seeking adoption and vertical integration.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/the-jostle-style-guide/&quot; class=&quot;Btn&quot;&gt;Read the case study&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/style-guide-1.jpg&quot; alt=&quot;Jostle style guide&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Components --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Components&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;I designed several components for our desktop and mobile apps.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Build modularity and reuse into our design system and code-base, improving UX and speed to delivery of features.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Developers on various teams&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Multiple QA engineers&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In dev and production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/components-1.jpg&quot; alt=&quot;Jostle components&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Discussions --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Discussions&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Jostle‘s chat tool.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Connect with colleagues over real-time messaging. Share files and reduce email.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Aary Girish, Zhan Yap, Yvonne Liu, Aman Sarai&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Felipe Gasparino, Bruce Milton, Brad Palmer&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/discussions-1.jpg&quot; alt=&quot;Jostle Discussions&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Library --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Library&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;File sharing in Jostle.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Provide a go-to place for “official” content, with clear ownership and access.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Kaylyn Garnett, Len Takeuchi, Marco Gonzalez, Paul Grewal&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Tatiane Ferreira&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/library-1.jpg&quot; alt=&quot;Jostle Library&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Search --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Search&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Platform-wide search, including within documents and profiles.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Help people find what they’re looking for any place or time.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Zhan Yap, Aman Sarai&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Artem Jeman, Darren John&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/search-1.jpg&quot; alt=&quot;Jostle Search&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- JostleTV --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;JostleTV&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Stream your intranet to a TV, displaying the news and announcements, as they occur.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Communicate to employees without desktop or mobile access.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm, Gray Vaisius&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Billy Lau, Zhan Yap, Chark Wong, Felipe Gasparino&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Darren John&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Brad Palmer, Bruce Milton&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/jostletv-1.jpg&quot; alt=&quot;JostleTV&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- The Jostle Blog --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Jostle’s primary content marketing channel.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Improve UX for our visitors and increase views, subscriptions, and engagement with our community.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design &amp;amp; Dev&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Corey Moseley, Dustin Tsyick&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/the-jostle-blog/&quot; class=&quot;Btn&quot;&gt;Read the case study&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/jostle-blog-1.jpg&quot; alt=&quot;The Jostle Blog&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Jostle Marketing Illustrations --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Jostle Marketing Illustrations&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Artwork produced for the Jostle blog, website, social media channels, and presentations.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Support the Jostle Marketing Team, making our SaaS tech company more approachable.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Art Direction&lt;/strong&gt;: Justin Alm, Grey Vaisius&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Illustrators&lt;/strong&gt;: Grey Vaisius, Justin Alm, Elliot Mah, Tiffany Tsai (All illustrations on this website by me)&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: All over the web&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/jostle/jostle-illustrations/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/jostle/marketing-illustrations-1.jpg&quot; alt=&quot;Jostle Marketing Illustrations&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/jostle/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/jostle/</guid>
-        
-        
-        <category>Collection</category>
-        
-      </item>
-    
-      <item>
-        <title>Steamclock Software</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Steamclock Software&lt;/strong&gt;&lt;/h1&gt;
-  &lt;p class=&quot;as-h3&quot;&gt;For 2+ years at &lt;a href=&quot;https://www.steamclock.com&quot;&gt;Steamclock&lt;/a&gt;, I led design for our DJ apps WeddingDJ and PartyMonster. The other half of my time was spent designing iOS, Android, and web products for clients.&lt;/p&gt;
-  &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- Valet65 --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;An iOS, web app, and printed ticketing system.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Jeremy Chiang, Nigel Brooke&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;: Allen Pike&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/steamclock/valet65/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-      &lt;img src=&quot;/assets/steamclock/valet65-1.jpg&quot; alt=&quot;Valet65 iOS customer facing iOS app&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- WeddingDJ iPad --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;WeddingDJ iPad&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Queuing of multiple playlists for weddings and other events.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Extend iPhone app to a universal iOS app, utilizing iPad features, so easy to use, grandma can rock your wedding.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Rob MacEachern, Allen Pike&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Allen Pike, Rob MacEachern, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;: Allen Pike&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/steamclock/wedding-dj-ipad/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;&amp;rarr;&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/steamclock/weddingdj-ipad-1.jpg&quot; alt=&quot;WeddingDJ iPad app&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 29 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/steamclock-software/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/steamclock-software/</guid>
-        
-        
-        <category>Collection</category>
-        
-      </item>
-    
-      <item>
-        <title>ECUAD</title>
-        <description>&lt;div class=&quot;mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05&quot;&gt;
-  &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;ECUAD&lt;/strong&gt;&lt;/h1&gt;
-  &lt;p class=&quot;as-h3&quot;&gt;During my Interaction Design Degree at Emily Carr University of Art + Design I worked on these significant projects. During my 3rd and 4th years, I worked for the SIM and S3D Centres.&lt;/p&gt;
-  &lt;p class=&quot;as-h5  bp1-u-textAlign-center  u-mar-b05&quot;&gt;&amp;#8757;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- Know Ideas --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;An award winning, 130 page, McLuhanesque exploration of the Internet in printed experiments.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Increase critical thinking of the internet.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, PMs&lt;/strong&gt;: Grey Vaisius, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Print Production&lt;/strong&gt;: Total Graphics&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Binding&lt;/strong&gt;: Rasmussen Bindery&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: On bookshelves&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/ecuad/know-ideas/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;⟩&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;media&quot;&gt;
-        &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/know-ideas/know-ideas-in-article2.mp4&quot; poster=&quot;/assets/know-ideas/know-ideas-video-poster.jpg&quot;&gt;&lt;/video&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Bravado Magazine --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Bravado Magazine&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;2011, I redesigned Bravado Magazine’s brand and website, moving Bravado from a lacklustre Joomla to a WordPress theme of “high gloss pixels”.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Reflect Bravado’s values in their identity, increase presence in a competitive market, unquiely shape content on the web, and ease high-frequency publishing.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, Dev, and PM&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: Sunset&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t02&quot;&gt;&lt;a href=&quot;/work/ecuad/bravado-magazine/&quot; class=&quot;Btn&quot;&gt;See more&amp;nbsp;&amp;nbsp;⟩&lt;/a&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-      &lt;img src=&quot;/assets/ecuad/bravado-magazine-1.jpg&quot; alt=&quot;Bravado Mag Overview&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- 2012 Grad Exhibition Catalog Website --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;2012 Grad Exhibition Website&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;A WordPress website to display 250 Grad Exhibition projects.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Receive, manage, and display the 250 student submissions on the web.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept, Design, Dev, and PM&lt;/strong&gt;: Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Production Assistant&lt;/strong&gt;: Grey Vaisius&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/ecuad/2012-grad-exhibtion-catalog-website-1.jpg&quot; alt=&quot;Learning, Freedom, and the Web&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- Learning, Freedom, and the Web --&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters u-mar-t04 u-mar-b00&quot;&gt;
-  &lt;div class=&quot;Grid-cell  u-size1of3  u-mar-b00&quot;&gt;
-    &lt;h3 class=&quot;u-mar-t00&quot;&gt;&lt;strong&gt;Learning, Freedom, and the Web&lt;/strong&gt;&lt;/h3&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;Mozilla’s experimental HTML5 ebook—in partnership with ECUAD.&lt;/p&gt;
-    &lt;p class=&quot;c-grey02  u-mar-t00  u-mar-b01&quot;&gt;—&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Create a media-rich ebook experience with web tech.&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Concept &amp;amp; Design&lt;/strong&gt;: Justin Alm, Briana Guerelli, Danielle Hall, Amy Wang&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;: Allen Pike, Justin Alm  &lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;QA&lt;/strong&gt;: Alexandra Samuel, Justin Alm&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;PMs&lt;/strong&gt;: Jonathan Aitken, Alexandra Samuel, Celeste Martin&lt;/p&gt;
-    &lt;p class=&quot;u-mar-t00  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;: In production&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;Grid-cell  u-size2of3  u-mar-b05&quot;&gt;
-    &lt;img src=&quot;/assets/ecuad/learning-freedom-and-the-web-1.jpg&quot; alt=&quot;Learning, Freedom, and the Web&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 29 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/collection/ecuad/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/collection/ecuad/</guid>
-        
-        
-        <category>Collection</category>
-        
-      </item>
     
       <item>
         <title>Valet65</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An iOS app, web app, and printed ticket system that streamlines management of valet parking and improves customer experience.&lt;/p&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlining valet parking with and iOS app and printed tickets.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -392,12 +56,12 @@
             &lt;figcaption&gt;Outcome from exploration on identity for Valet65.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+    &lt;!-- &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-4.jpg&quot; alt=&quot;Valet65 wireframes&quot; /&gt;
             &lt;figcaption&gt;Slides from the wireframing and visual design deck presented to Valet65.&lt;/figcaption&gt;
         &lt;/figure&gt;
-    &lt;/div&gt;
+    &lt;/div&gt; --&gt;
     &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-5.jpg&quot; alt=&quot;Valet65 ticket design&quot; /&gt;
@@ -416,17 +80,17 @@
             &lt;figcaption&gt;Simple responsive marketing website to direct traffic to the App Store.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+    &lt;!-- &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
         &lt;figure&gt;
             &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/valet65-8.jpg&quot; alt=&quot;Valet65 App Store listing&quot; /&gt;
             &lt;figcaption&gt;App icon and App Store listing.&lt;/figcaption&gt;
         &lt;/figure&gt;
-    &lt;/div&gt;
+    &lt;/div&gt; --&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/valet65/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/valet65/</guid>
+        <link>http://localhost:4000/work/steamclock/valet65/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/valet65/</guid>
         
         
         <category>Work</category>
@@ -436,9 +100,9 @@
       </item>
     
       <item>
-        <title>Calls on Jostle</title>
+        <title>Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Calls on Jostle&lt;/strong&gt;&lt;/h1&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
     &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
@@ -465,55 +129,57 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b03&quot;&gt;
-    &lt;figure&gt;
-        &lt;div class=&quot;media&quot; style=&quot;padding-top: 54.75%;&quot;&gt;
-            &lt;video class=&quot;u-bor-width-nrml&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;div class=&quot;media&quot; style=&quot;padding-top: 54.75%;&quot;&gt;
+                    &lt;video class=&quot;u-bor-width-nrml&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
+                &lt;/div&gt;
+                &lt;figcaption&gt;Principle prototype.&lt;/figcaption&gt;
+            &lt;/figure&gt;
         &lt;/div&gt;
-        &lt;figcaption&gt;Principle prototype.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-2.jpg&quot; alt=&quot;Incoming call&quot; /&gt;
-            &lt;figcaption&gt;Incoming call.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-6.jpg&quot; alt=&quot;Neutral Call state&quot; /&gt;
-            &lt;figcaption&gt;Neutral state of call window.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-1.jpg&quot; alt=&quot;Jostle Calls&quot; /&gt;
-            &lt;figcaption&gt;Controls appear on hover.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-3.jpg&quot; alt=&quot;UI detail&quot; /&gt;
-            &lt;figcaption&gt;UI detail.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-4.jpg&quot; alt=&quot;Feedback form after call&quot; /&gt;
-            &lt;figcaption&gt;Feedback form displays after a call.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/jostle/calls-5.jpg&quot; alt=&quot;Sumo Dashboard&quot; /&gt;
-            &lt;figcaption&gt;We used SUMO to store data and feedback and monitor up-time.&lt;/figcaption&gt;
-        &lt;/figure&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-2.jpg&quot; alt=&quot;Incoming call&quot; /&gt;
+                &lt;figcaption&gt;Incoming call.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-6.jpg&quot; alt=&quot;Neutral Call state&quot; /&gt;
+                &lt;figcaption&gt;Neutral state of call window.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-1.jpg&quot; alt=&quot;Jostle Calls&quot; /&gt;
+                &lt;figcaption&gt;Controls appear on hover.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-3.jpg&quot; alt=&quot;UI detail&quot; /&gt;
+                &lt;figcaption&gt;UI detail.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-4.jpg&quot; alt=&quot;Feedback form after call&quot; /&gt;
+                &lt;figcaption&gt;Feedback form displays after a call.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/jostle/calls-5.jpg&quot; alt=&quot;Sumo Dashboard&quot; /&gt;
+                &lt;figcaption&gt;We used SUMO to store data and feedback and monitor up-time.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/jostle-calls/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/jostle-calls/</guid>
+        <link>http://localhost:4000/work/jostle/jostle-calls/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/jostle-calls/</guid>
         
         
         <category>Work</category>
@@ -523,10 +189,107 @@
       </item>
     
       <item>
+        <title>Map of the Internet</title>
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;iOS and Android apps model the structure of the internet in 3D.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;See and explore the structure of the internet in your hand. Help Peer1 reach more people as an ISP through interactive art.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;br /&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;    &lt;iframe src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+    &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-iphone-firstuse.jpg&quot; /&gt;
+                &lt;figcaption&gt;First use tutorial.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-iphone-globe-3dgrid-node.jpg&quot; /&gt;
+                &lt;figcaption&gt;Globe view, network view, and a focused node.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-iphone-search-traceroute-results.jpg&quot; /&gt;
+                &lt;figcaption&gt;Perform a traceroute between ISPs. Swipe up to view details.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-ipad-node.jpg&quot; /&gt;
+                &lt;figcaption&gt;On an iPad details appear in a popover pegged to the node.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-ipad-traceroute.jpg&quot; /&gt;
+                &lt;figcaption&gt;The height of the popover expands as details render in view.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-ipad-timeline.jpg&quot; /&gt;
+                &lt;figcaption&gt;Tap the “Timeline” icon to scrub the history of the Internet.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-ipad-timeline-globe.jpg&quot; /&gt;
+                &lt;figcaption&gt;The Timeline works for both the Network and Globe visualizations.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;!-- &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img src=&quot;/assets/peer1-appstore.jpg&quot;/&gt;
+                &lt;figcaption&gt;I designed App Store assets in collaboration with &lt;a href=&quot;https://allenpike.com/&quot; title=&quot;The blog of Allen Pike&quot;&gt;Allen Pike&lt;/a&gt;.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt; --&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/work/steamclock/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/map-of-the-internet/</guid>
+        
+        
+        <category>Work</category>
+        
+        <category>Steamclock</category>
+        
+      </item>
+    
+      <item>
         <title>The Jostle Blog</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;The Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;I redesigned and developed &lt;a href=&quot;https://blog.jostle.me&quot;&gt;The Jostle Blog&lt;/a&gt;; one of Jostle’s primary marketing channels reaching hundreds of thousands of readers every year.&lt;/p&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A better home for content on Jostle’s primary marketing channel.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -547,10 +310,12 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/the-jostle-blog/the-jostle-blog-overview.jpg&quot; /&gt;
-    &lt;figcaption&gt;Visit &lt;a href=&quot;https://blog.jostle.me/blog&quot; title=&quot;The Jostle Blog&quot;&gt;The Jostle Blog&lt;/a&gt; to see how all this pulls together or read-on for the detailed case study.&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+    &lt;figure&gt;
+        &lt;img src=&quot;/assets/the-jostle-blog/the-jostle-blog-overview.jpg&quot; /&gt;
+        &lt;figcaption&gt;Visit &lt;a href=&quot;https://blog.jostle.me/blog&quot; title=&quot;The Jostle Blog&quot;&gt;The Jostle Blog&lt;/a&gt; to see how all this pulls together or read-on for the detailed case study.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;h2&gt;&lt;a id=&quot;A_blog_with_lots_of_legacy_5&quot;&gt;&lt;/a&gt;A blog with lots of legacy&lt;/h2&gt;
@@ -603,18 +368,20 @@
     &lt;p&gt;We removed the large masthead. We added a unique “Blog” link beside the Jostle logo to provide context for visitors. This also gave us the ability to keep the Jostle logo as a link to jostle.me and also provide a link to the blog home base. In an effort to connect blog visitors to jostle.me, we added links to our Product and Resources pages. The CTA to “Subscribe” had similar proportions to the search input so we repositioned it as a link in the nav. We then widened the search input and moved it to the right.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-nav.jpg&quot; alt=&quot;Old nav&quot; /&gt;
-            &lt;figcaption&gt;Old nav&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-nav.jpg&quot; alt=&quot;New nav&quot; /&gt;
-            &lt;figcaption&gt;New nav&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-nav.jpg&quot; alt=&quot;Old nav&quot; /&gt;
+                &lt;figcaption&gt;Old nav&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-nav.jpg&quot; alt=&quot;New nav&quot; /&gt;
+                &lt;figcaption&gt;New nav&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -625,18 +392,20 @@
     &lt;p&gt;We added some variation to the listings pages to make them more engaging. Varying the size of each listing enabled us to highlight recent articles, then direct attention futher down the list, and surface useful resources and popular articles on the right—content outside the chronology of the feed.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-listing.jpg&quot; alt=&quot;Old listing&quot; /&gt;
-            &lt;figcaption&gt;Old listing&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-listing.jpg&quot; alt=&quot;New listing&quot; /&gt;
-            &lt;figcaption&gt;New listing&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-listing.jpg&quot; alt=&quot;Old listing&quot; /&gt;
+                &lt;figcaption&gt;Old listing&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-listing.jpg&quot; alt=&quot;New listing&quot; /&gt;
+                &lt;figcaption&gt;New listing&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -664,18 +433,20 @@
     &lt;p&gt;We added an “Image Credit” so the artist gets props!&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-article-header.jpg&quot; alt=&quot;Old article&quot; /&gt;
-            &lt;figcaption&gt;Old article top fold&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2  u-mar-b05&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-article-header.jpg&quot; alt=&quot;New article&quot; /&gt;
-            &lt;figcaption&gt;New article top fold&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-article-header.jpg&quot; alt=&quot;Old article&quot; /&gt;
+                &lt;figcaption&gt;Old article top fold&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1  u-mar-b05&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-article-header.jpg&quot; alt=&quot;New article&quot; /&gt;
+                &lt;figcaption&gt;New article top fold&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -691,18 +462,20 @@
     &lt;p&gt;The comments section was completely restyled, improving hierarchy, font-sizing, spacing, colour, threading—all in adherence to our style guide.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-comments.jpg&quot; alt=&quot;Old article&quot; /&gt;
-            &lt;figcaption&gt;Old comments&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2  u-mar-b05&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-comments.jpg&quot; alt=&quot;New article&quot; /&gt;
-            &lt;figcaption&gt;New comments&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-comments.jpg&quot; alt=&quot;Old article&quot; /&gt;
+                &lt;figcaption&gt;Old comments&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2  u-mar-b05&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-comments.jpg&quot; alt=&quot;New article&quot; /&gt;
+                &lt;figcaption&gt;New comments&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -720,18 +493,20 @@
     &lt;p&gt;On the author listings, we improved the sizing and spacing of the avatar, title, and bio. On the previous version, the author’s avatar and bio too closely resembled one of the blog posts in the list.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-author-listing.jpg&quot; alt=&quot;Old author listing&quot; /&gt;
-            &lt;figcaption&gt;Old author listing&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-author-listing.jpg&quot; alt=&quot;New author listing&quot; /&gt;
-            &lt;figcaption&gt;New author listing&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-author-listing.jpg&quot; alt=&quot;Old author listing&quot; /&gt;
+                &lt;figcaption&gt;Old author listing&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-author-listing.jpg&quot; alt=&quot;New author listing&quot; /&gt;
+                &lt;figcaption&gt;New author listing&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -740,18 +515,20 @@
     &lt;p&gt;We styled the footer to be more consistent with our main marketing site, shortening copyright and trademark notices. We also moved the subscription form into the footer, which used to appear at the bottom of each article. Now it’s at the bottom of every page. When you click on “Subscribe” in the header nav, you are scrolled down to the form in the footer, which is then highlighted with a subtle marquee CSS animation.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;Grid  Grid--withGutters  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-footer.jpg&quot; alt=&quot;Old footer&quot; /&gt;
-            &lt;figcaption&gt;Old footer&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-footer.jpg&quot; alt=&quot;New footer&quot; /&gt;
-            &lt;figcaption&gt;New footer&lt;/figcaption&gt;
-        &lt;/figure&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  u-mar-b05&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/old-footer.jpg&quot; alt=&quot;Old footer&quot; /&gt;
+                &lt;figcaption&gt;Old footer&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;figure&gt;
+                &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/the-jostle-blog/new-footer.jpg&quot; alt=&quot;New footer&quot; /&gt;
+                &lt;figcaption&gt;New footer&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -768,8 +545,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/the-jostle-blog/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-blog/</guid>
+        <link>http://localhost:4000/work/jostle/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-blog/</guid>
         
         
         <category>Work</category>
@@ -803,11 +580,11 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;img style=&quot;max-width: 1556px;&quot; src=&quot;/assets/jostle-style-guide/jostle-style-guide-hero.jpg&quot; alt=&quot;Jostle Style Guide&quot; /&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r05  u-pad-l05  u-rounded-corners  c-grey04  bgc-grey01&quot;&gt;
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r04  u-pad-l04  u-rounded-corners  c-grey04  bgc-grey01&quot; style=&quot;box-sizing: border-box;&quot;&gt;
     &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: July 2017, &lt;a href=&quot;/assets/jostle-style-guide/jostle-style-guide.pdf&quot; title=&quot;Jostle Style Guide presentation slides&quot;&gt;we presented&lt;/a&gt; this to the entire team at Jostle. This piece is an adaptation of an article I cowrote with &lt;a href=&quot;http://greyvy.com/&quot; title=&quot;Grey Vaisius Website&quot;&gt;Grey Vaisius&lt;/a&gt; at Jostle, which we posted to our internal Jostle intranet for existing company and new hires to reference.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -816,7 +593,7 @@
     &lt;p&gt;A style guide contains the rules and pieces of a system collected and codified in a single place. The &lt;em&gt;Jostle Style Guide (Style Guide)&lt;/em&gt; originated with &lt;a href=&quot;/&quot;&gt;Justin Alm&lt;/a&gt;, &lt;a href=&quot;http://greyvy.com/&quot;&gt;Grey Vaisius&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/nheaney&quot;&gt;Noel Heaney&lt;/a&gt; and was created to meet the need to have a easy way to replicate and assemble consistent design deliverables. The Style Guide has proved to be very useful for designers joining our team, as it empowers new designers to make more impactful decisions faster. It is a living system and we continue to improve its minor details and debate how it should be refined and extended.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-900  u-mar-auto  u-mar-b05&quot;&gt;
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
             &lt;figure class=&quot;u-mar-b00&quot;&gt;
@@ -849,7 +626,7 @@
     &lt;p&gt;As our design team has grown, our need for shared principles and rules for measuring the success of design has also increased. When I arrived at Jostle, the product was filled with a variety of font-sizes, capitalization treatements, 500 shades of grey, and a seemingly infinite number of spacing units. Given this product landscape and lack of principles or clear cut styles, we found it difficult to evaluate each other’s product design. Nothing was technically right or wrong.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-900  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
             &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/before-guide-1.jpg&quot; alt=&quot;Product before Jostle Style Guide&quot; /&gt;
@@ -881,14 +658,14 @@
 &lt;/div&gt;
 
 &lt;figure class=&quot;u-textAlign-center  u-mar-t05  u-mar-b05&quot;&gt;
-        &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
+        &lt;img style=&quot;max-width: 700px;&quot; class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
         &lt;figcaption&gt;The Style Guide helps with increased complexity.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p&gt;That’s enough concept. You‘re probably wondering, what these atomic elements are.&lt;/p&gt;
     &lt;h2&gt;&lt;a id=&quot;atomic-elements&quot;&gt;&lt;/a&gt;Atomic elements&lt;/h2&gt;
-    &lt;h3&gt;&lt;a id=&quot;colour&quot;&gt;&lt;/a&gt;Colour&lt;/h3&gt;
+    &lt;h3 class=&quot;u-mar-t02&quot;&gt;&lt;a id=&quot;colour&quot;&gt;&lt;/a&gt;Colour&lt;/h3&gt;
     &lt;p&gt;We primarily use 5 colours. These colours are pulled from the Jostle logo. We also have 5 shades of grey.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -973,7 +750,7 @@
 &lt;/div&gt;
 
 &lt;figure class=&quot;u-textAlign-center&quot;&gt;
-    &lt;img style=&quot;max-width: 883px;&quot; src=&quot;/assets/jostle-style-guide/inputs.jpg&quot; alt=&quot;Inputs and states&quot; /&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/jostle-style-guide/inputs.jpg&quot; alt=&quot;Inputs and states&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
@@ -1013,21 +790,21 @@
     &lt;p&gt;The Style Guide exists as a shared library among our Design Team in Figma. We also built a Jekyll website and deployed it to style.jostle.us. Unfortunately, this site is only accessible via Jostle’s VPN but I’ve got a fork of this project on &lt;a href=&quot;https://github.com/justinalm/jostle-styleguide&quot;&gt;my personal Github&lt;/a&gt;. This online resource is a valuable asset for both our Design and Dev Teams. HTML and CSS makes our design system “real” as it shares the same material as our product. We use git for version control and collaborate on the project over Jostle’s Gitlabs.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters  u-textAlign-center&quot;&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
             &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/figma.jpg&quot; alt=&quot;Our shared Design Team Figma Library&quot; /&gt;
             &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Figma&lt;/em&gt;&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
             &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jekyll-build.jpg&quot; alt=&quot;Jekyll .scss&quot; /&gt;
             &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Jekyll&lt;/em&gt;&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
             &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/git-labs.jpg&quot; alt=&quot;Style Guide repo on Jostle’s Gitlabs&quot; /&gt;
             &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;Gitlabs&lt;/em&gt;&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
             &lt;img class=&quot;u-rounded-corners  u-shadow&quot; src=&quot;/assets/jostle-style-guide/jekyll-site.jpg&quot; alt=&quot;Jekyll website&quot; /&gt;
             &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;style.jostle.us&lt;/em&gt;&lt;/p&gt;
         &lt;/div&gt;
@@ -1044,8 +821,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</guid>
+        <link>http://localhost:4000/work/jostle/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-style-guide/</guid>
         
         
         <category>Work</category>
@@ -1055,315 +832,25 @@
       </item>
     
       <item>
-        <title>Map of the Internet</title>
+        <title>Wedding DJ iPad app</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;3D, universal, iOS and Android apps that model the structure of the internet.&lt;/p&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Wedding DJ iPad app&lt;/strong&gt;&lt;/h1&gt;
+    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Queuing of multiple playlists for weddings and other events.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;See and explore the structure of the internet in your hand. Help Peer1 reach more people as an ISP through interactive art.&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Extend iPhone app to a universal iOS app, utilizing iPad features, so easy to use, grandma can rock your wedding.&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;br /&gt;Justin Alm&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Angelina Fabbro&lt;br /&gt;Allen Pike&lt;br /&gt;Nigel Brooke&lt;/p&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Rob MacEachern&lt;br /&gt;Jeremy Chiang&lt;br /&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;    &lt;iframe src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-    &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-iphone-firstuse.jpg&quot; /&gt;
-            &lt;figcaption&gt;First use tutorial.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-iphone-globe-3dgrid-node.jpg&quot; /&gt;
-            &lt;figcaption&gt;Globe view, network view, and a focused node.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-iphone-search-traceroute-results.jpg&quot; /&gt;
-            &lt;figcaption&gt;Perform a traceroute between ISPs. Swipe up to view details.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-ipad-node.jpg&quot; /&gt;
-            &lt;figcaption&gt;On an iPad details appear in a popover pegged to the node.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-ipad-traceroute.jpg&quot; /&gt;
-            &lt;figcaption&gt;The height of the popover expands as details render in view.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-ipad-timeline.jpg&quot; /&gt;
-            &lt;figcaption&gt;Tap the “Timeline” icon to scrub the history of the Internet.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-ipad-timeline-globe.jpg&quot; /&gt;
-            &lt;figcaption&gt;The Timeline works for both the Network and Globe visualizations.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure&gt;
-            &lt;img src=&quot;/assets/peer1-appstore.jpg&quot; /&gt;
-            &lt;figcaption&gt;I designed App Store assets in collaboration with &lt;a href=&quot;https://allenpike.com/&quot; title=&quot;The blog of Allen Pike&quot;&gt;Allen Pike&lt;/a&gt;.&lt;/figcaption&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</guid>
-        
-        
-        <category>Work</category>
-        
-        <category>Steamclock</category>
-        
-      </item>
-    
-      <item>
-        <title>Woo To See You</title>
-        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An identity, website, and interior design strategy for &lt;a href=&quot;http://wootoseeyou.com/&quot;&gt;Woo To See You&lt;/a&gt;—facilitating curation, inclusivity, and Avante-garde fun.&lt;/p&gt;
-    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
-        &lt;div class=&quot;objective&quot;&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Provide Woo To See You the collateral to effectively operate and scale as an online and brick-and-mortar retailer.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Concept&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Hans Woo&lt;br /&gt;Justin Alm&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design, Dev, PM&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-hero.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;ƒ
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-2.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-3.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-4.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-5.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-6.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-brand-grid-7.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-2.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-4.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-5.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-3.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-26.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-24.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-25.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-6.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-9.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-7.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-8.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-12.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-11.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-13.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-14.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-17.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-16.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-15.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-18.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-19.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-20.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-21.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-22.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-23.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-builds-10.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-2.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-3.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-4.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-10.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-8.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-6.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of4&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-5.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-9.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-7.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-spaces-11.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-1.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootooseeyou-people-2.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-3.jpg&quot; /&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-people-4.jpg&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 22 Feb 2019 22:58:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/freelance/woo-to-see-you/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/freelance/woo-to-see-you/</guid>
-        
-        
-        <category>Work</category>
-        
-        <category>Freelance</category>
-        
-      </item>
-    
-      <item>
-        <title>Devmonitor.io</title>
-        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Devmonitor.io is a WIP Factory web app that helps dev evangelists connect with the dev community.&lt;/p&gt;
-    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
-        &lt;div class=&quot;objective&quot;&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Enable Devangelists to collate questions from sites, respond, then analyze developer sentiment for their product.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;WIP Factory&lt;br /&gt;Justin Alm&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;br /&gt;Chani Armitage&lt;br /&gt;Allen Pike&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM &amp;amp; QA&lt;/strong&gt;:&lt;/h2&gt;
             &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
         &lt;/div&gt;
         &lt;div&gt;
@@ -1374,47 +861,85 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-home.jpg&quot; /&gt;
-            &lt;figcaption&gt;Public home highlighting &lt;em&gt;log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt;.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-1.jpg&quot; alt=&quot;WeddingDJ iPad app&quot; /&gt;
+            &lt;figcaption&gt;A few screens detailing inferfaces in WeddingDJ iPad.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-signup.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;em&gt;Log in&lt;/em&gt; and &lt;em&gt;join&lt;/em&gt; journeys.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-2.jpg&quot; alt=&quot;WeddingDJ iPad app user journeys&quot; /&gt;
+            &lt;figcaption&gt;Mapping user journeys to quickly uncover complexity.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-blocked.jpg&quot; /&gt;
-            &lt;figcaption&gt;Forgot password journey.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-3.jpg&quot; alt=&quot;WeddingDJ iPad app sketching&quot; /&gt;
+            &lt;figcaption&gt;Rough sketches to explore how the WeddingDJ iPhone interface translates to the iPad.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-questions.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;em&gt;Questions&lt;/em&gt; is a dynamic and ranked feed of questions. From the feed, reply to questions and remove questions you’ve addressed.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-4.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Wireframing to futher explore layouts for building playlists and audio player controls.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b02&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-analytics.jpg&quot; /&gt;
-            &lt;figcaption&gt;&lt;em&gt;Analytics&lt;/em&gt; helps you to gauge developer sentiment about your product. We built this view leveraging &lt;a href=&quot;http://www.chartjs.org/&quot; target=&quot;_blank&quot;&gt;Charts.js&lt;/a&gt;.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-5.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Wireframes used to debate options for advancing between playlists.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-        &lt;figure class=&quot;u-mar-b00&quot;&gt;
-            &lt;img src=&quot;/assets/devmonitor/devmonitor-dates.jpg&quot; /&gt;
-            &lt;figcaption&gt;Filter &lt;em&gt;Analytics&lt;/em&gt; by date to see developer interest over time, fluctuations in activity, and track your progress responding to your community.&lt;/figcaption&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-6.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Detailed wireframes after we settled on the macro-layout and interactions.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-7.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Applying colour, album art, fonts, and other visual assets to detail visual design for the interface.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-8.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Exploring visual transitions when advancing to the next playlist.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-10.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;A 2nd option for the transition when advancing to the next playlist.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-9.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;A 3rd option for the transition when advancing to the next playlist.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure&gt;
+            &lt;img class=&quot;mw-1024&quot; src=&quot;/assets/steamclock/weddingdj-ipad-11.jpg&quot; alt=&quot;WeddingDJ iPad app wireframes&quot; /&gt;
+            &lt;figcaption&gt;Detailing visual transitions between cues. This was 2013, now I’d do this work in Principle.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid-cell  u-size1of1  u-textAlign-center&quot;&gt;
+        &lt;figure class=&quot;mw-1024&quot;&gt;
+            &lt;div class=&quot;media&quot; style=&quot;padding-top: 75%;&quot;&gt;
+                &lt;video class=&quot;u-bor-width-nrml&quot; controls=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/weddingdj/weddingdj-app-preview-video.mp4&quot; poster=&quot;/assets/weddingdj/weddingdj-ipad-video-poster.jpg&quot;&gt;&lt;/video&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;App preview video I made for the App Store.&lt;/figcaption&gt;
         &lt;/figure&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/devmonitor-dot-io/</guid>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/work/steamclock/wedding-dj-ipad/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/wedding-dj-ipad/</guid>
         
         
         <category>Work</category>

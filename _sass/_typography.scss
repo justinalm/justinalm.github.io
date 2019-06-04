@@ -25,7 +25,8 @@ p, blockquote {
 }
 
 blockquote {
-  padding-left: $spacing-unit*3; 
+  padding-left: $spacing-unit*3;
+  margin-left: 0;
   border-left: $spacing-unit*0.5 solid $grey01;
 }
 

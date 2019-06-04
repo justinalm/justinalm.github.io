@@ -8,6 +8,7 @@ workplace: Personal Projects
 details: Photography
 video: /assets/photos/photography-thumbnail.mp4
 videoposter: /assets/photos/photogrpahy-video-poster.jpg
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

@@ -7,7 +7,7 @@ categories: [Work, Steamclock]
 workplace: Steamclock Software
 thumbnail: /assets/mozilla-stumbler/mozilla-stumbler-concept-thumb.jpg
 details: App
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

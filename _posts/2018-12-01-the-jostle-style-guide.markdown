@@ -32,11 +32,11 @@ published: true
     </div>
 </div>
 
-<div class="u-textAlign-center  u-mar-b05">
+<div class="mw-1024  u-mar-auto  u-mar-b05">
     <img style="max-width: 1556px;" src="/assets/jostle-style-guide/jostle-style-guide-hero.jpg" alt="Jostle Style Guide">
 </div>
 
-<div class="mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r05  u-pad-l05  u-rounded-corners  c-grey04  bgc-grey01">
+<div class="mw-700  u-mar-auto  u-mar-b05  u-pad01  u-pad-r04  u-pad-l04  u-rounded-corners  c-grey04  bgc-grey01" style="box-sizing: border-box;">
     <p><strong>Note</strong>: July 2017, <a href="/assets/jostle-style-guide/jostle-style-guide.pdf" title="Jostle Style Guide presentation slides">we presented</a> this to the entire team at Jostle. This piece is an adaptation of an article I cowrote with <a href="http://greyvy.com/" title="Grey Vaisius Website">Grey Vaisius</a> at Jostle, which we posted to our internal Jostle intranet for existing company and new hires to reference.</p>
 </div>
 
@@ -45,7 +45,7 @@ published: true
     <p>A style guide contains the rules and pieces of a system collected and codified in a single place. The <em>Jostle Style Guide (Style Guide)</em> originated with <a href="/">Justin Alm</a>, <a href="http://greyvy.com/">Grey Vaisius</a>, <a href="https://www.linkedin.com/in/nheaney">Noel Heaney</a> and was created to meet the need to have a easy way to replicate and assemble consistent design deliverables. The Style Guide has proved to be very useful for designers joining our team, as it empowers new designers to make more impactful decisions faster. It is a living system and we continue to improve its minor details and debate how it should be refined and extended.</p>
 </div>
 
-<div class="mw-900  u-mar-auto  u-mar-b05">
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="Grid  Grid--withGutters  u-textAlign-center">
         <div class="Grid-cell  u-size1of4">
             <figure class="u-mar-b00">
@@ -78,7 +78,7 @@ published: true
     <p>As our design team has grown, our need for shared principles and rules for measuring the success of design has also increased. When I arrived at Jostle, the product was filled with a variety of font-sizes, capitalization treatements, 500 shades of grey, and a seemingly infinite number of spacing units. Given this product landscape and lack of principles or clear cut styles, we found it difficult to evaluate each other’s product design. Nothing was technically right or wrong.</p>
 </div>
 
-<div class="mw-900  u-mar-auto">
+<div class="mw-700  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-textAlign-center">
         <div class="Grid-cell  u-size1of3">
             <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/before-guide-1.jpg" alt="Product before Jostle Style Guide">
@@ -110,14 +110,14 @@ published: true
 </div>
 
 <figure class="u-textAlign-center  u-mar-t05  u-mar-b05">
-        <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/jostle-complexity.jpg" alt="Jostle Complexity">
+        <img style="max-width: 700px;" class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/jostle-complexity.jpg" alt="Jostle Complexity">
         <figcaption>The Style Guide helps with increased complexity.</figcaption>
 </figure>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p>That’s enough concept. You‘re probably wondering, what these atomic elements are.</p>
     <h2><a id="atomic-elements"></a>Atomic elements</h2>
-    <h3><a id="colour"></a>Colour</h3>
+    <h3 class="u-mar-t02"><a id="colour"></a>Colour</h3>
     <p>We primarily use 5 colours. These colours are pulled from the Jostle logo. We also have 5 shades of grey.</p>
 </div>
 
@@ -205,7 +205,7 @@ published: true
 </div>
 
 <figure class="u-textAlign-center">
-    <img style="max-width: 883px;" src="/assets/jostle-style-guide/inputs.jpg" alt="Inputs and states">
+    <img style="max-width: 700px;" src="/assets/jostle-style-guide/inputs.jpg" alt="Inputs and states">
 </figure>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
@@ -245,21 +245,21 @@ published: true
     <p>The Style Guide exists as a shared library among our Design Team in Figma. We also built a Jekyll website and deployed it to style.jostle.us. Unfortunately, this site is only accessible via Jostle’s VPN but I’ve got a fork of this project on <a href="https://github.com/justinalm/jostle-styleguide">my personal Github</a>. This online resource is a valuable asset for both our Design and Dev Teams. HTML and CSS makes our design system “real” as it shares the same material as our product. We use git for version control and collaborate on the project over Jostle’s Gitlabs.</p>
 </div>
 
-<div class="u-mar-auto">
+<div class="mw-700  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-textAlign-center">
-        <div class="Grid-cell  u-size1of4">
+        <div class="Grid-cell  u-size1of2">
             <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/figma.jpg" alt="Our shared Design Team Figma Library">
             <p class="u-textAlign-center  c-grey03  u-mar-b00" style="font-size: 16px;"><em>Figma</em></p>
         </div>
-        <div class="Grid-cell  u-size1of4">
+        <div class="Grid-cell  u-size1of2">
             <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/jekyll-build.jpg" alt="Jekyll .scss">
             <p class="u-textAlign-center  c-grey03  u-mar-b00" style="font-size: 16px;"><em>Jekyll</em></p>
         </div>
-        <div class="Grid-cell  u-size1of4">
+        <div class="Grid-cell  u-size1of2">
             <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/git-labs.jpg" alt="Style Guide repo on Jostle’s Gitlabs">
             <p class="u-textAlign-center  c-grey03  u-mar-b00" style="font-size: 16px;"><em>Gitlabs</em></p>
         </div>
-        <div class="Grid-cell  u-size1of4">
+        <div class="Grid-cell  u-size1of2">
             <img class="u-rounded-corners  u-shadow" src="/assets/jostle-style-guide/jekyll-site.jpg" alt="Jekyll website">
             <p class="u-textAlign-center  c-grey03  u-mar-b00" style="font-size: 16px;"><em>style.jostle.us</em></p>
         </div>

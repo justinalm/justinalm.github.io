@@ -1,6 +1,6 @@
 ---
 title: Valet65
-description: An iOS app, web app, and printed ticket system that streamlines management of valet parking and improves customer experience.
+description: Streamlining valet parking with and iOS app and printed tickets.
 date: 2019-05-28
 layout: workPost
 categories: [Work, Steamclock]
@@ -56,12 +56,12 @@ published: true
             <figcaption>Outcome from exploration on identity for Valet65.</figcaption>
         </figure>
     </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+    <!-- <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/valet65-4.jpg" alt="Valet65 wireframes" />
             <figcaption>Slides from the wireframing and visual design deck presented to Valet65.</figcaption>
         </figure>
-    </div>
+    </div> -->
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/valet65-5.jpg" alt="Valet65 ticket design" />
@@ -80,10 +80,10 @@ published: true
             <figcaption>Simple responsive marketing website to direct traffic to the App Store.</figcaption>
         </figure>
     </div>
-    <div class="Grid-cell  u-size1of1  u-textAlign-center">
+    <!-- <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/valet65-8.jpg" alt="Valet65 App Store listing" />
             <figcaption>App icon and App Store listing.</figcaption>
         </figure>
-    </div>
+    </div> -->
 </div>

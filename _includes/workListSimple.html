@@ -1,17 +1,20 @@
-<div class="Grid  Grid--withGutters">
-    {% for post in site.categories.Work %}
-    <div class="Grid-cell  u-size1of3">
-        <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
-            {% if post.thumbnail %}
-                <img src="{{ post.thumbnail }}"/>
-            {% else post.video %}
-                <div class="media">
-                    <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
-                </div>
-            {% endif %}
-            <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b00"><strong>{{ post.title }}</strong></h3>
-            <p class="c-grey03  u-noMargin  u-mar-b02"><em>{{ post.details }}</em></p>
-        </a>
+<div class="mw-1024  u-mar-auto">
+    <div class="Grid  Grid--withGutters">
+        {% for post in site.categories.Work %}
+        <div class="Grid-cell  u-size1of2">
+            <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
+                {% if post.thumbnail %}
+                    <img src="{{ post.thumbnail }}"/>
+                {% else post.video %}
+                    <div class="media">
+                        <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
+                    </div>
+                {% endif %}
+                <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                <p class="c-grey04  u-noMargin  u-mar-b02">{{ post.description }}</p>
+                <p class="u-mar-t02  u-mar-b02"><a href="{{ post.url }}" title="{{ post.title }}" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
+            </a>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>

@@ -7,7 +7,7 @@ categories: [Work, ECUAD]
 thumbnail: /assets/bravado/bravado-thumb.jpg
 details: Website
 workplace: Emily Carr University
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

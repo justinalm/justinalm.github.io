@@ -7,7 +7,7 @@ categories: [Work, Steamclock]
 workplace: Steamclock Software
 thumbnail: /assets/weddingdj/weddingdj-website-thumb.jpg
 details: Website
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

@@ -8,7 +8,7 @@ workplace: Emily Carr University
 video: /assets/know-ideas/know-ideas-compressed.mp4
 videoposter: /assets/know-ideas/know-ideas-video-poster.jpg
 details: Publication
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

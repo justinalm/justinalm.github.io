@@ -24,7 +24,7 @@ $(function(){
 
 $(document).ready(function() {
   (function() {
-    var showChar = 400;
+    var showChar = 225;
     var ellipsestext = "&nbsp;...";
 
     $(".truncate").each(function() {

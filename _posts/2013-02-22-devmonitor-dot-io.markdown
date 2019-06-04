@@ -7,7 +7,7 @@ categories: [Work, Steamclock]
 workplace: Steamclock Software
 thumbnail: /assets/devmonitor/wip-dev-monitor-thumb.jpg
 details: Web app
-published: true
+published: false
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

@@ -1,5 +1,5 @@
 ---
-title: Calls on Jostle
+title: Calls
 description: Video calls without leaving your company’s Jostle intranet.
 date: 2019-05-25
 layout: workPost
@@ -38,48 +38,50 @@ published: true
 </div>
 
 <div class="mw-1024  u-mar-auto  u-mar-b03">
-    <figure>
-        <div class="media" style="padding-top: 54.75%;">
-            <video class="u-bor-width-nrml" autoplay loop muted playsinline type="video/mp4" src="/assets/jostle/calls.mp4" poster="/assets/jostle/calls-video-poster.jpg"></video>
+    <div class="Grid  Grid--withGutters">
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <div class="media" style="padding-top: 54.75%;">
+                    <video class="u-bor-width-nrml" autoplay loop muted playsinline type="video/mp4" src="/assets/jostle/calls.mp4" poster="/assets/jostle/calls-video-poster.jpg"></video>
+                </div>
+                <figcaption>Principle prototype.</figcaption>
+            </figure>
         </div>
-        <figcaption>Principle prototype.</figcaption>
-    </figure>
-</div>
-<div class="Grid  Grid--withGutters">
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-2.jpg" alt="Incoming call" />
-            <figcaption>Incoming call.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-6.jpg" alt="Neutral Call state" />
-            <figcaption>Neutral state of call window.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-1.jpg" alt="Jostle Calls" />
-            <figcaption>Controls appear on hover.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-3.jpg" alt="UI detail" />
-            <figcaption>UI detail.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-4.jpg" alt="Feedback form after call" />
-            <figcaption>Feedback form displays after a call.</figcaption>
-        </figure>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <figure>
-            <img src="/assets/jostle/calls-5.jpg" alt="Sumo Dashboard" />
-            <figcaption>We used SUMO to store data and feedback and monitor up-time.</figcaption>
-        </figure>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-2.jpg" alt="Incoming call" />
+                <figcaption>Incoming call.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-6.jpg" alt="Neutral Call state" />
+                <figcaption>Neutral state of call window.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-1.jpg" alt="Jostle Calls" />
+                <figcaption>Controls appear on hover.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-3.jpg" alt="UI detail" />
+                <figcaption>UI detail.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-4.jpg" alt="Feedback form after call" />
+                <figcaption>Feedback form displays after a call.</figcaption>
+            </figure>
+        </div>
+        <div class="Grid-cell  u-size1of1">
+            <figure>
+                <img src="/assets/jostle/calls-5.jpg" alt="Sumo Dashboard" />
+                <figcaption>We used SUMO to store data and feedback and monitor up-time.</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
