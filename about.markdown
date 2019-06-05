@@ -11,7 +11,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     <p class="as-h3">I’m a product designer from Vancouver, Canada. I use design to craft delightful experiences and help businesses grow. This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>. Download <a href="/assets/justin-alm-resume.pdf" title="Resume of Justin Alm">my resume</a>!</p>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto"><strong>Skills</strong></h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Skills</h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b00">
@@ -30,7 +30,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto"><strong>Work experience</strong></h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Work experience</h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -65,7 +65,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto"><strong>Good words</strong></h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Good words</h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -88,7 +88,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t00  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto"><strong>Education</strong></h2>
+<h2 class="mw-1024  u-pad-t00  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Education</h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -105,12 +105,12 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
             <p class="u-mar-t01  u-mar-b00">Cold War, 19th & 20th Century European History, Imperialism, and Development.</p>
         </div>
         <div class="Grid-cell  u-size1of2">
-            <h2 class="u-mar-t02  u-mar-b02"><strong>Honours &amp; Awards</strong></h2>
+            <h2 class="u-mar-t02  u-mar-b02">Honours &amp; Awards</h2>
             <p class="u-mar-t00  u-mar-b01">OPUS Bursary & Millenium Scholarships, 2009-2011.</p>
             <p class="u-mar-t00  u-mar-b00">Applied Arts Student Awards 2012, Design/Editorial – Single, for <em>Know Ideas.</em></p>
         </div>
         <div class="Grid-cell  u-size1of2">
-            <h2 class="u-mar-t02  u-mar-b02"><strong>Interests</strong></h2>
+            <h2 class="u-mar-t02  u-mar-b02">Interests</h2>
             <p class="u-mar-t01  u-mar-b00">I’m a stereotypical Xennial. I like long walks on the beach, neighbourhoods, nature, books, podcasts, food, coffee, travel, and quality time with my wife.</p>
         </div>
     </div>
