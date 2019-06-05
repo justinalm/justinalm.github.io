@@ -7,9 +7,9 @@ permalink: /about/ethics/
 thumbnail: /assets/ethics/divergent-and-convergent-thinking.svg
 ---
 
-<div id="ethics" class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
+<div id="ethics" class="mw-1024  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>Ethics</strong></h1>
-    <p class="as-h3">My process, principles, values, and mission. I bring these ideas into every team I collaborate with—a compass for my pursuit of excellence in all things.</p>
+    <p class="as-h3  u-noMargin">My process, principles, values, and mission. I bring these ideas into every team I collaborate with. They are my compass for my pursuit of excellence in all things.</p>
 </div>
 
 <h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Process</h2>

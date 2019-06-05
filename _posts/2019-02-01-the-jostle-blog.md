@@ -12,7 +12,7 @@ published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin  u-mar-b00"><strong>{{ page.title }}</strong></h1>
+    <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
     <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
