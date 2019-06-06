@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 23:50:56 -0700</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 23:50:56 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2019 11:11:17 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2019 11:11:17 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -200,7 +200,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
-    &lt;img style=&quot;max-width: 1360px;&quot; src=&quot;/assets/steamclock/valet65/admin-web-app.jpg&quot; alt=&quot;Valet65 company admin site&quot; /&gt;
+    &lt;img style=&quot;max-width: 700px;&quot; src=&quot;/assets/steamclock/valet65/admin-web-app.jpg&quot; alt=&quot;Valet65 company admin site&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
@@ -209,7 +209,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
-    &lt;img style=&quot;max-width: 1360px&quot; src=&quot;/assets/steamclock/valet65/marketing-website.jpg&quot; alt=&quot;Valet65 marketing website&quot; /&gt;
+    &lt;img style=&quot;max-width: 700px&quot; src=&quot;/assets/steamclock/valet65/marketing-website.jpg&quot; alt=&quot;Valet65 marketing website&quot; /&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 -0700</pubDate>
