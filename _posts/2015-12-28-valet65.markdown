@@ -48,7 +48,7 @@ published: true
         </div>
         <div class="Grid-cell  u-size1of2">
             <h3 class="u-mar-t00"><a id=""></a>For the customer</h3>
-            <p><strong>Veleting your car can be frustrating</strong>—even though it’s a luxury. <strong>You need cash</strong> to pay and tip your valet but society is increasingly cashless. <strong>Waiting is painful</strong>. Before queuing to pickup your car, you spend 5-10 minutes wrangling your kids and belongings. Then you wait outside for another 5-20 minutes in 30 degree heat. Hot climates are where valet companies succeed.</p>
+            <p><strong>Valeting your car can be frustrating</strong>—even though it’s a luxury. <strong>You need cash</strong> to pay and tip your valet but society is increasingly cashless. <strong>Waiting is painful</strong>. Before queuing to pickup your car, you spend 5-10 minutes wrangling your kids and belongings. Then you wait outside for another 5-20 minutes in 30 degree heat. Hot climates are where valet companies succeed.</p>
         </div>
     </div>
 </div>
@@ -57,7 +57,7 @@ published: true
     <div class="Grid  Grid--withGutters  Grid--alignMiddle">
         <div class="Grid-cell  u-size1of2">
             <h3 class="u-mar-t00"><a id=""></a>For the valet company</h3>
-            <p><strong>Managing a valet business is difficult</strong>. Often, valet companies operate on <strong>antiquated systems</strong>. What could be more antiquated than cash? Too often payments and tips slip into the valet’s pocket instead of the company bank account. The <strong>company doesn’t have visibility</strong> into their locations to understand who’s working, the number of cars parked at a time, revenue collected, and tips shared.</p>
+            <p><strong>Managing a valet business is difficult</strong>. Often, valet companies operate on <strong>antiquated systems</strong>. I mean, cash only??? Too often payments and tips slip into the valet’s pocket instead of the company bank account. The <strong>company doesn’t have visibility</strong> into their locations to understand who’s working, the number of cars parked at a time, revenue collected, and tips shared.</p>
         </div>
         <div class="Grid-cell  u-size1of2">
             <div class="u-rounded-corners" style="position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
