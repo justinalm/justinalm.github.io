@@ -7,10 +7,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 20vh;
   background-color: $blue01;
   padding: $spacing-unit*5  $spacing-unit*2;
-  margin: $spacing-unit*2 (-$spacing-unit*2) $spacing-unit*5 (-$spacing-unit*2);
+  margin: $spacing-unit*5 (-$spacing-unit*2);
 }
 
 .absolute-center {

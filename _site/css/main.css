@@ -159,10 +159,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 20vh;
   background-color: #0A2EB9;
   padding: 40px 16px;
-  margin: 16px -16px 40px -16px; }
+  margin: 40px -16px; }
 
 .absolute-center {
   margin: auto;
@@ -308,6 +308,18 @@ img {
   text-align: center;
   color: #607D8B;
   font-style: italic; }
+
+.image-caption-overlay {
+  font-size: small;
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  background: white;
+  padding: 4px 8px;
+  margin: 0 16px 0 0;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
 
 figure, .vendor {
   margin: 0 auto;

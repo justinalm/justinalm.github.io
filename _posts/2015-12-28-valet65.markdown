@@ -16,7 +16,7 @@ published: true
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Create an identity and product so Valet65 can meet the needs of valet companies, their employees, and customers.</p>
+            <p class="u-noMargin  u-mar-b02">Deliver an identity and product that actualizes the vision of Valet65—changing the UX of valeting a car for both customers, valets, and valet companies.</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
@@ -37,41 +37,82 @@ published: true
     </div>
 </div>
 
+<h2 class="mw-1024  u-mar-auto  u-mar-b03">The problem</h2>
 
-<div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>Our promise</h2>
-    <p>Streamline the management of valet parking. Improve the experience for customers in two key ways: allow for payment on the user’s smartphone rather than in cash and a virtual line up system, where users can notify the valet a few minutes in advance of when their car is needed. For the system to work, we needed these five elements:</p>
-    <ol>
-        <li><strong>An identity and brand</strong> to visually tie toegther all elemets in the system.</li>
-        <li><strong>A consumer smartphone app</strong> for the person who is parking their car to do the payment and request a car pickup.</li>
-        <li><strong>A valet management app</strong> for the valets to use.</li>
-        <li><strong>A scannable printed ticket</strong> for the customer and valet to scan.</li>
-        <li><strong>A hosted online service</strong> to tie the previously mentioned services together.</li>
-    </ol>
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <div class="Grid  Grid--withGutters  Grid--alignMiddle">
+        <div class="Grid-cell  u-size1of2">
+            <div class="u-rounded-corners" style="position: relative; background-image: url(/assets/steamclock/valet65/parking-lot.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
+                <p class="image-caption-overlay  c-grey03"><em>Photo by Ryan Searle on Unsplash</em></p>
+            </div>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <h3 class="u-mar-t00"><a id=""></a>For the customer</h3>
+            <p><strong>Veleting your car can be frustrating</strong>—even though it’s a luxury. <strong>You need cash</strong> to pay and tip your valet but society is increasingly cashless. <strong>Waiting is painful</strong>. Before queuing to pickup your car, you spend 5-10 minutes wrangling your kids and belongings. Then you wait outside for another 5-20 minutes in 30 degree heat. Hot climates are where valet companies succeed.</p>
+        </div>
+    </div>
+</div>
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <div class="Grid  Grid--withGutters  Grid--alignMiddle">
+        <div class="Grid-cell  u-size1of2">
+            <h3 class="u-mar-t00"><a id=""></a>For the valet company</h3>
+            <p><strong>Managing a valet business is difficult</strong>. Often, valet companies operate on <strong>antiquated systems</strong>. What could be more antiquated than cash? Too often payments and tips slip into the valet’s pocket instead of the company bank account. The <strong>company doesn’t have visibility</strong> into their locations to understand who’s working, the number of cars parked at a time, revenue collected, and tips shared.</p>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <div class="u-rounded-corners" style="position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
+                <p class="image-caption-overlay  c-grey03"><em>Photos by Sharon McCutcheon and Nathan Dumlao on Unsplash</em></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2 class="mw-1024  u-mar-auto  u-mar-b03"><a id=""></a>The solution</h2>
+
+<div class="mw-1024  u-mar-auto">
+    <div class="Grid  Grid--withGutters  Grid--alignMiddle">
+        <div class="Grid-cell  u-size1of2">
+            <div class="u-rounded-corners" style="background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 532px; max-height: 532px;">
+            </div>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <p><strong>We streamlined the management of valet parking</strong> and improved the experience for customers in two key ways: we allowed for <strong>payment on the user’s smartphone</strong> rather than in cash and we created a <strong>virtual line up system</strong>, where users can notify the valet a few minutes in advance of when their car is needed. For the system to work, we built these five elements:</p>
+            <ol>
+                <li><strong>An identity and brand</strong> to visually tie toegther all elemets in the system.</li>
+                <li><strong>A consumer smartphone app</strong> for the person who is parking their car to do the payment and request a car pickup.</li>
+                <li><strong>A valet management app</strong> for the valets to use.</li>
+                <li><strong>A scannable printed ticket</strong> for the customer and valet to scan.</li>
+                <li><strong>A hosted online service</strong> to tie the previously mentioned services together.</li>
+            </ol>
+        </div>
+    </div>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>Identity and brand</h2>
-    <p>To kick off the project, I took some time develop Valet65’s identity and brand. I knew with the number of deliverables in this project, having a clear visual direction for their identity was going to pay off in spades. I developed 3 options for them to pick from, as presented below. In the end, Valet65 chose the first option because they felt it would resonate with people who typically valet their car.</p>
+    <h3><a id=""></a>Identity and brand</h3>
+    <p>To kick off the project, I took some time develop Valet65’s identity and brand. I knew with the number of deliverables in this project, having a clear visual direction for their identity was going to pay off as we built each piece. As you can see below, I developed 3 directions for Valet65 to choose from. Valet65 chose the first option because they felt it most closely aligned with the type of clientel who will valet their car.</p>
 </div>
 
 <div class="u-textAlign-center">
-    <img style="max-width: 1418px;" src="/assets/steamclock/valet65/identity-and-brand.jpg" alt="The 3 identity and branding options I developed for Valet65 to choose from." />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/identity-and-brand.jpg" alt="The 3 identity and branding options I developed for Valet65 to choose from." />
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>App architecture</h2>
-    <p>Before making anything visual, I started by quickly exploring the architecture of the application. I wanted to discover all of the actions and decisions a person will have to make so that we had an inventory of design needs.</p>
+    <h3><a id=""></a>Architecture</h3>
+    <p>Before starting in on any wireframing or visual design, I mapped actions and decisions a person would make to complete goals. This gave me an inventory of design needs.</p>
 </div>
 
 <div class="u-textAlign-center">
-    <img style="max-width: 1374px;" src="/assets/steamclock/valet65/information-architecture.jpg" alt="Information architecture detailing user journeys and decisions we needed to design for." />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/information-architecture.jpg" alt="Information architecture detailing user journeys and decisions we needed to design for." />
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
+    <p>With this higher level architecture of the app mapped out, I was then able to start in on wireframing screens. The following is a deep dive into the user experience in both apps.</p>
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <h2>Wireframing the experience</h2>
-    <h3 class="u-mar-t02"><a id=""></a>The customer facing app</h3>
-    <p><strong>Scanning a ticket</strong><br>Upon opening the app, you’re prompted to scan your ticket. Hover your phone over the QR code on your ticket and once it is scanned, you’ll be taken to the Home View. Invalid QR codes will return an error at the top of the screen saying, “The QR code you canned is invalid.”</p>
+    <h3>Customer facing app</h3>
+    <p><strong>Scanning a ticket</strong><br>Upon opening the app, you’re prompted to scan your ticket. Hover your phone over the QR code on your ticket. When it scans, you are taken to the home view. Invalid QR codes return an error at the top of the screen saying, “The QR code you canned is invalid.”</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -79,15 +120,15 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Requesting your car</strong><br>Request your car in seconds. Tap the “Request Your Car” button, approve Push Notifications from Valet65, and select the amount of time you’ll need to get ready. You’ll be taken back to the Home View where you’ll see the “Request Your Car” button has been replaced with the “Arrives in ...” countdown clock. In this scenario, you needed 20 minutes, the valet got the message and is working on your request.</p>
+    <p><strong>Requesting your car</strong><br>You can request your car in seconds by tapping the “Request Your Car” button on the home view. Then approve push notifications from Valet65, and select when you want your car. You’re then taken back to the home view where the “Request Your Car” button has been replaced with the “Arrives in ...” countdown clock. In the following scenario, you needed 20 minutes. The valet was notified and is working on your request.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 1269px;" src="/assets/steamclock/valet65/request-car.jpg" alt="Wireframe of requesting pickup" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/request-car.jpg" alt="Wireframe of requesting pickup" />
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Payment</strong><br>Don’t want to dig through your purse to pay the valet? Tap the “Pay Your Valet” button on the Home View, enter your credit card information in the text- field, and tap submit. You’re now setup for future credit card transactions within Valet65. Tap the “Add Tip” text field to add a tip and tap the “Add Tip” button to add the tip amount to your bottom line. Review your expense, tap the “Confirm Payment” button, and the sequence is complete, you’ll be taken back to the Home View. Notice the “Pay Your Valet” button has been replaced with the “Paid” button. Easy.</p>
+    <p><strong>Payment</strong><br>Tap the “Pay Your Valet” button on the home view. Then enter your credit card information in the field and tap submit. You’re now setup for future credit card transactions on Valet65. Tap the “Add Tip” field to add a tip. Then tap the “Add Tip” button to add the tip to your bottom line. Review your expense and tap the “Confirm Payment” button. Payment is complete and you’re taken back to the home view. <strong>Note</strong>: The “Pay Your Valet” button is replaced with the “Paid” button.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -114,12 +155,12 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <h2><a id=""></a>Company App</h2>
+    <h3><a id=""></a>Company facing app</h3>
     <p><strong>Scanning a ticket</strong><br>After logging into Valet65, you’ll see the “Cars In Queue”. To add a car to the queue, tap the bar with the “+” icon at the bottom of the screen and scan the QR code on the ticket. You’ll then see the “Add Details” view where you can add a note with details about the car you just added.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 1352px;" src="/assets/steamclock/valet65/company-landing-scanning.jpg" alt="Wireframe of company ticket scanner" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/company-landing-scanning.jpg" alt="Wireframe of company ticket scanner" />
 </div>
 
 <div class="mw-700  u-mar-auto">
@@ -127,7 +168,7 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 1040px;" src="/assets/steamclock/valet65/company-car-photo.jpg" alt="Wireframe of adding car photo" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/company-car-photo.jpg" alt="Wireframe of adding car photo" />
 </div>
 
 <div class="mw-700  u-mar-auto">
@@ -151,7 +192,7 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 1080px;" src="/assets/steamclock/valet65/company-notifying-customer.jpg" alt="Wireframe of valet notifying customer" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/company-notifying-customer.jpg" alt="Wireframe of valet notifying customer" />
 </div>
 
 <div class="mw-700  u-mar-auto">
@@ -167,7 +208,7 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 1272px;" src="/assets/steamclock/valet65/company-delete-completed.jpg" alt="Wireframe of valet deleting completed" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/company-delete-completed.jpg" alt="Wireframe of valet deleting completed" />
 </div>
 
 <div class="mw-700  u-mar-auto">
@@ -179,7 +220,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>Scannable printed ticket</h2>
+    <h3><a id=""></a>Scannable printed ticket</h3>
     <p><strong>URL structure for QR codes</strong><br>
     Tickets will be printed in batches for the valet companies. The Company ID Number won’t change for each licnensed customer but the Individual Ticket Number will. For our Beta- test, the Valet Company ID will be 1.</p>
     <p>Infront of the actual ticket number, we need a 8 Digit randomly generated set of numbers and characters inserted into the URL. We need this so people can’t ‘hack’ the system and request someone else’s car by generating a QR Code on the Internet.</p>
@@ -196,19 +237,19 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>Web app for company management</h2>
+    <h3><a id=""></a>Web app for company management</h3>
     <p>We built a simple web application for an admin from the valet company to log into. Here you can check total sales for various date ranges, set rates, enable/disable your customers to request their car within a time frame, and edit your company information.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 700px;" src="/assets/steamclock/valet65/admin-web-app.jpg" alt="Valet65 company admin site" />
+    <img style="max-width: 1024px;" src="/assets/steamclock/valet65/admin-web-app.jpg" alt="Valet65 company admin site" />
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id=""></a>Landing page</h2>
+    <h3><a id=""></a>Landing page</h3>
     <p>I also designed and developed a simple marketing website to direct traffic to the App Store. From here, admins could also log into the previously mentioned web app.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 700px" src="/assets/steamclock/valet65/marketing-website.jpg" alt="Valet65 marketing website" />
+    <img style="max-width: 1024px" src="/assets/steamclock/valet65/marketing-website.jpg" alt="Valet65 marketing website" />
 </div>
