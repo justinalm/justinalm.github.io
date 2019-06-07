@@ -90,7 +90,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h3><a id=""></a>Identity and brand</h3>
-    <p>To kick off the project, I took some time develop Valet65’s identity and brand. I knew that having a clear visual direction for Valet65’s identity would going to pay off as we built out the system. As you can see below, I developed 3 directions for Valet65 to choose from. Valet65 chose the first option because they felt it closely aligned with the tastes of people who valet their car.</p>
+    <p>To kick off the project, I developed Valet65’s identity and brand. I presented 3 directions for Valet65 to choose from. They selected the first because it most closely aligned with the tastes of people who typically valet their car. This clear direction for Valet65’s identity paid off as we built out the system.</p>
 </div>
 
 <div class="u-textAlign-center">
@@ -112,7 +112,7 @@ published: true
 
 <div class="mw-700  u-mar-auto">
     <h3>Consumer app</h3>
-    <p><strong>Scanning a ticket</strong><br>We built a QR code scanner into the app. The scanner is the first thing the customer sees when opening the app. To scan a ticket, you hover your phone over a QR code. When the app scans successfully, you are taken to the home view. If the QR code is invalid, we display an error at the top of the screen saying, “The QR code you scanned is invalid.”</p>
+    <p><strong>Scan ticket</strong><br>The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error is appears.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -120,7 +120,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Requesting your car</strong><br>To request your car, tap the “Request Your Car” button on the home view. Allow push notifications from Valet65 and select when you want your car. You’re then taken back to the home view where the “Request Your Car” button now displays an “Arrives in ...” countdown.</p>
+    <p><strong>Request your car</strong><br>To request your car, tap the “Request Your Car” button on the home view. Allow push notifications from Valet65 and select when you want your car. You’re then taken back to the home view where the “Request Your Car” button now displays an “Arrives in ...” countdown.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -128,7 +128,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Payment</strong><br>The customer can now pay the valet before leaving the table. Tap the “Pay Your Valet” button on the home view, enter your credit card information, and tap submit. After adding a tip, review the total and “Confirm Payment”. When payment is complete, you’re taken back to the home view and the “Pay Your Valet” button displays “Paid”. We integrated Stripe so credit card info is securely stored as well as to speed up future transactions on Valet65.</p>
+    <p><strong>Payment</strong><br>On the home view, tap the “Pay Your Valet” button. Then enter your credit card information and tap submit. You’ll see a summary with the total. After you “Confirm payment”, you’re taken back to the home view. The “Pay Your Valet” button updates to “Paid”. We used Stripe for security and to speed up future transactions with stored credit card info.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -137,7 +137,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>When your car is ready</strong><br>
+    <p><strong>Car is ready</strong><br>
     The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
     <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/car-ready.jpg" alt="Wireframe of car ready" /></p>
 </div>
@@ -149,7 +149,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Scanning another ticket</strong><br>
+    <p><strong>Scan another ticket</strong><br>
     The app resets to the QR code scanner after the valet closes out your transaction. You can scan another ticket any time by tapping the “Scan a new ticket” button on the home view.</p>
     <p class="u-textAlign-center"><img style="max-width: 578px;" src="/assets/steamclock/valet65/scanning-new-ticket.jpg" alt="Wireframe of scanning a new ticket" /></p>
 </div>
@@ -157,7 +157,7 @@ published: true
 <div class="mw-700  u-mar-auto">
     <h3><a id=""></a>Company facing app</h3>
     <p>For design of the company facing app, we used stock iOS 7 components because it isn’t customer facing.</p>
-    <p><strong>Scanning a ticket</strong><br>After logging into the Valet65 enterprise app, you see the “Cars In Queue”. To add a car to the queue, tap the “+” button and scan the QR code on the ticket. The “Add Details” view appears. Add a note with details about the car.</p>
+    <p><strong>Scan ticket</strong><br>After logging into the Valet65 enterprise app, you see the “Cars In Queue”. To add a car to the queue, tap the “+” button and scan the QR code on the ticket. The “Add Details” view appears. Add a note with details about the car.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -165,7 +165,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Adding a photo of the car</strong><br>Take a photo of the car to protect yourself from any liability issue.</p>
+    <p><strong>Photograph the car</strong><br>Take a photo of the car to protect yourself from any liability issue.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -205,7 +205,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Completing a request</strong><br>To clear completed cars from the “Cars In Queue”, tap the “Close Out” button in the car details. Confirm the “Close Out” on the action sheet.</p>
+    <p><strong>Close out transactions</strong><br>To clear completed cars from the “Cars In Queue”, tap the “Close Out” button in the car details. Confirm the “Close Out” on the action sheet.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -213,7 +213,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Logout</strong><br>Employees can log out when on a break or end of shift and share the phone with their coworker. The log in and log out data is also available to the company on the admin site.</p>
+    <p><strong>Sharing a phone with another valet</strong><br>Employees can log out when on a break or end of shift and share the phone with their coworker. The log in and log out data is also available to the company on the admin site.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -222,23 +222,22 @@ published: true
 
 <div class="mw-700  u-mar-auto">
     <h3><a id=""></a>Scannable printed ticket</h3>
-    <p><strong>Production details</strong><br>Valet tickets were printed using variable data printing. Woah! Big words, eh? Essentially, this meant we could dynamically generate new QR codes for the tickets, which pointed to the “digital ticket” on the Valet65 servers.</p>
-    <p>We designed the tickets to be slightly oversized—2.75" (W) x 7" (H)—so customers could easily find their stub burried deep in their purse. The ticket had 2 horizontal perforations for easy separation. The valet keeps the top half and customer keeps bottom half, which includes liability info.</p>
+    <p><strong>Physical characteristics</strong><br>I designed the tickets to be slightly oversized(2.75" x 7") so customers could easily find their stub burried deep in their purse. The ticket has 2 horizontal perforations for easy separation. The valet keeps the top half and customer keeps bottom half.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
     <img style="max-width: 652px;" src="/assets/steamclock/valet65/ticket-diagram-for-printers.jpg" alt="Ticket diagram" />
 </div>
 
-<div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>URL structure for QR codes</strong><br>
-    We had to make sure our system for generating the QR codes could scale as the service scaled. We knew the tickets were going to be printed in batches for the valet companies. We also knew the company ID number on the ticket wouldn’t change but the individual ticket number would change. Infront of the ticket number, we inserted 8 digit random numbers and characters inserted into the URL. Without this a hacker could request someone’s car by generating a QR Code on the internet.</p>
+<div class="mw-700  u-mar-auto">
+    <p><strong>Structure of URL for QR codes</strong><br>Valet tickets were printed using variable data printing. Big words, eh? Essentially, this means we could dynamically generate new QR codes for the tickets, which pointed to the “digital ticket” on the Valet65 servers.</p>
+    <p>The system for generating the QR codes had to scale along with the web service. Tickets were printed in batches for valet companies so the company ID number doesn’t change as often as the individual ticket number. Before the ticket number we inserted an random set of 8 numbers and characters. Without this a hacker could request someone’s car by generating a QR Code on the internet.</p>
     <p class="u-textAlign-center  u-mar-t05  u-mar-b05"><img style="max-width: 431px;" src="/assets/steamclock/valet65/qr-code-url-structure.jpg" alt="URL structure for generating QR codes" /></p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h3><a id=""></a>Web app for company management</h3>
-    <p>I did the design and front-end dev on the web app that enables company admins to check sales, set rates, enable/disable features within the iOS apps, and edit their company information. Nigel then hooked up my work to Valet65’s Parse instance.</p>
+    <p>I designed and did the front-end development for the company admin web app. This is where admins could check sales, set rates, enable/disable features within the iOS apps, and edit their company information. Nigel then hooked up my work to Valet65’s Parse instance.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -256,10 +255,9 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h2><a id=""></a>Reflection</h2>
-    <p>I really enjoyed working on this project because it served consumer and business needs. Valet65 came to us with an idea and we were able to build them everything they needed to launch. We delivered an identity, app, printed ticket, admin web app, marketing websites, and App Store listing in less than 3 months!</p>
-    <p>Their concept wasn’t rocket science but as we followed our process, complexity lingered below the surface. Of course, I would change things I designed. Language on buttons and in push notifications could be more consistent and contextual. Many other UI elements within the system could have been improved.</p>
-    <p>The release of iOS 7 mid-project really threw a wrench into the gears. We suddenly had back buttons that didn’t look like buttons. Product designers at that time were all to familiar with the worry over buttons that didn’t look like buttons.</p>
-    <p>When I designed Valet65, good prototyping tools didn’t exist so we could’ve worked harder on UI animations instead of staying in static spec-land. All of these stresses were compounded by time and budget constraints. The number of design and development iterations for various stages of the project were limited.</p>
-    <p>All of that said, I am super proud that we actualized Valet65’s idea into fully functional startup in less than 3 months—otherwise I wouldn’t have this in my portfolio!</p>
-    <p>😁</p>
+    <p>I really enjoyed working on this project because it <strong>served consumer and business needs</strong>. Valet65 came to us with an idea and we were able to build them what they needed to launch. We delivered an identity, app, printed ticket, admin web app, marketing websites, and App Store listing in <strong>less than 3 months</strong>!</p>
+    <p>Their concept wasn’t rocket science but as we followed our process, we <strong>simplified complexity</strong> lingering below the surface. <strong>As with every project, there are things I would change</strong>. Language on buttons and in push notifications could be more consistent and contextual. Many other UI elements within the system could have been improved.</p>
+    <p>The <strong>release of iOS 7</strong> mid-project threw a wrench into the gears. We suddenly had back buttons that didn’t look like buttons. Product designers at that time were all to familiar with worry over buttons that didn’t look like buttons.</p>
+    <p>When I designed Valet65, good <strong>prototyping tools didn’t exist</strong> so we could’ve worked harder on UI animations instead of remaining in static spec-land. All of these stresses were compounded by time and budget constraints—meaning the <strong>number of iterations</strong> for various stages of the project were limited.</p>
+    <p>All of that said, <strong>I am super proud of how we actualized Valet65’s idea</strong> into fully functional startup in less than 3 months—otherwise I wouldn’t have this in my portfolio! 😁</p>
 </div>
