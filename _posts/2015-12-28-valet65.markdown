@@ -128,7 +128,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Payment</strong><br>The customer can now pay the valet before leaving the table. Tap the “Pay Your Valet” button on the home view, enter your credit card information, and tap submit. We integrated Stripe for payments so credit card info we securely stored to speed up future transactions on Valet65. After adding a tip, review the total and “Confirm Payment”. When payment is complete, you’re taken back to the home view and the “Pay Your Valet” button displays a “Paid” label.</p>
+    <p><strong>Payment</strong><br>The customer can now pay the valet before leaving the table. Tap the “Pay Your Valet” button on the home view, enter your credit card information, and tap submit. After adding a tip, review the total and “Confirm Payment”. When payment is complete, you’re taken back to the home view and the “Pay Your Valet” button displays “Paid”. We integrated Stripe so credit card info is securely stored as well as to speed up future transactions on Valet65.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -138,26 +138,26 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>When your car is ready</strong><br>
-    The label on the “Arrives in ...” button updates to indicate when your car is ready for pickup.</p>
+    The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
     <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/car-ready.jpg" alt="Wireframe of car ready" /></p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>Notifications from the valet</strong><br>
-    The customer recieves notifications from the valet when their car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car.</p>
+    You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car.</p>
     <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/notification-car-coming.jpg" alt="Wireframe of notifications for car coming and ready" /></p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>Scanning another ticket</strong><br>
-    The app resets to the QR code scanner on the consumer app after the valet closes out your transaction. Customers can also scan another ticket by tapping the “Scan a new ticket” button on the home view.</p>
+    The app resets to the QR code scanner after the valet closes out your transaction. You can scan another ticket any time by tapping the “Scan a new ticket” button on the home view.</p>
     <p class="u-textAlign-center"><img style="max-width: 578px;" src="/assets/steamclock/valet65/scanning-new-ticket.jpg" alt="Wireframe of scanning a new ticket" /></p>
 </div>
 
 <div class="mw-700  u-mar-auto">
     <h3><a id=""></a>Company facing app</h3>
-    <p>For design of the company facing app, we stayed with stock iOS 7 components.</p>
-    <p><strong>Scanning a ticket</strong><br>After logging into Valet65, you see the “Cars In Queue”. To add a car to the queue, tap the “+” button and scan the QR code on the ticket. The “Add Details” view appears. Add a note with details about the car.</p>
+    <p>For design of the company facing app, we used stock iOS 7 components because it isn’t customer facing.</p>
+    <p><strong>Scanning a ticket</strong><br>After logging into the Valet65 enterprise app, you see the “Cars In Queue”. To add a car to the queue, tap the “+” button and scan the QR code on the ticket. The “Add Details” view appears. Add a note with details about the car.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -173,8 +173,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Liability check and adding the car to the queue</strong><br>After doing some beta testing with Skyline Valet—a Vancouver valet company—we added a “Liability Check” feature. This is a 1-tap way for the valet to be protected from any liabilities that may arise while the car is parked.</p>
-    <p>Tap “Done” and the car is added to the bottom of the “Cars In Queue”.</p>
+    <p><strong>Liability check and adding the car to the queue</strong><br>After doing some beta testing with Skyline Valet—a Vancouver valet company—we added a “Liability Check” feature. This is a 1-tap way for the valet to be protected from any liability while the car is parked. Tap “Done” and the car is added to the “Cars In Queue”.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -182,7 +181,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Notifications from customers</strong><br>When a customer requests their car, you receive a push notification with the who, what, where, and ticket number of the car being requested. Tap “View Details” on the notification to see the car details in Valet65s and send push a response back to the customer.</p>
+    <p><strong>Notifications from customers</strong><br>When a customer requests their car, you receive a push notification with the who, what, where, and ticket number of the car being requested. Tap “View Details” on the notification to see the car details in Valet65.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -190,7 +189,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Car details and notifying customers</strong><br>Tap on an item in the “Cars In Queue” and you’ll see the car details. Tapping the button “Car is on the way” or “Ready for pickup” will send a canned push notifications to the customer letting them know you’re on the way.</p>
+    <p><strong>Car details and notifying customers</strong><br>Tap on one of the “Cars In Queue” to see the car details. Tap “Car is on the way” or “Ready for pickup” to send a push notifications to the customer—letting them know you’re on the way or their car is ready.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -198,7 +197,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Rescanning a ticket to find a car in queue</strong><br>To find a specific car in a long queue, rescan the ticket by tapping on the “Scan” buttons. When the scan completes, you’re taken to the car details.</p>
+    <p><strong>Finding a car in a long queue</strong><br>To find a car in a <em>long</em> queue, rescan the ticket by tapping the “Scan” button. When the scan completes, the car details appear.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -206,7 +205,7 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Completing a request</strong><br>You can clear completed cars from the list by tapping on the car in the “Cars In Queue”. At the bottom of the car details, tap on the “Close Out” button. Confirm the “Close Out” on the action sheet.</p>
+    <p><strong>Completing a request</strong><br>To clear completed cars from the “Cars In Queue”, tap the “Close Out” button in the car details. Confirm the “Close Out” on the action sheet.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -214,24 +213,17 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto">
-    <p><strong>Logout</strong><br>We added “Log out” so employees could share a mobile phone swith Valet65 installed on it. This way the employee could log out when on a break or end of shift. This shift data is also then available to the company.</p>
+    <p><strong>Logout</strong><br>Employees can log out when on a break or end of shift and share the phone with their coworker. The log in and log out data is also available to the company on the admin site.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
     <img style="max-width: 812px;" src="/assets/steamclock/valet65/company-logout.jpg" alt="Wireframe of valet company logout" />
 </div>
 
-<div class="mw-700  u-mar-auto  u-mar-b05">
-    <h3><a id=""></a>Scannable printed ticket</h3>
-    <p><strong>URL structure for QR codes</strong><br>
-    I designed the tickets to be printed in batches for valet companies. The Company ID Number doesn’t change for each licensed customer but the Individual Ticket Number does. For our beta test, we set the Valet Company ID to 1—the were the first customer!</p>
-    <p>Infront of the actual ticket number, we added an 8 digit randomly generated set of numbers and characters inserted into the URL. We needed this to prevent hackers on the system. They could request someone else’s car by generating a QR Code on the internet.</p>
-    <p class="u-textAlign-center  u-mar-t05  u-mar-b05"><img style="max-width: 431px;" src="/assets/steamclock/valet65/qr-code-url-structure.jpg" alt="URL structure for generating QR codes" /></p>
-</div>
-
 <div class="mw-700  u-mar-auto">
-    <p><strong>Production details</strong><br>
-        Valet tickets were printed with variable data printing. That way we could dynamically generate new QR codes, which pointed to the “digital ticket” on the Valet65 servers. We designed the tickets to be slightly oversized—2.75" (W) x 7" (H)—so customers could easily find their stub burried deep in their purse. The ticket had 2 horizontal perforations for easy separation. The valet keeps the top half and customer keeps bottom half, which includes liability info.</p>
+    <h3><a id=""></a>Scannable printed ticket</h3>
+    <p><strong>Production details</strong><br>Valet tickets were printed using variable data printing. Woah! Big words, eh? Essentially, this meant we could dynamically generate new QR codes for the tickets, which pointed to the “digital ticket” on the Valet65 servers.</p>
+    <p>We designed the tickets to be slightly oversized—2.75" (W) x 7" (H)—so customers could easily find their stub burried deep in their purse. The ticket had 2 horizontal perforations for easy separation. The valet keeps the top half and customer keeps bottom half, which includes liability info.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -239,8 +231,14 @@ published: true
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
+    <p><strong>URL structure for QR codes</strong><br>
+    We had to make sure our system for generating the QR codes could scale as the service scaled. We knew the tickets were going to be printed in batches for the valet companies. We also knew the company ID number on the ticket wouldn’t change but the individual ticket number would change. Infront of the ticket number, we inserted 8 digit random numbers and characters inserted into the URL. Without this a hacker could request someone’s car by generating a QR Code on the internet.</p>
+    <p class="u-textAlign-center  u-mar-t05  u-mar-b05"><img style="max-width: 431px;" src="/assets/steamclock/valet65/qr-code-url-structure.jpg" alt="URL structure for generating QR codes" /></p>
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <h3><a id=""></a>Web app for company management</h3>
-    <p>We built a simple web application for an admin from the valet company to log into. This enabled company admins to check sales, set rates, enable/disable features within the iOS app, and edit their company information.</p>
+    <p>I did the design and front-end dev on the web app that enables company admins to check sales, set rates, enable/disable features within the iOS apps, and edit their company information. Nigel then hooked up my work to Valet65’s Parse instance.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -249,9 +247,14 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <h3><a id=""></a>Landing page</h3>
-    <p>I also designed and developed a simple marketing website to direct traffic to the App Store. This was also where admins could log into the admin web app.</p>
+    <p>I also designed and developed a simple marketing website to direct traffic to the App Store.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
     <img style="max-width: 1024px" src="/assets/steamclock/valet65/marketing-website.jpg" alt="Valet65 marketing website" />
 </div>
+
+<!-- <div class="mw-700  u-mar-auto  u-mar-b05">
+    <h2><a id=""></a>Reflection</h2>
+    <p>I really enjoyed working on this project because it covered a lot of territory. There wa interaction between a customer and valet, connected by a printed ticket, two separate iOS apps, and web service, made for a lot of complexity.</p>
+</div> -->
