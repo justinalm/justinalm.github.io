@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jun 2019 17:38:36 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2019 17:38:36 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2019 18:05:51 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2019 18:05:51 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -254,10 +254,15 @@
     &lt;img style=&quot;max-width: 1024px&quot; src=&quot;/assets/steamclock/valet65/marketing-website.jpg&quot; alt=&quot;Valet65 marketing website&quot; /&gt;
 &lt;/div&gt;
 
-&lt;!-- &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h2&gt;&lt;a id=&quot;&quot;&gt;&lt;/a&gt;Reflection&lt;/h2&gt;
-    &lt;p&gt;I really enjoyed working on this project because it covered a lot of territory. There wa interaction between a customer and valet, connected by a printed ticket, two separate iOS apps, and web service, made for a lot of complexity.&lt;/p&gt;
-&lt;/div&gt; --&gt;
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;&lt;a&gt;&lt;/a&gt;Reflection&lt;/h2&gt;
+    &lt;p&gt;I really enjoyed working on this project because it served consumer and business needs. Valet65 came to us with an idea and we were able to build them everything they needed to launch. We delivered an identity, app, printed ticket, admin web app, marketing websites, and App Store listing in less than 3 months!&lt;/p&gt;
+    &lt;p&gt;Their concept wasn’t rocket science but as we followed our process, complexity lingered below the surface. Of course, I would change things I designed. Language on buttons and in push notifications could be more consistent and contextual. Many other UI elements within the system could have been improved.&lt;/p&gt;
+    &lt;p&gt;The release of iOS 7 mid-project really threw a wrench into the gears. We suddenly had back buttons that didn’t look like buttons. Product designers at that time were all to familiar with the worry over buttons that didn’t look like buttons.&lt;/p&gt;
+    &lt;p&gt;When I designed Valet65, good prototyping tools didn’t exist so we could’ve worked harder on UI animations instead of staying in static spec-land. All of these stresses were compounded by time and budget constraints. The number of design and development iterations for various stages of the project were limited.&lt;/p&gt;
+    &lt;p&gt;All of that said, I am super proud that we actualized Valet65’s idea into fully functional startup in less than 3 months—otherwise I wouldn’t have this in my portfolio!&lt;/p&gt;
+    &lt;p&gt;😁&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/work/steamclock/valet65/</link>
