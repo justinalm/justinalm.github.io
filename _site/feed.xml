@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Jun 2019 14:20:17 -0700</pubDate>
-    <lastBuildDate>Sun, 09 Jun 2019 14:20:17 -0700</lastBuildDate>
+    <pubDate>Sun, 09 Jun 2019 16:15:42 -0700</pubDate>
+    <lastBuildDate>Sun, 09 Jun 2019 16:15:42 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -124,7 +124,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
-    &lt;img style=&quot;max-width: 1024px;&quot; src=&quot;/assets/steamclock/valet65/request-car.jpg&quot; alt=&quot;Wireframe of requesting pickup&quot; /&gt;
+    &lt;video style=&quot;box-sizing: border-box; width: 100%; max-height: 512px; padding: 0 16px;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/steamclock/valet65/valet65-request-your-car.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-request-your-car-poster.jpg&quot;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
