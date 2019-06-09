@@ -116,11 +116,7 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <figure class="mw-1024">
-        <div class="media">
-            <video autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4" poster="/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg"></video>
-        </div>
-    </figure>
+    <video autoplay loop muted playsinline type="video/mp4" width="260" src="/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4" poster="/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg"></video>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
