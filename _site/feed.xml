@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Alm</title>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Jun 2019 17:53:41 -0700</pubDate>
-    <lastBuildDate>Sat, 08 Jun 2019 17:53:41 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Jun 2019 18:12:31 -0700</pubDate>
+    <lastBuildDate>Sat, 08 Jun 2019 18:12:31 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -116,7 +116,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
-    &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; width=&quot;260&quot; src=&quot;/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg&quot;&gt;&lt;/video&gt;
+    &lt;video style=&quot;box-sizing: border-box; width: 100%; max-height: 514px; padding: 0 16px;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg&quot;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
@@ -263,8 +263,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/valet65/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/valet65/</guid>
+        <link>http://localhost:4000/work/steamclock/valet65/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/valet65/</guid>
         
         
         <category>Work</category>
@@ -352,8 +352,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/jostle-calls/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/jostle-calls/</guid>
+        <link>http://localhost:4000/work/jostle/jostle-calls/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/jostle-calls/</guid>
         
         
         <category>Work</category>
@@ -449,8 +449,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/map-of-the-internet/</guid>
+        <link>http://localhost:4000/work/steamclock/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/map-of-the-internet/</guid>
         
         
         <category>Work</category>
@@ -719,8 +719,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/the-jostle-blog/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-blog/</guid>
+        <link>http://localhost:4000/work/jostle/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-blog/</guid>
         
         
         <category>Work</category>
@@ -995,8 +995,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/jostle/the-jostle-style-guide/</guid>
+        <link>http://localhost:4000/work/jostle/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle/the-jostle-style-guide/</guid>
         
         
         <category>Work</category>
@@ -1112,8 +1112,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://0.0.0.0:4000/work/steamclock/wedding-dj-ipad/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/work/steamclock/wedding-dj-ipad/</guid>
+        <link>http://localhost:4000/work/steamclock/wedding-dj-ipad/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock/wedding-dj-ipad/</guid>
         
         
         <category>Work</category>

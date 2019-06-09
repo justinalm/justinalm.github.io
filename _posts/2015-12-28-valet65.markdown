@@ -116,7 +116,7 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <video autoplay loop muted playsinline type="video/mp4" width="260" src="/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4" poster="/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg"></video>
+    <video style="box-sizing: border-box; width: 100%; max-height: 514px; padding: 0 16px;" autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-scanning-a-ticket.mp4" poster="/assets/steamclock/valet65/valet65-scanning-a-ticket-poster.jpg"></video>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
