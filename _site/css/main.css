@@ -296,6 +296,11 @@ video:focus {
   outline: none;
   border: none; }
 
+.prototype-video {
+  box-sizing: border-box;
+  max-width: 100%;
+  max-height: 510px; }
+
 audio {
   width: 100%; }
 
