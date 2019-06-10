@@ -112,7 +112,7 @@ published: true
 
 <div class="mw-700  u-mar-auto">
     <h3>Consumer app</h3>
-    <p><strong>Scan ticket</strong><br>The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error is appears.</p>
+    <p><strong>Scan ticket</strong><br>The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error appears.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
