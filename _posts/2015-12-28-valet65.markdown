@@ -132,20 +132,19 @@ published: true
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
-    <img style="max-width: 922px;" class="u-mar-b05" src="/assets/steamclock/valet65/payment.jpg" alt="Wireframe of payment" />
-    <img style="max-width: 922px;" src="/assets/steamclock/valet65/payment-2.jpg" alt="Wireframe of payment" />
-</div>
-
-<div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Car is ready</strong><br>
-    The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
-    <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/car-ready.jpg" alt="Wireframe of car ready" /></p>
+    <video style="box-sizing: border-box; width: 100%; max-height: 512px; padding: 0 16px;" autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-pay-your-valet.mp4" poster="/assets/steamclock/valet65/valet65-pay-your-valet-poster.jpg"></video>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>Notifications from the valet</strong><br>
     You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car.</p>
     <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/notification-car-coming.jpg" alt="Wireframe of notifications for car coming and ready" /></p>
+</div>
+
+<div class="mw-700  u-mar-auto  u-mar-b05">
+    <p><strong>Car is ready</strong><br>
+    The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
+    <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/car-ready.jpg" alt="Wireframe of car ready" /></p>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
