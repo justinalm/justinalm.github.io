@@ -13,8 +13,8 @@ thumbnail: /assets/jostle/calls-thumb.jpg
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters">
         {% for post in site.posts %}
-            {% if post.categories contains "Jostle" or post.categories contains "Steamclock" or post.categories contains "ECUAD" or post.categories contains "Personal-projects" %}
-                <div class="Grid-cell  u-size1of2">
+            {% if post.categories contains "Jostle" or post.categories contains "Steamclock" or post.categories contains "ECUAD" or post.categories contains "Personal-projects" or post.categories contains "Freelance" %}
+                <div class="Grid-cell  u-size1of3">
                     <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
                         {% if post.thumbnail %}
                             <img src="{{ post.thumbnail }}"/>
