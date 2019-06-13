@@ -1,6 +1,6 @@
 ---
 title: Making Conversation
-description: An interviews podcast that I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>.
+description: An interviews podcast about creative journeys, with Shawn Choi.
 date: 2016-06-12
 layout: workPost
 categories: [Work, Personal-projects]
