@@ -1,13 +1,13 @@
 ---
 title: Making Conversation
 description: An interviews podcast that I co-hosted with <a href="http://5am.co/" title="Website of Shawn Choi">Shawn Choi</a>.
-date: 2019-02-18
+date: 2016-06-12
 layout: workPost
 categories: [Work, Personal-projects]
 workplace: Personal Projects
 thumbnail: /assets/making-conversation/making-conversation-thumb.jpg
 details: Podcast
-published: false
+published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
@@ -28,30 +28,29 @@ published: false
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Status</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Archived on this page</p>
+            <p class="u-noMargin  u-mar-b02">Archived here</p>
         </div>
     </div>
 </div>
 
-<div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">
-    <div class="Grid-cell  u-size1of3">
-        <img src="/assets/making-conversation/makingConversationLogo.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of3">
-        <img src="/assets/making-conversation/makingConversationProcess.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of3">
-        <img src="/assets/making-conversation/makingConversationResponsiveShowcase.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <img src="/assets/making-conversation/makingConversationTwitter.jpg"/>
-    </div>
-    <div class="Grid-cell  u-size1of2">
-        <img src="/assets/making-conversation/makingConversationiTunes.jpg"/>
+<div class="mw-1024  u-mar-auto">
+    <div class="Grid  Grid--withGutters  u-pad-t00  u-pad-b04">
+        <div class="Grid-cell  u-size1of2">
+            <img src="/assets/making-conversation/makingConversationProcess.jpg"/>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <img src="/assets/making-conversation/makingConversationResponsiveShowcase.jpg"/>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <img src="/assets/making-conversation/makingConversationTwitter.jpg"/>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <img src="/assets/making-conversation/makingConversationiTunes.jpg"/>
+        </div>
     </div>
 </div>
 
-<hr class="u-mar-t00  u-mar-b05">
+<hr class="mw-1024  u-mar-auto  u-mar-t00  u-mar-b05">
 
 <div class="mw-700  u-mar-auto">
     <div class="u-pad-b03  u-mar-b05  u-bor-width-nrml-b">
