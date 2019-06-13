@@ -3,7 +3,7 @@ title: Valet65
 description: Streamlining valet parking with and iOS app and printed tickets.
 date: 2019-05-28
 layout: workPost
-categories: [Work, Steamclock]
+categories: [Work, Steamclock, Case-studies]
 workplace: Steamclock Software
 thumbnail: /assets/steamclock/valet65/valet65-thumb.jpg
 details: App
@@ -72,7 +72,7 @@ published: true
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  Grid--alignMiddle">
         <div class="Grid-cell  u-size1of2">
-            <div class="u-rounded-corners" style="background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 532px; max-height: 532px;">
+            <div class="u-rounded-corners" style="background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 400px; max-height: 400px;">
             </div>
         </div>
         <div class="Grid-cell  u-size1of2">

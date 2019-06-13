@@ -3582,6 +3582,11 @@ nav.mobile-nav a.active {
   -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); }
 
+.u-border-shadow {
+  -webkit-box-shadow: 0 0 0 1px #ebebeb;
+  -moz-box-shadow: 0 0 0 1px #ebebeb;
+  box-shadow: 0 0 0 1px #ebebeb; }
+
 /*! Flickity v2.2.0
 https://flickity.metafizzy.co
 ---------------------------------------------- */

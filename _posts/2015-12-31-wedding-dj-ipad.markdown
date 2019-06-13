@@ -8,7 +8,7 @@ workplace: Steamclock Software
 video: /assets/weddingdj/weddingdj-ipad-thumbnail-compressed.mp4
 videoposter: /assets/weddingdj/weddingdj-ipad-thumb.jpg
 details: App
-published: false
+published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">

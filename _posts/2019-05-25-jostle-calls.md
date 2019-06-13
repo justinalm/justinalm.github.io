@@ -41,8 +41,8 @@ published: true
     <div class="Grid  Grid--withGutters">
         <div class="Grid-cell  u-size1of1">
             <figure>
-                <div class="media" style="padding-top: 54.75%;">
-                    <video class="u-bor-width-nrml" autoplay loop muted playsinline type="video/mp4" src="/assets/jostle/calls.mp4" poster="/assets/jostle/calls-video-poster.jpg"></video>
+                <div class="media  u-border-shadow" style="padding-top: 54.7%;">
+                    <video class="" autoplay loop muted playsinline type="video/mp4" src="/assets/jostle/calls.mp4" poster="/assets/jostle/calls-video-poster.jpg"></video>
                 </div>
                 <figcaption>Principle prototype.</figcaption>
             </figure>
