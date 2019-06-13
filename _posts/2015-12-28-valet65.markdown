@@ -112,7 +112,7 @@ published: true
 
 <div class="mw-700  u-mar-auto">
     <h3>Consumer app</h3>
-    <p><strong>Scan ticket</strong><br>The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error appears.</p>
+    <p><strong>Scan ticket</strong><br>The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error is appears.</p>
 </div>
 
 <div class="u-textAlign-center  u-mar-b05">
@@ -137,20 +137,33 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>Notifications from the valet</strong><br>
-    You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car.</p>
-    <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/notification-car-coming.jpg" alt="Wireframe of notifications for car coming and ready" /></p>
+    You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car. The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
+</div>
+
+<div class="mw-700  u-mar-auto">
+    <div class="Grid Grid--withGutters">
+        <div class="Grid-cell  u-size1of2">
+            <div class="u-textAlign-center  u-mar-b05">
+                <video class="prototype-video" autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-car-on-the-way-notification.mp4" poster="/assets/steamclock/valet65/valet65-notification-car-on-the-way-poster.jpg"></video>
+                <p class="c-grey03"><em>On the way</em></p>
+            </div>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <div class="u-textAlign-center  u-mar-b05">
+                <video class="prototype-video" autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-notification-car-ready.mp4" poster="/assets/steamclock/valet65/valet65-notification-car-ready-poster.jpg"></video>
+                <p class="c-grey03"><em>Ready</em></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Car is ready</strong><br>
-    The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.</p>
-    <p class="u-textAlign-center"><img style="max-width: 574px;" src="/assets/steamclock/valet65/car-ready.jpg" alt="Wireframe of car ready" /></p>
-</div>
-
-<div class="mw-700  u-mar-auto  u-mar-b05">
-    <p><strong>Scan another ticket</strong><br>
+    <p><strong>Scan a new ticket</strong><br>
     The app resets to the QR code scanner after the valet closes out your transaction. You can scan another ticket any time by tapping the “Scan a new ticket” button on the home view.</p>
-    <p class="u-textAlign-center"><img style="max-width: 578px;" src="/assets/steamclock/valet65/scanning-new-ticket.jpg" alt="Wireframe of scanning a new ticket" /></p>
+</div>
+
+<div class="u-textAlign-center  u-mar-b05">
+    <video class="prototype-video" autoplay loop muted playsinline type="video/mp4" src="/assets/steamclock/valet65/valet65-scan-another-ticket.mp4" poster="/assets/steamclock/valet65/valet65-scan-another-ticket-poster.jpg"></video>
 </div>
 
 <div class="mw-700  u-mar-auto">

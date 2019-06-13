@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2019 18:15:01 -0700</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2019 18:15:01 -0700</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 00:08:33 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:08:33 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -112,7 +112,7 @@
 
 &lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
     &lt;h3&gt;Consumer app&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Scan ticket&lt;/strong&gt;&lt;br /&gt;The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error appears.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Scan ticket&lt;/strong&gt;&lt;br /&gt;The QR code scanner is the first thing you see when opening the app. You hover your phone over a QR code. When the scan is successfully, you are taken to the home view. If the QR code is invalid, an error is appears.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
@@ -137,20 +137,33 @@
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p&gt;&lt;strong&gt;Notifications from the valet&lt;/strong&gt;&lt;br /&gt;
-    You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car.&lt;/p&gt;
-    &lt;p class=&quot;u-textAlign-center&quot;&gt;&lt;img style=&quot;max-width: 574px;&quot; src=&quot;/assets/steamclock/valet65/notification-car-coming.jpg&quot; alt=&quot;Wireframe of notifications for car coming and ready&quot; /&gt;&lt;/p&gt;
+    You recieve notifications from the valet when your car is on the way or ready. This way you don’t have to open Valet65 again after you’ve paid and requested your car. The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;Grid Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+                &lt;video class=&quot;prototype-video&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/steamclock/valet65/valet65-car-on-the-way-notification.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-notification-car-on-the-way-poster.jpg&quot;&gt;&lt;/video&gt;
+                &lt;p class=&quot;c-grey03&quot;&gt;&lt;em&gt;On the way&lt;/em&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+                &lt;video class=&quot;prototype-video&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/steamclock/valet65/valet65-notification-car-ready.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-notification-car-ready-poster.jpg&quot;&gt;&lt;/video&gt;
+                &lt;p class=&quot;c-grey03&quot;&gt;&lt;em&gt;Ready&lt;/em&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Car is ready&lt;/strong&gt;&lt;br /&gt;
-    The “Arrives in ...” button changes to “Arrived” when your car is ready for pickup.&lt;/p&gt;
-    &lt;p class=&quot;u-textAlign-center&quot;&gt;&lt;img style=&quot;max-width: 574px;&quot; src=&quot;/assets/steamclock/valet65/car-ready.jpg&quot; alt=&quot;Wireframe of car ready&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Scan another ticket&lt;/strong&gt;&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;Scan a new ticket&lt;/strong&gt;&lt;br /&gt;
     The app resets to the QR code scanner after the valet closes out your transaction. You can scan another ticket any time by tapping the “Scan a new ticket” button on the home view.&lt;/p&gt;
-    &lt;p class=&quot;u-textAlign-center&quot;&gt;&lt;img style=&quot;max-width: 578px;&quot; src=&quot;/assets/steamclock/valet65/scanning-new-ticket.jpg&quot; alt=&quot;Wireframe of scanning a new ticket&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;u-textAlign-center  u-mar-b05&quot;&gt;
+    &lt;video class=&quot;prototype-video&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/steamclock/valet65/valet65-scan-another-ticket.mp4&quot; poster=&quot;/assets/steamclock/valet65/valet65-scan-another-ticket-poster.jpg&quot;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;mw-700  u-mar-auto&quot;&gt;
