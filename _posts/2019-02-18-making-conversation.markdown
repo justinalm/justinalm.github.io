@@ -51,7 +51,7 @@ published: true
 
 <hr class="mw-1024  u-mar-auto  u-mar-t00  u-mar-b05">
 
-<div class="mw-700  u-mar-auto">
+<div class="mw-700  u-mar-auto  u-mar-b05">
     <div class="u-pad-b03  u-mar-b05  u-bor-width-nrml-b">
         <h2 class="as-h3  u-mar-t00 u-mar-b03"><a id="studio-faculty"></a>Ep.1 – “What’s the name of this podcast?” with Studio Faculty</h2>
         <audio controls preload="metadata">

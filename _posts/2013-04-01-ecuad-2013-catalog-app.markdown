@@ -36,7 +36,7 @@ published: true
     </div>
 </div>
 
-<div class="mw-1024  u-mar-auto">
+<div class="mw-1024  u-mar-auto  u-mar-b05">
     <div class="Grid  Grid--withGutters">
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
             <img src="/assets/ecuad2013-desktop-2.jpg"/>

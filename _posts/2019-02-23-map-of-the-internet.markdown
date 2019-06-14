@@ -40,7 +40,7 @@ videoposter: /assets/map-of-the-internet-video-poster.jpg
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
 </figure>
 
-<div class="mw-1024  u-mar-auto">
+<div class="mw-1024  u-mar-auto  u-mar-b03">
     <div class="Grid  Grid--withGutters">
         <div class="Grid-cell  u-size1of1">
             <figure>

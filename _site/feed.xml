@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 12:35:12 -0700</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 12:35:12 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 12:41:45 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 12:41:45 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -408,7 +408,7 @@
     &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b03&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
@@ -968,7 +968,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;img src=&quot;/assets/wootoseeyou/wootoseeyou-hero.jpg&quot; /&gt;
@@ -1168,7 +1168,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b03&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
             &lt;figure class=&quot;u-mar-b02&quot;&gt;
@@ -1248,7 +1248,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b04&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;div class=&quot;media&quot;&gt;
@@ -1675,7 +1675,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;!-- First row --&gt;
         &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;

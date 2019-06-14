@@ -28,7 +28,7 @@ published: true
     </div>
 </div>
 
-<div class="Grid  Grid--withGutters">
+<div class="Grid  Grid--withGutters  u-mar-b03">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <img class="mw-1024" src="/assets/bravado/bravado1.jpg"/>
     </div>
