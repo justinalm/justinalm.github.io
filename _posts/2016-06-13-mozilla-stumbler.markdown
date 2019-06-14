@@ -1,5 +1,5 @@
 ---
-title: Mozilla Stumbler Concept
+title: Mozilla Stumbler
 description: A Pokémon GO style game to help expand Mozilla’s geolocation services.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
