@@ -1,18 +1,17 @@
 ---
-title: Jostle Calls
+title: Calls
 description: Video calls without leaving your company’s Jostle intranet.
 date: 2019-05-25
 layout: workPost
 thumbnail: /assets/jostle/calls-thumb.jpg
 details: Product
-categories: [Work, Jostle]
+categories: [Work]
 workplace: Jostle Corporation
 published: true
 ---
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
-    <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
-    <p class="as-h3  u-noMargin" style="max-width: 100%;">{{ page.description }}</p>
+    {% include post-header.html %}
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>

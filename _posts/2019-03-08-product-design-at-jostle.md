@@ -5,14 +5,13 @@ date: 2019-06-02
 layout: collectionPost
 thumbnail: https://via.placeholder.com/824x464
 details: Case study
-categories: [Work, Jostle]
+categories: [Work]
 workplace: Jostle Corporation
 published: false
 ---
 
 <div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t00  u-mar-b05">
-  <h1 class="u-noMargin  u-mar-b01"><strong>{{ page.title }}</strong></h1>
-  <p class="as-h3">{{ page.description }}</p>
+  {% include post-header.html %}
   <p class="as-h5  bp1-u-textAlign-center  u-mar-b05">&#8757;</p>
 </div>
 

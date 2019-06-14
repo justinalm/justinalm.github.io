@@ -4,15 +4,16 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 10:46:04 -0700</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 10:46:04 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 11:23:32 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 11:23:32 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Valet65</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlining valet parking with and iOS app and printed tickets.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlining valet parking with and iOS app and printed tickets.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -286,10 +287,11 @@
       </item>
     
       <item>
-        <title>Jostle Calls</title>
+        <title>Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Calls&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Jostle Corporation &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -364,21 +366,20 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/jostle/jostle-calls/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle/jostle-calls/</guid>
+        <link>http://localhost:4000/work/jostle-calls/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-calls/</guid>
         
         
         <category>Work</category>
-        
-        <category>Jostle</category>
         
       </item>
     
       <item>
         <title>Map of the Internet</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;iOS and Android apps model the structure of the internet in 3D.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;iOS and Android apps model the structure of the internet in 3D.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -472,8 +473,9 @@
       <item>
         <title>Jostle Blog</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A better home for content on Jostle’s primary marketing channel.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Jostle Corporation &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A better home for content on Jostle’s primary marketing channel.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -754,8 +756,9 @@
       <item>
         <title>Jostle Style Guide</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;The design system used by the Jostle’s Design and Dev Teams.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Jostle Corporation &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;The design system used by the Jostle’s Design and Dev Teams.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -939,8 +942,9 @@
       <item>
         <title>Woo To See You</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Identity, website, and interior design for Woo To See You.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Freelance &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Identity, website, and interior design for Woo To See You.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1134,8 +1138,9 @@
       <item>
         <title>Devmonitor.io</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A WIP Factory web app to help dev-evangelists connect with developers.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A WIP Factory web app to help dev-evangelists connect with developers.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1213,8 +1218,9 @@
       <item>
         <title>Know Ideas</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Awarded, McLuhanesque, exploration of the internet in printed experiments.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Emily Carr University of Art + Design &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Awarded, McLuhanesque, exploration of the internet in printed experiments.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1407,8 +1413,9 @@
       <item>
         <title>Jostle Illustrations</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Artwork for Jostle’s blog, website, and social media channels.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Jostle Corporation &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Artwork for Jostle’s blog, website, and social media channels.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1638,8 +1645,9 @@
       <item>
         <title>Mozilla Stumbler Concept</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b00&quot;&gt;&lt;strong&gt;Mozilla Stumbler Concept&lt;/strong&gt;&lt;/h1&gt;
-    &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A Pokémon GO style game to help expand Mozilla’s geolocation services.&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Mozilla Stumbler Concept&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A Pokémon GO style game to help expand Mozilla’s geolocation services.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
