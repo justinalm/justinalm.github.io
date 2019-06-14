@@ -37,7 +37,7 @@ videoposter: /assets/map-of-the-internet-video-poster.jpg
     </div>
 </div>
 
-<figure class="mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor">    <iframe src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
+<figure class="mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor">    <iframe class="u-rounded-corners" src="//www.youtube.com/embed/1YdBsoh4lp8" width="560" height="315" frameborder="0"> </iframe>
     <figcaption style="margin-top: 10px;">Featured on <span class="fw7">CNN Money</span>.</figcaption>
 </figure>
 

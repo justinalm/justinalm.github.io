@@ -42,7 +42,7 @@ published: true
 <div class="mw-1024  u-mar-auto  u-mar-b05">
     <div class="Grid  Grid--withGutters  Grid--alignMiddle">
         <div class="Grid-cell  u-size1of2">
-            <div class="u-rounded-corners" style="position: relative; background-image: url(/assets/steamclock/valet65/parking-lot.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
+            <div class="u-rounded-corners  u-border-shadow" style="position: relative; background-image: url(/assets/steamclock/valet65/parking-lot.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
                 <p class="image-caption-overlay  c-grey03"><em>Photo by Ryan Searle on Unsplash</em></p>
             </div>
         </div>
@@ -60,7 +60,7 @@ published: true
             <p><strong>Managing a valet business is difficult</strong>. Often, valet companies operate on <strong>antiquated systems</strong>. I mean, cash only??? Too often payments and tips slip into the valet’s pocket instead of the company bank account. The <strong>company doesn’t have visibility</strong> into their locations to understand who’s working, the number of cars parked at a time, revenue collected, and tips shared.</p>
         </div>
         <div class="Grid-cell  u-size1of2">
-            <div class="u-rounded-corners" style="position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
+            <div class="u-rounded-corners  u-border-shadow" style="position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;">
                 <p class="image-caption-overlay  c-grey03"><em>Photos by Sharon McCutcheon and Nathan Dumlao on Unsplash</em></p>
             </div>
         </div>
@@ -72,7 +72,7 @@ published: true
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  Grid--alignMiddle">
         <div class="Grid-cell  u-size1of2">
-            <div class="u-rounded-corners" style="background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 400px; max-height: 400px;">
+            <div class="u-rounded-corners  u-border-shadow" style="background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 400px; max-height: 400px;">
             </div>
         </div>
         <div class="Grid-cell  u-size1of2">

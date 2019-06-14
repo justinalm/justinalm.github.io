@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Jun 2019 20:06:34 -0700</pubDate>
-    <lastBuildDate>Thu, 13 Jun 2019 20:06:34 -0700</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 20:22:23 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 20:22:23 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -42,7 +42,7 @@
 &lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;div class=&quot;u-rounded-corners&quot; style=&quot;position: relative; background-image: url(/assets/steamclock/valet65/parking-lot.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;&quot;&gt;
+            &lt;div class=&quot;u-rounded-corners  u-border-shadow&quot; style=&quot;position: relative; background-image: url(/assets/steamclock/valet65/parking-lot.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;&quot;&gt;
                 &lt;p class=&quot;image-caption-overlay  c-grey03&quot;&gt;&lt;em&gt;Photo by Ryan Searle on Unsplash&lt;/em&gt;&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -60,7 +60,7 @@
             &lt;p&gt;&lt;strong&gt;Managing a valet business is difficult&lt;/strong&gt;. Often, valet companies operate on &lt;strong&gt;antiquated systems&lt;/strong&gt;. I mean, cash only??? Too often payments and tips slip into the valet’s pocket instead of the company bank account. The &lt;strong&gt;company doesn’t have visibility&lt;/strong&gt; into their locations to understand who’s working, the number of cars parked at a time, revenue collected, and tips shared.&lt;/p&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;div class=&quot;u-rounded-corners&quot; style=&quot;position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;&quot;&gt;
+            &lt;div class=&quot;u-rounded-corners  u-border-shadow&quot; style=&quot;position: relative; background-image: url(/assets/steamclock/valet65/cash.jpg); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;&quot;&gt;
                 &lt;p class=&quot;image-caption-overlay  c-grey03&quot;&gt;&lt;em&gt;Photos by Sharon McCutcheon and Nathan Dumlao on Unsplash&lt;/em&gt;&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -72,7 +72,7 @@
 &lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
     &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
-            &lt;div class=&quot;u-rounded-corners&quot; style=&quot;background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 400px; max-height: 400px;&quot;&gt;
+            &lt;div class=&quot;u-rounded-corners  u-border-shadow&quot; style=&quot;background-image: url(/assets/steamclock/valet65/valet65-thumb.jpg); background-size: cover; background-position-x: 16%; min-height: 400px; max-height: 400px;&quot;&gt;
             &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
@@ -320,8 +320,8 @@
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;div class=&quot;media  u-border-shadow&quot; style=&quot;padding-top: 54.7%;&quot;&gt;
-                    &lt;video class=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
+                &lt;div class=&quot;media  u-rounded-corners  u-border-shadow&quot; style=&quot;padding-top: 54.7%;&quot;&gt;
+                    &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle/calls.mp4&quot; poster=&quot;/assets/jostle/calls-video-poster.jpg&quot;&gt;&lt;/video&gt;
                 &lt;/div&gt;
                 &lt;figcaption&gt;Principle prototype.&lt;/figcaption&gt;
             &lt;/figure&gt;
@@ -405,7 +405,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;    &lt;iframe src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;    &lt;iframe class=&quot;u-rounded-corners&quot; src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
     &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
