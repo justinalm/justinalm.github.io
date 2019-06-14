@@ -44,7 +44,7 @@ published: true
         <div class="Grid-cell  u-size1of4">
             <img src="/assets/wootoseeyou/wootoseeyou-brand-grid-1.jpg"/>
         </div>
-        <div class="Grid-cell  u-size1of4">ƒ
+        <div class="Grid-cell  u-size1of4">
             <img src="/assets/wootoseeyou/wootoseeyou-brand-grid-2.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of4">
