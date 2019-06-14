@@ -1,5 +1,5 @@
 ---
-title: The Jostle Blog
+title: Jostle Blog
 description: A better home for content on Jostle’s primary marketing channel.
 date: 2019-02-25
 layout: workPost

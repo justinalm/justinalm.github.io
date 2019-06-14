@@ -1,5 +1,5 @@
 ---
-title: Calls
+title: Jostle Calls
 description: Video calls without leaving your company’s Jostle intranet.
 date: 2019-05-25
 layout: workPost

@@ -1,5 +1,5 @@
 <div class="mw-1024  u-mar-auto">
-    <h2 class="as-h3">Case Studies</h2>
+    <h2>Case studies</h2>
     <div class="Grid  Grid--withGutters">
         {% for post in site.categories.Case-studies %}
         <div class="Grid-cell  u-size1of3">
@@ -12,7 +12,7 @@
                     </div>
                 </a>
                 {% endif %}
-                <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                <h3 class="as-h5  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
                 <p class="c-grey04  u-noMargin  u-mar-b02">{{ post.description }}</p>
                 <p class="u-mar-t02  u-mar-b02"><a href="{{ post.url }}" title="{{ post.title }}" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
             </div>
@@ -21,8 +21,8 @@
 </div>
 
 <div class="mw-1024  u-mar-auto">
-    <h2 class="as-h3  u-mar-b01">Archive</h2>
-    <p class="u-mar-t00  c-grey03">These projects show my range but don’t include a lot of detail.</p>
+    <h2 class="u-mar-b01">Archive</h2>
+    <p class="u-mar-t00  c-grey03"><strong>Heads up!</strong> These projects show my range but are light on the details. <a class="u-cleanLink" href="mailto:almjustin@gmail.com" title="Email me">Email me</a> to learn more.</p>
     <div class="Grid  Grid--withGutters">
         {% for post in site.categories.Work %}
             {% unless post.categories contains 'Case-studies' %}
@@ -36,7 +36,7 @@
                         </div>
                     </a>
                     {% endif %}
-                    <h3 class="as-h4  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                    <h3 class="as-h5  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
                     <p class="c-grey04  u-noMargin  u-mar-b02">{{ post.description }}</p>
                     <p class="u-mar-t02  u-mar-b02"><a href="{{ post.url }}" title="{{ post.title }}" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
             </div>

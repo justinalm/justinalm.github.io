@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Jun 2019 17:41:34 -0700</pubDate>
-    <lastBuildDate>Thu, 13 Jun 2019 17:41:34 -0700</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 20:06:34 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 20:06:34 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -288,9 +288,9 @@
       </item>
     
       <item>
-        <title>Calls</title>
+        <title>Jostle Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Calls&lt;/strong&gt;&lt;/h1&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Calls&lt;/strong&gt;&lt;/h1&gt;
     &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
@@ -474,9 +474,9 @@
       </item>
     
       <item>
-        <title>The Jostle Blog</title>
+        <title>Jostle Blog</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;The Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
+    &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
     &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A better home for content on Jostle’s primary marketing channel.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
@@ -922,7 +922,7 @@
         &lt;img style=&quot;max-width: 700px;&quot; class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
         &lt;figcaption&gt;Evidence of Jostle’s complexity increasing in Figma.&lt;/figcaption&gt;
     &lt;/figure&gt;
-    &lt;p&gt;Without total vertical integration, tracking changes from the Style Guide to all of the instances where styles were implemented, made for a less than perfect outcome. There were many ways to try and deal with that problem but everyone was always balancing cost vs benefit on the production pipeline.&lt;/p&gt;
+    &lt;p&gt;withthout total vertical integration, tracking changes from the Style Guide to all of the instances where styles were implemented, made for a less than perfect outcome. There were many ways to try and deal with that problem but everyone was always balancing cost vs benefit on the production pipeline.&lt;/p&gt;
     &lt;p&gt;Since our Style Guide wasn’t totally integrated into the development process, it required our UI Developers and QA Teams to know and understand font-sizes, spacing units, colours, and rules for form controls.&lt;/p&gt;
     &lt;p&gt;Ironically, abstracting all of that detailed information into more human language &lt;em&gt;was the value proposition&lt;/em&gt; of the Style Guide. That shared ‘human’ language didn’t steep throughout the organization but slowly made things better. Jostle is still trying to solve the problem of lack of adoption throughout the Dev Team. Most likely, that will be solved with a few champions setting a standard of use moving forward and integrating the &lt;em&gt;Style Guide&lt;/em&gt; into the dev environment.&lt;/p&gt;
     &lt;p&gt;Jostle applied a lean development philosophy. The Style Guide wasn’t created to go back and fix everything that was stylistically flawed. Instead, it was to be used moving forward, on all the product we were planning to ship. Although the full impact of &lt;em&gt;The Style Guide&lt;/em&gt; wasn’t realized during my time at Jostle, it brought immediate benefits to the Design Team. We were able to move forward in a unified voice—communicating a shared vision for the product together.&lt;/p&gt;
