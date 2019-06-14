@@ -3,7 +3,7 @@ title: Bravado Magazine
 description: A redesign of Bravado’s brand and website, into “high gloss pixels”.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: [Work, ECUAD]
+categories: [Work]
 thumbnail: /assets/bravado/bravado-thumb.jpg
 details: Website
 workplace: Emily Carr University

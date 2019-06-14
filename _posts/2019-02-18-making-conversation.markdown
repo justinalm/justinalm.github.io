@@ -3,7 +3,7 @@ title: Making Conversation
 description: An interviews podcast about creative journeys, with Shawn Choi.
 date: 2016-06-12
 layout: workPost
-categories: [Work, Personal-projects]
+categories: [Work]
 workplace: Personal Projects
 thumbnail: /assets/making-conversation/making-conversation-thumb.jpg
 details: Podcast

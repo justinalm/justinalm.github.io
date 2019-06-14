@@ -3,7 +3,7 @@ title: Wedding DJ iPad app
 description: Queuing of multiple playlists for weddings and other events.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: [Work, Steamclock]
+categories: [Work]
 workplace: Steamclock Software
 video: /assets/weddingdj/weddingdj-ipad-thumbnail-compressed.mp4
 videoposter: /assets/weddingdj/weddingdj-ipad-thumb.jpg

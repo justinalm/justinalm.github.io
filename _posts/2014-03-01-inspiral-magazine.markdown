@@ -3,7 +3,7 @@ title: Inspiral Magazine
 description: A publishing system designed to take on a life of its own.
 date: 2016-06-12 23:57:00 -07:00
 layout: workPost
-categories: [Work, Personal-projects]
+categories: [Work]
 workplace: Personal Projects
 thumbnail: /assets/inspiralMagazineThumb.jpg
 published: false

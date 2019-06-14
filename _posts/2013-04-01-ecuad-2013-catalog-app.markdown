@@ -3,7 +3,7 @@ title: ECUAD Catalog Platform
 description: Web and iPad apps for curators to approve and publish exhibition projects.
 date: 2016-06-12 22:36:00 -07:00
 layout: workPost
-categories: [Work, Steamclock]
+categories: [Work]
 workplace: Steamclock Software
 details: App
 thumbnail: /assets/ecuad2013-thumb.jpg

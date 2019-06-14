@@ -3,7 +3,7 @@ title: Know Ideas
 description: Awarded, McLuhanesque, exploration of the internet in printed experiments.
 date: 2019-02-21
 layout: workPost
-categories: [Work, ECUAD]
+categories: [Work]
 workplace: Emily Carr University
 video: /assets/know-ideas/know-ideas-compressed.mp4
 videoposter: /assets/know-ideas/know-ideas-video-poster.jpg

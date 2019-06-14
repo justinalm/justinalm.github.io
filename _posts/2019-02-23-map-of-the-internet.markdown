@@ -3,7 +3,7 @@ title: Map of the Internet
 description: iOS and Android apps model the structure of the internet in 3D.
 date: 2019-02-25
 layout: workPost
-categories: [Work, Steamclock]
+categories: [Work]
 workplace: Steamclock Software
 details: App
 video: /assets/peer1-map-of-the-internet-thumbnail.mp4

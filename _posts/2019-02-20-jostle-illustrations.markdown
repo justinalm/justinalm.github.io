@@ -3,7 +3,7 @@ title: Jostle Illustrations
 description: Artwork for Jostle’s blog, website, and social media channels.
 date: 2019-02-20
 layout: workPost
-categories: [Work, Jostle]
+categories: [Work]
 workplace: Jostle Corporation
 details: Illustration
 thumbnail: /assets/jostle-illustrations/jostle-illustrations-thumb.jpg
