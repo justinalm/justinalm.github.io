@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 11:23:32 -0700</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 11:23:32 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 12:35:12 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 12:35:12 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -876,8 +876,6 @@
     &lt;li&gt;Horizontally and vertically centre art within a 40px x 40px container to provide adequate affordance.&lt;/li&gt;
     &lt;/ul&gt;
     &lt;img class=&quot;u-pad-t03  u-mar-b03&quot; src=&quot;/assets/jostle-style-guide/jostle-icons.jpg&quot; alt=&quot;Jostle icons&quot; /&gt;
-
-&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p&gt;&lt;strong&gt;No components&lt;/strong&gt;&lt;br /&gt;You may be wondering, why we stopped describing things at the atomic level. The Design Team discussed the pros and cons of building an “atomic style guide” or fully detailing the components we used throughout the application. After several rounds of debate, we agreed not to take on that task of further detailing UI patterns for the following reasons:&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Having a detailed component based library like Bootstrap, Foundation, or Pure CSS, didn’t guarantee a polished user experience.&lt;/li&gt;
@@ -903,30 +901,35 @@
             &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-style-guide/jekyll-site.jpg&quot; alt=&quot;Jekyll website&quot; /&gt;
             &lt;p class=&quot;u-textAlign-center  c-grey03  u-mar-b00&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;em&gt;style.jostle.us&lt;/em&gt;&lt;/p&gt;
         &lt;/div&gt;
+    &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;h2 class=&quot;u-mar-t00&quot;&gt;Reflection&lt;/h2&gt;
+            &lt;p&gt;The Style Guide &lt;strong&gt;proved to be very useful&lt;/strong&gt; when designers joined Jostle’s Design Team. It &lt;strong&gt;empowered designers&lt;/strong&gt; to:&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Make &lt;strong&gt;more impactful decisions&lt;/strong&gt; faster&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Work independently&lt;/strong&gt; was the number of projects increased&lt;/li&gt;
+                &lt;li&gt;Achieve a higher level of &lt;strong&gt;consistency&lt;/strong&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Reduce complexity&lt;/strong&gt; for our end users&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure class=&quot;u-textAlign-center  u-mar-t03  u-mar-b01&quot;&gt;
+                &lt;img style=&quot;max-width: 700px;&quot; class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
+                &lt;figcaption&gt;Evidence of Jostle’s increasing complexity in Figma.&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;h2&gt;&lt;a id=&quot;downsides&quot;&gt;&lt;/a&gt;Reflection&lt;/h2&gt;
-    &lt;p&gt;Jostle’s Design Team used the Style Guide to great effect and it’s proved to be very useful when designers joined our team. It empowered designers to:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Make more impactful decisions faster&lt;/li&gt;
-        &lt;li&gt;Work independently was the number of projects increased&lt;/li&gt;
-        &lt;li&gt;Achieve a higher level of consistency&lt;/li&gt;
-        &lt;li&gt;Reduce complexity for our end users&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;figure class=&quot;u-textAlign-center  u-mar-t05  u-mar-b05&quot;&gt;
-        &lt;img style=&quot;max-width: 700px;&quot; class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-style-guide/jostle-complexity.jpg&quot; alt=&quot;Jostle Complexity&quot; /&gt;
-        &lt;figcaption&gt;Evidence of Jostle’s complexity increasing in Figma.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-    &lt;p&gt;withthout total vertical integration, tracking changes from the Style Guide to all of the instances where styles were implemented, made for a less than perfect outcome. There were many ways to try and deal with that problem but everyone was always balancing cost vs benefit on the production pipeline.&lt;/p&gt;
-    &lt;p&gt;Since our Style Guide wasn’t totally integrated into the development process, it required our UI Developers and QA Teams to know and understand font-sizes, spacing units, colours, and rules for form controls.&lt;/p&gt;
-    &lt;p&gt;Ironically, abstracting all of that detailed information into more human language &lt;em&gt;was the value proposition&lt;/em&gt; of the Style Guide. That shared ‘human’ language didn’t steep throughout the organization but slowly made things better. Jostle is still trying to solve the problem of lack of adoption throughout the Dev Team. Most likely, that will be solved with a few champions setting a standard of use moving forward and integrating the &lt;em&gt;Style Guide&lt;/em&gt; into the dev environment.&lt;/p&gt;
-    &lt;p&gt;Jostle applied a lean development philosophy. The Style Guide wasn’t created to go back and fix everything that was stylistically flawed. Instead, it was to be used moving forward, on all the product we were planning to ship. Although the full impact of &lt;em&gt;The Style Guide&lt;/em&gt; wasn’t realized during my time at Jostle, it brought immediate benefits to the Design Team. We were able to move forward in a unified voice—communicating a shared vision for the product together.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Withthout total vertical integration&lt;/strong&gt;, tracking changes from the Style Guide to all of the instances where styles were implemented, made for &lt;strong&gt;a less than perfect outcome&lt;/strong&gt;. There were many ways to try and deal with that problem but everyone was &lt;strong&gt;always balancing cost vs benefit&lt;/strong&gt; on the production pipeline.&lt;/p&gt;
+    &lt;p&gt;The shared ‘human’ language of the Style Guide didn’t spread completely throughout the organization but &lt;strong&gt;slowly made things better&lt;/strong&gt;. The Jostle &lt;strong&gt;Design Team continues to work on adoption&lt;/strong&gt; throughout the Dev Team. Most likely, adoption will increase when &lt;strong&gt;a few champions integrate the Style Guide&lt;/strong&gt; into the dev environment.&lt;/p&gt;
+    &lt;p&gt;Jostle has a &lt;em&gt;lean&lt;/em&gt; development philosophy. The Style Guide wasn’t created to go back and fix everything that was stylistically flawed. Instead, &lt;strong&gt;the intent was to use it moving forward&lt;/strong&gt; on product on the roadmap. Although the full impact of the Style Guide wasn’t realized during my time at Jostle, it brought &lt;strong&gt;immediate benefits to the Design Team&lt;/strong&gt;. We were able to move forward in a &lt;strong&gt;unified voice&lt;/strong&gt;—communicating a shared vision for the product together.&lt;/p&gt;
     &lt;h2&gt;&lt;a id=&quot;response&quot;&gt;&lt;/a&gt;Response&lt;/h2&gt;
     &lt;blockquote class=&quot;as-h4  c-grey03  u-pad-l03  u-noMargin  u-mar-b05&quot; style=&quot;border-left: 4px solid #eceff1;&quot;&gt;&lt;em&gt;In my 15+ years in software development, a designer has never explained to this level what the style of the product should be. For a person that cares about design and consistency (but does not have your expertise) this is really huge. Thanks so much.&lt;/em&gt;&lt;br /&gt;&lt;span class=&quot;as-h6&quot;&gt;&lt;strong&gt;Darren John, Test Team Lead at Jostle&lt;/strong&gt;&lt;/span&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
-&lt;/p&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/work/case-studies/the-jostle-style-guide/</link>

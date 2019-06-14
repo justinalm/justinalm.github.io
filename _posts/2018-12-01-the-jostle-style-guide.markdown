@@ -128,8 +128,6 @@ published: true
     <li>Horizontally and vertically centre art within a 40px x 40px container to provide adequate affordance.</li>
     </ul>
     <img class="u-pad-t03  u-mar-b03" src="/assets/jostle-style-guide/jostle-icons.jpg" alt="Jostle icons">
-
-<div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>No components</strong><br>You may be wondering, why we stopped describing things at the atomic level. The Design Team discussed the pros and cons of building an “atomic style guide” or fully detailing the components we used throughout the application. After several rounds of debate, we agreed not to take on that task of further detailing UI patterns for the following reasons:</p>
     <ul>
     <li>Having a detailed component based library like Bootstrap, Foundation, or Pure CSS, didn’t guarantee a polished user experience.</li>
@@ -155,26 +153,32 @@ published: true
             <img class="u-rounded-corners  u-border-shadow" src="/assets/jostle-style-guide/jekyll-site.jpg" alt="Jekyll website">
             <p class="u-textAlign-center  c-grey03  u-mar-b00" style="font-size: 16px;"><em>style.jostle.us</em></p>
         </div>
+    </div></p></div>
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <div class="Grid  Grid--withGutters  Grid--alignMiddle">
+        <div class="Grid-cell  u-size1of2">
+            <h2 class="u-mar-t00">Reflection</h2>
+            <p>The Style Guide <strong>proved to be very useful</strong> when designers joined Jostle’s Design Team. It <strong>empowered designers</strong> to:</p>
+            <ul>
+                <li>Make <strong>more impactful decisions</strong> faster</li>
+                <li><strong>Work independently</strong> was the number of projects increased</li>
+                <li>Achieve a higher level of <strong>consistency</strong></li>
+                <li><strong>Reduce complexity</strong> for our end users</li>
+            </ul>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <figure class="u-textAlign-center  u-mar-t03  u-mar-b01">
+                <img style="max-width: 700px;" class="u-rounded-corners  u-border-shadow" src="/assets/jostle-style-guide/jostle-complexity.jpg" alt="Jostle Complexity">
+                <figcaption>Evidence of Jostle’s increasing complexity in Figma.</figcaption>
+            </figure>
+        </div>
     </div>
 </div>
-
 <div class="mw-700  u-mar-auto  u-mar-b05">
-    <h2><a id="downsides"></a>Reflection</h2>
-    <p>Jostle’s Design Team used the Style Guide to great effect and it’s proved to be very useful when designers joined our team. It empowered designers to:</p>
-    <ul>
-        <li>Make more impactful decisions faster</li>
-        <li>Work independently was the number of projects increased</li>
-        <li>Achieve a higher level of consistency</li>
-        <li>Reduce complexity for our end users</li>
-    </ul>
-    <figure class="u-textAlign-center  u-mar-t05  u-mar-b05">
-        <img style="max-width: 700px;" class="u-rounded-corners  u-border-shadow" src="/assets/jostle-style-guide/jostle-complexity.jpg" alt="Jostle Complexity">
-        <figcaption>Evidence of Jostle’s complexity increasing in Figma.</figcaption>
-    </figure>
-    <p>withthout total vertical integration, tracking changes from the Style Guide to all of the instances where styles were implemented, made for a less than perfect outcome. There were many ways to try and deal with that problem but everyone was always balancing cost vs benefit on the production pipeline.</p>
-    <p>Since our Style Guide wasn’t totally integrated into the development process, it required our UI Developers and QA Teams to know and understand font-sizes, spacing units, colours, and rules for form controls.</p>
-    <p>Ironically, abstracting all of that detailed information into more human language <em>was the value proposition</em> of the Style Guide. That shared ‘human’ language didn’t steep throughout the organization but slowly made things better. Jostle is still trying to solve the problem of lack of adoption throughout the Dev Team. Most likely, that will be solved with a few champions setting a standard of use moving forward and integrating the <em>Style Guide</em> into the dev environment.</p>
-    <p>Jostle applied a lean development philosophy. The Style Guide wasn’t created to go back and fix everything that was stylistically flawed. Instead, it was to be used moving forward, on all the product we were planning to ship. Although the full impact of <em>The Style Guide</em> wasn’t realized during my time at Jostle, it brought immediate benefits to the Design Team. We were able to move forward in a unified voice—communicating a shared vision for the product together.</p>
+    <p><strong>Withthout total vertical integration</strong>, tracking changes from the Style Guide to all of the instances where styles were implemented, made for <strong>a less than perfect outcome</strong>. There were many ways to try and deal with that problem but everyone was <strong>always balancing cost vs benefit</strong> on the production pipeline.</p>
+    <p>The shared ‘human’ language of the Style Guide didn’t spread completely throughout the organization but <strong>slowly made things better</strong>. The Jostle <strong>Design Team continues to work on adoption</strong> throughout the Dev Team. Most likely, adoption will increase when <strong>a few champions integrate the Style Guide</strong> into the dev environment.</p>
+    <p>Jostle has a <em>lean</em> development philosophy. The Style Guide wasn’t created to go back and fix everything that was stylistically flawed. Instead, <strong>the intent was to use it moving forward</strong> on product on the roadmap. Although the full impact of the Style Guide wasn’t realized during my time at Jostle, it brought <strong>immediate benefits to the Design Team</strong>. We were able to move forward in a <strong>unified voice</strong>—communicating a shared vision for the product together.</p>
     <h2><a id="response"></a>Response</h2>
     <blockquote class="as-h4  c-grey03  u-pad-l03  u-noMargin  u-mar-b05" style="border-left: 4px solid #eceff1;"><em>In my 15+ years in software development, a designer has never explained to this level what the style of the product should be. For a person that cares about design and consistency (but does not have your expertise) this is really huge. Thanks so much.</em><br><span class="as-h6"><strong>Darren John, Test Team Lead at Jostle</strong></span></blockquote>
 </div>
