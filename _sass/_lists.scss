@@ -10,3 +10,15 @@ ul.cleanList, ol.cleanList {
     list-style: none;
     padding-left: 0;
 }
+
+ul.checklist {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul.checklist li:before {
+  content: '✓';
+  color: #1ECE7C;
+  font-weight: 700;
+  margin-right: 8px;
+}
