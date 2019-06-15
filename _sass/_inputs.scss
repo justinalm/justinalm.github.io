@@ -5,12 +5,13 @@
 
 .Input, .Input--block {
     font-family: $base-font-family;
-    font-size: $font-size-ash5;
+    font-size: $font-size-ash4;
     line-height: $line-height00; 
     padding: $spacing-unit $spacing-unit*1.5;
     border-radius: $spacing-unit/2;
     border: 1px solid $grey02;
     box-sizing: border-box;
+    -webkit-appearance: none;
 }
 
 .Input[disabled] {
