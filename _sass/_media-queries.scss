@@ -60,6 +60,9 @@
     .grid-caption {
       text-align: center;
     }
+    form {
+        padding: $spacing-unit*5;
+    }
 }
 
 @media all and (min-width: 1020px) {

@@ -230,6 +230,11 @@ body {
 .project-metadata div:last-child {
   margin-right: 0; }
 
+/* .hidden {
+  display: none;
+  height: 0;
+  line-height: 0;
+} */
 ul.work-list {
   padding: 0;
   margin: 40px auto 0 auto;
@@ -883,6 +888,9 @@ button.Btn--block {
 
 .morelink {
   display: block; }
+
+form {
+  padding: 16px; }
 
 /*
  * Inputs
@@ -3937,7 +3945,10 @@ html.is-flickity-fullscreen {
 
   figcaption,
   .grid-caption {
-    text-align: center; } }
+    text-align: center; }
+
+  form {
+    padding: 40px; } }
 @media all and (min-width: 1020px) {
   body {
     margin: 16px 40px; }
