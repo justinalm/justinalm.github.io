@@ -230,11 +230,11 @@ body {
 .project-metadata div:last-child {
   margin-right: 0; }
 
-/* .hidden {
+.hidden {
   display: none;
   height: 0;
-  line-height: 0;
-} */
+  line-height: 0; }
+
 ul.work-list {
   padding: 0;
   margin: 40px auto 0 auto;
