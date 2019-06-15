@@ -27,17 +27,17 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
                 <div class="Grid-cell  u-size1of2">    
                     <div class="u-mar-b02">
                         <strong>Type of project</strong>:<br>
-                        <input type="checkbox" id="web-app" name="type-of-project" value="web-app"><label for="web-app">&nbsp;Web</label><br>
-                        <input type="checkbox" id="ios-app" name="type-of-project" value="ios-app"><label for="ios-app">&nbsp;iOS</label><br>
-                        <input type="checkbox" id="android-app" name="type-of-project" value="android-app"><label for="android-app">&nbsp;Android</label>
+                        <input type="checkbox" name="Type of project" id="web-app" value="web-app"><label for="web-app">&nbsp;Web</label><br>
+                        <input type="checkbox" name="Type of project" id="ios-app" value="ios-app"><label for="ios-app">&nbsp;iOS</label><br>
+                        <input type="checkbox" name="Type of project" id="android-app" value="android-app"><label for="android-app">&nbsp;Android</label>
                     </div>
                 </div>
                 <div class="Grid-cell  u-size1of2">
                     <div class="u-mar-b02">
                         <strong>Estimated budget</strong> <span class="c-grey03">(Required)</span>:<br>
-                        <input type="radio" id="under-5k" name="budget" value="Under $5k" required><label for="under-5k">&nbsp;Under $5k</label><br>
-                        <input type="radio" id="5k-to-25k" name="budget" value="Budget $5k to $25k"><label for="5k-to-25k">&nbsp;$5k – $25k</label><br>
-                        <input type="radio" id="over-25k" name="budget" value="Over $25k"><label for="over-25k">&nbsp;Over $25k</label>
+                        <input type="radio" name="Budget" id="under-5k" value="Under $5k" required><label for="under-5k">&nbsp;Under $5k</label><br>
+                        <input type="radio" name="Budget" id="5k-to-25k" value="Budget $5k to $25k"><label for="5k-to-25k">&nbsp;$5k – $25k</label><br>
+                        <input type="radio" name="Budget" id="over-25k" value="Over $25k"><label for="over-25k">&nbsp;Over $25k</label>
                     </div>
                 </div>
             </div>
