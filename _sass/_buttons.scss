@@ -76,11 +76,14 @@ button.Btn--block { /* cheats for button elements */
 
 .Btn--confirm:hover {
     color: $white;
-    background-color: $blue02;
+    background-color: $blue01;
     font-weight: 700;
 }
 
-.Btn--confirm:focus {
+.Btn--confirm:focus,
+.Btn--confirm:active {
+    color: $white;
+    background-color: $blue01;
     box-shadow: 0 0 0 2px $blue02;
 }
 

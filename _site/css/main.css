@@ -854,10 +854,13 @@ button.Btn--block {
 
 .Btn--confirm:hover {
   color: #ffffff;
-  background-color: #5790E5;
+  background-color: #0A2EB9;
   font-weight: 700; }
 
-.Btn--confirm:focus {
+.Btn--confirm:focus,
+.Btn--confirm:active {
+  color: #ffffff;
+  background-color: #0A2EB9;
   box-shadow: 0 0 0 2px #5790E5; }
 
 .Btn--destructive {
@@ -885,7 +888,7 @@ button.Btn--block {
  * Inputs
  * For text, date, etc. inputs
  */
-.Input {
+.Input, .Input--block {
   font-family: "Inter", sans-serif;
   font-size: 14px;
   line-height: 1;
