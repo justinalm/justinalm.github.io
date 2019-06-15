@@ -116,7 +116,8 @@ permalink: /about/good-words/
         <div class="Grid-cell  u-size1of2">
             <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>”Justin is dedicated to designing with the user in mind, utilizing team capabilities fully and ensuring consistency of brand. He is a positive voice, advocating for both the user and his team, while ensuring an understanding of all areas of the business. I always enjoyed working with him.”</em></p><p class="as-h6  u-mar-t01"><strong><a href="https://www.linkedin.com/in/louisejohnsonyvr/" class="u-cleanLink">Louise Johnson</a>, Director of Events & Special Projects at Axiom Zen<br> March 26, 2019, Louise and I worked in different groups</strong></p></blockquote>
         </div>
+        <div class="Grid-cell  u-size1of1">
+            <p class="u-noMargin">Need design for your next app?&nbsp;&nbsp;<span><a class="Btn  u-mar-t02" href="mailto:almjustin@gmail.com" title="Contact me">Contact me&nbsp;&nbsp;&rarr;</a></span></p>
+        </div>
     </div>
 </div>
-
-<div class="u-mar-b05">&nbsp;</div>

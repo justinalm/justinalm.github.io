@@ -1,6 +1,6 @@
 ---
 title: Wedding DJ iPad app
-description: Queuing of multiple playlists for weddings and other events.
+description: A DJ app so easy to use that grandma can rock your wedding.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work]
@@ -16,7 +16,7 @@ published: true
     <div class="project-metadata  u-mar-auto  u-mar-t05  u-mar-b00">
         <div class="objective">
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Objective</strong>:</h2>
-            <p class="u-noMargin  u-mar-b02">Extend iPhone app to a universal iOS app, utilizing iPad features, so easy to use, grandma can rock your wedding.</p>
+            <p class="u-noMargin  u-mar-b02">Extend the design of Wedding DJ so it lives as a universal iOS app, utilizing the real estate and features available on the iPad, while maintaining consistent UX with the iPhone UI.</p>
         </div>
         <div>
             <h2 class="as-h5  u-noMargin  u-mar-b01"><strong>Design</strong>:</h2>
@@ -52,7 +52,7 @@ published: true
     </div>
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
-            <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-3.jpg" alt="WeddingDJ iPad app sketching" />
+            <img class="mw-1024  u-rounded-corners  u-border-shadow" src="/assets/steamclock/weddingdj-ipad-3.jpg" alt="WeddingDJ iPad app sketching" />
             <figcaption>Rough sketches to explore how the WeddingDJ iPhone interface translates to the iPad.</figcaption>
         </figure>
     </div>

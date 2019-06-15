@@ -1,6 +1,6 @@
 ---
 title: Valet65
-description: Streamlining valet parking with and iOS app and printed tickets.
+description: Streamlining valet parking with an iOS app, web service, and printed tickets.
 date: 2019-05-28
 layout: workPost
 categories: [Work, Case-studies]

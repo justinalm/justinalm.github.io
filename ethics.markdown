@@ -161,6 +161,6 @@ thumbnail: /assets/ethics/divergent-and-convergent-thinking.svg
 
 <h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Mission</h2>
 
-<p class="mw-1024  as-h3  u-mar-t00  u-mar-auto">I’m passionate about bringing vision to reality, focused on meaningful ideas, applying excellence in craft, to build impactful experiences, that help business grow, and make the world a better place.</p>
+<p class="mw-1024  as-h3  u-mar-t00  u-mar-auto  u-mar-b05">I’m passionate about bringing vision to reality, focused on meaningful ideas, applying excellence in craft, to build impactful experiences, that help business grow, and make the world a better place.</p>
 
-<div class="u-mar-b05">&nbsp;</div>
+<p class="mw-1024  u-mar-t00  u-mar-auto  u-mar-b05">Need design for your next app?&nbsp;&nbsp;<span><a class="Btn" href="mailto:almjustin@gmail.com" title="Contact me">Contact me&nbsp;&nbsp;&rarr;</a></span></p>

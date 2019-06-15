@@ -1,6 +1,6 @@
 ---
 title: Bravado Magazine
-description: A redesign of Bravado’s brand and website, into “high gloss pixels”.
+description: A redesign of Bravado’s brand and website into “high gloss pixels”.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
 categories: [Work]

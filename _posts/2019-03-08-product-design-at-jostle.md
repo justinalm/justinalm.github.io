@@ -2,7 +2,7 @@
 title: Product Design at Jostle
 description: This is the story of why I joined Jostle as a UX Designer; our approach to product development, design process, and a summary of our what we achieved during my 4 years and 4 months there.
 date: 2019-06-02
-layout: collectionPost
+layout: workPost
 thumbnail: https://via.placeholder.com/824x464
 details: Case study
 categories: [Work]

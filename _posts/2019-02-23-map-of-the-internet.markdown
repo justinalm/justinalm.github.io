@@ -1,6 +1,6 @@
 ---
 title: Map of the Internet
-description: iOS and Android apps model the structure of the internet in 3D.
+description: An interactive 3D model of the internet for iOS and Android.
 date: 2019-02-25
 layout: workPost
 categories: [Work]

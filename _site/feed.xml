@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jun 2019 15:08:00 -0700</pubDate>
-    <lastBuildDate>Fri, 14 Jun 2019 15:08:00 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Jun 2019 17:16:20 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2019 17:16:20 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -13,7 +13,7 @@
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlining valet parking with and iOS app and printed tickets.&lt;/p&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlining valet parking with an iOS app, web service, and printed tickets.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -379,7 +379,7 @@
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Steamclock Software &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;iOS and Android apps model the structure of the internet in 3D.&lt;/p&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An interactive 3D model of the internet for iOS and Android.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -475,7 +475,7 @@
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
     &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Jostle Corporation &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A better home for content on Jostle’s primary marketing channel.&lt;/p&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A modern home for the content in Jostle’s primary marketing channel.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;

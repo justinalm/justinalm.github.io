@@ -90,7 +90,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
 
 <h2 class="mw-1024  u-pad-t00  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Education</h2>
 
-<div class="mw-1024 u-mar-auto">
+<div class="mw-1024 u-mar-auto  u-mar-b03">
     <div class="Grid  Grid--withGutters  u-pad-b03">
         <div class="Grid-cell  u-size1of2">
             <img class="u-rounded-corners  u-border-shadow" src="/assets/about/about-ecuad.jpg" alt="Know Ideas at the Grad Exhibition" />
@@ -116,4 +116,4 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     </div>
 </div>
 
-<div class="u-mar-b05">&nbsp;</div>
+<p class="mw-1024  u-mar-t00  u-mar-auto  u-mar-b05">Need design for your next app?&nbsp;&nbsp;<span><a class="Btn  u-mar-t02" href="mailto:almjustin@gmail.com" title="Contact me">Contact me&nbsp;&nbsp;&rarr;</a></span></p>
