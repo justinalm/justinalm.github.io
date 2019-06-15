@@ -49,4 +49,5 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
             </div>
         </form>
     </div>
+    <p class="u-textAlign-center">Don’t need design but still want to chat? Email me: <a href="mailto:almjustin@gmail.com" title="almjustin@gmail.com">almjustin@gmail.com</a>.</p>
 </div>
