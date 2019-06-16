@@ -896,6 +896,22 @@ form {
  * Inputs
  * For text, date, etc. inputs
  */
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  font-size: 16px; }
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  font-size: 16px; }
+
+:-ms-input-placeholder {
+  /* IE 10+ */
+  font-size: 16px; }
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  font-size: 16px; }
+
 .Input, .Input--block {
   font-family: "Inter", sans-serif;
   font-size: 16px;

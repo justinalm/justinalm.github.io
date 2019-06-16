@@ -7,6 +7,22 @@ form {
  * For text, date, etc. inputs
  */
 
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-size: $font-size-ash4;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+  font-size: $font-size-ash4;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+  font-size: $font-size-ash4;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  font-size: $font-size-ash4;
+}
+
 .Input, .Input--block {
     font-family: $base-font-family;
     font-size: $font-size-ash4;

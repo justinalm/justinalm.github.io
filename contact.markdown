@@ -36,23 +36,43 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
                     </p>
                     <div class="Grid">
                         <div class="Grid-cell  u-size1of2">    
-                            <p class="u-mar-t00  u-mar-b02">
-                                <strong>Type of project</strong>:<br>
-                                <input type="checkbox" name="type[]" id="web" value="web"><label for="web">&nbsp;Web</label><br>
-                                <input type="checkbox" name="type[]" id="ios" value="ios"><label for="ios">&nbsp;iOS</label><br>
-                                <input type="checkbox" name="type[]" id="android" value="android"><label for="android">&nbsp;Android</label>
+                            <p class="u-noMargin"><strong>Type of project</strong>:<span class="c-grey03">*</span></p>
+                            <p class="u-noMargin">
+                                <label for="web">
+                                    <input type="checkbox" name="type-of-project[]" id="web" value="web" required>&nbsp;Web
+                                </label>
+                            </p>
+                            <p class="u-noMargin">
+                                <label for="ios">
+                                    <input type="checkbox" name="type-of-project[]" id="ios" value="ios">&nbsp;iOS
+                                </label>
+                            </p>
+                            <p class="u-noMargin">
+                                <label for="android">
+                                    <input type="checkbox" name="type-of-project[]" id="android" value="android">&nbsp;Android
+                                </label>
                             </p>
                         </div>
                         <div class="Grid-cell  u-size1of2">
-                            <p class="u-mar-t00  u-mar-b02">
-                                <strong>Approx. budget</strong>:<span class="c-grey03">*</span><br>
-                                <input type="radio" name="budget[]" id="under-5k" value="Under $5k" required><label for="under-5k">&nbsp;Under $5k</label><br>
-                                <input type="radio" name="budget[]" id="5k-to-25k" value="5k-to-25k"><label for="5k-to-25k">&nbsp;$5k – $25k</label><br>
-                                <input type="radio" name="budget[]" id="over-25k" value="over-25k"><label for="over-25k">&nbsp;Over $25k</label>
+                            <p class="u-noMargin"><strong>Approx. budget</strong>:<span class="c-grey03">*</span></p>
+                            <p class="u-noMargin">
+                                <label for="under-5k">
+                                    <input type="radio" name="budget" id="under-5k" value="Under $5k" required>&nbsp;Under $5k
+                                </label>
+                            </p>
+                            <p class="u-noMargin">
+                                <label for="5k-to-25k">
+                                    <input type="radio" name="budget" id="5k-to-25k" value="5k-to-25k">&nbsp;$5k – $25k
+                                </label>
+                            </p>
+                            <p class="u-noMargin">
+                                <label for="over-25k">
+                                    <input type="radio" name="budget" id="over-25k" value="over-25k">&nbsp;Over $25k
+                                </label>
                             </p>
                         </div>
                     </div>
-                    <p class="u-mar-t00  u-mar-b04">
+                    <p class="u-mar-t02  u-mar-b04">
                         <label><strong>Message</strong><span class="c-grey03">*</span><br><textarea class="Input  Input--block  u-mar-t01" name="message" rows="4" placeholder="Tell me about your project." required="required"></textarea></label>
                     </p>
                     <div>
