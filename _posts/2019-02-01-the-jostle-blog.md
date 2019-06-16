@@ -144,7 +144,7 @@ published: true
 
 <div class="mw-700  u-mar-auto  u-mar-b05">
     <p><strong>Articles</strong><br>
-    sWe added a “Back to blog” button to the top-left corner so people always have a clear path back to the listings page. I split the top fold of article so you see the title, summary, metadata, and image above the fold. I improved the styling of the author credit at the top of the article so it’s consistent with the styling at the bottom of the article. I also generally improved the sizing, colours, and spacing of the author credit so it adheres to our style guide.</p>
+    We added a “Back to blog” button to the top-left corner so people always have a clear path back to the listings page. I split the top fold of article so you see the title, summary, metadata, and image above the fold. I improved the styling of the author credit at the top of the article so it’s consistent with the styling at the bottom of the article. I also generally improved the sizing, colours, and spacing of the author credit so it adheres to our style guide.</p>
     <p>We removed the Sumo share buttons that floated on the left-hand side of the page, which didn’t get clicked, exposed low engagement numbers, and were a distraction while reading. We still needed to offer a way for people to share on social media so we added social buttons top-right and bottom-right of the article. I gave the social buttons a more subtle treatment so they didn’t compete with our brand, illustrations, or content. I also improved the interaction of these buttons, making sharing a little more novel.</p>
     <p>We added an “Image Credit” so the artist gets props!</p>
 </div>
