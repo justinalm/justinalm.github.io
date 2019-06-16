@@ -119,4 +119,4 @@ permalink: /about/good-words/
     </div>
 </div>
 
-<p class="mw-1024  u-mar-t02  u-mar-auto  u-mar-b05">Need design for your next app?&nbsp;&nbsp;<span><a class="Btn  u-mar-t02" href="mailto:almjustin@gmail.com" title="Contact me">Contact me&nbsp;&nbsp;&rarr;</a></span></p> 
+<p class="mw-1024  u-mar-t02  u-mar-auto  u-mar-b05">Need design for your next app?&nbsp;&nbsp;<span><a class="Btn  u-mar-t02" href="/contact/" title="Contact me">Let’s chat&nbsp;&nbsp;&rarr;</a></span></p> 

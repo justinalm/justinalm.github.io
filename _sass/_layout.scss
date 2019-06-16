@@ -8,9 +8,9 @@ body {
   align-items: center;
   justify-content: center;
   height: 20vh;
-  background-color: $blue01;
+  background-color: $grey01;
   padding: $spacing-unit*5  $spacing-unit*2;
-  margin: $spacing-unit*5 (-$spacing-unit*2);
+  margin: 0 (-$spacing-unit*2);
 }
 
 .absolute-center {

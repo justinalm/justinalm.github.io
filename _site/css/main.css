@@ -174,9 +174,9 @@ body {
   align-items: center;
   justify-content: center;
   height: 20vh;
-  background-color: #0A2EB9;
+  background-color: #ECEFF1;
   padding: 40px 16px;
-  margin: 40px -16px; }
+  margin: 0 -16px; }
 
 .absolute-center {
   margin: auto;
@@ -479,6 +479,9 @@ figure, .vendor {
 
 .Grid--alignMiddle > .Grid-cell {
   vertical-align: middle; }
+
+.Grid--alignBottom > .Grid-cell {
+  vertical-align: bottom; }
 
 /**
  * Sizing utilities

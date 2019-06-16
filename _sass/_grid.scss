@@ -28,6 +28,10 @@
     vertical-align: middle;
 }
 
+.Grid--alignBottom > .Grid-cell {
+    vertical-align: bottom;
+}
+
 /**
  * Sizing utilities
  */
