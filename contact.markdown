@@ -47,7 +47,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
                                     <input type="checkbox" name="type-of-project[]" id="ios" value="ios">&nbsp;iOS
                                 </label>
                             </p>
-                            <p class="u-noMargin">
+                            <p class="u-noMargin  u-mar-b02">
                                 <label for="android">
                                     <input type="checkbox" name="type-of-project[]" id="android" value="android">&nbsp;Android
                                 </label>
@@ -65,15 +65,15 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
                                     <input type="radio" name="budget" id="5k-to-25k" value="5k-to-25k">&nbsp;$5k – $25k
                                 </label>
                             </p>
-                            <p class="u-noMargin">
+                            <p class="u-noMargin  u-mar-b02">
                                 <label for="over-25k">
                                     <input type="radio" name="budget" id="over-25k" value="over-25k">&nbsp;Over $25k
                                 </label>
                             </p>
                         </div>
                     </div>
-                    <p class="u-mar-t02  u-mar-b04">
-                        <label><strong>Message</strong><span class="c-grey03">*</span><br><textarea class="Input  Input--block  u-mar-t01" name="message" rows="4" placeholder="Tell me about your project and how I can help…" required="required"></textarea></label>
+                    <p class="u-noMargin  u-mar-b04">
+                        <label><strong>Message</strong><span class="c-grey03">*</span><br><textarea class="Input  Input--block  u-mar-t01" name="message" rows="4" placeholder="Tell me about your project." required="required"></textarea></label>
                     </p>
                     <div>
                         <button class="Btn  Btn--block  Btn--confirm" type="submit">Send</button>
