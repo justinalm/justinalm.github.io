@@ -8,7 +8,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>About</strong></h1>
-    <p class="as-h3  u-noMargin">I’m a <strong>product designer</strong> from Vancouver, Canada. I <strong>design delightful experiences</strong> and <strong>help businesses grow</strong>. This page is similar to my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>. Download <a href="/assets/justin-alm-resume.pdf" title="Resume of Justin Alm">my resume</a> to learn more about my experience.</p>
+    <p class="as-h3  u-noMargin">I’m a <strong>product designer</strong> from Vancouver, Canada. For {{ site.time | date: '%Y' | minus:2011 }}+ years, I’ve <strong>designed delightful experiences</strong> that <strong>help businesses grow</strong>. This page is similar to my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
 </div>
 
 <h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Skills</h2>
