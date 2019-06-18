@@ -8,7 +8,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
     <h1 class="u-noMargin  u-mar-b01"><strong>About</strong></h1>
-    <p class="as-h3  u-noMargin"><strong>I’m from Vancouver, Canada</strong>. For {{ site.time | date: '%Y' | minus:2011 }}+ years, <strong>I’ve designed products</strong> for <strong>individuals</strong>, <strong>start-ups</strong>, and <strong>enterprises</strong>—helping them deliver exceptional experiences to their customers. This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
+    <p class="as-h3  u-noMargin"><strong>I’m from Vancouver, Canada</strong>. For {{ site.time | date: '%Y' | minus:2011 }}+ years, <strong>I’ve designed products</strong> for <strong>individuals</strong>, <strong>start-ups</strong>, and <strong>enterprises</strong>—helping them deliver <strong>exceptional experiences</strong> to their customers. This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
 </div>
 
 <h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Skills</h2>
