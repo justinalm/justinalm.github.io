@@ -10,7 +10,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     <div class="Grid  Grid--withGutters">
         <div class="Grid-cell  u-size1of2">
             <h1 class="u-noMargin  u-mar-b01"><strong>Contact</strong></h1>
-            <p class="as-h3  u-noMargin  u-mar-b02"><strong>Want to execute</strong> on your idea but don’t have the required <strong>technical skills</strong> or <strong>bandwidth</strong>?</p>
+            <p class="as-h3  u-noMargin  u-mar-b02"><strong>Want to execute</strong> your   idea but don’t have the <strong>skills</strong> or <strong>bandwidth</strong> to deliver a beautiful website or app?</p>
             <p>Work with me to <strong>save on expensive agency rates</strong> but still ship an experience  with <strong>world-class product design</strong>. Tell me about <strong>your project</strong> and <strong>how I can help</strong>.</p>
         </div>
         <div class="Grid-cell  u-size1of2">
