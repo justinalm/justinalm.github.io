@@ -4,8 +4,8 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jun 2019 13:58:13 -0700</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2019 13:58:13 -0700</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2019 12:46:25 -0700</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2019 12:46:25 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -276,11 +276,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/case-studies/valet65/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/case-studies/valet65/</guid>
+        <link>http://localhost:4000/work/steamclock-software/case-studies/valet65/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock-software/case-studies/valet65/</guid>
         
         
         <category>Work</category>
+        
+        <category>Steamclock-software</category>
         
         <category>Case-studies</category>
         
@@ -366,11 +368,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/jostle-calls/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle-calls/</guid>
+        <link>http://localhost:4000/work/jostle-corporation/jostle-calls/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-corporation/jostle-calls/</guid>
         
         
         <category>Work</category>
+        
+        <category>Jostle-corporation</category>
         
       </item>
     
@@ -404,7 +408,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn delay-1s vendor&quot;&gt;    &lt;iframe class=&quot;u-rounded-corners&quot; src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figure class=&quot;mw-1024  u-mar-lauto  u-mar-rauto  u-mar-b05  bp1-u-textAlign-center  animated fadeIn vendor&quot;&gt;    &lt;iframe class=&quot;u-rounded-corners  bgc-grey01&quot; src=&quot;//www.youtube.com/embed/1YdBsoh4lp8&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
     &lt;figcaption style=&quot;margin-top: 10px;&quot;&gt;Featured on &lt;span class=&quot;fw7&quot;&gt;CNN Money&lt;/span&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -412,61 +416,57 @@
     &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-iphone-firstuse.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-iphone-firstuse.jpg&quot; /&gt;
                 &lt;figcaption&gt;First use tutorial.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-iphone-globe-3dgrid-node.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-iphone-globe-3dgrid-node.jpg&quot; /&gt;
                 &lt;figcaption&gt;Globe view, network view, and a focused node.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-iphone-search-traceroute-results.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-iphone-search-traceroute-results.jpg&quot; /&gt;
                 &lt;figcaption&gt;Perform a traceroute between ISPs. Swipe up to view details.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-ipad-node.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-ipad-node.jpg&quot; /&gt;
                 &lt;figcaption&gt;On an iPad details appear in a popover pegged to the node.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-ipad-traceroute.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-ipad-traceroute.jpg&quot; /&gt;
                 &lt;figcaption&gt;The height of the popover expands as details render in view.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-ipad-timeline.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-ipad-timeline.jpg&quot; /&gt;
                 &lt;figcaption&gt;Tap the “Timeline” icon to scrub the history of the Internet.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
         &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
             &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-ipad-timeline-globe.jpg&quot; /&gt;
+                &lt;img src=&quot;/assets/steamclock/peer1-map-of-the-internet/peer1-ipad-timeline-globe.jpg&quot; /&gt;
                 &lt;figcaption&gt;The Timeline works for both the Network and Globe visualizations.&lt;/figcaption&gt;
             &lt;/figure&gt;
         &lt;/div&gt;
-        &lt;!-- &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
-            &lt;figure&gt;
-                &lt;img src=&quot;/assets/peer1-appstore.jpg&quot;/&gt;
-                &lt;figcaption&gt;I designed App Store assets in collaboration with &lt;a href=&quot;https://allenpike.com/&quot; title=&quot;The blog of Allen Pike&quot;&gt;Allen Pike&lt;/a&gt;.&lt;/figcaption&gt;
-            &lt;/figure&gt;
-        &lt;/div&gt; --&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/map-of-the-internet/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/map-of-the-internet/</guid>
+        <link>http://localhost:4000/work/steamclock-software/map-of-the-internet/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock-software/map-of-the-internet/</guid>
         
         
         <category>Work</category>
+        
+        <category>Steamclock-software</category>
         
       </item>
     
@@ -743,11 +743,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 25 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/case-studies/the-jostle-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/case-studies/the-jostle-blog/</guid>
+        <link>http://localhost:4000/work/jostle-corporation/case-studies/the-jostle-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-corporation/case-studies/the-jostle-blog/</guid>
         
         
         <category>Work</category>
+        
+        <category>Jostle-corporation</category>
         
         <category>Case-studies</category>
         
@@ -932,11 +934,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 24 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/case-studies/the-jostle-style-guide/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/case-studies/the-jostle-style-guide/</guid>
+        <link>http://localhost:4000/work/jostle-corporation/case-studies/the-jostle-style-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-corporation/case-studies/the-jostle-style-guide/</guid>
         
         
         <category>Work</category>
+        
+        <category>Jostle-corporation</category>
         
         <category>Case-studies</category>
         
@@ -1130,11 +1134,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 22:58:00 -0800</pubDate>
-        <link>http://localhost:4000/work/woo-to-see-you/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/woo-to-see-you/</guid>
+        <link>http://localhost:4000/work/freelance/woo-to-see-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/freelance/woo-to-see-you/</guid>
         
         
         <category>Work</category>
+        
+        <category>Freelance</category>
         
       </item>
     
@@ -1210,20 +1216,22 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/devmonitor-dot-io/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/devmonitor-dot-io/</guid>
+        <link>http://localhost:4000/work/steamclock-software/devmonitor-dot-io/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock-software/devmonitor-dot-io/</guid>
         
         
         <category>Work</category>
+        
+        <category>Steamclock-software</category>
         
       </item>
     
       <item>
         <title>Know Ideas</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Emily Carr University of Art + Design &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;Personal projects &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Awarded, McLuhanesque, exploration of the internet in printed experiments.&lt;/p&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Awarded exploration of the internet in printed experiments.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
         &lt;div class=&quot;objective&quot;&gt;
             &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
@@ -1405,11 +1413,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/know-ideas/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/know-ideas/</guid>
+        <link>http://localhost:4000/work/personal-projects/know-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/personal-projects/know-ideas/</guid>
         
         
         <category>Work</category>
+        
+        <category>Personal-projects</category>
         
       </item>
     
@@ -1637,11 +1647,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/work/jostle-illustrations/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/jostle-illustrations/</guid>
+        <link>http://localhost:4000/work/jostle-corporation/jostle-illustrations/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-corporation/jostle-illustrations/</guid>
         
         
         <category>Work</category>
+        
+        <category>Jostle-corporation</category>
         
       </item>
     
@@ -1720,11 +1732,13 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/mozilla-stumbler/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/mozilla-stumbler/</guid>
+        <link>http://localhost:4000/work/steamclock-software/mozilla-stumbler/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/steamclock-software/mozilla-stumbler/</guid>
         
         
         <category>Work</category>
+        
+        <category>Steamclock-software</category>
         
       </item>
     

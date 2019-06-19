@@ -3,7 +3,7 @@ title: Wedding DJ iPad app
 description: A DJ app so easy to use that grandma can rock your wedding.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: [Work]
+categories: [Work, Steamclock-software]
 workplace: Steamclock Software
 video: /assets/weddingdj/weddingdj-ipad-thumbnail-compressed.mp4
 videoposter: /assets/weddingdj/weddingdj-ipad-thumb.jpg

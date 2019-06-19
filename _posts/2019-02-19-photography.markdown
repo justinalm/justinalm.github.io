@@ -3,7 +3,7 @@ title: Photography
 description: Focused on formalism, abstraction, urbanism, and nature.
 date: 2016-06-11
 layout: workPost
-categories: [Work]
+categories: [Work, Personal-projects]
 workplace: Personal Projects
 details: Photography
 video: /assets/photos/photography-thumbnail.mp4

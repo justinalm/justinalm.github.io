@@ -1,9 +1,9 @@
 ---
 title: Making Conversation
-description: An interviews podcast about creative journeys of artists and designers.
+description: An podcast of interviews featuring artists and designers.
 date: 2016-06-12
 layout: workPost
-categories: [Work]
+categories: [Work, Personal-projects]
 workplace: Personal Projects
 thumbnail: /assets/making-conversation/making-conversation-thumb.jpg
 details: Podcast

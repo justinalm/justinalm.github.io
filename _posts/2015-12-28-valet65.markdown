@@ -3,7 +3,7 @@ title: Valet65
 description: Streamlining valet parking with an iOS app, web service, and printed tickets.
 date: 2019-05-28
 layout: workPost
-categories: [Work, Case-studies]
+categories: [Work, Steamclock-software, Case-studies]
 workplace: Steamclock Software
 thumbnail: /assets/steamclock/valet65/valet65-thumb.jpg
 details: App

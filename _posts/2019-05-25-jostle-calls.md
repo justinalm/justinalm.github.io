@@ -5,7 +5,7 @@ date: 2019-05-25
 layout: workPost
 thumbnail: /assets/jostle/calls-thumb.jpg
 details: Product
-categories: [Work]
+categories: [Work, Jostle-corporation]
 workplace: Jostle Corporation
 published: true
 ---

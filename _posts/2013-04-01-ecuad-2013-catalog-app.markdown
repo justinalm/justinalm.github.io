@@ -3,10 +3,10 @@ title: ECUAD Catalog Platform
 description: Web and iPad apps for curators to approve and publish exhibition projects.
 date: 2016-06-12 22:36:00 -07:00
 layout: workPost
-categories: [Work]
+categories: [Work, Steamclock-software]
 workplace: Steamclock Software
 details: App
-thumbnail: /assets/ecuad2013-thumb.jpg
+thumbnail: /assets/ecuad-catalog-app/ecuad2013-thumb.jpg
 published: true
 ---
 
@@ -39,22 +39,22 @@ published: true
 <div class="mw-1024  u-mar-auto  u-mar-b05">
     <div class="Grid  Grid--withGutters">
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-desktop-2.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-desktop-2.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-project.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-project.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-ipad.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-ipad.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-iphone.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-iphone.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-about.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-about.jpg"/>
         </div>
         <div class="Grid-cell  u-size1of1  u-textAlign-center">
-            <img src="/assets/ecuad2013-appstore.jpg"/>
+            <img src="/assets/ecuad-catalog-app/ecuad2013-appstore.jpg"/>
         </div>
     </div>
 </div>

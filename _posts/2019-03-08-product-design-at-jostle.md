@@ -5,7 +5,7 @@ date: 2019-06-02
 layout: workPost
 thumbnail: https://via.placeholder.com/824x464
 details: Case study
-categories: [Work]
+categories: [Work, Jostle-corporation]
 workplace: Jostle Corporation
 published: false
 ---

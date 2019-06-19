@@ -3,7 +3,7 @@ title: Woo To See You
 description: Identity, website, and interior design for Woo To See You.
 date: 2019-02-22 23:58:00 -07:00
 layout: workPost
-categories: [Work]
+categories: [Work, Freelance]
 workplace: Freelance
 details: End-to-end retail
 thumbnail: /assets/wootoseeyou/wootoseeyou-thumb.jpg

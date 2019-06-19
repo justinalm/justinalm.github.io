@@ -4,7 +4,7 @@ description: Online catalog of art & design by Emily Carr University grads.
 details: Website
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: [Work]
+categories: [Work, ECUAD]
 thumbnail: /assets/2012-emilycarr-catalogue-thumb.jpg
 published: false
 ---

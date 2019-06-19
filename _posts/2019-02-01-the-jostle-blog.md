@@ -3,7 +3,7 @@ title: Jostle Blog
 description: A modern home for the content in Jostle’s primary marketing channel.
 date: 2019-02-25
 layout: workPost
-categories: [Work, Case-studies]
+categories: [Work, Jostle-corporation, Case-studies]
 workplace: Jostle Corporation
 video: /assets/the-jostle-blog/the-jostle-blog-thumbnail-compressed.mp4
 videoposter: /assets/the-jostle-blog/the-jostle-blog-video-poster.jpg

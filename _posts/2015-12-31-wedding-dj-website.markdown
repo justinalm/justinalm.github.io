@@ -3,7 +3,7 @@ title: Wedding DJ Website
 description: A single page marketing site for a universal iOS app.
 date: 2016-06-13 00:00:00 -07:00
 layout: workPost
-categories: [Work]
+categories: [Work, Steamclock-software]
 workplace: Steamclock Software
 thumbnail: /assets/weddingdj/weddingdj-website-thumb.jpg
 details: Website

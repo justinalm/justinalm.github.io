@@ -3,7 +3,7 @@ title: Jostle Style Guide
 description: The design system used by the Jostle’s Design and Dev Teams.
 date: 2019-02-24
 layout: workPost
-categories: [Work, Case-studies]
+categories: [Work, Jostle-corporation, Case-studies]
 workplace: Jostle Corporation
 thumbnail: /assets/jostle-style-guide/jostle-style-guide-thumbnail.jpg
 details: Tooling

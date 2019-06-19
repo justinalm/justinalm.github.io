@@ -26,11 +26,37 @@
 
 <div class="mw-1024  u-mar-auto  u-mar-b05">
     <h2 class="u-mar-b01">Archive</h2>
-    <p class="u-mar-t00  c-grey03"><strong>Heads up!</strong> These projects show my range but are light on the details. Want to know more? <a class="u-cleanLink" href="/contact/" title="Email me">Contact me</a>.</p>
+    <p class="c-grey03  u-mar-t00"><strong>Heads up!</strong> These projects show my range but are light on the details. Want to know more? <a class="u-cleanLink" href="/contact/" title="Email me">Contact me</a>.</p>
     <div class="Grid  Grid--withGutters">
-        {% for post in site.categories.Work %}
-            {% unless post.categories contains 'Case-studies' %}
-            <div class="Grid-cell  u-size1of3">
+        {% for post in site.posts %}
+            {% if post.categories contains 'Jostle-corporation' or post.categories contains 'Steamclock-software' or post.categories contains 'ECUAD' or post.categories contains 'Freelance' %}
+                {% unless post.categories contains 'Case-studies' %}
+                    <div class="Grid-cell  u-size1of3">
+                        {% if post.thumbnail %}
+                        <a class="u-text-noUnderline  u-cleanLink  u-rounded-corners  u-border-shadow" style="display: block; padding-top: 56.25%; background-image: url({{ post.thumbnail }}); background-size: cover; background-repeat: no-repeat;" href="{{ post.url }}" title="{{ post.title }}"></a>
+                            {% else post.video %}
+                            <a class="u-text-noUnderline  u-cleanLink" href="{{ post.url }}" title="{{ post.title }}">
+                                <div class="media  u-rounded-corners  u-border-shadow">
+                                    <video autoplay loop muted playsinline type="video/mp4" src="{{ post.video }}" poster="{{ post.videoposter }}"></video>
+                                </div>
+                            </a>
+                            {% endif %}
+                            <h3 class="as-h5  u-noMargin  u-mar-t02  u-mar-b01"><strong>{{ post.title }}</strong></h3>
+                            <p class="c-grey04  u-noMargin  u-mar-b02">{{ post.description }}</p>
+                            <p class="u-mar-t02  u-mar-b02"><a href="{{ post.url }}" title="{{ post.title }}" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
+                    </div>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+<div class="mw-1024  u-mar-auto  u-mar-b05">
+    <h2 class="u-mar-b01">Personal projects</h2>
+    <p class="mw-700  c-grey03  u-mar-t00"><strong>My creativity doesn’t shutoff at 5 PM</strong>. When I get inspired, I make things. These projects didn’t have the constraints of a ‘business’ relationship but still followed <a class="u-cleanLink" href="/about/ethics/" title="My ethics">my design process</a>.</p>
+    <div class="Grid  Grid--withGutters">
+        {% for post in site.categories.Personal-projects %}
+            <div class="Grid-cell  u-size1of2">
                 {% if post.thumbnail %}
                 <a class="u-text-noUnderline  u-cleanLink  u-rounded-corners  u-border-shadow" style="display: block; padding-top: 56.25%; background-image: url({{ post.thumbnail }}); background-size: cover; background-repeat: no-repeat;" href="{{ post.url }}" title="{{ post.title }}"></a>
                     {% else post.video %}
@@ -44,7 +70,6 @@
                     <p class="c-grey04  u-noMargin  u-mar-b02">{{ post.description }}</p>
                     <p class="u-mar-t02  u-mar-b02"><a href="{{ post.url }}" title="{{ post.title }}" class="Btn">See more&nbsp;&nbsp;&rarr;</a></p>
             </div>
-            {% endunless %}
         {% endfor %}
     </div>
 </div>

@@ -3,7 +3,7 @@ title: Devmonitor.io
 description: A WIP Factory web app to help dev-evangelists connect with developers.
 date: 2019-02-22
 layout: workPost
-categories: [Work]
+categories: [Work, Steamclock-software]
 workplace: Steamclock Software
 thumbnail: /assets/devmonitor/wip-dev-monitor-thumb.jpg
 details: Web app
