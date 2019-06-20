@@ -186,10 +186,6 @@ body {
   bottom: 0;
   right: 0; }
 
-.w-full-width {
-  margin-left: -16px;
-  margin-right: -16px; }
-
 .w-auto {
   width: auto; }
 
@@ -354,13 +350,6 @@ figure, .vendor {
   color: #607D8B;
   font-style: italic;
   line-height: 0; }
-
-.testimonial-card {
-  background: #ECEFF1;
-  padding: 16px;
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px; }
 
 .Guide-main {
   padding: 24px;

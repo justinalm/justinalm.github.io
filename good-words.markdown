@@ -11,7 +11,7 @@ permalink: /about/good-words/
     <p class="as-h3">I’ve been fortunate to work with many great people throughout my career and I feel blessed to have received these good words.</p>
 </div>
 
-<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Leadership</strong></h2>
+<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto">From Leadership</h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -38,7 +38,7 @@ permalink: /about/good-words/
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From fellow Designers</strong></h2>
+<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto">From fellow Designers</h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -57,7 +57,7 @@ permalink: /about/good-words/
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Developers</strong></h2>
+<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto">From Developers</h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
@@ -91,7 +91,7 @@ permalink: /about/good-words/
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto"><strong>From Marketing, Customer Success, and Operations</strong></h2>
+<h2 class="mw-1024  u-pad-t03  u-pad-b00  u-mar-b03  u-mar-auto">From Marketing, Customer Success, and Operations</h2>
 
 <div class="mw-1024  u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">
