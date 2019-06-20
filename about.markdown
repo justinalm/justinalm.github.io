@@ -11,7 +11,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     <p class="as-h3  u-noMargin"><strong>I’m from Vancouver, Canada</strong>. For {{ site.time | date: '%Y' | minus:2011 }}+ years, <strong>I’ve designed products</strong> for <strong>individuals</strong>, <strong>start-ups</strong>, and <strong>enterprises</strong>—helping them deliver <strong>exceptional experiences</strong> to their customers. This page is like my <a href="https://www.linkedin.com/in/justin-alm-8611b412/">LinkedIn profile</a>.</p>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Skills</h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b02  u-mar-auto">Capabilities</h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b00">
@@ -30,7 +30,7 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
     </div>
 </div>
 
-<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Work experience</h2>
+<h2 class="mw-1024  u-pad-t02  u-pad-b00   u-mar-t05  u-mar-b03  u-mar-auto">Experience</h2>
 
 <div class="mw-1024 u-mar-auto">
     <div class="Grid  Grid--withGutters  u-pad-b03">

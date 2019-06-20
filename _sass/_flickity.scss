@@ -16,6 +16,7 @@ html { overflow-y: scroll; }
   position: relative;
   height: 100%;
   width: 100%;
+  transition: 0.2s;
 }
 
 .flickity-slider {
@@ -131,7 +132,7 @@ html { overflow-y: scroll; }
   height: $spacing-unit*4;
   border-radius: 50%;
   /* vertically center */
-  transform: translateY(-50%);
+  transform: translateY(-100%);
   background: transparent;
   transition: ease all 0.2s;
   opacity: 0.4;

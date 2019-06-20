@@ -72,3 +72,9 @@ figure, .vendor {
     font-style: italic;
     line-height: 0;
 }
+
+.testimonial-card {
+  background: $grey01;
+  padding: $spacing-unit*2;
+  @include border-radius;
+}

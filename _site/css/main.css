@@ -186,6 +186,10 @@ body {
   bottom: 0;
   right: 0; }
 
+.w-full-width {
+  margin-left: -16px;
+  margin-right: -16px; }
+
 .w-auto {
   width: auto; }
 
@@ -350,6 +354,13 @@ figure, .vendor {
   color: #607D8B;
   font-style: italic;
   line-height: 0; }
+
+.testimonial-card {
+  background: #ECEFF1;
+  padding: 16px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px; }
 
 .Guide-main {
   padding: 24px;
@@ -3659,7 +3670,8 @@ html {
   overflow: hidden;
   position: relative;
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  transition: 0.2s; }
 
 .flickity-slider {
   position: absolute;
@@ -3754,7 +3766,7 @@ html {
   height: 32px;
   border-radius: 50%;
   /* vertically center */
-  transform: translateY(-50%);
+  transform: translateY(-100%);
   background: transparent;
   transition: ease all 0.2s;
   opacity: 0.4;
@@ -3982,6 +3994,10 @@ html.is-flickity-fullscreen {
   body {
     margin: 16px 40px; }
 
+  .w-full-width {
+    margin-left: -40px;
+    margin-right: -40px; }
+
   h1, .as-h1 {
     font-size: 3.157em; }
 
@@ -4035,4 +4051,7 @@ html.is-flickity-fullscreen {
     width: 75%; }
 
   .grid-caption {
-    margin-top: -24px; } }
+    margin-top: -24px; }
+
+  .testimonial-card {
+    padding: 16px 32px 24px 32px; } }

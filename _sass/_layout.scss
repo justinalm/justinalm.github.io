@@ -16,7 +16,15 @@ body {
 .absolute-center {
   margin: auto;
   position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.w-full-width {
+  margin-left: -16px;
+  margin-right: -16px;
 }
 
 .w-auto {

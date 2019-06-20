@@ -68,6 +68,8 @@
 @media all and (min-width: 1020px) {
 
     body { margin: $spacing-unit*2 $spacing-unit*5; }
+
+    .w-full-width { margin-left: -$spacing-unit*5; margin-right: -$spacing-unit*5; }
     
     h1, .as-h1 {font-size: 3.157em;}
 
@@ -113,4 +115,7 @@
     .u-size3of4 { width: 75%; }
 
     .grid-caption { margin-top: -24px; }
+    .testimonial-card {
+        padding: $spacing-unit*2 $spacing-unit*4 $spacing-unit*3 $spacing-unit*4;
+    }
 }
