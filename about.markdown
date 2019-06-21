@@ -73,13 +73,6 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
             </div></blockquote>
         </div>
         <div class="Grid-cell  u-size1of2">
-            <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“I worked closely with Justin for about 4 years at Jostle. I always appreciated his honesty and transparency when it came to discussing new ideas. He is very cognizant of the overall customer experience at all times which allows him to create user experiences that our customers enjoy. From contributing blog images, to creating landing pages to designing major aspects of Jostle's platform, Justin contributed a lot in the time I worked with him. I'd be happy to work with him again and definitely recommend him highly.”</em></p>
-            <div style="display: flex; align-items: center;" class="u-mar-t02">
-                <img style="width: 40px; height: 40px;" class="u-round  u-border-shadow  u-mar-r02" src="/assets/testimonials/dustin-tysick.jpg"/>
-                <p class="u-noMargin"><a href="https://www.linkedin.com/in/dustintysick/" class="u-cleanLink"><strong>Dustin Tysick</strong></a><br>VP Marketing &amp; Growth, Jostle</p>
-            </div></blockquote>
-        </div>
-        <div class="Grid-cell  u-size1of2">
             <blockquote class="c-grey03  u-noMargin"><p class="truncate"><em>“Justin moved our design process into the digital world and better aligned with our SW development team. I learnt a lot from his diligence ensuring that a design focus on accomplishing the user's end goals in the most straight forward and easily discovered way possible. Justin will bring great design to whatever projects he ends up working on. I wish him luck in his new endeavours.”</em></p>
             <div style="display: flex; align-items: center;" class="u-mar-t02">
                 <img style="width: 40px; height: 40px;" class="u-round  u-border-shadow  u-mar-r02" src="/assets/testimonials/bruce-milton.jpg"/>
@@ -91,6 +84,13 @@ thumbnail: /assets/know-ideas/know-ideas-cover.jpg
             <div style="display: flex; align-items: center;" class="u-mar-t02">
                 <img style="width: 40px; height: 40px;" class="u-round  u-border-shadow  u-mar-r02" src="/assets/testimonials/grey-vaisius.jpg"/>
                 <p class="u-noMargin"><a href="https://www.linkedin.com/in/grey-vaisius-552b3a26/" class="u-cleanLink"><strong>Grey Vaisius</strong></a><br>Senior Designer, Jostle</p>
+            </div></blockquote>
+        </div>
+        <div class="Grid-cell  u-size1of2">
+            <blockquote class="as-h5  c-grey03  u-noMargin"><p class="truncate"><em>“I worked closely with Justin for about 4 years at Jostle. I always appreciated his honesty and transparency when it came to discussing new ideas. He is very cognizant of the overall customer experience at all times which allows him to create user experiences that our customers enjoy. From contributing blog images, to creating landing pages to designing major aspects of Jostle's platform, Justin contributed a lot in the time I worked with him. I'd be happy to work with him again and definitely recommend him highly.”</em></p>
+            <div style="display: flex; align-items: center;" class="u-mar-t02">
+                <img style="width: 40px; height: 40px;" class="u-round  u-border-shadow  u-mar-r02" src="/assets/testimonials/dustin-tysick.jpg"/>
+                <p class="u-noMargin"><a href="https://www.linkedin.com/in/dustintysick/" class="u-cleanLink"><strong>Dustin Tysick</strong></a><br>VP Marketing &amp; Growth, Jostle</p>
             </div></blockquote>
         </div>
         <div class="Grid-cell  u-size1of1">
