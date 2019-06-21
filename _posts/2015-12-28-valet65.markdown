@@ -1,6 +1,6 @@
 ---
 title: Valet65
-description: Streamlining valet parking with an iOS app, web service, and printed tickets.
+description: Streamlined valet parking with an iOS app and QR code ticket.
 date: 2019-05-28
 layout: workPost
 categories: [Work, Steamclock-software, Case-studies]

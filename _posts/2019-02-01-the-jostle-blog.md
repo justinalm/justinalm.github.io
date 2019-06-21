@@ -1,6 +1,6 @@
 ---
 title: Jostle Blog
-description: A modern home for the content in Jostle’s primary marketing channel.
+description: A modern home for Jostle’s primary marketing channel.
 date: 2019-02-25
 layout: workPost
 categories: [Work, Jostle-corporation, Case-studies]

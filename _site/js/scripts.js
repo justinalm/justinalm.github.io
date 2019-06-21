@@ -21,7 +21,19 @@ $(document).ready(function() {
     });
 
     if ($("a.active").length == 0)
-        $("a#index").addClass("active");
+        $("#index-header").addClass("active");
+});
+
+$(document).ready(function() {
+    var pathname = window.location.pathname;
+
+    $("nav.mobile-nav a").each(function(index) {
+        if (pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1)
+            $(this).addClass("active");
+    });
+
+    if ($("nav.mobile-nav a.active").length == 0)
+        $("#index-mobile").addClass("active");
 });
 
 /* Show more and Show less */
