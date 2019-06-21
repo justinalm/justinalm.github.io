@@ -12,12 +12,16 @@ $("div.overlay").click(function(){
 
 /* Active class for nav links */
 
-$(function(){
-  $('a').each(function() {
-    if ($(this).prop('href') == window.location.href) {
-      $(this).addClass('active');
-    }
-  });
+$(document).ready(function() {
+    var pathname = window.location.pathname;
+
+    $("nav.header-nav a").each(function(index) {
+        if (pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1)
+            $(this).addClass("active");
+    });
+
+    if ($("a.active").length == 0)
+        $("a#index").addClass("active");
 });
 
 /* Show more and Show less */

@@ -122,7 +122,7 @@ a:hover {
 
 .u-cleanLink:hover,
 .u-text-noUnderline:hover {
-  text-transform: underline; }
+  text-decoration: underline; }
 
 .u-text-noUnderline {
   text-decoration: none; }
@@ -1074,7 +1074,7 @@ nav.header-nav a:last-child {
   margin-right: 0; }
 
 nav a:hover {
-  color: #0A2EB9;
+  color: #263238;
   background-color: #ECEFF1; }
 
 nav a.logo {

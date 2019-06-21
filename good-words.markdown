@@ -6,7 +6,8 @@ date: 2016-09-12 22:19:00 -07:00
 permalink: /about/good-words/
 ---
 
-<div class="mw-900  bp1-u-textAlign-center  u-mar-auto  u-mar-t05  u-mar-b05">
+<div class="mw-1024  u-mar-auto  u-mar-t05  u-mar-b05">
+    <p class="c-grey03  u-noMargin  u-mar-b00"><a href="/about/" class="u-cleanLink  u-text-noUnderline" title="About">About</a> <strong>&#12297;</strong></p>
     <h1 class="u-noMargin  u-mar-b01"><strong>Good words</strong></h1>
     <p class="as-h3">I’ve been fortunate to work with many great people throughout my career and I feel blessed to have received these good words.</p>
 </div>

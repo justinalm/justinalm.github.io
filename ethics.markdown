@@ -3,7 +3,6 @@ title: Ethics
 description: My process, principles, values, and mission. I carry these thoughts into every team I collaborate with. They are my compass for my pursuit of excellence in all things.
 date: 2016-09-12 22:19:00 -07:00
 layout: default
-permalink: /about/ethics/
 thumbnail: /assets/ethics/divergent-and-convergent-thinking.svg
 ---
 

@@ -37,7 +37,7 @@ published: true
     </div>
 </div>
 
-<div class="Grid  Grid--withGutters  u-mar-b03">
+<div class="Grid  Grid--withGutters  u-pad-b04">
     <div class="Grid-cell  u-size1of1  u-textAlign-center">
         <figure>
             <img class="mw-1024" src="/assets/steamclock/weddingdj-ipad-1.jpg" alt="WeddingDJ iPad app" />
