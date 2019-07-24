@@ -63,6 +63,11 @@
     display: block;
 }
 
+.Btn--small {
+    font-size: $font-size-ash6;
+    padding: $spacing-unit/2  $spacing-unit;
+}
+
 button.Btn--block { /* cheats for button elements */
     width: 100%;
 }

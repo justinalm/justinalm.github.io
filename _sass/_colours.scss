@@ -2,7 +2,7 @@
  * Text colour utilities
  */
 
-.c-white { color: $white; }
+.c-white  { color: $white; }
 .c-grey01 { color: $grey01; }
 .c-grey02 { color: $grey02; }
 .c-grey03 { color: $grey03; }
@@ -11,6 +11,8 @@
 
 .c-blue   { color: $blue01; }
 .c-blue02 { color: $blue02; }
+.c-red01  { color: $red01; }
+.c-red02  { color: $red02; }
 
 /**
  * Background colour utilities
@@ -22,5 +24,5 @@
 .bgc-grey04 { background-color: $grey04; }
 .bgc-grey05 { background-color: $grey05; }
 
-.bgc-blue   { background-color: $blue01; }
+.bgc-blue         { background-color: $blue01; }
 .bgc-blue-hover   { background-color: $blue02; }

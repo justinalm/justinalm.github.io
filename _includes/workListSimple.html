@@ -2,7 +2,7 @@
     <h2>Case studies</h2>
     <div class="Grid  Grid--withGutters">
         {% for post in site.categories.Case-studies %}
-        <div class="Grid-cell  u-size1of3">
+        <div class="Grid-cell  u-size1of2">
             {% if post.thumbnail %}
             <a class="u-text-noUnderline  u-cleanLink  u-rounded-corners  u-border-shadow" style="display: block; padding-top: 56.25%; background-image: url({{ post.thumbnail }}); background-size: cover; background-repeat: no-repeat;" href="{{ post.url }}" title="{{ post.title }}"></a>
                 {% else post.video %}

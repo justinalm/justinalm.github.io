@@ -153,7 +153,7 @@ thumbnail: /assets/ethics/divergent-and-convergent-thinking.svg
         </div>
         <div class="Grid-cell  u-size1of3">
             <h3 class="as-h4 u-noMargin  u-mar-b01"><strong>Thoroughness</strong></h3>
-            <p class="u-noMargin">Do the work required to finish a job correctly or we incure debt to pay later.</p>
+            <p class="u-noMargin">Do the work required to finish a job correctly or we incur debt to pay later.</p>
         </div>
     </div>
 </div>

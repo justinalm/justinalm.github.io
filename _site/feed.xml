@@ -4,14 +4,185 @@
     <title>Justin Alm</title>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jun 2019 16:21:12 -0700</pubDate>
-    <lastBuildDate>Fri, 21 Jun 2019 16:21:12 -0700</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2019 11:01:26 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2019 11:01:26 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Jostle Comment Actions</title>
+        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
+&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Comment Actions&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Improving the UX when taking action on comments in chat.&lt;/p&gt;
+    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
+        &lt;div class=&quot;objective&quot;&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Provide an easier to use, more accessible, scalable, and easier to implement actions menu on comments in Jostle chat threads.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Yvonne Liu&lt;br /&gt;Artem Jeman&lt;br /&gt;Aman Sarai&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Felipe Gasparino&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
+            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;In production&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;h2 class=&quot;u-mar-t00&quot;&gt;&lt;a&gt;&lt;/a&gt;The problem&lt;/h2&gt;
+            &lt;p&gt;In Jostle, &lt;strong&gt;action menus on comments weren’t built to scale&lt;/strong&gt; and &lt;strong&gt;customers were missing table-stake actions found in popular chat apps for the workplace&lt;/strong&gt;. There was &lt;strong&gt;a sentiment&lt;/strong&gt; across review sites &lt;strong&gt;that Jostle was “old-school”&lt;/strong&gt;. We had a Jira backlog of feature requests for improving functionality in chat. &lt;strong&gt;Some of the most popular requests were&lt;/strong&gt;:&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;“I want to &lt;strong&gt;reply&lt;/strong&gt; to a comment”&lt;/li&gt;
+                &lt;li&gt;“I want to &lt;strong&gt;edit&lt;/strong&gt; my comment and see the history of edits”&lt;/li&gt;
+                &lt;li&gt;“I want to &lt;strong&gt;favourite&lt;/strong&gt; a comment and see all of my favourite comments one place”&lt;/li&gt;
+                &lt;li&gt;“I want to &lt;strong&gt;create a task&lt;/strong&gt; from a comment”&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;div class=&quot;u-rounded-corners  u-border-shadow  u-mar-b02&quot; style=&quot;position: relative; background-image: url('/assets/jostle-comment-actions/jostle-comment-actions-problem.jpg'); background-size: cover; background-position: center; min-height: 400px; max-height: 400px;&quot;&gt;
+                &lt;p class=&quot;image-caption-overlay&quot; style=&quot;color: #86a1ac; background-color: #435760;&quot;&gt;&lt;em&gt;Modified photo by Robin Worrall on Unsplash&lt;/em&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;p class=&quot;mw-600  bp1-u-textAlign-center  as-h3  u-mar-auto  u-mar-t05  u-mar-b02&quot;&gt;Adding more actions on comments pulled on &lt;strong&gt;a thread of other interconnected issues&lt;/strong&gt;.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;div class=&quot;media  u-rounded-corners  u-border-shadow&quot; style=&quot;padding-top: 37.5%;&quot;&gt;
+                &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle-comment-actions/likes-appearing-inline.mp4&quot; poster=&quot;/assets/jostle-comment-actions/likes-appearing-inline-poster.jpg&quot;&gt;&lt;/video&gt;
+            &lt;/div&gt;
+            &lt;p class=&quot;c-grey03  u-mar-t01  u-mar-b00&quot;&gt;&lt;em&gt;Comment Actions Menu before improvements.&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;ul class=&quot;u-mar-t00  u-mar-b05&quot;&gt;
+                &lt;li&gt;&lt;strong&gt;Affordance&lt;/strong&gt;. The tappable area for an action was small making the menu difficult to interact with on mobile.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Layout&lt;/strong&gt;. After a comment received “likes”, a link appeared between the heart and link icons. Adding “replies” and “favorites” to the menu would put pressure on horizontal real estate. In addition, the timestamp on the comment already got covered after “likes” were given. This issue was even worse when text was localized into other languages.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Persistance&lt;/strong&gt;. Reactions were display inline, which meant we persisted the entire action menu just because 1 person liked a comment. This forced actions like “Delete” to persist even though we didn’t want people to perform that action.  &lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Discoverability&lt;/strong&gt;. We didn’t display tooltips when you hovered over an action, which made the menu confusing for new users.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;p class=&quot;as-h3  u-mar-t00&quot;&gt;Enterprise internal communications apps like Slack, Workplace by Facebook, Google Hangouts, Microsoft Teams, and Telegram are now part of our workday. Chat is in collaboration tools like Asana, G Suite, and Dropbox. People are used to having multiple actions on a comment at their convenience.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-border-shadow  u-mar-b05&quot; src=&quot;/assets/jostle-comment-actions/internal-communications-g2crowd.jpg&quot; /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters  Grid--alignMiddle&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;div class=&quot;media  u-rounded-corners  u-border-shadow  u-mar-b02&quot; style=&quot;padding-top: 92.5%;&quot;&gt;
+                &lt;video class=&quot;u-rounded-corners  u-border-shadow&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; type=&quot;video/mp4&quot; src=&quot;/assets/jostle-comment-actions/comment-actions-menu.mp4&quot; poster=&quot;/assets/jostle-comment-actions/comment-actions-menu-video-poster.jpg&quot;&gt;&lt;/video&gt;
+                &lt;p class=&quot;image-caption-overlay  c-grey03  u-border-shadow&quot;&gt;&lt;em&gt;Final outcome.&lt;/em&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;h2 class=&quot;u-mar-t00&quot;&gt;The solution&lt;/h2&gt;
+            &lt;p&gt;We improved Comment Actions in Jostle by making the UI:&lt;/p&gt;
+            &lt;ol&gt;
+                &lt;li&gt;&lt;strong&gt;Scalable&lt;/strong&gt;. Frequently used actions can be “pinned” in front of the overflow menu. Less frequently used actions can be relegated to the overflow menu.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Considerate of content&lt;/strong&gt;. The menu got bigger so we popped it above the comment block. This way it doesn’t obscure the comment. Our solution still covers timestamps at narrow widths but we were okay with this trade-off. We figured, the timestamp may not be &lt;em&gt;that&lt;/em&gt; important once you’ve decided to interact with the action menu.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Easier to interact with&lt;/strong&gt;. We increased the tappable area of actions from 17pt to 40pt, which increased affordance on mobile and desktop.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Intentional&lt;/strong&gt;. We separated &lt;em&gt;performing&lt;/em&gt; an action from &lt;em&gt;viewing&lt;/em&gt; reactions. This also also solved the issue of longer translations for labels breaking the layout. Translations in tooltips weren’t problematic because they appeared independently from the rest of the UI.&lt;/li&gt;
+                &lt;li&gt;&lt;strong&gt;Enjoyable to use&lt;/strong&gt;. We improved spacing, color, and animated transitions to make interacting with the menu feel smooth—all in adherance with The Jostle Style Guide.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Improving scalability&lt;/strong&gt;&lt;br&gt;
+    We already had 3 actions that appeared when you hovered over a comment. We didn’t want this menu to grow out of control.&lt;/p&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure class=&quot;bp1-u-textAlign-center  u-mar-t02&quot;&gt;
+                &lt;img style=&quot;max-width: 320px;&quot; class=&quot;w-auto  u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-comment-actions/old-layout-likes-between-actions.jpg&quot;/&gt;
+                &lt;figcaption&gt;“Likes” count appeared between actions&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of2&quot;&gt;
+            &lt;figure class=&quot;bp1-u-textAlign-center  u-mar-t02&quot;&gt;
+                &lt;img style=&quot;max-width: 320px;&quot; class=&quot;w-auto  u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-comment-actions/old-layout-likes-between-actions.jpg&quot;/&gt;
+                &lt;figcaption&gt;“Likes” count appeared between actions&lt;/figcaption&gt;
+            &lt;/figure&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;figure class=&quot;bp1-u-textAlign-center  u-mar-t02&quot;&gt;
+        &lt;img style=&quot;max-width: 320px;&quot; class=&quot;w-auto  u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-comment-actions/old-layout-likes-between-actions.jpg&quot;/&gt;
+        &lt;figcaption&gt;“Likes” count appeared between actions&lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;mw-1024  u-mar-auto&quot;&gt;
+    &lt;div class=&quot;mw-700  u-mar-auto  u-pad-t05&quot;&gt;
+        &lt;h3&gt;An improved menu:&lt;/h3&gt;
+        &lt;p&gt;The action menu needed to work on the smallest supported mobile device, all the way up to the widest desktop screen. iPhone SE users force the greatest constraint with a display size of just 320x568 points. Considering this fact, I started to design mobile first. I made the assumption, if the design works for people tapping on “small” smart phones while walking to work, it will most likely work when they pick up where they left off sitting at their desk—on their desktop computer.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-comment-actions/comment-hover-state.jpg&quot;/&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/jostle-comment-actions/comment-actions-menu-tooltips.jpg&quot;/&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-border-shadow  u-mar-b02&quot; src=&quot;/assets/jostle-comment-actions/comment-reactions-under.jpg&quot;/&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;Grid-cell  u-size1of1&quot;&gt;
+            &lt;img class=&quot;u-rounded-corners  u-border-shadow  u-mar-b02&quot; src=&quot;/assets/jostle-comment-actions/1024-comment-actions-menu-tooltips.jpg&quot;/&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw-700  u-mar-auto  u-mar-b05&quot;&gt;
+    &lt;h2&gt;Scalable so we can add more features&lt;/h2&gt;
+    &lt;h2&gt;Considerate of content&lt;/h2&gt;
+    &lt;h2&gt;Intentional by separating &lt;em&gt;performing&lt;/em&gt; actions from &lt;em&gt;viewing&lt;/em&gt; reactions&lt;/h2&gt;
+    &lt;p&gt;I decided to move reactions to Comments bottom-left of the Comment. These reactions had a few states:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;If you haven’t reacted to a Comment, the black outlined heart icon will appear will with the count beside it.&lt;/li&gt;
+        &lt;li&gt;This same black outlined heart icon will appear in the Comment Actions menu in the top-right corner of the Comment.&lt;/li&gt;
+        &lt;li&gt;After you’ve Liked a Comment, both hearts—in the Comment Actions and the response below the Comment—will fill red and a count will appear beside the below the Comment. You can click on the heart below the Comment or the heart in the Comment Actions to change your reaction.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;Jostle had a pesky usability problem with “likes”. The action to “like” a comment was  was next to the display of how many people already liked the comment. There was little affordance between these tap-able elements and they changed states based on whether or not you personally like the comment or the number of likes a comment received. On a mobile device, it was easy to mishit the like action and frustratedly find yourself in a modal view looking at a list of people who already liked a comment. I took this into consideration when design the new layout for the action menu.&lt;/p&gt;
+    &lt;p&gt;As with all Jostle components, we wanted the Comment Action Menu to be universal across desktop and mobile.&lt;/p&gt;
+    &lt;p&gt;To further complicate things, when people discovered I was designing a reusable, scalable, easy to implement component for Action Menus on Discussion Comments, developers from other product teams started to make plans for implementing this new component across other views. This was good news because components tend to deliver a more consistent user experience and make it easier to implement new features. The bad news was I had to work extra hard on building consensus in order for everyone to agree on a design.&lt;/p&gt;
+    &lt;h2&gt;Enjoyable to use&lt;/h2&gt;
+    &lt;p&gt;Feel free to contact me if there’s anything you noticed about this case study.&lt;/p&gt;
+&lt;/div&gt; --&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/work/jostle-corporation/case-studies/jostle-chat-actions/</link>
+        <guid isPermaLink="true">http://localhost:4000/work/jostle-corporation/case-studies/jostle-chat-actions/</guid>
+        
+        
+        <category>Work</category>
+        
+        <category>Jostle-corporation</category>
+        
+        <category>Case-studies</category>
+        
+      </item>
     
       <item>
         <title>Valet65</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Valet65&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Streamlined valet parking with an iOS app and QR code ticket.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -291,7 +462,7 @@
       <item>
         <title>Jostle Calls</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Calls&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Video calls without leaving your company’s Jostle intranet.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -381,7 +552,7 @@
       <item>
         <title>Map of the Internet</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Map of the Internet&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;An interactive 3D model of the internet for iOS and Android.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -473,7 +644,7 @@
       <item>
         <title>Jostle Blog</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Blog&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A modern home for Jostle’s primary marketing channel.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -758,7 +929,7 @@
       <item>
         <title>Jostle Style Guide</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Style Guide&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;The design system used by the Jostle’s Design and Dev Teams.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -949,7 +1120,7 @@
       <item>
         <title>Woo To See You</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Woo To See You&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Identity, website, and interior design for Woo To See You.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -1147,7 +1318,7 @@
       <item>
         <title>Devmonitor.io</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Devmonitor.io&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A WIP Factory web app to help dev-evangelists connect with developers.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -1229,7 +1400,7 @@
       <item>
         <title>Know Ideas</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Know Ideas&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Awarded exploration of the internet in printed experiments.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -1426,7 +1597,7 @@
       <item>
         <title>Jostle Illustrations</title>
         <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
+    &lt;input type=&quot;button&quot; class=&quot;Btn  Btn--small  u-mar-b03&quot; value=&quot;&amp;larr;&amp;nbsp;&amp;nbsp;Back to Work&quot; onclick=&quot;history.back(-1)&quot; /&gt;
 &lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Jostle Illustrations&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;Artwork for Jostle’s blog, website, and social media channels.&lt;/p&gt;
     &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
@@ -1654,91 +1825,6 @@
         <category>Work</category>
         
         <category>Jostle-corporation</category>
-        
-      </item>
-    
-      <item>
-        <title>Mozilla Stumbler</title>
-        <description>&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;p class=&quot;c-grey03  u-noMargin  u-mar-b00&quot;&gt;&lt;a href=&quot;/&quot; class=&quot;u-cleanLink  u-text-noUnderline&quot; title=&quot;Work&quot;&gt;Work&lt;/a&gt; &lt;strong&gt;&amp;#12297;&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 class=&quot;u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Mozilla Stumbler&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;as-h3  u-noMargin&quot; style=&quot;max-width: 100%;&quot;&gt;A Pokémon GO style game to help expand Mozilla’s geolocation services.&lt;/p&gt;
-    &lt;div class=&quot;project-metadata  u-mar-auto  u-mar-t05  u-mar-b00&quot;&gt;
-        &lt;div class=&quot;objective&quot;&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Objective&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Entice Android phone users to help Mozilla grow their geo-location service.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Design&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Justin Alm&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Dev&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Jeremy Chiang&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;PM&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Allen Pike&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div&gt;
-            &lt;h2 class=&quot;as-h5  u-noMargin  u-mar-b01&quot;&gt;&lt;strong&gt;Status&lt;/strong&gt;:&lt;/h2&gt;
-            &lt;p class=&quot;u-noMargin  u-mar-b02&quot;&gt;Proof of concept&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;mw-1024  u-mar-auto  u-mar-b05&quot;&gt;
-    &lt;div class=&quot;Grid  Grid--withGutters&quot;&gt;
-        &lt;!-- First row --&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-sync-off@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Sync turned off&lt;/strong&gt;&lt;br /&gt;Tap, “Turn On Stumbler” to start syncing and play the game.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-map@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Clusters and rainbows&lt;/strong&gt;&lt;br /&gt;Stars cluster where people haven’t ‘stumbled’. Rainbows appear at the far edge of a cluster and are worth 50 points. You need to walk further to collect them.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-star-pick-up@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Collecting tokens&lt;/strong&gt;&lt;br /&gt;Collect items by walking around the map. When picked up, they grow, chime, and disappear from the map.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;!-- Second row --&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-gather-on-path@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Objects Along The Path&lt;/strong&gt;&lt;br /&gt;For your current session, your path traces across the map. Your point total is displayed at the bottom of the view.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-gold-coin-bonus@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Gold coin bonus&lt;/strong&gt;&lt;br /&gt;If you collect two rainbows in a day, you are rewarded with a bonus of 100 points. This incentivizes more ‘stumbling’.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Your stats and rank&lt;/strong&gt;&lt;br /&gt;On the Leaderboard tab, you can see totals for the number of stars, rainbows, and gold coins you’ve collected on the map. Your rank appears above the Leaderboard.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;!-- Third row --&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard-ranking@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Top 10 on the Leaderboard&lt;/strong&gt;&lt;br /&gt;For your current session, your path traces across the map. Your point total is displayed at the bottom of the view.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-leaderboard-date-range@2x.jpg&quot; /&gt;
-            &lt;p&gt;&lt;strong&gt;Filtering by date&lt;/strong&gt;&lt;br /&gt;There is a Android spinner above “Your Stats”. View your stats for “Last Week” or “All Time”.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;Grid-cell  u-size1of3&quot;&gt;
-            &lt;img class=&quot;u-rounded-corners  u-border-shadow&quot; src=&quot;/assets/mozilla-stumbler/mozilla-stumbler-settings@2x.jpg&quot; /&gt;
-            &lt;p class=&quot;u-mar-b00&quot;&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;br /&gt;In Settings, you can change your nickname, toggle “Upload only on WiFi” and “Persistent Scanning”, send feedback, disable Stumbler, and learn more.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/work/steamclock-software/mozilla-stumbler/</link>
-        <guid isPermaLink="true">http://localhost:4000/work/steamclock-software/mozilla-stumbler/</guid>
-        
-        
-        <category>Work</category>
-        
-        <category>Steamclock-software</category>
         
       </item>
     

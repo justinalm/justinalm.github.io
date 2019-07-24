@@ -6,6 +6,7 @@
  * Text colour utilities
  */
 @import url("https://rsms.me/inter/inter.css");
+@import url("https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap");
 .c-white {
   color: #ffffff; }
 
@@ -29,6 +30,12 @@
 
 .c-blue02 {
   color: #5790E5; }
+
+.c-red01 {
+  color: #E55757; }
+
+.c-red02 {
+  color: #B90A0A; }
 
 /**
  * Background colour utilities
@@ -72,6 +79,19 @@ body {
   font-weight: 400;
   line-height: 1.45;
   color: #333; }
+
+.t-annotation {
+  font-family: 'Covered By Your Grace', cursive;
+  line-height: 1; }
+
+.u-annotation-rotation {
+  text-align: center;
+  margin-top: -40px;
+  transform: rotate(-4deg); }
+
+.t-annotation span {
+  color: #B90A0A;
+  background: rgba(255, 252, 0, 0.35); }
 
 p, blockquote {
   line-height: 1.6;
@@ -185,6 +205,9 @@ body {
   left: 0;
   bottom: 0;
   right: 0; }
+
+.u-position-relative {
+  position: relative; }
 
 .w-auto {
   width: auto; }
@@ -849,6 +872,10 @@ hr,
 .Btn--block {
   text-align: center;
   display: block; }
+
+.Btn--small {
+  font-size: 12px;
+  padding: 4px 8px; }
 
 button.Btn--block {
   /* cheats for button elements */
@@ -3952,6 +3979,14 @@ html.is-flickity-fullscreen {
   ul.work-list li:nth-child(2n+2) {
     margin-right: 0; }
 
+  .Grid--withGutters {
+    margin-left: -40px;
+    margin-bottom: -40px; }
+
+  .Grid--withGutters > .Grid-cell {
+    padding-left: 40px;
+    padding-bottom: 40px; }
+
   .u-size1of2 {
     width: 50%; }
 
@@ -4015,14 +4050,6 @@ html.is-flickity-fullscreen {
 
   ul.work-list li:nth-child(3n+3) {
     margin-right: 0; }
-
-  .Grid--withGutters {
-    margin-left: -40px;
-    margin-bottom: -40px; }
-
-  .Grid--withGutters > .Grid-cell {
-    padding-left: 40px;
-    padding-bottom: 40px; }
 
   .u-size1of1 {
     width: 100%; }
